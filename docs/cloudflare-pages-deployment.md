@@ -9,14 +9,15 @@ no database, no environment variables required.
 | Setting                | Value                                                                                                            |
 | ---------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | Framework preset       | Next.js (Static HTML Export)                                                                                     |
-| Build command          | `npm run build`                                                                                                  |
+| Build command          | `npx next build`                                                                                                 |
 | Build output directory | `out`                                                                                                            |
 | Root directory         | `/` (repo root)                                                                                                  |
 | Environment variables  | none required                                                                                                    |
 | Node.js version        | set `NODE_VERSION` in the Pages project's environment variables — match the version used locally (currently v24) |
 
-`npm run build` runs `next build`; because `next.config.ts` sets `output: "export"`, that command
-produces a static `out/` directory directly — there's no separate export step to configure.
+`npx next build` (equivalently, `npm run build` — `package.json`'s `build` script is just
+`next build`) runs the Next.js compiler; because `next.config.ts` sets `output: "export"`, that
+alone produces a static `out/` directory directly — there's no separate export step to configure.
 
 ## Connecting the repository
 
