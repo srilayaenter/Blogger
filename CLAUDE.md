@@ -1781,6 +1781,84 @@ Required setup:
 
 The implementation must first verify the exact Drive API version and method available in the Apps Script project before writing the OCR function.
 
+---
+
+## 37. Architecture Revision — Static Export, No Database
+
+This section supersedes every part of this document that assumes Supabase: §3's "Public Website"
+stack list, §11 (kept only as historical Cloud Vision context, already superseded once by the
+Drive OCR addendum above), §13–15 (database schema, database rules, Row-Level Security), §21's
+"JSON import" and "Draft/review/publish workflow" admin functions, §23's "Supabase Storage"
+subsection, §24's Supabase env vars, §26's `supabase/` folder entry and `.env.local.example`
+purpose, §27–28 (Supabase/recipe library structure), and §33's M1 ("Supabase Database and Auth")
+and M6 ("Website Import") milestones. Where anything above this line conflicts with what follows,
+this section is authoritative. Full detail and rationale: `docs/architecture.md`.
+
+**The decision:** no database, of any kind, for this project. The public website is a fully
+static export (Next.js `output: "export"`) deployed to Cloudflare Pages. Content is read from
+JSON files committed to this repository, not queried from anywhere at request time.
+
+**Revised content flow:**
+
+```text
+Google Drive
+    ↓
+Google Drive native OCR
+    ↓
+Google Docs and Google Sheets review
+    ↓
+Apps Script writes <slug>.json to Drive (07_Exports)
+    ↓
+Owner copies the file into content/recipes/ and commits
+    ↓
+next build (output: export) → static out/
+    ↓
+Cloudflare Pages (auto-deploys on push)
+```
+
+There is no `/api/import/v1`, no dry-run import validation step, no Supabase draft-recipe stage,
+and no website-side review-before-publish step — the file landing in `content/recipes/` and being
+pushed *is* the publish action. Un-publishing means deleting the file.
+
+**Revised folder structure (replaces the `supabase/` and Supabase-related entries in §26):**
+
+```text
+content/
+├── categories.json
+└── recipes/
+    └── <slug>.json
+
+src/
+├── lib/content/loader.ts       (reads content/*.json at build time)
+└── types/recipe.ts, category.ts
+```
+
+`supabase/migrations/0001_init.sql`, `supabase/seed.sql`, and `docs/database-schema.md` are kept
+as **archived reference only** (see `supabase/README.md`) — a record of what the schema looked
+like during the brief period this project used Supabase. Nothing runs them. `src/lib/supabase/`
+and `src/types/database.ts` were deleted outright, not archived, since they were pure application
+code with zero remaining purpose once nothing imports a Supabase client.
+
+**Environment variables:** none required. `NEXT_PUBLIC_SUPABASE_URL`,
+`NEXT_PUBLIC_SUPABASE_ANON_KEY`, `SUPABASE_SERVICE_ROLE_KEY`, `IMPORT_ENDPOINT_URL`, and
+`IMPORT_WEBHOOK_SECRET` no longer apply to anything.
+
+**What this removes, plainly:** any future database-backed admin dashboard, server-side search
+or arbitrary filtering, RLS-based access control, and the `import_events` idempotency system —
+none of these have a foundation to stand on without a database. Google Workspace is the permanent
+editing interface, not a placeholder for an eventual Supabase-backed admin. Full list:
+`docs/architecture.md` §7.
+
+**Deployment:** `docs/cloudflare-pages-deployment.md` — build command `npm run build`, output
+directory `out`, no environment variables.
+
+**Public images (concrete replacement for §23's "Supabase Storage" subsection):** repository-local
+files under `public/images/recipes/<slug>/`, copied into `out/` verbatim by the static export — no
+Supabase Storage, no external image host. Owner-curated photos are staged in Drive's
+`06_Recipe_Images` first, same as recipe content, then copied into `public/` by hand; this is
+categorically separate from `01_Original_Scans`, which never leaves Drive. Full rules:
+`docs/cloudflare-pages-deployment.md`, "Image rules".
+
 <!-- BEGIN:nextjs-agent-rules -->
 
 # This is NOT the Next.js you know

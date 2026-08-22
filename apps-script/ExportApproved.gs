@@ -1,12 +1,16 @@
 /**
  * ExportApproved.gs
  *
- * Finds Recipe Tracker rows that meet the export eligibility gate, builds the JSON payload
- * defined in docs/import-export-format.md, POSTs it to /api/import/v1, and records the result.
+ * Finds Recipe Tracker rows that meet the export eligibility gate and writes each one as a
+ * standalone JSON file to 07_Exports, in exactly the shape content/recipes/<slug>.json expects
+ * (see docs/import-export-format.md). The owner copies these files into the repo by hand and
+ * commits them -- there is no HTTP push anymore. The site has no database and no API endpoint to
+ * push to (see docs/architecture.md for why: Cloudflare Pages static export, content read from
+ * local JSON at build time).
  *
- * CLAUDE.md workflow steps covered here: 18-21 (export approved content, upload/POST, dry-run,
- * import as draft). The receiving endpoint is not implemented yet — every POST in this stage
- * will fail until IMPORT_ENDPOINT_URL points at a real deployment. That's expected.
+ * CLAUDE.md workflow step 18 ("export approved content as JSON") is the terminal step of this
+ * script's job; steps 19+ (copying into the repo, committing, deploying) happen outside Apps
+ * Script entirely.
  */
 
 /** Menu action / time-driven trigger entry point. */
@@ -25,7 +29,12 @@ function exportApprovedRecipes() {
   if (typeof SpreadsheetApp.getUi === "function") {
     try {
       SpreadsheetApp.getUi().alert(
-        "Export run complete: " + succeeded + " / " + results.length + " succeeded.",
+        "Export run complete: " +
+          succeeded +
+          " / " +
+          results.length +
+          " succeeded. Copy the new/changed files from 07_Exports into content/recipes/ and " +
+          "commit.",
       );
     } catch (e) {
       // No UI context (e.g. running from a time-driven trigger) — ignore.
@@ -48,56 +57,21 @@ function exportSingleRecipe_(row) {
   var config = getConfig_();
 
   try {
-    var payload = buildExportPayload_(row);
-    saveExportCopyToDrive_(row.recipe_id, payload);
+    var content = buildRecipeContent_(row);
+    writeRecipeContentToDrive_(content, config.EXPORTS_FOLDER_ID);
 
-    var response = UrlFetchApp.fetch(config.IMPORT_ENDPOINT_URL + "/api/import/v1", {
-      method: "post",
-      contentType: "application/json",
-      headers: { "X-Import-Webhook-Secret": config.IMPORT_WEBHOOK_SECRET },
-      payload: JSON.stringify(payload),
-      muteHttpExceptions: true,
-    });
+    // "imported" here means "exported to a file, ready for the owner to copy into the repo" --
+    // there's no website to confirm receipt anymore. The owner sets it to "published" by hand
+    // once they've actually committed the file and confirmed it's live (see sheet-schema.md).
+    updateRowObject_("Recipe Tracker", row.__rowIndex, { website_import_status: "imported" });
+    moveReviewDocumentToStage_(row.recipe_id, config.APPROVED_RECIPES_FOLDER_ID);
 
-    var statusCode = response.getResponseCode();
-
-    if (statusCode >= 200 && statusCode < 300) {
-      var responseBody = JSON.parse(response.getContentText() || "{}");
-      updateRowObject_("Recipe Tracker", row.__rowIndex, {
-        website_import_status: "imported",
-        website_recipe_id: responseBody.recipeId || "",
-      });
-      moveReviewDocumentToStage_(row.recipe_id, config.APPROVED_RECIPES_FOLDER_ID);
-      return { recipeId: row.recipe_id, ok: true };
-    }
-
-    if (statusCode >= 400 && statusCode < 500) {
-      logError_({
-        recipeId: row.recipe_id,
-        sourceFileId: row.source_file_id,
-        errorType: "export_rejected",
-        errorMessage: "HTTP " + statusCode + ": " + response.getContentText(),
-        fieldName: "",
-      });
-      return { recipeId: row.recipe_id, ok: false, message: "rejected (" + statusCode + ")" };
-    }
-
-    // 5xx or unexpected status: treat as transient, leave website_import_status unchanged so
-    // it's retried on the next export run.
-    logError_({
-      recipeId: row.recipe_id,
-      sourceFileId: row.source_file_id,
-      errorType: "export_transient_failure",
-      errorMessage: "HTTP " + statusCode + ": " + response.getContentText(),
-      fieldName: "",
-    });
-    notifyExportFailure_(row.recipe_id, "HTTP " + statusCode);
-    return { recipeId: row.recipe_id, ok: false, message: "transient failure (" + statusCode + ")" };
+    return { recipeId: row.recipe_id, slug: content.slug, ok: true };
   } catch (error) {
     logError_({
       recipeId: row.recipe_id,
       sourceFileId: row.source_file_id,
-      errorType: "export_network_error",
+      errorType: "export_failed",
       errorMessage: error.message,
       fieldName: "",
     });
@@ -106,30 +80,8 @@ function exportSingleRecipe_(row) {
   }
 }
 
-/** Builds the JSON payload matching docs/import-export-format.md exactly. */
-function buildExportPayload_(row) {
-  var ingredients = getIngredientsForRecipe_(row.recipe_id).map(function (ingredient) {
-    return {
-      displayOrder: Number(ingredient.display_order),
-      name: { ta: ingredient.ingredient_ta, en: ingredient.ingredient_en },
-      quantity: ingredient.quantity || null,
-      unit: { ta: ingredient.unit_ta || null, en: ingredient.unit_en || null },
-      notes: { ta: ingredient.notes_ta || null, en: ingredient.notes_en || null },
-      isUncertain: Boolean(ingredient.is_uncertain),
-      uncertaintyNotes: ingredient.uncertainty_notes || null,
-    };
-  });
-
-  var instructions = getInstructionsForRecipe_(row.recipe_id).map(function (instruction) {
-    return {
-      stepNumber: Number(instruction.step_number),
-      ta: instruction.instruction_ta,
-      en: instruction.instruction_en,
-      isUncertain: Boolean(instruction.is_uncertain),
-      uncertaintyNotes: instruction.uncertainty_notes || null,
-    };
-  });
-
+/** Builds the JSON object matching content/recipes/<slug>.json exactly. */
+function buildRecipeContent_(row) {
   // description/time/servings/difficulty/categories only exist in the approved review Doc, not
   // the Sheet (see docs/sheet-schema.md) — parse them from the Doc rather than leaving them null.
   var docFields = row.google_doc_id
@@ -146,53 +98,84 @@ function buildExportPayload_(row) {
     });
   // The Doc's "Categories:" field (filled during final structured-data review) takes precedence
   // over the Sheet's category column, which is only an early, optional hint.
-  var categories = docFields && docFields.categories.length > 0 ? docFields.categories : sheetCategories;
+  var categories =
+    docFields && docFields.categories.length > 0 ? docFields.categories : sheetCategories;
 
   var titleTa = (docFields && docFields.titleTa) || row.tamil_title;
   var titleEn = (docFields && docFields.titleEn) || row.english_title;
+  var slug = slugify_(titleEn || row.recipe_id);
 
+  var ingredients = getIngredientsForRecipe_(row.recipe_id).map(function (ingredient, index) {
+    return {
+      id: slug + "-ingredient-" + (index + 1),
+      name_ta: ingredient.ingredient_ta,
+      name_en: ingredient.ingredient_en,
+      quantity: ingredient.quantity || null,
+      unit_ta: ingredient.unit_ta || null,
+      unit_en: ingredient.unit_en || null,
+      notes_ta: ingredient.notes_ta || null,
+      notes_en: ingredient.notes_en || null,
+      display_order: Number(ingredient.display_order),
+    };
+  });
+
+  var instructions = getInstructionsForRecipe_(row.recipe_id).map(function (instruction, index) {
+    return {
+      id: slug + "-instruction-" + (index + 1),
+      step_number: Number(instruction.step_number),
+      instruction_ta: instruction.instruction_ta,
+      instruction_en: instruction.instruction_en,
+      image_url: null,
+      display_order: Number(instruction.display_order),
+    };
+  });
+
+  // Deliberately excluded, on purpose, not by oversight:
+  //  - is_uncertain / uncertainty_notes: internal-only, must never reach a public file (this is
+  //    stronger than the old Supabase RLS/column-revoke approach -- the field simply isn't
+  //    written here at all, so there's nothing to leak).
+  //  - any Google Drive file ID, Doc ID, or URL: same reasoning, plus CLAUDE.md sections 6/19/23.
+  //    source_page_number (a page number in the physical book) is kept -- it's not private.
   return {
-    recipeId: row.recipe_id,
-    source: {
-      driveFileId: row.source_file_id,
-      sourcePageNumber: row.source_page_number ? Number(row.source_page_number) : null,
-      googleDocId: row.google_doc_id,
-    },
-    recipe: {
-      slug: slugify_(titleEn || row.recipe_id),
-      title: { ta: titleTa, en: titleEn },
-      description: {
-        ta: docFields ? docFields.descriptionTa : "",
-        en: docFields ? docFields.descriptionEn : "",
-      },
-      prepTimeMinutes: docFields ? docFields.prepTimeMinutes : null,
-      cookTimeMinutes: docFields ? docFields.cookTimeMinutes : null,
-      totalTimeMinutes: docFields ? docFields.totalTimeMinutes : null,
-      servings: docFields ? docFields.servings : null,
-      difficulty: docFields ? docFields.difficulty : null,
-      // Not present anywhere in the Workspace pipeline (docs/google-doc-template.md has no SEO
-      // fields) — always null here. Populated later in the Next.js admin, not sourced from here.
-      seo: { titleTa: null, titleEn: null, descriptionTa: null, descriptionEn: null },
-    },
+    slug: slug,
+    title_ta: titleTa,
+    title_en: titleEn,
+    description_ta: docFields ? docFields.descriptionTa : "",
+    description_en: docFields ? docFields.descriptionEn : "",
+    source_page_number: row.source_page_number ? Number(row.source_page_number) : null,
+    prep_time_minutes: docFields ? docFields.prepTimeMinutes : null,
+    cook_time_minutes: docFields ? docFields.cookTimeMinutes : null,
+    total_time_minutes: docFields ? docFields.totalTimeMinutes : null,
+    servings: docFields ? docFields.servings : null,
+    difficulty: docFields ? docFields.difficulty : null,
+    // Always null here -- public photos are curated separately (06_Recipe_Images), not sourced
+    // from the Doc/Sheet, and get added to public/images/recipes/<slug>/ by hand along with the
+    // matching alt text. See docs/cloudflare-pages-deployment.md, "Image rules".
+    featured_image_url: null,
+    featured_image_alt_ta: null,
+    featured_image_alt_en: null,
+    seo_title_ta: null,
+    seo_title_en: null,
+    seo_description_ta: null,
+    seo_description_en: null,
+    published_at: new Date().toISOString(),
     categories: categories,
     ingredients: ingredients,
     instructions: instructions,
-    approval: {
-      tamilApproved: row.tamil_review_status === "approved",
-      translationApproved: row.translation_status === "approved",
-      uncertaintyResolved: row.uncertainty_status === "resolved" || row.uncertainty_status === "none",
-    },
   };
 }
 
-function saveExportCopyToDrive_(recipeId, payload) {
-  var config = getConfig_();
-  var folder = DriveApp.getFolderById(config.EXPORTS_FOLDER_ID);
-  folder.createFile(
-    recipeId + "-export.json",
-    JSON.stringify(payload, null, 2),
-    MimeType.PLAIN_TEXT,
-  );
+function writeRecipeContentToDrive_(content, exportsFolderId) {
+  var folder = DriveApp.getFolderById(exportsFolderId);
+  var fileName = content.slug + ".json";
+  var json = JSON.stringify(content, null, 2);
+
+  var existing = folder.getFilesByName(fileName);
+  if (existing.hasNext()) {
+    existing.next().setContent(json);
+  } else {
+    folder.createFile(fileName, json, MimeType.PLAIN_TEXT);
+  }
 }
 
 function slugify_(text) {

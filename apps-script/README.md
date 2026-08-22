@@ -1,7 +1,11 @@
 # Apps Script — Recipe Content Pipeline
 
 Automates the Google Workspace half of the recipe pipeline: detects new scans, runs Drive-native
-OCR, builds the review Doc, tracks status in Sheets, and exports approved recipes to the website.
+OCR, builds the review Doc, tracks status in Sheets, and exports each approved recipe as a
+standalone JSON file. The website has no database and no API to push to — Cloudflare Pages serves
+a static build of `content/recipes/*.json` (see `../docs/architecture.md`). The owner copies the
+exported files from Drive into that folder and commits them; that's what actually publishes a
+recipe.
 
 **Status: scaffold only.** No live deployment, no real folder/sheet IDs, no real credentials.
 Every ID in `Config.gs` is read from Script Properties and must be filled in manually — see
@@ -9,17 +13,17 @@ Every ID in `Config.gs` is read from Script Properties and must be filled in man
 
 ## Files
 
-| File                    | Purpose                                                                     |
-| ----------------------- | --------------------------------------------------------------------------- |
-| `appsscript.json`       | Manifest — Advanced Drive Service (v2), OAuth scopes, timezone              |
-| `Config.gs`             | Script Properties accessor + validation                                     |
-| `DriveWatcher.gs`       | Detects new scans, creates tracker rows                                     |
-| `OcrWorkflow.gs`        | Drive-native OCR conversion                                                 |
-| `GoogleDocsWorkflow.gs` | Builds/moves the review Doc, parses it back to structured fields for export |
-| `SheetTracker.gs`       | Sheet read/write helpers, custom menu                                       |
-| `ExportApproved.gs`     | Builds and POSTs the approved-recipe JSON export                            |
-| `Notifications.gs`      | Owner email notifications                                                   |
-| `ErrorLogger.gs`        | Writes to the Import Errors sheet + `09_Logs`                               |
+| File                    | Purpose                                                                                  |
+| ----------------------- | ---------------------------------------------------------------------------------------- |
+| `appsscript.json`       | Manifest — Advanced Drive Service (v2), OAuth scopes, timezone                           |
+| `Config.gs`             | Script Properties accessor + validation                                                  |
+| `DriveWatcher.gs`       | Detects new scans, creates tracker rows                                                  |
+| `OcrWorkflow.gs`        | Drive-native OCR conversion                                                              |
+| `GoogleDocsWorkflow.gs` | Builds/moves the review Doc, parses it back to structured fields for export              |
+| `SheetTracker.gs`       | Sheet read/write helpers, custom menu                                                    |
+| `ExportApproved.gs`     | Writes each approved recipe as `content/recipes/<slug>.json`-shaped file to `07_Exports` |
+| `Notifications.gs`      | Owner email notifications                                                                |
+| `ErrorLogger.gs`        | Writes to the Import Errors sheet + `09_Logs`                                            |
 
 ## Why Drive-native OCR, not Cloud Vision
 
@@ -40,8 +44,9 @@ only knows about "OCR happened, here's the text," not which provider produced it
    ID).
 3. Enable the Drive API **v2** advanced service (Services → + → Drive API).
 4. Fill in every Script Property listed in `Config.gs`'s `REQUIRED_SCRIPT_PROPERTIES_`.
-5. Set up the `onOpen`, `checkForNewScans`, and (once the import endpoint exists)
-   `exportApprovedRecipes` triggers.
+5. Set up the `onOpen` and `checkForNewScans` triggers. `exportApprovedRecipes` is run manually
+   from the menu — there's no reason to schedule it, since a file landing in `07_Exports` doesn't
+   do anything until a human copies it into the repo.
 
 ## Custom menu
 
@@ -59,9 +64,10 @@ Recipe Pipeline
 
 ## Security
 
-- No folder ID, sheet ID, endpoint URL, or secret is hardcoded anywhere in these files — see
-  `Config.gs`.
-- `IMPORT_WEBHOOK_SECRET` authenticates the export POST to `/api/import/v1`; treat it like any
-  other credential — Script Properties, never in code or committed anywhere.
-- Do not place a Supabase service-role key in this project. `CLAUDE.md` §10 explicitly disallows
-  that outside a separately approved, secure integration design.
+- No folder ID, sheet ID, or credential is hardcoded anywhere in these files — see `Config.gs`.
+- No network calls leave this project anymore (`script.external_request` was removed from
+  `appsscript.json` along with the last `UrlFetchApp` call) — everything Apps Script writes stays
+  inside Drive/Sheets/Docs until a human moves it.
+- Exported files never include a Google Drive file ID, Doc ID, or URL, or `is_uncertain`/
+  `uncertainty_notes` — those fields are simply never written to the export, not filtered out
+  downstream. See the comment block in `ExportApproved.gs`'s `buildRecipeContent_`.

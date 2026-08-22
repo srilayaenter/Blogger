@@ -1,0 +1,16 @@
+type Locale = "en" | "ta";
+
+const LABELS = {
+  en: { tagline: "Preserving Tamil recipes, one dish at a time." },
+  ta: { tagline: "தமிழ் சமையல் குறிப்புகளைப் பாதுகாக்கிறோம்." },
+} satisfies Record<Locale, Record<string, string>>;
+
+export function Footer({ locale }: { locale: Locale }) {
+  const t = LABELS[locale];
+
+  return (
+    <footer className="mt-auto border-t border-neutral-200 p-4 text-center text-sm text-neutral-500">
+      <p>{t.tagline}</p>
+    </footer>
+  );
+}

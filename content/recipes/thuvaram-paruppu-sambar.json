@@ -1,0 +1,83 @@
+{
+  "slug": "thuvaram-paruppu-sambar",
+  "title_ta": "துவரம் பருப்பு சாம்பார்",
+  "title_en": "Toor Dal Sambar",
+  "description_ta": "காய்கறிகளுடன் சமைக்கப்படும் பாரம்பரிய துவரம் பருப்பு சாம்பார்.",
+  "description_en": "A traditional toor dal sambar cooked with mixed vegetables.",
+  "source_page_number": null,
+  "prep_time_minutes": 15,
+  "cook_time_minutes": 30,
+  "total_time_minutes": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "featured_image_url": "/images/recipes/thuvaram-paruppu-sambar/featured.svg",
+  "featured_image_alt_ta": "துவரம் பருப்பு சாம்பாரின் விளக்கப்படம்",
+  "featured_image_alt_en": "Illustration representing toor dal sambar",
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-22T00:00:00.000Z",
+  "categories": ["traditional"],
+  "ingredients": [
+    {
+      "id": "sambar-ingredient-1",
+      "name_ta": "துவரம் பருப்பு",
+      "name_en": "Toor dal",
+      "quantity": "1",
+      "unit_ta": "கப்",
+      "unit_en": "cup",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 1
+    },
+    {
+      "id": "sambar-ingredient-2",
+      "name_ta": "கடுகு",
+      "name_en": "Mustard seeds",
+      "quantity": "1",
+      "unit_ta": "தேக்கரண்டி",
+      "unit_en": "tsp",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 2
+    },
+    {
+      "id": "sambar-ingredient-3",
+      "name_ta": "கலவை காய்கறிகள்",
+      "name_en": "Mixed vegetables",
+      "quantity": "2",
+      "unit_ta": "கப்",
+      "unit_en": "cups",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 3
+    }
+  ],
+  "instructions": [
+    {
+      "id": "sambar-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "துவரம் பருப்பை மென்மையாகும் வரை வேகவைக்கவும்.",
+      "instruction_en": "Cook the toor dal until soft.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "sambar-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "கடுகு தாளித்து, காய்கறிகளைச் சேர்த்து வேகவைக்கவும்.",
+      "instruction_en": "Temper the mustard seeds, then add the vegetables and cook through.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "sambar-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "வேகவைத்த பருப்புடன் கலந்து சிறிது நேரம் கொதிக்க விட்டு பரிமாறவும்.",
+      "instruction_en": "Combine with the cooked dal, simmer briefly, and serve.",
+      "image_url": null,
+      "display_order": 3
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "ragi-dosa",
+  "title_ta": "கேழ்வரகு தோசை",
+  "title_en": "Ragi Dosa",
+  "description_ta": "எளிதாகச் செய்யக்கூடிய ஆரோக்கியமான கேழ்வரகு தோசை.",
+  "description_en": "A simple, healthy dosa made with ragi (finger millet) flour.",
+  "source_page_number": null,
+  "prep_time_minutes": 20,
+  "cook_time_minutes": 15,
+  "total_time_minutes": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "featured_image_url": "/images/recipes/ragi-dosa/featured.svg",
+  "featured_image_alt_ta": "கேழ்வரகு தோசையின் விளக்கப்படம்",
+  "featured_image_alt_en": "Illustration representing ragi dosa",
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-22T00:00:00.000Z",
+  "categories": ["millet", "breakfast"],
+  "ingredients": [
+    {
+      "id": "ragi-dosa-ingredient-1",
+      "name_ta": "கேழ்வரகு மாவு",
+      "name_en": "Ragi flour",
+      "quantity": "1",
+      "unit_ta": "கப்",
+      "unit_en": "cup",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 1
+    },
+    {
+      "id": "ragi-dosa-ingredient-2",
+      "name_ta": "தயிர்",
+      "name_en": "Yogurt",
+      "quantity": "1/2",
+      "unit_ta": "கப்",
+      "unit_en": "cup",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 2
+    },
+    {
+      "id": "ragi-dosa-ingredient-3",
+      "name_ta": "உப்பு",
+      "name_en": "Salt",
+      "quantity": null,
+      "unit_ta": null,
+      "unit_en": null,
+      "notes_ta": "சுவைக்கேற்ப",
+      "notes_en": "to taste",
+      "display_order": 3
+    }
+  ],
+  "instructions": [
+    {
+      "id": "ragi-dosa-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "கேழ்வரகு மாவு, தயிர், உப்பு ஆகியவற்றைக் கலந்து மென்மையான மாவை தயார் செய்யவும்.",
+      "instruction_en": "Mix ragi flour, yogurt, and salt into a smooth batter.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "ragi-dosa-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "சூடான தவாவில் மாவை ஊற்றி மெல்லிய தோசையாக விரிக்கவும்.",
+      "instruction_en": "Pour the batter onto a hot griddle and spread thin.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "ragi-dosa-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "இரு பக்கமும் நன்கு வேகும் வரை சமைத்து சூடாகப் பரிமாறவும்.",
+      "instruction_en": "Cook both sides until golden and serve hot.",
+      "image_url": null,
+      "display_order": 3
+    }
+  ]
+}

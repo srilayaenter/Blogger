@@ -5,19 +5,26 @@ defined in `CLAUDE.md` and links out to the detailed reference documents. If any
 conflicts with `CLAUDE.md`, `CLAUDE.md` wins — this file is a readable summary, not a second
 source of truth.
 
+**Revision history that matters for reading the rest of this repo:** the project briefly used
+Supabase (Postgres + Auth + Storage) as its database. It has since moved to a static-export
+architecture with **no database at all** — content lives in `content/*.json`, committed to git.
+`supabase/` is kept only as archived reference (`supabase/README.md`); nothing in the live site
+imports a Supabase client.
+
 ## 1. Two-layer system
 
 The project has two connected layers:
 
 1. **Google Workspace content pipeline** — source storage, OCR coordination, Tamil
    proofreading, English translation, recipe review, and approved-content export.
-2. **Next.js public recipe website** — bilingual public pages, admin dashboard, and the
-   Supabase-backed database.
+2. **Next.js static site** — bilingual public pages, built entirely from local JSON content and
+   deployed as static files. No server, no database, no admin dashboard.
 
-The two layers are connected by a single controlled interface: an approved JSON export pushed
-from Apps Script to a Next.js import endpoint. There is no live two-way sync.
+The two layers are connected by a **file**, not an API: Apps Script writes an approved recipe as
+JSON to Google Drive, and a human copies that file into `content/recipes/` in this repository.
+There is no live sync of any kind, automated or otherwise.
 
-## 2. Data boundary / content flow
+## 2. Content flow
 
 ```mermaid
 flowchart TD
@@ -25,135 +32,101 @@ flowchart TD
     B --> C[Google Docs review + Google Sheets tracking]
     C --> D{Approved?}
     D -- no --> C
-    D -- yes --> E[Apps Script: structured JSON export]
-    E --> F[HTTP POST to /api/import/v1]
-    F --> G[Next.js dry-run validation]
-    G --> H[Supabase draft recipe]
-    H --> I[Website review]
-    I --> J[Published bilingual recipe]
+    D -- yes --> E["Apps Script: write recipe-slug.json to 07_Exports"]
+    E --> F[Owner copies file into content/recipes/]
+    F --> G[git commit + push]
+    G --> H["next build (output: export)"]
+    H --> I[Cloudflare Pages: static out/]
 ```
 
-Rules that keep this boundary safe (see `CLAUDE.md` §5):
+Rules that keep this boundary safe:
 
-- Never build live two-way synchronization for MVP.
-- Sheet/Doc edits never modify a published recipe directly — only an approved export can.
-- Unreviewed OCR or machine translation never reaches the website.
+- Never build live two-way synchronization.
+- Sheet/Doc edits never affect the live site directly — only a committed file in
+  `content/recipes/` does.
+- Unreviewed OCR or machine translation never reaches `content/`, because the export gate in
+  `ExportApproved.gs` only writes files for recipes that have cleared Tamil review, translation
+  review, and uncertainty resolution.
+- Un-publishing a recipe means deleting its file, not flipping a status flag — there is no
+  draft/published distinction inside `content/`; presence in that directory _is_ "published."
 
 ## 3. Technology stack
 
-**Public website:** Next.js (App Router), TypeScript, Tailwind CSS, Supabase (Postgres, Storage,
-Auth, generated types), Vercel, ESLint, Prettier, Vitest, Zod.
+**Public website:** Next.js (App Router, `output: "export"`), TypeScript, Tailwind CSS,
+Cloudflare Pages, ESLint, Prettier, Vitest.
 
 **Content pipeline:** Google Drive, Google Sheets, Google Docs, Google Apps Script.
 
-See `CLAUDE.md` §3 for the full approved list, including what is explicitly excluded (Prisma,
-additional CMS).
+**Explicitly not used:** Supabase, Postgres, Prisma, any server runtime or API route, any
+database-backed admin panel. See `docs/cloudflare-pages-deployment.md` for the build/deploy
+settings and section 7 below for what this trade-off actually costs.
 
-## 4. OCR method — resolved inconsistency
+## 4. OCR method — resolved inconsistency (unaffected by the database change)
 
 `CLAUDE.md` §9, §11, and §34 describe **Google Cloud Vision** as the approved OCR provider.
 However, a later addendum appended to the end of `CLAUDE.md` ("Google Drive OCR Implementation")
 supersedes that decision and requires `OcrWorkflow.gs` to use the **Google Advanced Drive Service
-for native OCR** instead, with Cloud Vision configuration kept only as a documented-but-unused
-fallback path (§11 is retained in case a future decision reintroduces it).
-
-**This is flagged here explicitly so it isn't silently lost.** All Stage 2 documentation and
-Apps Script scaffolding in this repository follow the **Drive-native OCR** path:
+for native OCR** instead. This project follows the addendum:
 
 ```
 Google Drive native OCR (Advanced Drive Service v2, ocrLanguage: "ta")
   → structured bilingual Google Doc
   → Google Sheets approval
-  → Apps Script structured JSON export
-  → HTTP POST to /api/import/v1
+  → Apps Script writes <slug>.json to Drive
+  → owner copies it into content/recipes/ and commits
 ```
-
-If Cloud Vision is reintroduced later, `CLAUDE.md` §9/§11 should be reconciled with the addendum
-and this section updated to match.
 
 ## 5. Component responsibilities
 
 | Component          | Owns                                                                                                              |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------- |
-| Google Drive       | Original scans, OCR output docs, review docs, translation docs, approved JSON exports, private backups            |
-| Google Sheets      | Processing status, import tracking, ingredient/instruction staging, categories, review notes, error tracking      |
+| Google Drive       | Original scans, OCR output docs, review docs, translation docs, exported recipe JSON files, private backups       |
+| Google Sheets      | Processing status, ingredient/instruction staging, categories, review notes, error tracking                       |
 | Google Docs        | Human-readable Tamil proofreading, English translation review, approval record                                    |
 | Google Apps Script | Scan detection, OCR coordination, Doc template creation, Sheet updates, notifications, JSON export, error logging |
-| Supabase           | Approved recipes, ingredients, instructions, categories, public images, admin users, search                       |
-| Next.js            | Public bilingual pages, locale routing, admin dashboard, import validation, SEO metadata                          |
+| `content/*.json`   | The site's entire dataset — recipes and categories, committed to git                                              |
+| Next.js            | Reads `content/*.json` at build time, renders every locale/recipe/category page statically                        |
+| Cloudflare Pages   | Hosts the static build, redeploys automatically on push                                                           |
 
-Full detail: `CLAUDE.md` §4.
+## 6. Content shape
 
-## 6. Database schema (summary)
+Types: `src/types/recipe.ts`, `src/types/category.ts`. Full field-by-field reference:
+`docs/import-export-format.md` (this doubles as both "what Apps Script writes" and "what the
+content loader reads" — they must match exactly). Loader: `src/lib/content/loader.ts`.
 
-Full column lists live in `CLAUDE.md` §13–§15. A dedicated `docs/database-schema.md` with
-migration SQL is planned for the Supabase implementation stage — this is a summary only.
+Field names deliberately mirror the old Supabase column names (`title_ta`, `title_en`,
+snake_case throughout) even without a database behind them — that's what let the public pages
+and components survive the pivot with only import-path changes.
 
-```mermaid
-erDiagram
-    RECIPES ||--o{ INGREDIENTS : has
-    RECIPES ||--o{ INSTRUCTIONS : has
-    RECIPES ||--o{ SOURCE_SCANS : "sourced from"
-    RECIPES ||--o{ RECIPE_CATEGORIES : tagged
-    CATEGORIES ||--o{ RECIPE_CATEGORIES : includes
-    ADMIN_USERS ||--o{ RECIPES : authors
+## 7. What dropping the database actually costs
 
-    RECIPES {
-        uuid id PK
-        text slug UK
-        text title_ta
-        text title_en
-        text status
-        text google_drive_source_file_id
-    }
-    INGREDIENTS {
-        uuid id PK
-        uuid recipe_id FK
-        text name_ta
-        text name_en
-        boolean is_uncertain
-    }
-    INSTRUCTIONS {
-        uuid id PK
-        uuid recipe_id FK
-        int step_number
-        boolean is_uncertain
-    }
-    CATEGORIES {
-        uuid id PK
-        text slug UK
-        text name_ta
-        text name_en
-    }
-    SOURCE_SCANS {
-        uuid id PK
-        uuid recipe_id FK
-        text google_drive_file_id
-        text google_doc_id
-        text ocr_status
-    }
-    ADMIN_USERS {
-        uuid id PK
-        text email
-        text role
-    }
-```
+- Publishing latency: a rebuild/redeploy (minutes), not an instant write.
+- No server-side search or arbitrary filtering — only what's feasible to compute in-memory over
+  the full local content set at build time. Fine at the scale of a personal recipe collection;
+  wouldn't scale to a large multi-tenant site.
+- No future admin edit UI without a different foundation (headless CMS, or a tool that writes
+  files via the GitHub API) — Google Workspace is the permanent editing surface now, not a
+  placeholder for an eventual database-backed admin.
+- The `import_events` idempotency design from the Supabase era is simply unnecessary now — git
+  commits are naturally idempotent.
+- RLS / column-level grants are moot — everything under `content/` is public by construction, so
+  there's no request-time authorization boundary to enforce. This is _not_ a regression:
+  `is_uncertain`/`uncertainty_notes` are now never written to a public file at all, which is a
+  stronger guarantee than actively hiding a database column.
 
-`source_scans` is the audit trail linking a published recipe back to its private Google Drive
-source — it stores Drive/Doc IDs, never the private files themselves.
-
-## 7. Reference documents
+## 8. Reference documents
 
 - [`google-workspace-setup.md`](./google-workspace-setup.md) — manual setup steps
 - [`drive-folder-structure.md`](./drive-folder-structure.md) — Drive folder purposes and rules
 - [`sheet-schema.md`](./sheet-schema.md) — full Sheets workbook column reference
 - [`google-doc-template.md`](./google-doc-template.md) — review Doc template and fill rules
 - [`translation-glossary.md`](./translation-glossary.md) — Tamil↔English term glossary
-- [`import-export-format.md`](./import-export-format.md) — JSON export contract and HTTP delivery
+- [`import-export-format.md`](./import-export-format.md) — the `content/recipes/*.json` contract
+- [`cloudflare-pages-deployment.md`](./cloudflare-pages-deployment.md) — build/deploy settings
+- [`database-schema.md`](./database-schema.md) — **archived**, Supabase-era reference only
 
-## 8. Milestones
+## 9. Milestones
 
-See `CLAUDE.md` §33 for the full M0–M7 milestone plan. This stage (documentation + Apps Script
-scaffold with placeholders) corresponds to the documentation portion of **M5 — Google Workspace
-Pipeline**, without live deployment, credentials, or the Next.js import endpoint — those remain
-future stages per §35 (Decisions Requiring Approval).
+`CLAUDE.md` §33's M0–M7 plan predates this pivot and no longer matches reality in places (M1
+"Supabase Database and Auth" and M6 "Website Import" in particular). Treat it as historical intent
+rather than a current roadmap until it's revised.

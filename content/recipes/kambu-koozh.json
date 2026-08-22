@@ -1,0 +1,83 @@
+{
+  "slug": "kambu-koozh",
+  "title_ta": "கம்பு கூழ்",
+  "title_en": "Kambu Koozh",
+  "description_ta": "பாரம்பரிய குளிர்ச்சியான கம்பு கூழ், கோடை காலத்திற்கு ஏற்றது.",
+  "description_en": "A traditional, cooling pearl millet porridge, well suited to hot weather.",
+  "source_page_number": null,
+  "prep_time_minutes": 10,
+  "cook_time_minutes": 25,
+  "total_time_minutes": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "featured_image_url": "/images/recipes/kambu-koozh/featured.svg",
+  "featured_image_alt_ta": "கம்பு கூழின் விளக்கப்படம்",
+  "featured_image_alt_en": "Illustration representing kambu koozh",
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-22T00:00:00.000Z",
+  "categories": ["millet", "traditional"],
+  "ingredients": [
+    {
+      "id": "kambu-koozh-ingredient-1",
+      "name_ta": "கம்பு மாவு",
+      "name_en": "Pearl millet flour",
+      "quantity": "1",
+      "unit_ta": "கப்",
+      "unit_en": "cup",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 1
+    },
+    {
+      "id": "kambu-koozh-ingredient-2",
+      "name_ta": "மோர்",
+      "name_en": "Buttermilk",
+      "quantity": "2",
+      "unit_ta": "கப்",
+      "unit_en": "cups",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 2
+    },
+    {
+      "id": "kambu-koozh-ingredient-3",
+      "name_ta": "உப்பு",
+      "name_en": "Salt",
+      "quantity": null,
+      "unit_ta": null,
+      "unit_en": null,
+      "notes_ta": "சுவைக்கேற்ப",
+      "notes_en": "to taste",
+      "display_order": 3
+    }
+  ],
+  "instructions": [
+    {
+      "id": "kambu-koozh-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "கம்பு மாவை தண்ணீரில் கலக்கி, தொடர்ந்து கிளறியபடி கொதிக்க வையுங்கள்.",
+      "instruction_en": "Mix the pearl millet flour with water and cook, stirring continuously, until it thickens.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "kambu-koozh-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "நன்கு வெந்தபின் இறக்கி ஆற வையுங்கள்.",
+      "instruction_en": "Once fully cooked, remove from heat and let it cool.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "kambu-koozh-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "மோர் மற்றும் உப்பு சேர்த்து குளிர்ந்த நிலையில் பரிமாறவும்.",
+      "instruction_en": "Stir in buttermilk and salt, and serve cold.",
+      "image_url": null,
+      "display_order": 3
+    }
+  ]
+}

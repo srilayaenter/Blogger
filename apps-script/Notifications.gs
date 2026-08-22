@@ -21,12 +21,12 @@ function notifyOcrFailure_(recipeId, errorMessage) {
 function notifyExportFailure_(recipeId, errorMessage) {
   sendNotification_(
     "Export failed: " + recipeId,
-    "Exporting " +
+    "Writing the export file for " +
       recipeId +
-      " to the website failed.\n\nError: " +
+      " to 07_Exports failed.\n\nError: " +
       errorMessage +
-      "\n\nCheck the Import Errors sheet for details. The recipe will be retried automatically " +
-      "on the next export run unless it was rejected (4xx) rather than a transient failure.",
+      "\n\nCheck the Import Errors sheet for details, then re-run " +
+      '"Recipe Pipeline > Export approved recipes".',
   );
 }
 

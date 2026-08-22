@@ -54,8 +54,6 @@ LOGS_FOLDER_ID
 RECIPE_TRACKER_SHEET_ID
 GOOGLE_CLOUD_PROJECT_ID
 OCR_LANGUAGE_HINT
-IMPORT_ENDPOINT_URL
-IMPORT_WEBHOOK_SECRET
 NOTIFICATION_EMAIL
 ```
 
@@ -66,8 +64,8 @@ Notes:
 - `GOOGLE_CLOUD_PROJECT_ID` is reserved for a possible future Cloud Vision fallback (see
   `architecture.md` §4) — currently unused by `OcrWorkflow.gs`.
 - `OCR_LANGUAGE_HINT` should be `ta`.
-- `IMPORT_ENDPOINT_URL` and `IMPORT_WEBHOOK_SECRET` are placeholders until the Next.js
-  `/api/import/v1` endpoint exists — do not point these at a real deployment yet.
+- There is no import endpoint or webhook secret to configure — the site has no database or API
+  (see `architecture.md`); `ExportApproved.gs` only ever writes files to Drive.
 
 ## 5. Set up triggers
 
@@ -80,9 +78,10 @@ From the Apps Script editor **Triggers** page:
 - `checkForNewScans` (in `DriveWatcher.gs`) — time-driven, recommended every 15–30 minutes, to
   pick up newly uploaded scans automatically. Manual processing via the menu is also always
   available.
-- `exportApprovedRecipes` (in `ExportApproved.gs`) — time-driven, recommended hourly or daily,
-  once the import endpoint exists. Leave this trigger **disabled** until then; use the manual
-  menu item for testing instead.
+
+`exportApprovedRecipes` (in `ExportApproved.gs`) is **not** scheduled — run it manually from the
+menu when you're ready to publish. A file landing in `07_Exports` doesn't do anything by itself;
+someone has to copy it into the repo, so there's no benefit to running it on a timer.
 
 ## 6. Test with a sample scan
 
@@ -94,13 +93,12 @@ From the Apps Script editor **Triggers** page:
 4. Confirm a review Doc was created in `03_Tamil_Proofread` and matches
    `google-doc-template.md`.
 5. Manually proofread, translate, and approve the sample recipe, then run
-   **Recipe Pipeline → Export approved recipes** and confirm a JSON file appears in
-   `07_Exports` matching `import-export-format.md`. The HTTP POST will fail until
-   `IMPORT_ENDPOINT_URL` points at a real endpoint — that's expected at this stage.
+   **Recipe Pipeline → Export approved recipes** and confirm `<slug>.json` appears in
+   `07_Exports`, matching `import-export-format.md`.
+6. Copy that file into `content/recipes/` in the repository, run `npm run build`, and confirm the
+   recipe appears in the local `out/` build. Commit and push to actually publish it.
 
 ## Out of scope for this stage
 
 - Creating the actual Google Cloud project or enabling billing.
 - Generating or storing real credentials.
-- Deploying the Apps Script project for live/production use.
-- Implementing `/api/import/v1`.

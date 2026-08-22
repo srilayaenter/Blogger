@@ -1,0 +1,23 @@
+[
+  {
+    "slug": "millet",
+    "name_ta": "சிறுதானியம்",
+    "name_en": "Millet",
+    "description_ta": null,
+    "description_en": null
+  },
+  {
+    "slug": "breakfast",
+    "name_ta": "காலை உணவு",
+    "name_en": "Breakfast",
+    "description_ta": null,
+    "description_en": null
+  },
+  {
+    "slug": "traditional",
+    "name_ta": "பாரம்பரிய",
+    "name_en": "Traditional",
+    "description_ta": null,
+    "description_en": null
+  }
+]

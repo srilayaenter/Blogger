@@ -1,12 +1,14 @@
-# Approved Export Format
+# Recipe Export/Content Format
 
-Source of truth: `CLAUDE.md` §12 and §22. This is the contract between `ExportApproved.gs` and
-the future Next.js `/api/import/v1` endpoint. **The endpoint itself is not implemented yet** —
-this document defines the interface both sides will be built against.
+Source of truth: `CLAUDE.md` §12 and §22, adapted for the static-export architecture (see
+`architecture.md`). There is no `/api/import/v1` and no database — this document now describes
+the JSON file contract between `ExportApproved.gs` and `content/recipes/<slug>.json`, both of
+which must match this shape exactly.
 
 ## Eligibility gate
 
-`ExportApproved.gs` only exports a Recipe Tracker row when all of the following are true:
+`ExportApproved.gs` only exports a Recipe Tracker row when all of the following are true (this
+part is unchanged from the original design):
 
 ```text
 tamil_review_status    = approved
@@ -17,131 +19,102 @@ website_import_status  = ready_for_import
 
 Any row not meeting all four conditions is skipped silently (not an error) on each export run.
 
-## Delivery
+## Delivery — manual, not HTTP
 
-- **Method:** `POST`
-- **URL:** value of the `IMPORT_ENDPOINT_URL` Script Property, with path `/api/import/v1`
-  appended (e.g. `https://<site>/api/import/v1`) — placeholder until the site is deployed.
-- **Headers:**
-  - `Content-Type: application/json`
-  - `X-Import-Webhook-Secret: <value of IMPORT_WEBHOOK_SECRET Script Property>`
-- **Body:** one JSON object per recipe (see schema below). `ExportApproved.gs` sends one HTTP
-  request per eligible recipe, not a batch array, so a single bad recipe can't block the rest.
-- A copy of every payload sent is saved to `07_Exports/recipe-XXXX-export.json` regardless of
-  the HTTP response, for audit purposes.
+There is no server to POST to. `ExportApproved.gs` writes `<slug>.json` to Drive's `07_Exports`
+folder (overwriting in place on re-export). The owner:
 
-## Response contract (expected from the future endpoint)
+1. Opens `07_Exports`, downloads the new/changed file(s).
+2. Copies them into `content/recipes/` in the repository, replacing any existing file with the
+   same name.
+3. Commits and pushes. Cloudflare Pages rebuilds and redeploys automatically.
 
-- `200` — recipe accepted and created/updated as a Supabase draft. Response body includes the
-  new Supabase `recipes.id`, which `ExportApproved.gs` writes back into
-  `website_recipe_id` and sets `website_import_status = imported`.
-- `4xx` — validation failure. Response body includes a list of field-level errors, which
-  `ErrorLogger.gs` writes to the Import Errors sheet. `website_import_status` is left unchanged
-  (not `rejected`) so it can be retried after correction — see §22, "never overwrite a published
-  recipe automatically" and "reject the import" rules.
-- `5xx` / network failure — treated as transient; `Notifications.gs` emails the owner, and the
-  row is retried on the next export run.
+There is no dry-run validation step and no rejection response — if a file is malformed, the
+Next.js build will simply fail loudly (the content loader does `JSON.parse` with no fallback), or
+TypeScript will flag a shape mismatch. That build failure **is** the validation.
 
 ## JSON schema
 
 ```json
 {
-  "recipeId": "recipe-0001",
-  "source": {
-    "driveFileId": "google-drive-file-id",
-    "sourcePageNumber": 1,
-    "googleDocId": "google-doc-id"
-  },
-  "recipe": {
-    "slug": "ragi-dosa",
-    "title": {
-      "ta": "கேழ்வரகு தோசை",
-      "en": "Ragi Dosa"
-    },
-    "description": {
-      "ta": "...",
-      "en": "..."
-    },
-    "prepTimeMinutes": 20,
-    "cookTimeMinutes": 15,
-    "totalTimeMinutes": 35,
-    "servings": 4,
-    "difficulty": "easy",
-    "seo": {
-      "titleTa": "...",
-      "titleEn": "...",
-      "descriptionTa": "...",
-      "descriptionEn": "..."
-    }
-  },
+  "slug": "ragi-dosa",
+  "title_ta": "கேழ்வரகு தோசை",
+  "title_en": "Ragi Dosa",
+  "description_ta": "...",
+  "description_en": "...",
+  "source_page_number": 12,
+  "prep_time_minutes": 20,
+  "cook_time_minutes": 15,
+  "total_time_minutes": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "featured_image_url": "/images/recipes/ragi-dosa/featured.svg",
+  "featured_image_alt_ta": "கேழ்வரகு தோசையின் விளக்கப்படம்",
+  "featured_image_alt_en": "Illustration representing ragi dosa",
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-22T00:00:00.000Z",
   "categories": ["millet", "breakfast"],
   "ingredients": [
     {
-      "displayOrder": 1,
-      "name": { "ta": "கேழ்வரகு மாவு", "en": "Ragi flour" },
+      "id": "ragi-dosa-ingredient-1",
+      "name_ta": "கேழ்வரகு மாவு",
+      "name_en": "Ragi flour",
       "quantity": "1",
-      "unit": { "ta": "கப்", "en": "cup" },
-      "notes": { "ta": null, "en": null },
-      "isUncertain": false,
-      "uncertaintyNotes": null
+      "unit_ta": "கப்",
+      "unit_en": "cup",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 1
     }
   ],
   "instructions": [
     {
-      "stepNumber": 1,
-      "ta": "...",
-      "en": "...",
-      "isUncertain": false,
-      "uncertaintyNotes": null
+      "id": "ragi-dosa-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "...",
+      "instruction_en": "...",
+      "image_url": null,
+      "display_order": 1
     }
-  ],
-  "approval": {
-    "tamilApproved": true,
-    "translationApproved": true,
-    "uncertaintyResolved": true
-  }
+  ]
 }
 ```
 
-### Notes on fields not in `CLAUDE.md`'s example
+This matches `src/types/recipe.ts`'s `RecipeContent` exactly. `categories` is an array of slugs,
+resolved against `content/categories.json` by `src/lib/content/loader.ts` at build time.
 
-- **`categories`** — `CLAUDE.md` §12's example doesn't include a categories field, but the
-  Recipe Tracker's `category` column (documented in `sheet-schema.md`) needs to go somewhere.
-  This field is populated from the review Doc's `Categories:` field if present (comma-separated
-  slugs), falling back to the Sheet's `category` column otherwise. It's advisory either way: the
-  Next.js admin's `structure` step (§21) can still add/remove categories before publish.
+## Image fields
 
-### Where each `recipe.*` field actually comes from
+`featured_image_url` is a repository-local path such as `/images/recipes/ragi-dosa/featured.svg`
+(served from `public/images/recipes/<slug>/`) — never a Google Drive link, never an external
+image host. `ExportApproved.gs` always writes `null` for both `featured_image_url` and the two
+alt-text fields; images and their alt text are added by hand, separately from the OCR/export
+pipeline. Full rules: `docs/cloudflare-pages-deployment.md`, "Image rules".
 
-The Recipe Tracker sheet only has columns for `tamil_title`/`english_title` (see
-`sheet-schema.md`) — it has no columns for description, prep/cook/total time, servings, or
-difficulty. Those only exist in the approved review Doc's `STRUCTURED DATA REVIEW` section
-(`google-doc-template.md`), so `ExportApproved.gs` parses the Doc at export time
-(`parseReviewDocument_` in `GoogleDocsWorkflow.gs`) to fill them in. Title prefers the Doc's
-`Tamil Title:`/`English Title:` fields, falling back to the Sheet's mirrored columns if the Doc
-fields are somehow empty. `recipe.seo.*` has no source anywhere in the Workspace pipeline — the
-Doc template doesn't include SEO fields — so it is always `null` here and gets filled in later in
-the Next.js admin, never sourced from Workspace.
+## Deliberately excluded fields
 
-Everything else matches `CLAUDE.md` §12 exactly — do not rename or restructure fields without
-updating both this document and §12.
+- **Any Google Drive file ID, Doc ID, or URL.** CLAUDE.md §6/§19/§23 all say not to expose these
+  publicly, and this file ends up read directly by the public site build — so the safest design
+  is to never write them here at all. `source_page_number` (a page number in the physical
+  cookbook) is kept; it isn't private.
+- **`is_uncertain` / `uncertainty_notes`.** By the time a recipe reaches the export gate,
+  uncertainty is supposed to be resolved anyway — and since this field is simply never written to
+  the export, there's nothing to accidentally leak downstream (a stronger guarantee than the old
+  Supabase design, which had to actively hide these columns via RLS/column-revoke).
+- **`status`.** A recipe is "published" by having a file in `content/recipes/` — there's no
+  separate draft/review/archived flag to carry. Removing a recipe from the site means deleting
+  its file, not flipping a status.
+- **SEO fields have no source anywhere in the Workspace pipeline** (the Doc template has no SEO
+  section) — always `null` here, same as before. If SEO copy is ever wanted, it would need to be
+  added to the Doc template and the parser in `GoogleDocsWorkflow.gs`.
 
-## Required fields (from §12)
+## Where each field comes from
 
-- Recipe ID
-- Google Drive source file ID
-- Google Docs ID
-- Source page number
-- Tamil fields (title, description, ingredients, instructions)
-- English fields (title, description, ingredients, instructions)
-- Ingredients (full list)
-- Instructions (full list)
-- Approval statuses
-- Uncertainty statuses
-
-## Validation performed on the receiving side (future work, listed here for contract clarity)
-
-Per `CLAUDE.md` §22, the Next.js endpoint will: validate JSON syntax and schema (Zod), check
-required bilingual fields, reject duplicate recipe IDs or conflicting slugs, verify category
-existence, check ingredient/instruction ordering, verify approval and uncertainty statuses, and
-produce a dry-run report before any Supabase write. None of this is implemented in this stage.
+Same as before this pivot: `title_ta`/`title_en` prefer the review Doc's `Tamil Title:`/
+`English Title:` fields, falling back to the Sheet's mirrored columns. `description`/time/
+servings/difficulty/`categories` are parsed from the Doc's structured-data section
+(`parseReviewDocument_` in `GoogleDocsWorkflow.gs`) since the Sheet has no columns for them
+(`sheet-schema.md`). Ingredients/instructions come from their respective Sheets.

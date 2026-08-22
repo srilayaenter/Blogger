@@ -39,6 +39,14 @@ uncertainty_status:    none | needs_clarification | resolved
 website_import_status: not_ready | ready_for_import | imported | rejected | published
 ```
 
+**`website_import_status` meaning has shifted** since there's no more website API to confirm
+anything (`architecture.md`): `ExportApproved.gs` sets `imported` once it has successfully written
+`<slug>.json` to `07_Exports` — it means "exported, ready for the owner to copy into the repo,"
+not "live on the site." `published` is never set automatically; set it by hand once you've
+actually committed the file and confirmed it's live. `rejected` is effectively unused now (there's
+no server left to reject anything) but stays in the enum for continuity with this column's
+original design.
+
 ## Sheet: Ingredients
 
 One row per ingredient. Foreign key: `recipe_id` → Recipe Tracker.
