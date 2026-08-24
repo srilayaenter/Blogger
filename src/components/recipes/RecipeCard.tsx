@@ -27,7 +27,7 @@ export function RecipeCard({ recipe, locale }: { recipe: RecipeWithDetails; loca
         <div
           role="img"
           aria-label={title}
-          className="flex h-40 w-full items-center justify-center bg-neutral-100 text-sm text-neutral-400"
+          className="flex h-40 w-full items-center justify-center bg-neutral-100 text-sm text-neutral-600"
         >
           {title}
         </div>

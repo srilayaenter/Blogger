@@ -87,7 +87,7 @@ export function RecipeDetail({ recipe, locale }: { recipe: RecipeWithDetails; lo
         <div
           role="img"
           aria-label={title}
-          className="mb-4 flex h-64 w-full items-center justify-center rounded-lg bg-neutral-100 text-neutral-400"
+          className="mb-4 flex h-64 w-full items-center justify-center rounded-lg bg-neutral-100 text-neutral-600"
         >
           {title}
         </div>
@@ -99,7 +99,7 @@ export function RecipeDetail({ recipe, locale }: { recipe: RecipeWithDetails; lo
       <dl className="mt-4 grid grid-cols-2 gap-2 text-sm sm:grid-cols-5">
         {recipe.prep_time_minutes ? (
           <div>
-            <dt className="text-neutral-500">{t.prep}</dt>
+            <dt className="text-neutral-600">{t.prep}</dt>
             <dd>
               {recipe.prep_time_minutes} {t.minutes}
             </dd>
@@ -107,7 +107,7 @@ export function RecipeDetail({ recipe, locale }: { recipe: RecipeWithDetails; lo
         ) : null}
         {recipe.cook_time_minutes ? (
           <div>
-            <dt className="text-neutral-500">{t.cook}</dt>
+            <dt className="text-neutral-600">{t.cook}</dt>
             <dd>
               {recipe.cook_time_minutes} {t.minutes}
             </dd>
@@ -115,7 +115,7 @@ export function RecipeDetail({ recipe, locale }: { recipe: RecipeWithDetails; lo
         ) : null}
         {recipe.total_time_minutes ? (
           <div>
-            <dt className="text-neutral-500">{t.total}</dt>
+            <dt className="text-neutral-600">{t.total}</dt>
             <dd>
               {recipe.total_time_minutes} {t.minutes}
             </dd>
@@ -123,13 +123,13 @@ export function RecipeDetail({ recipe, locale }: { recipe: RecipeWithDetails; lo
         ) : null}
         {recipe.servings ? (
           <div>
-            <dt className="text-neutral-500">{t.servings}</dt>
+            <dt className="text-neutral-600">{t.servings}</dt>
             <dd>{recipe.servings}</dd>
           </div>
         ) : null}
         {recipe.difficulty ? (
           <div>
-            <dt className="text-neutral-500">{t.difficulty}</dt>
+            <dt className="text-neutral-600">{t.difficulty}</dt>
             <dd>{DIFFICULTY_LABELS[locale][recipe.difficulty]}</dd>
           </div>
         ) : null}

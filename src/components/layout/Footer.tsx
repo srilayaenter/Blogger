@@ -9,7 +9,7 @@ export function Footer({ locale }: { locale: Locale }) {
   const t = LABELS[locale];
 
   return (
-    <footer className="mt-auto border-t-2 border-brand p-4 text-center text-sm text-neutral-500">
+    <footer className="mt-auto border-t-2 border-brand p-4 text-center text-sm text-neutral-600">
       <p>{t.tagline}</p>
     </footer>
   );
