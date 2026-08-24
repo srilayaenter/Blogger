@@ -18,7 +18,7 @@ export function RecipeCard({ recipe, locale }: { recipe: RecipeWithDetails; loca
   return (
     <Link
       href={`/${locale}/recipes/${recipe.slug}`}
-      className="block overflow-hidden rounded-lg border border-neutral-200 transition hover:shadow-md"
+      className="block overflow-hidden rounded-lg border border-neutral-200 transition hover:border-brand hover:shadow-md"
     >
       {recipe.featured_image_url ? (
         // eslint-disable-next-line @next/next/no-img-element

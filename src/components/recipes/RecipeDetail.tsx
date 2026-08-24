@@ -141,7 +141,7 @@ export function RecipeDetail({ recipe, locale }: { recipe: RecipeWithDetails; lo
           {recipe.categories.map((category) => (
             <span
               key={category.slug}
-              className="rounded-full bg-neutral-100 px-3 py-1 text-xs text-neutral-600"
+              className="rounded-full bg-brand-light px-3 py-1 text-xs font-medium text-brand-dark"
             >
               {locale === "ta" ? category.name_ta : category.name_en}
             </span>
@@ -150,7 +150,7 @@ export function RecipeDetail({ recipe, locale }: { recipe: RecipeWithDetails; lo
       ) : null}
 
       <section className="mt-6">
-        <h2 className="text-lg font-semibold">{t.ingredients}</h2>
+        <h2 className="text-lg font-semibold text-brand-dark">{t.ingredients}</h2>
         <ul className="mt-2 list-disc space-y-1 pl-5">
           {sortedIngredients.map((ingredient) => {
             const name = locale === "ta" ? ingredient.name_ta : ingredient.name_en;
@@ -167,7 +167,7 @@ export function RecipeDetail({ recipe, locale }: { recipe: RecipeWithDetails; lo
       </section>
 
       <section className="mt-6">
-        <h2 className="text-lg font-semibold">{t.instructions}</h2>
+        <h2 className="text-lg font-semibold text-brand-dark">{t.instructions}</h2>
         <ol className="mt-2 list-decimal space-y-2 pl-5">
           {sortedInstructions.map((instruction) => (
             <li key={instruction.id}>

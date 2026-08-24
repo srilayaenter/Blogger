@@ -20,7 +20,7 @@ export default async function CategoriesPage({ params }: { params: Promise<{ loc
           <li key={category.slug}>
             <Link
               href={`/${locale}/categories/${category.slug}`}
-              className="block rounded-lg border border-neutral-200 p-4 text-center transition hover:shadow-md"
+              className="block rounded-lg border border-neutral-200 p-4 text-center font-medium transition hover:border-brand hover:text-brand hover:shadow-md"
             >
               {locale === "ta" ? category.name_ta : category.name_en}
             </Link>

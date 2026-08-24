@@ -16,14 +16,18 @@ export function Header({ locale }: { locale: Locale }) {
   const t = LABELS[locale];
 
   return (
-    <header className="border-b border-neutral-200">
+    <header className="border-b-2 border-brand">
       <div className="mx-auto flex max-w-4xl items-center justify-between gap-4 p-4">
-        <Link href={`/${locale}`} className="text-lg font-semibold">
+        <Link href={`/${locale}`} className="text-lg font-bold text-brand">
           {t.siteName}
         </Link>
         <nav className="flex items-center gap-4 text-sm">
-          <Link href={`/${locale}/recipes`}>{t.recipes}</Link>
-          <Link href={`/${locale}/categories`}>{t.categories}</Link>
+          <Link href={`/${locale}/recipes`} className="font-medium hover:text-brand">
+            {t.recipes}
+          </Link>
+          <Link href={`/${locale}/categories`} className="font-medium hover:text-brand">
+            {t.categories}
+          </Link>
           <LanguageSwitcher locale={locale} />
         </nav>
       </div>

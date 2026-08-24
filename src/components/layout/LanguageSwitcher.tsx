@@ -39,8 +39,8 @@ export function LanguageSwitcher({ locale }: { locale: Locale }) {
           aria-current={candidate === locale ? "true" : undefined}
           className={
             candidate === locale
-              ? "font-semibold underline"
-              : "text-neutral-500 hover:text-neutral-800"
+              ? "font-semibold text-brand underline"
+              : "text-neutral-500 hover:text-brand"
           }
         >
           {LOCALE_LABELS[candidate]}

@@ -32,7 +32,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: L
       <section className="mt-8">
         <div className="flex items-baseline justify-between">
           <h2 className="text-lg font-semibold">{t.recent}</h2>
-          <Link href={`/${locale}/recipes`} className="text-sm underline">
+          <Link href={`/${locale}/recipes`} className="text-sm font-medium text-brand underline">
             {t.viewAll}
           </Link>
         </div>

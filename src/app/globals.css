@@ -5,6 +5,15 @@
   --color-foreground: #1f2a24;
 }
 
+/* SriLaYa brand palette, matched to the main srilaya-ecommerce site so this recipe site reads
+   as part of the same family instead of a generic gray/white template. */
+@theme {
+  --color-brand: #006a38;
+  --color-brand-dark: #00522b;
+  --color-brand-light: #f0fff7;
+  --color-brand-accent: #fbb040;
+}
+
 body {
   background: var(--color-background);
   color: var(--color-foreground);

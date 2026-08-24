@@ -1,5 +1,7 @@
+import { Suspense } from "react";
 import { getPublishedRecipes } from "@/lib/content/loader";
 import { RecipeList } from "@/components/recipes/RecipeList";
+import { RecipeSearch } from "@/components/recipes/RecipeSearch";
 
 type Locale = "en" | "ta";
 
@@ -14,8 +16,10 @@ export default async function RecipesPage({ params }: { params: Promise<{ locale
 
   return (
     <div>
-      <h1 className="mb-4 text-2xl font-bold">{LABELS[locale].title}</h1>
-      <RecipeList recipes={recipes} locale={locale} />
+      <h1 className="mb-4 text-2xl font-bold text-brand">{LABELS[locale].title}</h1>
+      <Suspense fallback={<RecipeList recipes={recipes} locale={locale} />}>
+        <RecipeSearch recipes={recipes} locale={locale} />
+      </Suspense>
     </div>
   );
 }
