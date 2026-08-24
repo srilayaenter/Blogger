@@ -6,8 +6,13 @@ import {
   getPublishedRecipesByCategorySlug,
 } from "@/lib/content/loader";
 import { RecipeList } from "@/components/recipes/RecipeList";
-
-type Locale = "en" | "ta";
+import {
+  absoluteUrl,
+  baseOpenGraph,
+  fallbackOgImage,
+  languageAlternates,
+  type Locale,
+} from "@/lib/metadata";
 
 export async function generateStaticParams() {
   const categories = await getAllCategories();
@@ -23,7 +28,30 @@ export async function generateMetadata({
   const category = await getCategoryBySlug(slug);
   if (!category) return {};
 
-  return { title: locale === "ta" ? category.name_ta : category.name_en };
+  const title = locale === "ta" ? category.name_ta : category.name_en;
+  // Only use the description if the source data actually has one for this locale -- never invent
+  // category copy. Many categories have a null description; omit the field entirely rather than
+  // fabricating text.
+  const description = locale === "ta" ? category.description_ta : category.description_en;
+  const path = `/${locale}/categories/${slug}/`;
+  const url = absoluteUrl(path);
+  const image = fallbackOgImage(locale);
+
+  return {
+    title,
+    description: description ?? undefined,
+    alternates: {
+      canonical: url,
+      languages: languageAlternates(path),
+    },
+    openGraph: {
+      ...baseOpenGraph(locale),
+      url,
+      title,
+      description: description ?? undefined,
+      images: [image],
+    },
+  };
 }
 
 export default async function CategoryDetailPage({

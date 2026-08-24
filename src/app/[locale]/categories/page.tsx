@@ -1,12 +1,50 @@
 import Link from "next/link";
+import type { Metadata } from "next";
 import { getAllCategories } from "@/lib/content/loader";
-
-type Locale = "en" | "ta";
+import {
+  absoluteUrl,
+  baseOpenGraph,
+  fallbackOgImage,
+  languageAlternates,
+  type Locale,
+} from "@/lib/metadata";
 
 const LABELS = {
-  en: { title: "Categories" },
-  ta: { title: "வகைகள்" },
-} satisfies Record<Locale, Record<string, string>>;
+  en: {
+    title: "Categories",
+    description: "Browse SriLaYa recipes by category.",
+  },
+  ta: {
+    title: "வகைகள்",
+    description: "ஸ்ரீலயா சமையல் குறிப்புகளை வகைப்படி பார்வையிடுங்கள்.",
+  },
+} satisfies Record<Locale, { title: string; description: string }>;
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: Locale }>;
+}): Promise<Metadata> {
+  const { locale } = await params;
+  const path = `/${locale}/categories/`;
+  const url = absoluteUrl(path);
+
+  return {
+    title: LABELS[locale].title,
+    description: LABELS[locale].description,
+    alternates: {
+      canonical: url,
+      languages: languageAlternates(path),
+    },
+    openGraph: {
+      ...baseOpenGraph(locale),
+      url,
+      title: LABELS[locale].title,
+      description: LABELS[locale].description,
+      images: [fallbackOgImage(locale)],
+    },
+  };
+}
 
 export default async function CategoriesPage({ params }: { params: Promise<{ locale: Locale }> }) {
   const { locale } = await params;

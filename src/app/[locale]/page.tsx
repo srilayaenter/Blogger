@@ -1,8 +1,14 @@
 import Link from "next/link";
+import type { Metadata } from "next";
 import { getPublishedRecipes } from "@/lib/content/loader";
 import { RecipeList } from "@/components/recipes/RecipeList";
-
-type Locale = "en" | "ta";
+import {
+  absoluteUrl,
+  baseOpenGraph,
+  fallbackOgImage,
+  languageAlternates,
+  type Locale,
+} from "@/lib/metadata";
 
 const LABELS = {
   en: {
@@ -18,6 +24,30 @@ const LABELS = {
     viewAll: "அனைத்தையும் காண்க",
   },
 } satisfies Record<Locale, Record<string, string>>;
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: Locale }>;
+}): Promise<Metadata> {
+  const { locale } = await params;
+  const path = `/${locale}/`;
+  const url = absoluteUrl(path);
+
+  return {
+    description: LABELS[locale].intro,
+    alternates: {
+      canonical: url,
+      languages: languageAlternates(path),
+    },
+    openGraph: {
+      ...baseOpenGraph(locale),
+      url,
+      description: LABELS[locale].intro,
+      images: [fallbackOgImage(locale)],
+    },
+  };
+}
 
 export default async function HomePage({ params }: { params: Promise<{ locale: Locale }> }) {
   const { locale } = await params;
