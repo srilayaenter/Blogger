@@ -1,0 +1,86 @@
+{
+  "slug": "poori",
+  "title_ta": "பூரி",
+  "title_en": "Poori",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 14,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-24T00:00:00.000Z",
+  "categories": ["fried-bread"],
+  "ingredients": [
+    {
+      "id": "poori-ingredient-1",
+      "name_ta": "மைதா",
+      "name_en": "Maida",
+      "quantity": "300",
+      "unit_ta": "கிராம்",
+      "unit_en": "Grams",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 1
+    },
+    {
+      "id": "poori-ingredient-2",
+      "name_ta": "உப்பு",
+      "name_en": "Uppu",
+      "quantity": "1",
+      "unit_ta": "தேக்கரண்டி",
+      "unit_en": "Thekkarandi",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 2
+    },
+    {
+      "id": "poori-ingredient-3",
+      "name_ta": "வெண்ணெய் அல்லது நல்லெண்ணெய்",
+      "name_en": "Vennai Allathu Nallennai",
+      "quantity": "1",
+      "unit_ta": "மேஜைக் கரண்டி",
+      "unit_en": "Mejaik Karandi",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 3
+    },
+    {
+      "id": "poori-ingredient-4",
+      "name_ta": "தண்ணீர் அல்லது தேங்காய்ப்பால் அல்லது பரல்",
+      "name_en": "Thanneer Allathu Thengaippaal Allathu Paral",
+      "quantity": "தேவையான அளவு",
+      "unit_ta": null,
+      "unit_en": null,
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 4
+    }
+  ],
+  "instructions": [
+    {
+      "id": "poori-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "1) பூரி செய்வதற்கு நாம் நயம் மைதாவை உபயோகிக்கலாம். மைதாமாவு பாதி கோதுமை மாவு பாதி என்றும் கலக்கலாம். 2) பூரி மாவு மெதுவாக அமைய சிறிது வெண்ணெய் அல்லது சிறிது சூடு பண்ணிய எண்ணெய் சேர்த்துப் பிசையலாம். 3) பூரி மாவை வெறும் தண்ணீரில் பிசையலாம். பால் அல்லது கெட்டியான தேங்காய்ப் பால் விட்டுப் பிசையலாம். 4) பூரி மாவைப் பிசைந்து ஒரு ஈரத்துணியைப் போட்டு மூடி 60 நிமிடம் கழித்து சுட்டால் பூரி மெதுவாக இருக்கும்.",
+      "instruction_en": "1) Poori seyvathaRku naam nayam maidaavai upayogikkalaam. Maidaamaavu paathi kothumai maavu paathi enRum kalakkalaam. 2) Poori maavu methuvaaga amaiya siRithu vennai allathu siRithu soodu panniya ennai serthup pisaiyalaam. 3) Poori maavai veRum thanneeril pisaiyalaam. Paal allathu kettiyaana thengaip paal vittup pisaiyalaam. 4) Poori maavaip pisainthu oru eerathuniyaip pottu moodi 60 nimidam kazhithu suttaal poori methuvaaga irukkum.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "poori-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "மைதாவைச் சலித்து ஒரு பாத்திரத்தில் போட்டு, உப்பு, வெண்ணெய் சேர்த்து நன்கு ஒன்று சேரப் பிசைந்துவிட்டு பின் தண்ணீர் விட்டு பிசைந்து தனியே வைக்கவும். 30 நிமிடம் சென்ற பின் பூரியை வட்டவடிவில் இட்டு வாணலியில் எண்ணெய் அல்லது டால்டாவில் பொரித்து எடுக்கவும். 500 மி.லி. மைதாவைப் பூரி மாவு பக்குவத்தில் பிசைவதற்கு சுமார் 4 அவுன்ஸ் அல்லது 100 மி.லி. தண்ணீர் தேவைப்படும்.",
+      "instruction_en": "Maidaavaich salithu oru paathirathil pottu, uppu, vennai serthu nangu onRu serap pisainthuvittu pin thanneer vittu pisainthu thaniye vaikkavum. 30 nimidam senRa pin pooriyai vattavadivil ittu vaanaliyil ennai allathu daaldaavil porithu edukkavum. 500 ml maidaavaip poori maavu pakkuvathil pisaivathaRku sumaar 4 ounce allathu 100 ml thanneer thevaippadum.",
+      "image_url": null,
+      "display_order": 2
+    }
+  ]
+}

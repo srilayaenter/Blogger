@@ -1,0 +1,67 @@
+{
+  "slug": "paal-kova",
+  "title_ta": "பால்கோவா",
+  "title_en": "Paal Kova",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 24,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-24T00:00:00.000Z",
+  "categories": ["sweet"],
+  "ingredients": [
+    {
+      "id": "paal-kova-ingredient-1",
+      "name_ta": "ஆவின் பால்",
+      "name_en": "Aavin Paal",
+      "quantity": "1",
+      "unit_ta": "லிட்டர்",
+      "unit_en": "Litre",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 1
+    },
+    {
+      "id": "paal-kova-ingredient-2",
+      "name_ta": "நெய்",
+      "name_en": "Nei",
+      "quantity": "2",
+      "unit_ta": "தேக்கரண்டி",
+      "unit_en": "Thekkarandi",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 2
+    },
+    {
+      "id": "paal-kova-ingredient-3",
+      "name_ta": "சீனி",
+      "name_en": "Seeni",
+      "quantity": "250",
+      "unit_ta": "கிராம்",
+      "unit_en": "Grams",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 3
+    }
+  ],
+  "instructions": [
+    {
+      "id": "paal-kova-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "கனமான பாத்திரத்தில் பாலை ஊற்றி நன்கு வத்தக் காய்ச்சி பால் நன்கு காய்ச்சி கெட்டியாக வரும் போது சீனியை போட்டு சிறிது நேரம் கிளறி. நெய் ஊற்றி திரண்டு வரும் போது இறக்கவும். சுவையான பால்கோவா ரெடி.",
+      "instruction_en": "Kanamaana paathirathil paalai oorRi nangu vaththak kaaichi paal nangu kaaichi kettiyaaga varum pothu seeniyai pottu siRithu neram kilaRi. Nei oorRi thirandu varum pothu irakkavum. Suvaiyaana paal kova ready.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "slug": "puli-kuzhambu",
+  "title_ta": "புளிக்குழம்பு",
+  "title_en": "Puli Kuzhambu",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 19,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-24T00:00:00.000Z",
+  "categories": ["kuzhambu"],
+  "ingredients": [
+    {
+      "id": "puli-kuzhambu-ingredient-1",
+      "name_ta": "அவரைக்காய்",
+      "name_en": "Avaraikkai",
+      "quantity": "¼",
+      "unit_ta": "கிலோ",
+      "unit_en": "Kilo",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 1
+    },
+    {
+      "id": "puli-kuzhambu-ingredient-2",
+      "name_ta": "உப்பு, மஞ்சள்",
+      "name_en": "Uppu, Manjal",
+      "quantity": null,
+      "unit_ta": null,
+      "unit_en": null,
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 2
+    },
+    {
+      "id": "puli-kuzhambu-ingredient-3",
+      "name_ta": "வற்றல்",
+      "name_en": "Vatral",
+      "quantity": "4",
+      "unit_ta": null,
+      "unit_en": null,
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 3
+    },
+    {
+      "id": "puli-kuzhambu-ingredient-4",
+      "name_ta": "சீரகம்",
+      "name_en": "Seeragam",
+      "quantity": "1",
+      "unit_ta": "தேக்கரண்டி",
+      "unit_en": "Thekkarandi",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 4
+    },
+    {
+      "id": "puli-kuzhambu-ingredient-5",
+      "name_ta": "தேங்காய்",
+      "name_en": "Thengai",
+      "quantity": "2 சில",
+      "unit_ta": null,
+      "unit_en": null,
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 5
+    }
+  ],
+  "instructions": [
+    {
+      "id": "puli-kuzhambu-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "¼ கிலோ அவரைக்காயை உப்பு, மஞ்சள் சேர்த்து வேக வைத்து எடுத்துக்கொள்ளவும். 4 வற்றல், 1 தேக்கரண்டி சீரகம், 2 சில தேங்காய் அரைக்கவும். புளி மற்ற புளிக்குழம்புகளை விட குறைவாகப் போட்டு புளிக்குழம்பு தாளித முறைப்படி புளிக்கரைசலில் மசால் கலந்து தாளித்து வேக வைத்து அவரைக்காயைப் போட்டு குழம்பு எண்ணெய் தெளிய இறக்கவும்.",
+      "instruction_en": "1/4 kilo avaraikkaiyai uppu, manjal serthu vega vaithu eduthuk kollavum. 4 vatral, 1 thekkarandi seeragam, 2 sila thengai araikkavum. Puli maRRa puli kuzhambugaLai vida kuRaivaagap pottu puli kuzhambu thaalitha muRaippadi puli karaisalil masaal kalanthu thaalithu vega vaithu avaraikkaiyaip pottu kuzhambu ennai theliya irakkavum.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

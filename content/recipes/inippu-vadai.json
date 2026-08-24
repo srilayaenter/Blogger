@@ -1,0 +1,56 @@
+{
+  "slug": "inippu-vadai",
+  "title_ta": "இனிப்பு வடை",
+  "title_en": "Inippu Vadai",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 9,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-24T00:00:00.000Z",
+  "categories": ["vadai"],
+  "ingredients": [
+    {
+      "id": "inippu-vadai-ingredient-1",
+      "name_ta": "உளுந்தம் பருப்பு",
+      "name_en": "Ulundham Paruppu",
+      "quantity": "¼",
+      "unit_ta": "கிலோ",
+      "unit_en": "Kilo",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 1
+    },
+    {
+      "id": "inippu-vadai-ingredient-2",
+      "name_ta": "சீனி",
+      "name_en": "Seeni",
+      "quantity": "400",
+      "unit_ta": "கிராம்",
+      "unit_en": "Grams",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 2
+    }
+  ],
+  "instructions": [
+    {
+      "id": "inippu-vadai-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "¼ கிலோ உளுந்தம் பருப்பை ½ மணி நேரம் நனைய வைத்து, வடைக்கு ஆட்டிய மாதிரி ஆட்டி 400 கிராம் சீனியைப் பாகு காய்ச்சி இறக்கி வைக்கவும். மாவைச் சிறு உருண்டையாக உருட்டி எண்ணெயில் சுட்டு சீனிப்பாகில் ஊற வைத்து எடுத்துச் சாப்பிடலாம்.",
+      "instruction_en": "1/4 kilo ulundham paruppai 1/2 mani neram naNaiya vaithu, vadaikku aattiya maathiri aatti 400 grams seeniyaip paagu kaaichi irakki vaikkavum. Maavaich siRu urundaiyaaga urutti ennaiyil suttu seenippaagil oora vaithu eduthuch saappidalaam.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "slug": "thayir-vadai",
+  "title_ta": "தயிர் வடை",
+  "title_en": "Thayir Vadai",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 7,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-24T00:00:00.000Z",
+  "categories": ["vadai"],
+  "ingredients": [
+    {
+      "id": "thayir-vadai-ingredient-1",
+      "name_ta": "தயிர்",
+      "name_en": "Thayir",
+      "quantity": "200",
+      "unit_ta": "கிராம்",
+      "unit_en": "Grams",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 1
+    },
+    {
+      "id": "thayir-vadai-ingredient-2",
+      "name_ta": "தேங்காய்",
+      "name_en": "Thengai",
+      "quantity": "1/4",
+      "unit_ta": "மூடி",
+      "unit_en": "Mudi",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 2
+    },
+    {
+      "id": "thayir-vadai-ingredient-3",
+      "name_ta": "பச்சை மிளகாய்",
+      "name_en": "Pachai Milagai",
+      "quantity": "3",
+      "unit_ta": null,
+      "unit_en": null,
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 3
+    },
+    {
+      "id": "thayir-vadai-ingredient-4",
+      "name_ta": "கடுகு",
+      "name_en": "Kadugu",
+      "quantity": "1",
+      "unit_ta": "டீஸ்பூன்",
+      "unit_en": "Teaspoon",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 4
+    },
+    {
+      "id": "thayir-vadai-ingredient-5",
+      "name_ta": "உப்பு",
+      "name_en": "Uppu",
+      "quantity": "சிறிது",
+      "unit_ta": null,
+      "unit_en": null,
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 5
+    }
+  ],
+  "instructions": [
+    {
+      "id": "thayir-vadai-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "உளுந்து வடை தயார் செய்யவும். பிறகு, அதை வெந்நீரில் போட்டு, உடனே எடுத்து, தயிரில் போடவும். தேங்காய், பச்சை மிளகாய், உப்பு முதலியவற்றை மிக்சியில் அரைத்து தயிரில் கலக்கவும். அதனுடன் கடுகு தாளித்து கொட்டவும். 'தயிர் வடை ரெடி'",
+      "instruction_en": "Ulundhu vadai thayaar seyyavum. PiRagu, athai venneeril pottu, udane eduthu, thayiril podavum. Thengai, pachai milagai, uppu muthaliyavatRai mixiyil araithu thayiril kalakkavum. Athanudan kadugu thaalithu kottavum. 'Thayir vadai ready'",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

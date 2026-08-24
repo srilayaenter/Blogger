@@ -1,0 +1,163 @@
+{
+  "slug": "vendaikkai-soup",
+  "title_ta": "வெண்டைக்காய் சூப்",
+  "title_en": "Vendaikkai Soup",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 31,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-24T00:00:00.000Z",
+  "categories": ["soup"],
+  "ingredients": [
+    {
+      "id": "vendaikkai-soup-ingredient-1",
+      "name_ta": "வெண்டைக்காய்",
+      "name_en": "Vendaikkai",
+      "quantity": "¼",
+      "unit_ta": "கிலோ",
+      "unit_en": "Kilo",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 1
+    },
+    {
+      "id": "vendaikkai-soup-ingredient-2",
+      "name_ta": "தக்காளி",
+      "name_en": "Thakkali",
+      "quantity": "1",
+      "unit_ta": null,
+      "unit_en": null,
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 2
+    },
+    {
+      "id": "vendaikkai-soup-ingredient-3",
+      "name_ta": "பெரிய வெங்காயம்",
+      "name_en": "Periya Vengayam",
+      "quantity": "1",
+      "unit_ta": null,
+      "unit_en": null,
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 3
+    },
+    {
+      "id": "vendaikkai-soup-ingredient-4",
+      "name_ta": "மிளகு",
+      "name_en": "Milagu",
+      "quantity": "6",
+      "unit_ta": null,
+      "unit_en": null,
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 4
+    },
+    {
+      "id": "vendaikkai-soup-ingredient-5",
+      "name_ta": "பச்சை மிளகாய்",
+      "name_en": "Pachai Milagai",
+      "quantity": "1",
+      "unit_ta": null,
+      "unit_en": null,
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 5
+    },
+    {
+      "id": "vendaikkai-soup-ingredient-6",
+      "name_ta": "மஞ்சள் தூள்",
+      "name_en": "Manjal Thool",
+      "quantity": "½",
+      "unit_ta": "டீஸ்பூன்",
+      "unit_en": "Teaspoon",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 6
+    },
+    {
+      "id": "vendaikkai-soup-ingredient-7",
+      "name_ta": "இலவங்கபட்டை இலை",
+      "name_en": "Ilavangapattai Ilai",
+      "quantity": "சிறிதளவு",
+      "unit_ta": null,
+      "unit_en": null,
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 7
+    },
+    {
+      "id": "vendaikkai-soup-ingredient-8",
+      "name_ta": "உப்பு",
+      "name_en": "Uppu",
+      "quantity": "தேவையான அளவு",
+      "unit_ta": null,
+      "unit_en": null,
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 8
+    },
+    {
+      "id": "vendaikkai-soup-ingredient-9",
+      "name_ta": "எண்ணெய்",
+      "name_en": "Ennai",
+      "quantity": "தேவையான அளவு",
+      "unit_ta": null,
+      "unit_en": null,
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 9
+    },
+    {
+      "id": "vendaikkai-soup-ingredient-10",
+      "name_ta": "கொத்தமல்லி",
+      "name_en": "Kothamalli",
+      "quantity": "1",
+      "unit_ta": "கொத்து",
+      "unit_en": "Kothu (bunch)",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 10
+    },
+    {
+      "id": "vendaikkai-soup-ingredient-11",
+      "name_ta": "துவரம் பருப்பு அல்லது பாசிப் பருப்பு",
+      "name_en": "Thuvaram Paruppu Allathu Pasi Paruppu",
+      "quantity": "50",
+      "unit_ta": "கிராம்",
+      "unit_en": "Grams",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 11
+    }
+  ],
+  "instructions": [
+    {
+      "id": "vendaikkai-soup-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "வாணலியில் எண்ணெய் ஊற்றி இலவங்கபட்டை, இலை, மிளகு, பச்சைமிளகாய், பெரிய வெங்காயம் சேர்த்து லேசாக வதக்கவும். பின்னர் மூன்று அங்குலமாக நறுக்கிய வெண்டைக்காயை சேர்த்து மிகவும் நன்றாக வதக்கவும். மூன்று டம்ளர் தண்ணீர் சேர்த்து வேக விடவும். மஞ்சள் தூள், தக்காளி, உப்பு சேர்த்து கலவையை நன்றாக கொதிக்க விடவும். வெண்டைக்காய் வெந்ததும், வேக வைத்து மசித்த பருப்பை இக்கலவையுடன் சேர்த்து நன்றாக கொதிக்க விட்டு இறக்கவும். கொத்தமல்லி இலை தூவி பரிமாறவும்.",
+      "instruction_en": "Vaanaliyil ennai oorRi ilavangapattai, ilai, milagu, pachaimilagai, periya vengayam serthu lesaaga vathakkavum. PinnaR moonRu angulamaaga narukkiya vendaikkaiyai serthu migavum nanRaaga vathakkavum. MoonRu dumbler thanneer serthu vega vidavum. Manjal thool, thakkali, uppu serthu kalavaiyai nanRaaga kothikka vidavum. Vendaikkai venthathum, vega vaithu masitha paruppai ikkalavaiyudan serthu nanRaaga kothikka vittu irakkavum. Kothamalli ilai thoovi parimaaravum.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "vendaikkai-soup-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "குறிப்பு: வெண்டைக்காயை வதக்கும் போது 1 ஸ்பூன் எலுமிச்சம் சாறு சேர்த்தால் சீக்கிரம் வதங்கி விடும். நூல்நூலாக வராது.",
+      "instruction_en": "KuRippu: Vendaikkaiyai vathakkum pothu 1 spoon elumicham saaRu serthaal seekiram vathangi vidum. Noolnoolaaga varaathu.",
+      "image_url": null,
+      "display_order": 2
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "kothumai-idli",
+  "title_ta": "கோதுமை இட்லி",
+  "title_en": "Kothumai Idli",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 7,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-24T00:00:00.000Z",
+  "categories": ["idli"],
+  "ingredients": [
+    {
+      "id": "kothumai-idli-ingredient-1",
+      "name_ta": "கோதுமை",
+      "name_en": "Kothumai",
+      "quantity": "300",
+      "unit_ta": "மி.லி.",
+      "unit_en": "ml",
+      "notes_ta": "தோலைக் குத்தி எடுக்கவும்",
+      "notes_en": "tholaik kuthi edukkavum (dehusked wheat)",
+      "display_order": 1
+    },
+    {
+      "id": "kothumai-idli-ingredient-2",
+      "name_ta": "உளுந்தம் பருப்பு",
+      "name_en": "Ulundham Paruppu",
+      "quantity": "75",
+      "unit_ta": "மி.லி.",
+      "unit_en": "ml",
+      "notes_ta": "மாகாணிப்படி",
+      "notes_en": "maagaanippadi (measured by the standard maakaani measure)",
+      "display_order": 2
+    }
+  ],
+  "instructions": [
+    {
+      "id": "kothumai-idli-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "கோதுமையை 1 மணி நேரம் ஊற வைத்து நன்றாக ஆட்ட வேண்டும். உளுந்தம் மாவையும் நன்றாக வெண்ணெய் போல் ஆட்டி உப்பு சேர்த்து பிசைந்து வைக்கவும். 8 மணி நேரம் வைத்த பின் இட்லியோ, தோசையோ சுடலாம். இதே போன்று தீட்டியகம்பு, கேப்பைகளிலும் மாவு ஆட்டி இட்லி, தோசை போடலாம். இவை மிருதுவாகவும், ருசியாகவும் இருக்கும். இவைகளுடன் காய்கறி சேர்த்தும் காய்கறி இட்லி தயார் செய்யலாம்.",
+      "instruction_en": "Kothumaiyai 1 mani neram oora vaithu nanRaaga aatta vendum. Ulundham maavaiyum nanRaaga vennai pol aatti uppu serthu pisainthu vaikkavum. 8 mani neram vaitha pin idliyo, thosaiyo sudalaam. Ithe ponRu theettiyakambu, keppaigaLilum maavu aatti idli, thosai podalaam. Ivai mirithuvaagavum, rusiyaagavum irukkum. IvaigaLudan kaaikaRi serthum kaaikaRi idli thayaar seyyalaam.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

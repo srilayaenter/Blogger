@@ -1,0 +1,89 @@
+{
+  "slug": "javvarisi-payasam",
+  "title_ta": "ஜவ்வரிசி பாயசம்",
+  "title_en": "Javvarisi Payasam",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 21,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-24T00:00:00.000Z",
+  "categories": ["sweet"],
+  "ingredients": [
+    {
+      "id": "javvarisi-payasam-ingredient-1",
+      "name_ta": "ஜவ்வரிசி",
+      "name_en": "Javvarisi",
+      "quantity": "200",
+      "unit_ta": "கிராம்",
+      "unit_en": "Grams",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 1
+    },
+    {
+      "id": "javvarisi-payasam-ingredient-2",
+      "name_ta": "வெல்லம்",
+      "name_en": "Vellam",
+      "quantity": "250",
+      "unit_ta": "கிராம்",
+      "unit_en": "Grams",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 2
+    },
+    {
+      "id": "javvarisi-payasam-ingredient-3",
+      "name_ta": "தேங்காய்",
+      "name_en": "Thengai",
+      "quantity": "2",
+      "unit_ta": "முடி",
+      "unit_en": "Mudi",
+      "notes_ta": "துருவி பால் எடுக்கவும்",
+      "notes_en": "thuruvi paal edukkavum (grate and extract the milk)",
+      "display_order": 3
+    },
+    {
+      "id": "javvarisi-payasam-ingredient-4",
+      "name_ta": "முந்திரிபருப்பு",
+      "name_en": "Mundhiri Paruppu",
+      "quantity": "50",
+      "unit_ta": "கிராம்",
+      "unit_en": "Grams",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 4
+    },
+    {
+      "id": "javvarisi-payasam-ingredient-5",
+      "name_ta": "ஏலக்காய்",
+      "name_en": "Elakkai",
+      "quantity": "5",
+      "unit_ta": "கிராம்",
+      "unit_en": "Grams",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 5
+    }
+  ],
+  "instructions": [
+    {
+      "id": "javvarisi-payasam-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "அடுப்பில் கொதிக்கும் வெந்நீர் வைத்து, அதில் ஜவ்வரிசியைப் போட்டு கைவிடாமல் கிளறவும். ஜவ்வரிசி வெந்ததும் வெல்லம் சேர்க்கவும். பாயசம், பாகு வாசனை வந்ததும் அடுப்பில் இருந்து இறக்கி, தேங்காய்ப் பாலை அதில் சேர்த்துக் கிளறவும். நெய்யில் முந்திரி, ஏலக்காய் வறுத்து பாயசத்தில் போடவும். சூடாக பரிமாறவும்.",
+      "instruction_en": "Aduppil kothikkum venneer vaithu, athil javvarisiyaip pottu kaividaamal kilaRavum. Javvarisi venthathum vellam serkkavum. Paayasam, paagu vaasanai vanthathum aduppil irunthu irakki, thengaip paalai athil serthuk kilaRavum. Neiyil mundhiri, elakkai varuthu paayasathil podavum. Soodaaga parimaaravum.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

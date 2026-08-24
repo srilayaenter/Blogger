@@ -1,0 +1,111 @@
+{
+  "slug": "masala-thosai",
+  "title_ta": "மசாலா தோசை",
+  "title_en": "Masala Thosai",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 4,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-24T00:00:00.000Z",
+  "categories": ["dosa"],
+  "ingredients": [
+    {
+      "id": "masala-thosai-ingredient-1",
+      "name_ta": "உருளைக்கிழங்கு",
+      "name_en": "Urulaikizhangu",
+      "quantity": "250",
+      "unit_ta": "கிராம்",
+      "unit_en": "Grams",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 1
+    },
+    {
+      "id": "masala-thosai-ingredient-2",
+      "name_ta": "மிளகாய்",
+      "name_en": "Milagai",
+      "quantity": "4",
+      "unit_ta": null,
+      "unit_en": null,
+      "notes_ta": "நறுக்கியது",
+      "notes_en": "narukkiyathu (chopped)",
+      "display_order": 2
+    },
+    {
+      "id": "masala-thosai-ingredient-3",
+      "name_ta": "வெங்காயம்",
+      "name_en": "Vengayam",
+      "quantity": "3",
+      "unit_ta": null,
+      "unit_en": null,
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 3
+    },
+    {
+      "id": "masala-thosai-ingredient-4",
+      "name_ta": "கருவேப்பிலை",
+      "name_en": "Karuvepilai",
+      "quantity": null,
+      "unit_ta": null,
+      "unit_en": null,
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 4
+    },
+    {
+      "id": "masala-thosai-ingredient-5",
+      "name_ta": "மல்லிச்செடி",
+      "name_en": "Mallichedi",
+      "quantity": null,
+      "unit_ta": null,
+      "unit_en": null,
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 5
+    },
+    {
+      "id": "masala-thosai-ingredient-6",
+      "name_ta": "இஞ்சி",
+      "name_en": "Inji",
+      "quantity": "ஒரு சிறு துண்டு",
+      "unit_ta": null,
+      "unit_en": null,
+      "notes_ta": "மிகவும் மெல்லியதாக வெட்டவும்",
+      "notes_en": "migavum melliyathaaga vettavum (cut very finely)",
+      "display_order": 6
+    },
+    {
+      "id": "masala-thosai-ingredient-7",
+      "name_ta": "பொரிகடலை",
+      "name_en": "Porikadalai",
+      "quantity": "2",
+      "unit_ta": "மேஜைக் கரண்டி",
+      "unit_en": "Mejaik Karandi",
+      "notes_ta": "நைசாக பொடி செய்து கொள்ளவும்",
+      "notes_en": "naisaaga podi seithu kollavum (grind to a fine powder)",
+      "display_order": 7
+    }
+  ],
+  "instructions": [
+    {
+      "id": "masala-thosai-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "உருளைக்கிழங்கை வேகவைத்து, தோல் உரித்து, அரை குறையாக உதிர்த்து வைக்கவும். பாத்திரத்தில் எண்ணெய் விட்டு கடுகு, உளுந்தம்பருப்பு, வெங்காயம், பச்சை மிளகாய், இஞ்சி, கருவேப்பிலை, போட்டு தாளித்து சிறிது தண்ணீர் விட்டு இலேசாக வெங்காயத்தை வேக விடவும். மஞ்சள் தூளும் உப்பும் சேர்த்துக் கொள்ளவும். தண்ணீர் சற்று வற்றியதும் உருளைக்கிழங்கு, மல்லிச்செடி சேர்த்துக் கிளறி, சற்று புரட்டினாற் போல் இறக்கி, பொரிகடலை மாவைத் தூவி கிளறி வைக்கவும். இட்லி தோசைக்குத் தயார் செய்த சட்னியைச் சற்று கெட்டியாக வைக்கவும். தோசைக் கல்லில் தோசை மாவை ஊற்றி நைசாக விரித்து திருப்பிப்போட்டு பின் எடுக்கும் சமயம் பாதி தோசையில் ஒரு கரண்டி மசால் கிழங்கையும் சட்னியையும் விரித்து வைத்து மறுபாதி தோசையினால் மூடி பரிமாறவும்.",
+      "instruction_en": "Urulaikizhangai vega vaithu, thol urithu, arai kuraiyaaga udhirthu vaikkavum. Paathirathil ennai vittu kadugu, ulundham paruppu, vengayam, pachai milagai, inji, karuvepilai, pottu thaalithu siRithu thanneer vittu ilesaaga vengayathai vega vidavum. Manjal thoolum uppum serthuk kollavum. Thanneer saRRu vatriyathum urulaikizhangu, mallichedi serthuk kilaRi, saRRu purattinaaR pol irakki, porikadalai maavai thoovi kilaRi vaikkavum. Idli thosaikkuth thayaar seytha satniyaich saRRu kettiyaaga vaikkavum. Thosaik kallil thosai maavai oorRi naisaaga virithu thiruppip pottu pin edukkum samayam paathi thosaiyil oru karandi masaal kizhangaiyum satniyaiyum virithu vaithu maRupaathi thosaiyinaal moodi parimaaravum.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

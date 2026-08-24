@@ -1,0 +1,78 @@
+{
+  "slug": "bread-alwa",
+  "title_ta": "பிரட் அல்வா",
+  "title_en": "Bread Alwa",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 25,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-24T00:00:00.000Z",
+  "categories": ["sweet"],
+  "ingredients": [
+    {
+      "id": "bread-alwa-ingredient-1",
+      "name_ta": "இனிப்பு பிரட்",
+      "name_en": "Inippu Bread",
+      "quantity": "½",
+      "unit_ta": "கிலோ",
+      "unit_en": "Kilo",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 1
+    },
+    {
+      "id": "bread-alwa-ingredient-2",
+      "name_ta": "நெய்",
+      "name_en": "Nei",
+      "quantity": "1",
+      "unit_ta": "கிலோ",
+      "unit_en": "Kilo",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 2
+    },
+    {
+      "id": "bread-alwa-ingredient-3",
+      "name_ta": "சர்க்கரை",
+      "name_en": "Sarkkarai",
+      "quantity": "¾",
+      "unit_ta": "கிலோ",
+      "unit_en": "Kilo",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 3
+    },
+    {
+      "id": "bread-alwa-ingredient-4",
+      "name_ta": "முந்திரி",
+      "name_en": "Mundhiri",
+      "quantity": "50",
+      "unit_ta": "கிராம்",
+      "unit_en": "Grams",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 4
+    }
+  ],
+  "instructions": [
+    {
+      "id": "bread-alwa-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "வாணலியில் நெய் விட்டு அதில் முந்திரி, திராட்சை போட்டு வறுக்கவும். பின்பு பிரட் துண்டுகளை சேர்க்கவும். பிரட் பொன்நிறமானவுடன் சர்க்கரையை சேர்த்து தொடர்ந்து கிளறிக் கொண்டே இருக்கவும். அல்வா நன்றாக திரண்டு, நெய் கறுகல் வாசனை வரும் முன்பு இறக்கிவிடவும்.",
+      "instruction_en": "Vaanaliyil nei vittu athil mundhiri, thiraatchai pottu varukkavum. Pinbu bread thundugaLai serkkavum. Bread ponniRamaanavudan sarkkaraiyai serthu thodarnthu kilaRik konde irukkavum. Alwa nanRaaga thirandu, nei kaRugal vaasanai varum munbu irakkivittavum.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

@@ -19,5 +19,152 @@
     "name_en": "Traditional",
     "description_ta": null,
     "description_en": null
+  },
+  {
+    "slug": "dosa",
+    "name_ta": "தோசை",
+    "name_en": "Dosa",
+    "description_ta": null,
+    "description_en": null
+  },
+  {
+    "slug": "idli",
+    "name_ta": "இட்லி",
+    "name_en": "Idli",
+    "description_ta": null,
+    "description_en": null
+  },
+  {
+    "slug": "vadai",
+    "name_ta": "வடை",
+    "name_en": "Vadai",
+    "description_ta": null,
+    "description_en": null
+  },
+  {
+    "slug": "bajji",
+    "name_ta": "பஜ்ஜி",
+    "name_en": "Bajji",
+    "description_ta": null,
+    "description_en": null
+  },
+  {
+    "slug": "chutney",
+    "name_ta": "சட்னி",
+    "name_en": "Chutney",
+    "description_ta": null,
+    "description_en": null
+  },
+  {
+    "slug": "sambar",
+    "name_ta": "சாம்பார்",
+    "name_en": "Sambar",
+    "description_ta": null,
+    "description_en": null
+  },
+  {
+    "slug": "steamed-tiffin",
+    "name_ta": "ஆவியில் வேகவைத்த டிபன்",
+    "name_en": "Steamed Tiffin",
+    "description_ta": null,
+    "description_en": null
+  },
+  {
+    "slug": "sweet",
+    "name_ta": "இனிப்பு",
+    "name_en": "Sweet",
+    "description_ta": null,
+    "description_en": null
+  },
+  {
+    "slug": "flatbread",
+    "name_ta": "சப்பாத்தி வகை",
+    "name_en": "Flatbread",
+    "description_ta": null,
+    "description_en": null
+  },
+  {
+    "slug": "fried-bread",
+    "name_ta": "எண்ணெயில் பொரித்த ரொட்டி",
+    "name_en": "Fried Bread",
+    "description_ta": null,
+    "description_en": null
+  },
+  {
+    "slug": "curry",
+    "name_ta": "கறி",
+    "name_en": "Curry",
+    "description_ta": null,
+    "description_en": null
+  },
+  {
+    "slug": "fritter",
+    "name_ta": "பொரித்த பலகாரம்",
+    "name_en": "Fritter",
+    "description_ta": null,
+    "description_en": null
+  },
+  {
+    "slug": "kuzhambu",
+    "name_ta": "குழம்பு",
+    "name_en": "Kuzhambu",
+    "description_ta": null,
+    "description_en": null
+  },
+  {
+    "slug": "sundal",
+    "name_ta": "சுண்டல்",
+    "name_en": "Sundal",
+    "description_ta": null,
+    "description_en": null
+  },
+  {
+    "slug": "fried-snack",
+    "name_ta": "எண்ணெயில் பொரித்த சிற்றுண்டி",
+    "name_en": "Fried Snack",
+    "description_ta": null,
+    "description_en": null
+  },
+  {
+    "slug": "steamed-snack",
+    "name_ta": "ஆவியில் வேகவைத்த சிற்றுண்டி",
+    "name_en": "Steamed Snack",
+    "description_ta": null,
+    "description_en": null
+  },
+  {
+    "slug": "soup",
+    "name_ta": "சூப்",
+    "name_en": "Soup",
+    "description_ta": null,
+    "description_en": null
+  },
+  {
+    "slug": "rice-dish",
+    "name_ta": "சாதம் வகை",
+    "name_en": "Rice Dish",
+    "description_ta": null,
+    "description_en": null
+  },
+  {
+    "slug": "poriyal",
+    "name_ta": "பொரியல்",
+    "name_en": "Poriyal",
+    "description_ta": null,
+    "description_en": null
+  },
+  {
+    "slug": "snack",
+    "name_ta": "சிற்றுண்டி",
+    "name_en": "Snack",
+    "description_ta": null,
+    "description_en": null
+  },
+  {
+    "slug": "fusion",
+    "name_ta": "கலப்பு உணவு",
+    "name_en": "Fusion",
+    "description_ta": null,
+    "description_en": null
   }
 ]

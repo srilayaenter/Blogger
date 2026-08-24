@@ -1,0 +1,100 @@
+{
+  "slug": "seena-laddu",
+  "title_ta": "சீனா லட்டு",
+  "title_en": "Seena Laddu",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 27,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-24T00:00:00.000Z",
+  "categories": ["sweet"],
+  "ingredients": [
+    {
+      "id": "seena-laddu-ingredient-1",
+      "name_ta": "கடலை மாவு",
+      "name_en": "Kadalai Maavu",
+      "quantity": "200",
+      "unit_ta": "கிராம்",
+      "unit_en": "Grams",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 1
+    },
+    {
+      "id": "seena-laddu-ingredient-2",
+      "name_ta": "நெய்",
+      "name_en": "Nei",
+      "quantity": "100",
+      "unit_ta": "கிராம்",
+      "unit_en": "Grams",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 2
+    },
+    {
+      "id": "seena-laddu-ingredient-3",
+      "name_ta": "முந்திரி, திராட்சை",
+      "name_en": "Mundhiri, Thiratchai",
+      "quantity": "25",
+      "unit_ta": "கிராம்",
+      "unit_en": "Grams",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 3
+    },
+    {
+      "id": "seena-laddu-ingredient-4",
+      "name_ta": "சீனி",
+      "name_en": "Seeni",
+      "quantity": "250",
+      "unit_ta": "கிராம்",
+      "unit_en": "Grams",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 4
+    },
+    {
+      "id": "seena-laddu-ingredient-5",
+      "name_ta": "தேங்காய்",
+      "name_en": "Thengai",
+      "quantity": "1",
+      "unit_ta": "முடி",
+      "unit_en": "Mudi",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 5
+    },
+    {
+      "id": "seena-laddu-ingredient-6",
+      "name_ta": "ஏலம்",
+      "name_en": "Elam",
+      "quantity": "3",
+      "unit_ta": "எண்ணம்",
+      "unit_en": "Ennam (count)",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 6
+    }
+  ],
+  "instructions": [
+    {
+      "id": "seena-laddu-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "சீனியை நைசாக மிக்ஸியில் அடித்து வைத்துக் கொள்ள வேண்டும். தேங்காய்த்துருவலையும், முந்திரி பருப்பு, திராட்சையும் சேர்த்து நெய்யில் வறுத்து எடுக்க வேண்டும். வாணலியில் நெய்யை ஊற்றி நன்றாக சூடானதும், கடலைமாவை கொட்டி பச்சை வாசனை நீங்கும்படி வறுக்கவும். பின் அதோடு நைசாக சீனி, வறுத்த முந்திரி, திராட்சை, தேங்காய் துருவல் ஏலம்பொடி தூவி நன்றாக கிளற வேண்டும். பின்னர் அதை கீழே இறக்கி சிறு சிறு உருண்டைகளாக பிடித்து வைக்கவும். சுவையான சீனா லட்டு ரெடி.",
+      "instruction_en": "Seeniyai naisaaga mixiyil adithu vaithuk koLLa vendum. Thengaithuruvalaiyum, mundhiri paruppu, thiratchaiyum serthu neiyil varuthu eduka vendum. Vaanaliyil neiyai oorRi nanRaaga soodaanathum, kadalaimaavai kotti pachai vaasanai neengumpadi varukkavum. Pin athodu naisaaga seeni, varuththa mundhiri, thiratchai, thengai thuruval elampodi thoovi nanRaaga kilaRa vendum. PinnaR athai keezhe irakki siRu siRu urundaigaLaaga pidithu vaikkavum. Suvaiyaana seena laddu ready.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "slug": "mysore-pak",
+  "title_ta": "மைசூர் பாகு",
+  "title_en": "Mysore Pak",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 25,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-24T00:00:00.000Z",
+  "categories": ["sweet"],
+  "ingredients": [
+    {
+      "id": "mysore-pak-ingredient-1",
+      "name_ta": "கடலை மாவு",
+      "name_en": "Kadalai Maavu",
+      "quantity": "250",
+      "unit_ta": "கிராம்",
+      "unit_en": "Grams",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 1
+    },
+    {
+      "id": "mysore-pak-ingredient-2",
+      "name_ta": "சோடா உப்பு",
+      "name_en": "Soda Uppu",
+      "quantity": "1",
+      "unit_ta": "சிட்டிகை",
+      "unit_en": "Pinch",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 2
+    },
+    {
+      "id": "mysore-pak-ingredient-3",
+      "name_ta": "சீனி",
+      "name_en": "Seeni",
+      "quantity": "¾",
+      "unit_ta": "கிலோ",
+      "unit_en": "Kilo",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 3
+    },
+    {
+      "id": "mysore-pak-ingredient-4",
+      "name_ta": "டால்டா அல்லது நெய்",
+      "name_en": "Dalda Allathu Nei",
+      "quantity": "¾",
+      "unit_ta": "கிலோ",
+      "unit_en": "Kilo",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 4
+    }
+  ],
+  "instructions": [
+    {
+      "id": "mysore-pak-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "கனத்த பாத்திரத்தில் சீனியை போட்டு மூழ்கும் வரை தண்ணீர் விட்டு பாகு காய்ச்சி கம்பிபதம் வந்தவுடன் கடலைமாவை ஒரு கையால் துருவிக் கொண்டே கட்டி சேராமல் கிளறிக் கொண்டே இருக்க வேண்டும். மற்றொரு அடுப்பில் நெய்யை இளக வைத்து இடையிடையே கலவையில் ஊற்றி கைவிடாமல் கிளறவும். நெய் கக்கி பொங்கி வரும்போது சிறிது சோடா உப்பு போட்டு கிளறி நெய் தடவிய தாம்பளத்தில் கொட்டி கரண்டியால் தேய்த்து விட்டால் மைசூர் பாகு ரெடியாகி விடும். ஆறுவதற்கு முன் வில்லைகள் போடவும்.",
+      "instruction_en": "Kanaththa paathirathil seeniyai pottu moozhgum varai thanneer vittu paagu kaaichi kambipatham vanthavudan kadalaimaavai oru kaiyaal thuruvik konde katti seraamal kilaRik konde irukka vendum. MatRoru aduppil neiyai iLaga vaithu idaiyidaiye kalavaiyil oorRi kaividaamal kilaRavum. Nei kakki pongi varumbothu siRithu soda uppu pottu kilaRi nei thadaviya thaambaLathil kotti karandiyaal theyithu vittaal mysore paagu readyaagi vidum. AaRuvathaRku mun villaigaL podavum.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

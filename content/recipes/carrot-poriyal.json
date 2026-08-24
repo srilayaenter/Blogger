@@ -1,0 +1,122 @@
+{
+  "slug": "carrot-poriyal",
+  "title_ta": "காரட் பொரியல்",
+  "title_en": "Carrot Poriyal",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 32,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-24T00:00:00.000Z",
+  "categories": ["poriyal"],
+  "ingredients": [
+    {
+      "id": "carrot-poriyal-ingredient-1",
+      "name_ta": "காரட்",
+      "name_en": "Carrot",
+      "quantity": "¼",
+      "unit_ta": "கிலோ",
+      "unit_en": "Kilo",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 1
+    },
+    {
+      "id": "carrot-poriyal-ingredient-2",
+      "name_ta": "சிறிய வெங்காயம்",
+      "name_en": "SiRiya Vengayam",
+      "quantity": "4",
+      "unit_ta": null,
+      "unit_en": null,
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 2
+    },
+    {
+      "id": "carrot-poriyal-ingredient-3",
+      "name_ta": "பச்சை மிளகாய்",
+      "name_en": "Pachai Milagai",
+      "quantity": "3",
+      "unit_ta": null,
+      "unit_en": null,
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 3
+    },
+    {
+      "id": "carrot-poriyal-ingredient-4",
+      "name_ta": "தேங்காய் துருவல்",
+      "name_en": "Thengai Thuruval",
+      "quantity": "¼",
+      "unit_ta": "முடி",
+      "unit_en": "Mudi",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 4
+    },
+    {
+      "id": "carrot-poriyal-ingredient-5",
+      "name_ta": "கடுகு",
+      "name_en": "Kadugu",
+      "quantity": "1",
+      "unit_ta": "டீஸ்பூன்",
+      "unit_en": "Teaspoon",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 5
+    },
+    {
+      "id": "carrot-poriyal-ingredient-6",
+      "name_ta": "கறிவேப்பிலை",
+      "name_en": "Karivepilai",
+      "quantity": "1",
+      "unit_ta": "கொத்து",
+      "unit_en": "Kothu (bunch)",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 6
+    },
+    {
+      "id": "carrot-poriyal-ingredient-7",
+      "name_ta": "எண்ணெய்",
+      "name_en": "Ennai",
+      "quantity": "2",
+      "unit_ta": "டேபிள் ஸ்பூன்",
+      "unit_en": "Tablespoon",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 7
+    },
+    {
+      "id": "carrot-poriyal-ingredient-8",
+      "name_ta": "உப்பு",
+      "name_en": "Uppu",
+      "quantity": "தேவையானது",
+      "unit_ta": null,
+      "unit_en": null,
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 8
+    }
+  ],
+  "instructions": [
+    {
+      "id": "carrot-poriyal-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "முதலில் காரட்டை தோல் நீக்கி, காரட் துருவியால் துருவிக் கொள்ளவும். வெங்காயத்தை பொடியாக நறுக்கிக் கொள்ளவும். பச்சை மிளகாயை இரண்டாக வகுந்து வைத்து கொள்ளவும். வாணலியில் எண்ணெய் விட்டு கடுகு, கறிவேப்பிலை தாளித்து, வெங்காயம், பச்சை மிளகாய் போட்டு சிறிது நேரத்தில் வதக்கவும். பிறகு காரட் துருவல் சேர்த்து லேசாக தண்ணீர் தெளித்து இவற்றை 7 நிமிடம் வேக விடவும். உப்பு சேர்க்கவும். பொரியலை அடுப்பில் இருந்து இறக்கியவுடன் தேங்காய் துருவல் சேர்த்து கலக்கி வைக்கவும். சிறிது நேரம் கழித்து பரிமாறவும்.",
+      "instruction_en": "Muthalil carrot-ai thol neekki, carrot thuruviyaal thuruvik kollavum. Vengayathai podiyaaga narukkik kollavum. Pachai milagaiyai irandaaga vaguthu vaithu kollavum. Vaanaliyil ennai vittu kadugu, karivepilai thaalithu, vengayam, pachai milagai pottu siRithu neraththil vathakkavum. PiRagu carrot thuruval serthu lesaaga thanneer thelithu ivatRai 7 nimidam vega vidavum. Uppu serkkavum. Poriyalai aduppil irunthu irakkiyavudan thengai thuruval serthu kalakki vaikkavum. SiRithu neram kazhithu parimaaravum.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

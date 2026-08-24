@@ -1,0 +1,100 @@
+{
+  "slug": "suchiyam",
+  "title_ta": "சுசியம்",
+  "title_en": "Suchiyam",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 24,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-24T00:00:00.000Z",
+  "categories": ["sweet"],
+  "ingredients": [
+    {
+      "id": "suchiyam-ingredient-1",
+      "name_ta": "கடலைப்பருப்பு",
+      "name_en": "Kadalai Paruppu",
+      "quantity": "500",
+      "unit_ta": "மி.லி.",
+      "unit_en": "ml",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 1
+    },
+    {
+      "id": "suchiyam-ingredient-2",
+      "name_ta": "ஏலக்காய்",
+      "name_en": "Elakkai",
+      "quantity": "5",
+      "unit_ta": null,
+      "unit_en": null,
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 2
+    },
+    {
+      "id": "suchiyam-ingredient-3",
+      "name_ta": "உளுந்தம்பருப்பு",
+      "name_en": "Ulundham Paruppu",
+      "quantity": "125",
+      "unit_ta": "மி.லி.",
+      "unit_en": "ml",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 3
+    },
+    {
+      "id": "suchiyam-ingredient-4",
+      "name_ta": "மேல் மாவிற்குப் பச்சரிசி",
+      "name_en": "Mel Maavirkup Pacharisi",
+      "quantity": "500",
+      "unit_ta": "மி.லி.",
+      "unit_en": "ml",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 4
+    },
+    {
+      "id": "suchiyam-ingredient-5",
+      "name_ta": "வெல்லம்",
+      "name_en": "Vellam",
+      "quantity": "100",
+      "unit_ta": "கிராம்",
+      "unit_en": "Grams",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 5
+    },
+    {
+      "id": "suchiyam-ingredient-6",
+      "name_ta": "தேங்காய்",
+      "name_en": "Thengai",
+      "quantity": "1",
+      "unit_ta": null,
+      "unit_en": null,
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 6
+    }
+  ],
+  "instructions": [
+    {
+      "id": "suchiyam-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "கடலைப்பருப்பை அரை வேக்காட்டில் அவித்து தண்ணீர் வடிகட்டி, வெல்லம் ஏலக்காய் போட்டு, தண்ணீர் சேர்க்காமல் கெட்டியாக ஆட்டி எடுத்து, தேங்காய்ப்பூவையும் போட்டு கலந்து உருண்டைகளாகப் பிடித்து வைக்க வேண்டும். பச்சரிசியையும், உளுந்து பருப்பையும் ஒன்றாக நனைய வைத்து அரை உப்புப் போட்டு பஜ்ஜிக்கு அரைப்பது போல் ஆட்டி கடலைப்பருப்பு உருண்டைகளை மாவில் தேங்காய் எண்ணெயை வாணலியில் காய வைத்து சுடவும்.",
+      "instruction_en": "Kadalai paruppai arai vekkaattil avithu thanneer vadikatti, vellam elakkai pottu, thanneer serkkaamal kettiyaaga aatti eduthu, thengaippooaiyum pottu kalanthu urundaigaLaaga pidithu vaikka vendum. Pacharisiyaiyum, ulundhu paruppaiyum onRaaga naNaiya vaithu arai uppup pottu bajjikku araippathu pol aatti kadalai paruppu urundaigaLai maavil thengai ennaiyai vaanaliyil kaaya vaithu sudavum.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

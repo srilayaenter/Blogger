@@ -1,0 +1,89 @@
+{
+  "slug": "boondi",
+  "title_ta": "பூந்தி",
+  "title_en": "Boondi",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 27,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-24T00:00:00.000Z",
+  "categories": ["sweet"],
+  "ingredients": [
+    {
+      "id": "boondi-ingredient-1",
+      "name_ta": "கடலை மாவு",
+      "name_en": "Kadalai Maavu",
+      "quantity": "¼",
+      "unit_ta": "கிலோ",
+      "unit_en": "Kilo",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 1
+    },
+    {
+      "id": "boondi-ingredient-2",
+      "name_ta": "நெய்",
+      "name_en": "Nei",
+      "quantity": "சிறிதளவு",
+      "unit_ta": null,
+      "unit_en": null,
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 2
+    },
+    {
+      "id": "boondi-ingredient-3",
+      "name_ta": "கேசரி பவுடர்",
+      "name_en": "Kesari Powder",
+      "quantity": "சிறிதளவு",
+      "unit_ta": null,
+      "unit_en": null,
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 3
+    },
+    {
+      "id": "boondi-ingredient-4",
+      "name_ta": "சீனி",
+      "name_en": "Seeni",
+      "quantity": "½",
+      "unit_ta": "கிலோ",
+      "unit_en": "Kilo",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 4
+    },
+    {
+      "id": "boondi-ingredient-5",
+      "name_ta": "டால்டா அல்லது ரீபைண்ட் ஆயில்",
+      "name_en": "Dalda Allathu Refined Oil",
+      "quantity": "தேவையான அளவு",
+      "unit_ta": null,
+      "unit_en": null,
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 5
+    }
+  ],
+  "instructions": [
+    {
+      "id": "boondi-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "சீனியை ஒரு அகலமான பாத்திரத்தில் போட்டு மூழ்கும் வரை தண்ணீர் விட்டு கம்பி பதம் வரும் வரை பாகு காய்ச்சி இறக்கி வைத்துக் கொள்ளவும். கடலை மாவை தண்ணீர் சேர்த்து (கேசரி பவுடர் சிறிது சேர்த்துக் கொள்ளவும்) தோசைமாவு போல கரைத்துக் கொள்ளவும். வாணலியில் டால்டா அல்லது நெய்யை காய வைத்து ஒரு கரண்டி மாவை ஊற்றி தேய்த்து எண்ணெயில் போடவும். எண்ணெயில் விழுந்த மாவு அதிகம் சிவக்காமல் வெந்ததும் எடுத்து சீனிப்பாகில் போட்டு சிறிது நேரத்தில் எடுத்து ஒரு பாயில் போடவும் சுவையான பூந்தி ரெடி.",
+      "instruction_en": "Seeniyai oru agalamaana paathirathil pottu moozhgum varai thanneer vittu kambi patham varum varai paagu kaaichi irakki vaithuk kollavum. Kadalai maavai thanneer serthu (kesari powder siRithu serthuk kollavum) thosaimaavu pol karaithuk kollavum. Vaanaliyil dalda allathu neiyai kaaya vaithu oru karandi maavai oorRi theyithu ennaiyil podavum. Ennaiyil vizhuntha maavu athigam sivakkaamal venthathum eduthu seenippaagil pottu siRithu neraththil eduthu oru paayil podavum suvaiyaana boondi ready.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

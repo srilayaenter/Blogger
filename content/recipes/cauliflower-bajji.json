@@ -1,0 +1,78 @@
+{
+  "slug": "cauliflower-bajji",
+  "title_ta": "காலிப்பிளவர் பஜ்ஜி",
+  "title_en": "Cauliflower Bajji",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 10,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-24T00:00:00.000Z",
+  "categories": ["bajji"],
+  "ingredients": [
+    {
+      "id": "cauliflower-bajji-ingredient-1",
+      "name_ta": "காலிப்பிளவர்",
+      "name_en": "Cauliflower",
+      "quantity": "1",
+      "unit_ta": null,
+      "unit_en": null,
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 1
+    },
+    {
+      "id": "cauliflower-bajji-ingredient-2",
+      "name_ta": "கடலை எண்ணெய்",
+      "name_en": "Kadalai Ennai",
+      "quantity": "¼",
+      "unit_ta": "லிட்டர்",
+      "unit_en": "Litre",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 2
+    },
+    {
+      "id": "cauliflower-bajji-ingredient-3",
+      "name_ta": "பஜ்ஜி மாவு",
+      "name_en": "Bajji Maavu",
+      "quantity": "200",
+      "unit_ta": "கிராம்",
+      "unit_en": "Grams",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 3
+    },
+    {
+      "id": "cauliflower-bajji-ingredient-4",
+      "name_ta": "உப்பு",
+      "name_en": "Uppu",
+      "quantity": "தேவையான அளவு",
+      "unit_ta": null,
+      "unit_en": null,
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 4
+    }
+  ],
+  "instructions": [
+    {
+      "id": "cauliflower-bajji-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "காலிபிளவர் நறுக்கி சுத்தம் செய்து வேக வைத்து எடுத்துக் கொள்ளவும். பஜ்ஜிமாவுடன் தேவையான அளவு தண்ணீரில் உப்பு சேர்த்து கரைத்துக் கொள்ளவும். வேக வைத்த காலிபிளவரை பஜ்ஜிமாவில் தோய்த்து எண்ணெயில் பொரித்து எடுத்தால் சுவையான பஜ்ஜி ரெடி. இதேமாதிரி வெங்காயம், அப்பளம், கத்தரிக்காய், வாழைக்காய் பஜ்ஜியும் தயார் செய்யலாம்.",
+      "instruction_en": "Cauliflower narukki suththam seithu vega vaithu eduthuk kollavum. Bajji maavudan thevaiyaana aLavu thanneeril uppu serthu karaithuk kollavum. Vega vaitha cauliflower-ai bajji maavil thoyithu ennaiyil porithu eduthaal suvaiyaana bajji ready. Ithemaathiri vengayam, appalam, kathirikkai, vaazhaikkai bajjiyum thayaar seyyalaam.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

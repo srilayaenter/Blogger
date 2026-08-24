@@ -1,0 +1,89 @@
+{
+  "slug": "rava-barfi",
+  "title_ta": "ரவை பர்பி",
+  "title_en": "Ravai Barfi",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 26,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-24T00:00:00.000Z",
+  "categories": ["sweet"],
+  "ingredients": [
+    {
+      "id": "rava-barfi-ingredient-1",
+      "name_ta": "வறுத்த பொடி ரவை",
+      "name_en": "Varuththa Podi Ravai",
+      "quantity": "100",
+      "unit_ta": "கிராம்",
+      "unit_en": "Grams",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 1
+    },
+    {
+      "id": "rava-barfi-ingredient-2",
+      "name_ta": "நெய்",
+      "name_en": "Nei",
+      "quantity": "100",
+      "unit_ta": "கிராம்",
+      "unit_en": "Grams",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 2
+    },
+    {
+      "id": "rava-barfi-ingredient-3",
+      "name_ta": "ஏலம்",
+      "name_en": "Elam",
+      "quantity": "சிறிதளவு",
+      "unit_ta": null,
+      "unit_en": null,
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 3
+    },
+    {
+      "id": "rava-barfi-ingredient-4",
+      "name_ta": "சீனி",
+      "name_en": "Seeni",
+      "quantity": "400",
+      "unit_ta": "கிராம்",
+      "unit_en": "Grams",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 4
+    },
+    {
+      "id": "rava-barfi-ingredient-5",
+      "name_ta": "பால்",
+      "name_en": "Paal",
+      "quantity": "800",
+      "unit_ta": "மி.லி.",
+      "unit_en": "ml",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 5
+    }
+  ],
+  "instructions": [
+    {
+      "id": "rava-barfi-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "வறுத்த ரவை மேலே கூறியுள்ள அனைத்து பொருடகளையும் சேர்த்து மைசூர்பாகு பதத்தில் கிளறி இறக்கி, நெய் தடவிய தட்டில் ஊற்றி ஒன்று போல் பரப்பி வில்லைகளாக போடவும். பின்னர் உடனே ரவை பர்பி ரெடி.",
+      "instruction_en": "Varuththa ravai mele kooRiyuLLa anaithu porudagaLaiyum serthu mysore paagu pathathil kilaRi irakki, nei thadaviya thattil oorRi onRu pol parappi villaigaLaaga podavum. PinnaR udane ravai barfi ready.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

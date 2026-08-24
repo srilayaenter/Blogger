@@ -1,0 +1,122 @@
+{
+  "slug": "pattani-sundal",
+  "title_ta": "பட்டாணி சுண்டல்",
+  "title_en": "Pattani Sundal",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 30,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-24T00:00:00.000Z",
+  "categories": ["sundal"],
+  "ingredients": [
+    {
+      "id": "pattani-sundal-ingredient-1",
+      "name_ta": "காய்ந்த பட்டாணி",
+      "name_en": "Kainthai Pattani",
+      "quantity": "3",
+      "unit_ta": "கப்",
+      "unit_en": "Cup",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 1
+    },
+    {
+      "id": "pattani-sundal-ingredient-2",
+      "name_ta": "கடுகு",
+      "name_en": "Kadugu",
+      "quantity": "2",
+      "unit_ta": "டீஸ்பூன்",
+      "unit_en": "Teaspoon",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 2
+    },
+    {
+      "id": "pattani-sundal-ingredient-3",
+      "name_ta": "பெருங்காயம்",
+      "name_en": "Perungayam",
+      "quantity": "2",
+      "unit_ta": "சிட்டிகை",
+      "unit_en": "Pinch",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 3
+    },
+    {
+      "id": "pattani-sundal-ingredient-4",
+      "name_ta": "கறிவேப்பிலை",
+      "name_en": "Karivepilai",
+      "quantity": "சிறிதளவு",
+      "unit_ta": null,
+      "unit_en": null,
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 4
+    },
+    {
+      "id": "pattani-sundal-ingredient-5",
+      "name_ta": "மிளகாய் வற்றல்",
+      "name_en": "Milagai Vatral",
+      "quantity": "6",
+      "unit_ta": null,
+      "unit_en": null,
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 5
+    },
+    {
+      "id": "pattani-sundal-ingredient-6",
+      "name_ta": "தேங்காய்ப்பூ",
+      "name_en": "Thengaippoo",
+      "quantity": "¼",
+      "unit_ta": "முடி",
+      "unit_en": "Mudi",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 6
+    },
+    {
+      "id": "pattani-sundal-ingredient-7",
+      "name_ta": "உப்பு",
+      "name_en": "Uppu",
+      "quantity": "தேவையானது",
+      "unit_ta": null,
+      "unit_en": null,
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 7
+    },
+    {
+      "id": "pattani-sundal-ingredient-8",
+      "name_ta": "எண்ணெய்",
+      "name_en": "Ennai",
+      "quantity": "2",
+      "unit_ta": "டேபிள் ஸ்பூன்",
+      "unit_en": "Tablespoon",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 8
+    }
+  ],
+  "instructions": [
+    {
+      "id": "pattani-sundal-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "பட்டாணியை முதல்நாள் இரவே ஊறப் போடவும். மறுநாள் சுத்தமாக கழுவி, அதிகம் தண்ணீர் சேர்க்காமல் குக்கரில் 5 விசில் வரும் வரை வேக விடவும். தேங்காயை துருவிக் கொள்ளவும். வாணலியில் எண்ணெய் ஊற்றி கடுகு மிளகாய் வற்றல் போட்டு தாளிக்கவும். அதில் வெந்த பட்டாணியை கொட்டி தேவையான உப்பு போட்டுக் கிளறவும். பெருங்காயம் தூவவும். கறிவேப்பிலையை கிள்ளிப் போட்டு, தேங்காய்த் துருவல் சேர்த்து நன்கு கிளறி இறக்கவும்.",
+      "instruction_en": "Pattaaniyai muthalnaaL iravey ooRap podavum. MaRunaaL suththamaaga kazhuvi, athigam thanneer serkkaamal cooker-il 5 whistle varum varai vega vidavum. Thengaiyai thuruvik kollavum. Vaanaliyil ennai oorRi kadugu milagai vatral pottu thaalikkavum. Athil venthai pattaaniyai kotti thevaiyaana uppu pottuk kilaRavum. Perungayam thoovavum. Karivepilaiyai kiLLip pottu, thengaith thuruval serthu nangu kilaRi irakkavum.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

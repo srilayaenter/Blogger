@@ -1,0 +1,111 @@
+{
+  "slug": "ama-vadai",
+  "title_ta": "ஆம வடை",
+  "title_en": "Ama Vadai",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 8,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-24T00:00:00.000Z",
+  "categories": ["vadai"],
+  "ingredients": [
+    {
+      "id": "ama-vadai-ingredient-1",
+      "name_ta": "கடலைப்பருப்பு",
+      "name_en": "Kadalai Paruppu",
+      "quantity": "250",
+      "unit_ta": "மி.லி.",
+      "unit_en": "ml",
+      "notes_ta": "குறைந்தது",
+      "notes_en": "kuRainthathu (at least)",
+      "display_order": 1
+    },
+    {
+      "id": "ama-vadai-ingredient-2",
+      "name_ta": "பெருங்காயம்",
+      "name_en": "Perungayam",
+      "quantity": "சிறிது",
+      "unit_ta": null,
+      "unit_en": null,
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 2
+    },
+    {
+      "id": "ama-vadai-ingredient-3",
+      "name_ta": "உப்பு",
+      "name_en": "Uppu",
+      "quantity": "1",
+      "unit_ta": "டீஸ்பூன்",
+      "unit_en": "Teaspoon",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 3
+    },
+    {
+      "id": "ama-vadai-ingredient-4",
+      "name_ta": "சீரகம், பட்டை",
+      "name_en": "Seeragam, Pattai",
+      "quantity": "சிறிது",
+      "unit_ta": null,
+      "unit_en": null,
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 4
+    },
+    {
+      "id": "ama-vadai-ingredient-5",
+      "name_ta": "வெங்காயம்",
+      "name_en": "Vengayam",
+      "quantity": null,
+      "unit_ta": null,
+      "unit_en": null,
+      "notes_ta": "பொடியாக நறுக்கியது",
+      "notes_en": "podiyaaga narukkiyathu (finely chopped)",
+      "display_order": 5
+    },
+    {
+      "id": "ama-vadai-ingredient-6",
+      "name_ta": "பச்சை மிளகாய்",
+      "name_en": "Pachai Milagai",
+      "quantity": "6",
+      "unit_ta": null,
+      "unit_en": null,
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 6
+    },
+    {
+      "id": "ama-vadai-ingredient-7",
+      "name_ta": "கருவேப்பிலை, மல்லிச் செடி",
+      "name_en": "Karuvepilai, Mallichedi",
+      "quantity": null,
+      "unit_ta": null,
+      "unit_en": null,
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 7
+    }
+  ],
+  "instructions": [
+    {
+      "id": "ama-vadai-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "250 மி.லி. கடலைப்பருப்பை குறைந்தது மூன்று மணி நேரம் நனைய வைத்துக் களைந்து ஒரு வடிதட்டில், தட்டி தண்ணீரை வடிய வைக்கவேண்டும். உரலை நன்றாக துடைத்து விட்டு பருப்புடன் உப்பு 1 டீஸ்பூன், பெருஞ்சீரகம், பட்டை சிறிது போட்டு தண்ணீர் சேர்க்காமல் முக்கால் பாகமாக ஆட்டி பொடியாக நறுக்கிய வெங்காயம் பச்சை மிளகாய் 6, கருவேப்பிலை மல்லிச் செடி போட்டு வாணலியில் எண்ணெயைக் காய வைத்து மாவில் சிறு உருண்டையாக எடுத்து உள்ளங்கையில் வைத்து அழுத்தி எண்ணெயில் போட்டு நன்றாகச் சிவந்தவுடன் எடுக்கவும். கடலைப்பருப்புக்குப் பதில் பட்டாணிப் பருப்பை உபயோகித்தும் இதேமாதிரி சுடலாம்.",
+      "instruction_en": "250 ml kadalai paruppai kuRainthathu moonRu mani neram naNaiya vaithuk kaLainthu oru vadithattil, thatti thanneerai vadiya vaikka vendum. Uralai nanRaaga thudaithu vittu paruppudan uppu 1 teaspoon, perunjeeragam, pattai siRithu pottu thanneer serkkaamal mukkaal paagamaaga aatti podiyaaga narukkiya vengayam pachai milagai 6, karuvepilai mallichedi pottu vaanaliyil ennaiyaik kaaya vaithu maavil siRu urundaiyaaga eduthu uLLangaiyil vaithu azhuthi ennaiyil pottu nanRaagach sivanthavudan edukkavum. Kadalai paruppukkup pathil pattaanip paruppai upayogithum ithemaathiri sudalaam.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

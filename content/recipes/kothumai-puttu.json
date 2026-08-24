@@ -1,0 +1,64 @@
+{
+  "slug": "kothumai-puttu",
+  "title_ta": "கோதுமை புட்டு",
+  "title_en": "Kothumai Puttu",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 23,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-24T00:00:00.000Z",
+  "categories": ["steamed-snack"],
+  "ingredients": [
+    {
+      "id": "kothumai-puttu-ingredient-1",
+      "name_ta": "கோதுமை",
+      "name_en": "Kothumai",
+      "quantity": "500",
+      "unit_ta": "கிராம்",
+      "unit_en": "Grams",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 1
+    },
+    {
+      "id": "kothumai-puttu-ingredient-2",
+      "name_ta": "உப்பு",
+      "name_en": "Uppu",
+      "quantity": "சிறிதளவு",
+      "unit_ta": null,
+      "unit_en": null,
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 2
+    }
+  ],
+  "instructions": [
+    {
+      "id": "kothumai-puttu-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "கோதுமையை சுத்தம் செய்து நன்கு வறுத்த மிக்ஸியில் மாவாக திரித்து வைத்துக் கொள்ளவும். அந்த மாவில் சிறிது உப்பு நீர் விட்டு புட்டுக்கு விரவுவது போல் விரவி இட்லி பாத்திரத்தில் வைத்து அவிக்கலாம்.",
+      "instruction_en": "Kothumaiyai suththam seithu nangu varuththa mixiyil maavaaga thirithu vaithuk kollavum. Antha maavil siRithu uppu neer vittu puttukku viravuvathu pol viravi idli paathirathil vaithu avikkalaam.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "kothumai-puttu-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "டிப்ஸ்: இதே போல் கம்பு புட்டு, கேழ்வரகு புட்டும் தயார் செய்யலாம்.",
+      "instruction_en": "Tips: Ithe pol kambu puttu, kezhvaragu puttum thayaar seyyalaam.",
+      "image_url": null,
+      "display_order": 2
+    }
+  ]
+}

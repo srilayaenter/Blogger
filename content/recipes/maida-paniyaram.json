@@ -1,0 +1,78 @@
+{
+  "slug": "maida-paniyaram",
+  "title_ta": "மைதா பணியாரம்",
+  "title_en": "Maida Paniyaram",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 22,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-24T00:00:00.000Z",
+  "categories": ["fried-snack"],
+  "ingredients": [
+    {
+      "id": "maida-paniyaram-ingredient-1",
+      "name_ta": "மைதா மாவு",
+      "name_en": "Maida Maavu",
+      "quantity": "2",
+      "unit_ta": "கப்",
+      "unit_en": "Cup",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 1
+    },
+    {
+      "id": "maida-paniyaram-ingredient-2",
+      "name_ta": "வாழைப்பழம்",
+      "name_en": "Vaazhaippazham",
+      "quantity": "1",
+      "unit_ta": null,
+      "unit_en": null,
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 2
+    },
+    {
+      "id": "maida-paniyaram-ingredient-3",
+      "name_ta": "சீனி",
+      "name_en": "Seeni",
+      "quantity": "1",
+      "unit_ta": "கப்",
+      "unit_en": "Cup",
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 3
+    },
+    {
+      "id": "maida-paniyaram-ingredient-4",
+      "name_ta": "சுடுவதற்கு டால்டா",
+      "name_en": "Suduvathakku Dalda",
+      "quantity": null,
+      "unit_ta": null,
+      "unit_en": null,
+      "notes_ta": null,
+      "notes_en": null,
+      "display_order": 4
+    }
+  ],
+  "instructions": [
+    {
+      "id": "maida-paniyaram-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "எல்லாச் சாமான்களையும் சிறிது நீர் சேர்த்து இளக்கமாய் பிசைந்து ¼ மணி நேரம் ஊற வைத்து விட வேண்டும். வாணலியில் எண்ணெயையை காய வைத்து ஒரு குழிக்கரண்டி மாவை ஊற்ற வேண்டும். பணியாரம் எழும்பியவுடன் திருப்பிப் போட்டு வெந்தது பார்த்து எடுக்க வேண்டும். விரும்பினால் 1 மேஜைக்கரண்டி ரவை சேர்த்து வாழைப்பழம் போடாமலும் சுடலாம்.",
+      "instruction_en": "Ellaach saamaangaLaiyum siRithu neer serthu iLakkamaai pisainthu 1/4 mani neram oora vaithu vida vendum. Vaanaliyil ennaiyaiyai kaaya vaithu oru kuzhikkarandi maavai oorRa vendum. Paniyaaram ezhumbiyavudan thiruppip pottu venthathu paarthu edukka vendum. Virumbinaal 1 mejaikkarandi ravai serthu vaazhaippazham podaamalum sudalaam.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}
