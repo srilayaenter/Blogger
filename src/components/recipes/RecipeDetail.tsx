@@ -32,6 +32,34 @@ const DIFFICULTY_LABELS = {
   ta: { easy: "எளிது", medium: "நடுத்தரம்", hard: "கடினம்" },
 } satisfies Record<Locale, Record<string, string>>;
 
+// The `quantity` field has no separate _ta/_en variant — most values are locale-neutral
+// numbers or fractions, but the source PDF sometimes used a descriptive Tamil phrase in
+// place of a number (e.g. "as needed"). Translate the known phrases for English readers;
+// anything not in this list (numbers, fractions) passes through unchanged.
+const QUANTITY_TRANSLATIONS: Record<string, string> = {
+  "சிறிது": "a little",
+  "சிறிதளவு": "a small amount",
+  "தேவைக்கேற்ப": "as needed",
+  "தேவையான அளவு": "as needed",
+  "தேவையானது": "as needed",
+  "நெல்லிக்காயளவு": "gooseberry-sized",
+  "எலுமிச்சம்பழ அளவு": "lemon-sized",
+  "தலா 1": "1 each",
+  "2 சில": "2 pieces",
+  "சில": "a few",
+  "ஒரு": "1",
+  "ஒரு சிறு துண்டு": "a small piece",
+  "சிறு துண்டு": "a small piece",
+};
+
+function displayQuantity(quantity: string | null, locale: Locale): string | null {
+  if (!quantity) return quantity;
+  if (locale === "en" && QUANTITY_TRANSLATIONS[quantity]) {
+    return QUANTITY_TRANSLATIONS[quantity];
+  }
+  return quantity;
+}
+
 export function RecipeDetail({ recipe, locale }: { recipe: RecipeWithDetails; locale: Locale }) {
   const t = LABELS[locale];
   const title = locale === "ta" ? recipe.title_ta : recipe.title_en;
@@ -130,7 +158,7 @@ export function RecipeDetail({ recipe, locale }: { recipe: RecipeWithDetails; lo
             const notes = locale === "ta" ? ingredient.notes_ta : ingredient.notes_en;
             return (
               <li key={ingredient.id}>
-                {[ingredient.quantity, unit, name].filter(Boolean).join(" ")}
+                {[displayQuantity(ingredient.quantity, locale), unit, name].filter(Boolean).join(" ")}
                 {notes ? ` (${notes})` : null}
               </li>
             );
