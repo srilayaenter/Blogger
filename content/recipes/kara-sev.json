@@ -122,7 +122,7 @@
     {
       "id": "kara-sev-ingredient-10",
       "name_ta": "வெள்ளபூடு பொடி",
-      "name_en": "[TRANSLATION REVIEW REQUIRED]",
+      "name_en": "Garlic powder",
       "quantity": "சிறிதளவு",
       "unit_ta": null,
       "unit_en": null,
@@ -136,7 +136,7 @@
       "id": "kara-sev-instruction-1",
       "step_number": 1,
       "instruction_ta": "கடலை மாவு அரிசிமாவுடன், மிளகாய்தூள், பெருங்காயம், பூடு மிளகுத்தூள் சேர்த்து கலந்து கொள்ளவும். உப்பு தண்ணீர் சேர்த்து கட்டியாக பிசைந்து வைத்துக் கொள்ளவும். வாணலியில் எண்ணெய் ஊற்றி நன்றாக காய்ந்ததும் காரச் சேவு தேய்க்கும் கரண்டியில் சிறிதளவு மாவை வைத்து நன்றாக அழுத்தி தேய்க்கவும். மற்றொரு கரண்டியால் சேவை திருப்பி விட்டு நன்றாக சிவந்ததும் எடுத்து எண்ணெய் வடிய வைக்கவும். (முறுக்கு குழலில் பிழிந்து தயார் செய்ததும் உதிரியாக்கி கொள்ளலாம்.)",
-      "instruction_en": "Mix the gram flour with the rice flour, chilli powder, asafoetida, and [TRANSLATION REVIEW REQUIRED — \"பூடு மிளகுத்தூள்\"]. Add salted water and knead into a firm dough. Heat oil in a pan; once it is well heated, place a little of the dough in the kara sev press and press it firmly through into the oil. Turn the sev over with another ladle, and once it is well browned, remove it and drain off the oil. (If pressed out through a murukku mould instead, it can be broken up loose once ready.)",
+      "instruction_en": "Mix the gram flour with the rice flour, chilli powder, asafoetida, and garlic powder. Add salted water and knead into a firm dough. Heat oil in a pan; once it is well heated, place a little of the dough in the kara sev press and press it firmly through into the oil. Turn the sev over with another ladle, and once it is well browned, remove it and drain off the oil. (If pressed out through a murukku mould instead, it can be broken up loose once ready.)",
       "image_url": null,
       "display_order": 1
     }
