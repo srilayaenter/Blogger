@@ -1,7 +1,7 @@
 {
   "slug": "carrot-poriyal",
   "title_ta": "காரட் பொரியல்",
-  "title_en": "Carrot Poriyal",
+  "title_en": "Carrot Stir-Fry",
   "description_ta": null,
   "description_en": null,
   "source_page_number": 32,
@@ -34,7 +34,7 @@
     {
       "id": "carrot-poriyal-ingredient-2",
       "name_ta": "சிறிய வெங்காயம்",
-      "name_en": "SiRiya Vengayam",
+      "name_en": "Small onions (shallots)",
       "quantity": "4",
       "unit_ta": null,
       "unit_en": null,
@@ -45,7 +45,7 @@
     {
       "id": "carrot-poriyal-ingredient-3",
       "name_ta": "பச்சை மிளகாய்",
-      "name_en": "Pachai Milagai",
+      "name_en": "Green chilli",
       "quantity": "3",
       "unit_ta": null,
       "unit_en": null,
@@ -56,7 +56,7 @@
     {
       "id": "carrot-poriyal-ingredient-4",
       "name_ta": "தேங்காய் துருவல்",
-      "name_en": "Thengai Thuruval",
+      "name_en": "Grated coconut",
       "quantity": "¼",
       "unit_ta": "முடி",
       "unit_en": "Mudi",
@@ -67,7 +67,7 @@
     {
       "id": "carrot-poriyal-ingredient-5",
       "name_ta": "கடுகு",
-      "name_en": "Kadugu",
+      "name_en": "Mustard seeds",
       "quantity": "1",
       "unit_ta": "டீஸ்பூன்",
       "unit_en": "Teaspoon",
@@ -78,10 +78,10 @@
     {
       "id": "carrot-poriyal-ingredient-6",
       "name_ta": "கறிவேப்பிலை",
-      "name_en": "Karivepilai",
+      "name_en": "Curry leaves",
       "quantity": "1",
       "unit_ta": "கொத்து",
-      "unit_en": "Kothu (bunch)",
+      "unit_en": "Bunch",
       "notes_ta": null,
       "notes_en": null,
       "display_order": 6
@@ -89,7 +89,7 @@
     {
       "id": "carrot-poriyal-ingredient-7",
       "name_ta": "எண்ணெய்",
-      "name_en": "Ennai",
+      "name_en": "Oil",
       "quantity": "2",
       "unit_ta": "டேபிள் ஸ்பூன்",
       "unit_en": "Tablespoon",
@@ -100,7 +100,7 @@
     {
       "id": "carrot-poriyal-ingredient-8",
       "name_ta": "உப்பு",
-      "name_en": "Uppu",
+      "name_en": "Salt",
       "quantity": "தேவையானது",
       "unit_ta": null,
       "unit_en": null,
@@ -114,7 +114,7 @@
       "id": "carrot-poriyal-instruction-1",
       "step_number": 1,
       "instruction_ta": "முதலில் காரட்டை தோல் நீக்கி, காரட் துருவியால் துருவிக் கொள்ளவும். வெங்காயத்தை பொடியாக நறுக்கிக் கொள்ளவும். பச்சை மிளகாயை இரண்டாக வகுந்து வைத்து கொள்ளவும். வாணலியில் எண்ணெய் விட்டு கடுகு, கறிவேப்பிலை தாளித்து, வெங்காயம், பச்சை மிளகாய் போட்டு சிறிது நேரத்தில் வதக்கவும். பிறகு காரட் துருவல் சேர்த்து லேசாக தண்ணீர் தெளித்து இவற்றை 7 நிமிடம் வேக விடவும். உப்பு சேர்க்கவும். பொரியலை அடுப்பில் இருந்து இறக்கியவுடன் தேங்காய் துருவல் சேர்த்து கலக்கி வைக்கவும். சிறிது நேரம் கழித்து பரிமாறவும்.",
-      "instruction_en": "Muthalil carrot-ai thol neekki, carrot thuruviyaal thuruvik kollavum. Vengayathai podiyaaga narukkik kollavum. Pachai milagaiyai irandaaga vaguthu vaithu kollavum. Vaanaliyil ennai vittu kadugu, karivepilai thaalithu, vengayam, pachai milagai pottu siRithu neraththil vathakkavum. PiRagu carrot thuruval serthu lesaaga thanneer thelithu ivatRai 7 nimidam vega vidavum. Uppu serkkavum. Poriyalai aduppil irunthu irakkiyavudan thengai thuruval serthu kalakki vaikkavum. SiRithu neram kazhithu parimaaravum.",
+      "instruction_en": "First, peel the carrots and grate them with a carrot grater. Finely chop the onions. Split the green chillies into two. Heat oil in a pan, temper with mustard seeds and curry leaves, then add the onions and green chillies and sauté for a while. Add the grated carrot, sprinkle a little water, and cook for 7 minutes. Add salt. As soon as you remove the poriyal from the heat, mix in the grated coconut. Serve after a short while.",
       "image_url": null,
       "display_order": 1
     }

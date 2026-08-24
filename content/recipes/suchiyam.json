@@ -23,7 +23,7 @@
     {
       "id": "suchiyam-ingredient-1",
       "name_ta": "கடலைப்பருப்பு",
-      "name_en": "Kadalai Paruppu",
+      "name_en": "Chana dal",
       "quantity": "500",
       "unit_ta": "மி.லி.",
       "unit_en": "ml",
@@ -34,7 +34,7 @@
     {
       "id": "suchiyam-ingredient-2",
       "name_ta": "ஏலக்காய்",
-      "name_en": "Elakkai",
+      "name_en": "Cardamom",
       "quantity": "5",
       "unit_ta": null,
       "unit_en": null,
@@ -45,7 +45,7 @@
     {
       "id": "suchiyam-ingredient-3",
       "name_ta": "உளுந்தம்பருப்பு",
-      "name_en": "Ulundham Paruppu",
+      "name_en": "Urad dal",
       "quantity": "125",
       "unit_ta": "மி.லி.",
       "unit_en": "ml",
@@ -56,7 +56,7 @@
     {
       "id": "suchiyam-ingredient-4",
       "name_ta": "மேல் மாவிற்குப் பச்சரிசி",
-      "name_en": "Mel Maavirkup Pacharisi",
+      "name_en": "Raw rice (for the outer coating)",
       "quantity": "500",
       "unit_ta": "மி.லி.",
       "unit_en": "ml",
@@ -67,7 +67,7 @@
     {
       "id": "suchiyam-ingredient-5",
       "name_ta": "வெல்லம்",
-      "name_en": "Vellam",
+      "name_en": "Jaggery",
       "quantity": "100",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -78,7 +78,7 @@
     {
       "id": "suchiyam-ingredient-6",
       "name_ta": "தேங்காய்",
-      "name_en": "Thengai",
+      "name_en": "Coconut",
       "quantity": "1",
       "unit_ta": null,
       "unit_en": null,
@@ -92,7 +92,7 @@
       "id": "suchiyam-instruction-1",
       "step_number": 1,
       "instruction_ta": "கடலைப்பருப்பை அரை வேக்காட்டில் அவித்து தண்ணீர் வடிகட்டி, வெல்லம் ஏலக்காய் போட்டு, தண்ணீர் சேர்க்காமல் கெட்டியாக ஆட்டி எடுத்து, தேங்காய்ப்பூவையும் போட்டு கலந்து உருண்டைகளாகப் பிடித்து வைக்க வேண்டும். பச்சரிசியையும், உளுந்து பருப்பையும் ஒன்றாக நனைய வைத்து அரை உப்புப் போட்டு பஜ்ஜிக்கு அரைப்பது போல் ஆட்டி கடலைப்பருப்பு உருண்டைகளை மாவில் தேங்காய் எண்ணெயை வாணலியில் காய வைத்து சுடவும்.",
-      "instruction_en": "Kadalai paruppai arai vekkaattil avithu thanneer vadikatti, vellam elakkai pottu, thanneer serkkaamal kettiyaaga aatti eduthu, thengaippooaiyum pottu kalanthu urundaigaLaaga pidithu vaikka vendum. Pacharisiyaiyum, ulundhu paruppaiyum onRaaga naNaiya vaithu arai uppup pottu bajjikku araippathu pol aatti kadalai paruppu urundaigaLai maavil thengai ennaiyai vaanaliyil kaaya vaithu sudavum.",
+      "instruction_en": "Half-cook the chana dal, drain the water, add jaggery and cardamom, and grind it thick without adding water. Mix in coconut pieces and shape into small balls. Soak the raw rice and urad dal together, add a little salt, and grind it as you would for bajji batter. Dip the chana dal balls in this batter, heat coconut oil in a pan, and fry.",
       "image_url": null,
       "display_order": 1
     }

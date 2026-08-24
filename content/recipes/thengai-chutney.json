@@ -1,7 +1,7 @@
 {
   "slug": "thengai-chutney",
   "title_ta": "தேங்காய் சட்னி",
-  "title_en": "Thengai Chutney",
+  "title_en": "Coconut Chutney",
   "description_ta": null,
   "description_en": null,
   "source_page_number": 10,
@@ -23,7 +23,7 @@
     {
       "id": "thengai-chutney-ingredient-1",
       "name_ta": "தேங்காய்",
-      "name_en": "Thengai",
+      "name_en": "Coconut",
       "quantity": "1",
       "unit_ta": "முடி",
       "unit_en": "Mudi",
@@ -34,7 +34,7 @@
     {
       "id": "thengai-chutney-ingredient-2",
       "name_ta": "பச்சை மிளகாய்",
-      "name_en": "Pachai Milagai",
+      "name_en": "Green chilli",
       "quantity": "6",
       "unit_ta": null,
       "unit_en": null,
@@ -45,7 +45,7 @@
     {
       "id": "thengai-chutney-ingredient-3",
       "name_ta": "சின்ன வெங்காயம்",
-      "name_en": "Chinna Vengayam",
+      "name_en": "Shallots (small onions)",
       "quantity": "4",
       "unit_ta": null,
       "unit_en": null,
@@ -56,7 +56,7 @@
     {
       "id": "thengai-chutney-ingredient-4",
       "name_ta": "உப்பு",
-      "name_en": "Uppu",
+      "name_en": "Salt",
       "quantity": "தேவையான அளவு",
       "unit_ta": null,
       "unit_en": null,
@@ -70,7 +70,7 @@
       "id": "thengai-chutney-instruction-1",
       "step_number": 1,
       "instruction_ta": "எல்லாவற்றையும் சேர்த்து ஆட்டவும். தாளிக்க அவசியம் இல்லை. விரும்பினால் 1 தேக்கரண்டி உளுந்தம்பருப்பு வறுத்து மிளகாய், வெங்காயத்தை வதக்கியும் ஆட்டலாம்.",
-      "instruction_en": "Ellaavatraiyum serthu aattavum. Thaalikka avasiyam illai. Virumbinaal 1 thekkarandi ulundham paruppu varuthu milagai, vengayathai vathakkiyum aattalaam.",
+      "instruction_en": "Grind everything together. Tempering is not necessary. If you like, you can roast 1 teaspoon of urad dal and sauté the chilli and onion before grinding as well.",
       "image_url": null,
       "display_order": 1
     }

@@ -1,7 +1,7 @@
 {
   "slug": "javvarisi-payasam",
   "title_ta": "ஜவ்வரிசி பாயசம்",
-  "title_en": "Javvarisi Payasam",
+  "title_en": "Sago Payasam",
   "description_ta": null,
   "description_en": null,
   "source_page_number": 21,
@@ -23,7 +23,7 @@
     {
       "id": "javvarisi-payasam-ingredient-1",
       "name_ta": "ஜவ்வரிசி",
-      "name_en": "Javvarisi",
+      "name_en": "Sago",
       "quantity": "200",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -34,7 +34,7 @@
     {
       "id": "javvarisi-payasam-ingredient-2",
       "name_ta": "வெல்லம்",
-      "name_en": "Vellam",
+      "name_en": "Jaggery",
       "quantity": "250",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -45,18 +45,18 @@
     {
       "id": "javvarisi-payasam-ingredient-3",
       "name_ta": "தேங்காய்",
-      "name_en": "Thengai",
+      "name_en": "Coconut",
       "quantity": "2",
       "unit_ta": "முடி",
       "unit_en": "Mudi",
       "notes_ta": "துருவி பால் எடுக்கவும்",
-      "notes_en": "thuruvi paal edukkavum (grate and extract the milk)",
+      "notes_en": "grate and extract the milk",
       "display_order": 3
     },
     {
       "id": "javvarisi-payasam-ingredient-4",
       "name_ta": "முந்திரிபருப்பு",
-      "name_en": "Mundhiri Paruppu",
+      "name_en": "Cashew nuts",
       "quantity": "50",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -67,7 +67,7 @@
     {
       "id": "javvarisi-payasam-ingredient-5",
       "name_ta": "ஏலக்காய்",
-      "name_en": "Elakkai",
+      "name_en": "Cardamom",
       "quantity": "5",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -81,7 +81,7 @@
       "id": "javvarisi-payasam-instruction-1",
       "step_number": 1,
       "instruction_ta": "அடுப்பில் கொதிக்கும் வெந்நீர் வைத்து, அதில் ஜவ்வரிசியைப் போட்டு கைவிடாமல் கிளறவும். ஜவ்வரிசி வெந்ததும் வெல்லம் சேர்க்கவும். பாயசம், பாகு வாசனை வந்ததும் அடுப்பில் இருந்து இறக்கி, தேங்காய்ப் பாலை அதில் சேர்த்துக் கிளறவும். நெய்யில் முந்திரி, ஏலக்காய் வறுத்து பாயசத்தில் போடவும். சூடாக பரிமாறவும்.",
-      "instruction_en": "Aduppil kothikkum venneer vaithu, athil javvarisiyaip pottu kaividaamal kilaRavum. Javvarisi venthathum vellam serkkavum. Paayasam, paagu vaasanai vanthathum aduppil irunthu irakki, thengaip paalai athil serthuk kilaRavum. Neiyil mundhiri, elakkai varuthu paayasathil podavum. Soodaaga parimaaravum.",
+      "instruction_en": "Bring water to a boil, add the sago, and stir continuously without stopping. Once the sago is cooked, add the jaggery. When the payasam develops a syrupy aroma, remove from heat and stir in the coconut milk. Fry the cashew nuts and cardamom in ghee and add to the payasam. Serve hot.",
       "image_url": null,
       "display_order": 1
     }

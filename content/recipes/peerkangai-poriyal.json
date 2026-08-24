@@ -1,7 +1,7 @@
 {
   "slug": "peerkangai-poriyal",
   "title_ta": "பீர்க்கங்காய் பொரிக்கறி",
-  "title_en": "Peerkangai Poriyal",
+  "title_en": "Ridge Gourd Curry",
   "description_ta": null,
   "description_en": null,
   "source_page_number": 33,
@@ -23,7 +23,7 @@
     {
       "id": "peerkangai-poriyal-ingredient-1",
       "name_ta": "பீர்க்கங்காய்",
-      "name_en": "Peerkangai",
+      "name_en": "Ridge gourd",
       "quantity": "½",
       "unit_ta": "கிலோ",
       "unit_en": "Kilo",
@@ -34,10 +34,10 @@
     {
       "id": "peerkangai-poriyal-ingredient-2",
       "name_ta": "எண்ணெய்",
-      "name_en": "Ennai",
+      "name_en": "Oil",
       "quantity": "1",
       "unit_ta": "கரண்டி",
-      "unit_en": "Karandi (ladle)",
+      "unit_en": "Ladle",
       "notes_ta": null,
       "notes_en": null,
       "display_order": 2
@@ -45,7 +45,7 @@
     {
       "id": "peerkangai-poriyal-ingredient-3",
       "name_ta": "கடுகு",
-      "name_en": "Kadugu",
+      "name_en": "Mustard seeds",
       "quantity": null,
       "unit_ta": null,
       "unit_en": null,
@@ -56,7 +56,7 @@
     {
       "id": "peerkangai-poriyal-ingredient-4",
       "name_ta": "உளுந்தம்பருப்பு",
-      "name_en": "Ulundham Paruppu",
+      "name_en": "Urad dal",
       "quantity": null,
       "unit_ta": null,
       "unit_en": null,
@@ -67,7 +67,7 @@
     {
       "id": "peerkangai-poriyal-ingredient-5",
       "name_ta": "வெங்காயம்",
-      "name_en": "Vengayam",
+      "name_en": "Onion",
       "quantity": null,
       "unit_ta": null,
       "unit_en": null,
@@ -78,7 +78,7 @@
     {
       "id": "peerkangai-poriyal-ingredient-6",
       "name_ta": "பச்சை மிளகாய்",
-      "name_en": "Pachai Milagai",
+      "name_en": "Green chilli",
       "quantity": null,
       "unit_ta": null,
       "unit_en": null,
@@ -89,7 +89,7 @@
     {
       "id": "peerkangai-poriyal-ingredient-7",
       "name_ta": "கருவேப்பிலை",
-      "name_en": "Karuvepilai",
+      "name_en": "Curry leaves",
       "quantity": null,
       "unit_ta": null,
       "unit_en": null,
@@ -100,7 +100,7 @@
     {
       "id": "peerkangai-poriyal-ingredient-8",
       "name_ta": "உப்பு",
-      "name_en": "Uppu",
+      "name_en": "Salt",
       "quantity": null,
       "unit_ta": null,
       "unit_en": null,
@@ -111,7 +111,7 @@
     {
       "id": "peerkangai-poriyal-ingredient-9",
       "name_ta": "மஞ்சள்",
-      "name_en": "Manjal",
+      "name_en": "Turmeric",
       "quantity": null,
       "unit_ta": null,
       "unit_en": null,
@@ -122,10 +122,10 @@
     {
       "id": "peerkangai-poriyal-ingredient-10",
       "name_ta": "அரிசிப் பொரிமா",
-      "name_en": "Arisip Porimaa",
+      "name_en": "Rice flour",
       "quantity": "1",
       "unit_ta": "தேக்கரண்டி",
-      "unit_en": "Thekkarandi (teaspoon)",
+      "unit_en": "Teaspoon",
       "notes_ta": null,
       "notes_en": null,
       "display_order": 10
@@ -136,7 +136,7 @@
       "id": "peerkangai-poriyal-instruction-1",
       "step_number": 1,
       "instruction_ta": "½ கிலோ பீர்க்கங்காயைக் கழுவி தோலை மெல்லியதாகச் சீவி சிறு துண்டுகளாக நறுக்கிக் கொள்ளவும். வாணலியில் 1 கரண்டி எண்ணெயில் கடுகு, உளுந்தம்பருப்பு போட்டு வெடித்ததும் வெங்காயம், பச்சை மிளகாய், கருவேப்பிலை போட்டு வதக்கி பின் காயைப் போட்டுத் தண்ணீரில் வேக விடவும். உப்பு, மஞ்சள் சேர்க்கவும். வெந்ததும் அரிசிப் பொரிமா 1 தேக்கரண்டி சேர்க்கவும்.",
-      "instruction_en": "½ kilo peerkangaiyaik kazhuvi tholai melliyathaaga seevi siRu thundugalaaga narukkik kollavum. Vaanaliyil 1 karandi ennaiyil kadugu, ulundham paruppu pottu vedithathum vengayam, pachai milagai, karuvepilai pottu vathakki pin kaaiyaip pottuth thanneeril vega vidavum. Uppu, manjal serkkavum. Venthathum arisip porimaa 1 thekkarandi serkkavum.",
+      "instruction_en": "Wash ½ kilo of ridge gourd, peel it thinly, and cut into small pieces. Heat 1 ladle of oil in a pan, add mustard seeds and urad dal, and once they splutter, add the onion, green chilli and curry leaves and sauté. Then add the ridge gourd and cook in water. Add salt and turmeric. Once cooked, stir in 1 teaspoon of rice flour.",
       "image_url": null,
       "display_order": 1
     }

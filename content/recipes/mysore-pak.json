@@ -23,7 +23,7 @@
     {
       "id": "mysore-pak-ingredient-1",
       "name_ta": "கடலை மாவு",
-      "name_en": "Kadalai Maavu",
+      "name_en": "Gram flour",
       "quantity": "250",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -34,7 +34,7 @@
     {
       "id": "mysore-pak-ingredient-2",
       "name_ta": "சோடா உப்பு",
-      "name_en": "Soda Uppu",
+      "name_en": "Baking soda",
       "quantity": "1",
       "unit_ta": "சிட்டிகை",
       "unit_en": "Pinch",
@@ -45,7 +45,7 @@
     {
       "id": "mysore-pak-ingredient-3",
       "name_ta": "சீனி",
-      "name_en": "Seeni",
+      "name_en": "Sugar",
       "quantity": "¾",
       "unit_ta": "கிலோ",
       "unit_en": "Kilo",
@@ -56,7 +56,7 @@
     {
       "id": "mysore-pak-ingredient-4",
       "name_ta": "டால்டா அல்லது நெய்",
-      "name_en": "Dalda Allathu Nei",
+      "name_en": "Dalda or ghee",
       "quantity": "¾",
       "unit_ta": "கிலோ",
       "unit_en": "Kilo",
@@ -70,7 +70,7 @@
       "id": "mysore-pak-instruction-1",
       "step_number": 1,
       "instruction_ta": "கனத்த பாத்திரத்தில் சீனியை போட்டு மூழ்கும் வரை தண்ணீர் விட்டு பாகு காய்ச்சி கம்பிபதம் வந்தவுடன் கடலைமாவை ஒரு கையால் துருவிக் கொண்டே கட்டி சேராமல் கிளறிக் கொண்டே இருக்க வேண்டும். மற்றொரு அடுப்பில் நெய்யை இளக வைத்து இடையிடையே கலவையில் ஊற்றி கைவிடாமல் கிளறவும். நெய் கக்கி பொங்கி வரும்போது சிறிது சோடா உப்பு போட்டு கிளறி நெய் தடவிய தாம்பளத்தில் கொட்டி கரண்டியால் தேய்த்து விட்டால் மைசூர் பாகு ரெடியாகி விடும். ஆறுவதற்கு முன் வில்லைகள் போடவும்.",
-      "instruction_en": "Kanaththa paathirathil seeniyai pottu moozhgum varai thanneer vittu paagu kaaichi kambipatham vanthavudan kadalaimaavai oru kaiyaal thuruvik konde katti seraamal kilaRik konde irukka vendum. MatRoru aduppil neiyai iLaga vaithu idaiyidaiye kalavaiyil oorRi kaividaamal kilaRavum. Nei kakki pongi varumbothu siRithu soda uppu pottu kilaRi nei thadaviya thaambaLathil kotti karandiyaal theyithu vittaal mysore paagu readyaagi vidum. AaRuvathaRku mun villaigaL podavum.",
+      "instruction_en": "Put the sugar in a heavy vessel, add water to cover it, and boil it into a syrup. Once it reaches one-string consistency, sift in the gram flour with one hand while continuously stirring with the other so no lumps form. On another stove, melt the ghee and pour it into the mixture little by little at intervals, stirring continuously without stopping. When the ghee starts to bubble up and the mixture rises, add a little baking soda, stir, and pour it onto a ghee-greased tray, smoothing it out with a ladle — the Mysore Pak is then ready. Cut it into pieces before it cools completely.",
       "image_url": null,
       "display_order": 1
     }

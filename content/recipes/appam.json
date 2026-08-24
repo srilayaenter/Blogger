@@ -23,7 +23,7 @@
     {
       "id": "appam-ingredient-1",
       "name_ta": "பச்சரிசி",
-      "name_en": "Pacharisi",
+      "name_en": "Raw rice",
       "quantity": "500",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -34,7 +34,7 @@
     {
       "id": "appam-ingredient-2",
       "name_ta": "சோடாஉப்பு, உப்பு",
-      "name_en": "Soda Uppu, Uppu",
+      "name_en": "Baking soda, salt",
       "quantity": "சிறிதளவு",
       "unit_ta": null,
       "unit_en": null,
@@ -45,18 +45,18 @@
     {
       "id": "appam-ingredient-3",
       "name_ta": "தேங்காய்",
-      "name_en": "Thengai",
+      "name_en": "Coconut",
       "quantity": "1",
       "unit_ta": "முடி",
       "unit_en": "Mudi",
       "notes_ta": "பால் எடுக்கவும்",
-      "notes_en": "paal edukkavum (extract the milk)",
+      "notes_en": "to extract the milk",
       "display_order": 3
     },
     {
       "id": "appam-ingredient-4",
       "name_ta": "புழுங்கல் அரிசி",
-      "name_en": "Puzhungal Arisi",
+      "name_en": "Parboiled rice",
       "quantity": "500",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -67,7 +67,7 @@
     {
       "id": "appam-ingredient-5",
       "name_ta": "ஏலம் பொடி",
-      "name_en": "Elam Podi",
+      "name_en": "Cardamom powder",
       "quantity": "சிறிதளவு",
       "unit_ta": null,
       "unit_en": null,
@@ -81,7 +81,7 @@
       "id": "appam-instruction-1",
       "step_number": 1,
       "instruction_ta": "அரிசியை நன்றாக ஊற வைத்து நன்றாக ஆட்டி எடுத்து வைத்துக் கொள்ளவும். இரவு படுக்கும் முன் சிறிது உப்பு, சோடா உப்பு, கலந்து வைக்கவும். காலையில் ஆப்பசட்டியில் சுடவும். தேங்காய் பாலில் சிறிது ஏலம் பொடி சேர்த்துக் கொள்ளவும். ஆப்பம் சுட்டு அதன் மேல் தேங்காய்ப்பால் ஊற்றி சாப்பிட சுவையாக இருக்கும்.",
-      "instruction_en": "Arisiyai nanRaaga oora vaithu nanRaaga aatti eduthu vaithuk kollavum. Iravu padukkum mun siRithu uppu, soda uppu, kalanthu vaikkavum. Kaalaiyil aappasattiyil sudavum. Thengai paalil siRithu elam podi serthuk kollavum. Appam suttu athan mel thengaippaal oorRi saappida suvaiyaaga irukkum.",
+      "instruction_en": "Soak the rice well and grind it into a smooth batter. Before going to bed at night, mix in a little salt and baking soda. In the morning, cook the appams in an appam pan. Add a little cardamom powder to the coconut milk. Appam tastes delicious when served hot with coconut milk poured over it.",
       "image_url": null,
       "display_order": 1
     }

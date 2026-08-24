@@ -23,7 +23,7 @@
     {
       "id": "boondi-ingredient-1",
       "name_ta": "கடலை மாவு",
-      "name_en": "Kadalai Maavu",
+      "name_en": "Gram flour",
       "quantity": "¼",
       "unit_ta": "கிலோ",
       "unit_en": "Kilo",
@@ -34,7 +34,7 @@
     {
       "id": "boondi-ingredient-2",
       "name_ta": "நெய்",
-      "name_en": "Nei",
+      "name_en": "Ghee",
       "quantity": "சிறிதளவு",
       "unit_ta": null,
       "unit_en": null,
@@ -45,7 +45,7 @@
     {
       "id": "boondi-ingredient-3",
       "name_ta": "கேசரி பவுடர்",
-      "name_en": "Kesari Powder",
+      "name_en": "Kesari powder (orange food colouring)",
       "quantity": "சிறிதளவு",
       "unit_ta": null,
       "unit_en": null,
@@ -56,7 +56,7 @@
     {
       "id": "boondi-ingredient-4",
       "name_ta": "சீனி",
-      "name_en": "Seeni",
+      "name_en": "Sugar",
       "quantity": "½",
       "unit_ta": "கிலோ",
       "unit_en": "Kilo",
@@ -67,7 +67,7 @@
     {
       "id": "boondi-ingredient-5",
       "name_ta": "டால்டா அல்லது ரீபைண்ட் ஆயில்",
-      "name_en": "Dalda Allathu Refined Oil",
+      "name_en": "Dalda (vegetable shortening) or refined oil",
       "quantity": "தேவையான அளவு",
       "unit_ta": null,
       "unit_en": null,
@@ -81,7 +81,7 @@
       "id": "boondi-instruction-1",
       "step_number": 1,
       "instruction_ta": "சீனியை ஒரு அகலமான பாத்திரத்தில் போட்டு மூழ்கும் வரை தண்ணீர் விட்டு கம்பி பதம் வரும் வரை பாகு காய்ச்சி இறக்கி வைத்துக் கொள்ளவும். கடலை மாவை தண்ணீர் சேர்த்து (கேசரி பவுடர் சிறிது சேர்த்துக் கொள்ளவும்) தோசைமாவு போல கரைத்துக் கொள்ளவும். வாணலியில் டால்டா அல்லது நெய்யை காய வைத்து ஒரு கரண்டி மாவை ஊற்றி தேய்த்து எண்ணெயில் போடவும். எண்ணெயில் விழுந்த மாவு அதிகம் சிவக்காமல் வெந்ததும் எடுத்து சீனிப்பாகில் போட்டு சிறிது நேரத்தில் எடுத்து ஒரு பாயில் போடவும் சுவையான பூந்தி ரெடி.",
-      "instruction_en": "Seeniyai oru agalamaana paathirathil pottu moozhgum varai thanneer vittu kambi patham varum varai paagu kaaichi irakki vaithuk kollavum. Kadalai maavai thanneer serthu (kesari powder siRithu serthuk kollavum) thosaimaavu pol karaithuk kollavum. Vaanaliyil dalda allathu neiyai kaaya vaithu oru karandi maavai oorRi theyithu ennaiyil podavum. Ennaiyil vizhuntha maavu athigam sivakkaamal venthathum eduthu seenippaagil pottu siRithu neraththil eduthu oru paayil podavum suvaiyaana boondi ready.",
+      "instruction_en": "Put the sugar in a wide vessel, add enough water to cover it, and boil it into syrup until it reaches one-string consistency; then set aside. Mix the gram flour with water (adding a little kesari powder) and dissolve it to a batter of dosa-batter consistency. Heat Dalda or ghee in a pan, pour a ladle of batter over a perforated ladle, and press it through into the oil. Once the boondi dropped into the oil is cooked without turning too dark, remove it and drop it into the sugar syrup. After a short while, take it out and spread it on a tray. Tasty boondi is ready.",
       "image_url": null,
       "display_order": 1
     }

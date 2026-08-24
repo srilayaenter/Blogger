@@ -1,7 +1,7 @@
 {
   "slug": "karuppatti-idli",
   "title_ta": "கருப்பட்டி இட்லி",
-  "title_en": "Karuppatti Idli",
+  "title_en": "Palm Jaggery Idli",
   "description_ta": null,
   "description_en": null,
   "source_page_number": 6,
@@ -23,7 +23,7 @@
     {
       "id": "karuppatti-idli-ingredient-1",
       "name_ta": "அரிசி",
-      "name_en": "Arisi",
+      "name_en": "Rice",
       "quantity": "250",
       "unit_ta": "மி.லி.",
       "unit_en": "ml",
@@ -34,12 +34,12 @@
     {
       "id": "karuppatti-idli-ingredient-2",
       "name_ta": "கருப்பட்டி",
-      "name_en": "Karuppatti",
+      "name_en": "Palm jaggery",
       "quantity": "½",
       "unit_ta": "கிலோ",
       "unit_en": "Kilo",
       "notes_ta": "250 மி.லி. அரிசிக்கு",
-      "notes_en": "250 ml arisikku (for every 250 ml of rice)",
+      "notes_en": "for every 250 ml of rice",
       "display_order": 2
     }
   ],
@@ -48,7 +48,7 @@
       "id": "karuppatti-idli-instruction-1",
       "step_number": 1,
       "instruction_ta": "மேற்படி இட்லிக்கு மாவு தயார் செய்வது போலவே உப்பு மட்டும் போடாமல் மாவைக் கட்டியாக தயார் செய்து வைக்கவும். காலையில் மாவில் ¼ ஸ்பூன் சோடா உப்பு, தேங்காய்ப்பூ விருப்பமான அளவு, கருப்பட்டி பால் கெட்டியாகக் காய்ச்சி இலேசான சூடாகவோ அல்லது ஆறவிட்டோ வடிகட்டி மாவில் விட்டுக் கிளறவும். இட்லித் தட்டில் வேக வைக்கவும். விருப்பப்படி இனிப்பை குறைக்கவோ, கூட்டவோ செய்யலாம். கருப்பட்டியைக் குறைத்துக் கொஞ்சம் சீனியையும் கலந்து கொள்ளலாம். இந்த மாவை இளஞ்சூட்டில் தோசையாக எண்ணெய் அல்லது நெய் விட்டுச் சுடலாம்.",
-      "instruction_en": "MeRpadi idlikku maavu thayaar seyvathu polave uppu mattum podaamal maavaik kattiyaaga thayaar seithu vaikkavum. Kaalaiyil maavil 1/4 spoon soda uppu, thengaippoo viruppamaana aLavu, karuppatti paal kettiyaagak kaaichi ilesaana soodaavo allathu aaRavitto vadikattiy maavil vittuk kilaRavum. Idlith thattil vega vaikkavum. Viruppappadi inippai kuRaikkavo, koottavo seyyalaam. Karuppattiyaik kuRaithuk konjam seeniyaiyum kalanthu kollalaam. Intha maavai iLanjjoottil thosaiyaaga ennai allathu nei vittuch sudalaam.",
+      "instruction_en": "Prepare the batter the same way as for regular idli, but without adding salt, and keep it thick. In the morning, add ¼ spoon baking soda and coconut pieces (as much as you like) to the batter. Boil the palm jaggery with a little water until it thickens, then strain it in — either lightly warm or cooled — and mix into the batter. Steam in idli plates. You can reduce or increase the sweetness as you like; you can also cut down the palm jaggery and mix in a little sugar instead. This batter can also be made into dosas over low heat using oil or ghee.",
       "image_url": null,
       "display_order": 1
     }

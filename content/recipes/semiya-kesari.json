@@ -1,7 +1,7 @@
 {
   "slug": "semiya-kesari",
   "title_ta": "சேமியா கேசரி",
-  "title_en": "Semiya Kesari",
+  "title_en": "Vermicelli Kesari",
   "description_ta": null,
   "description_en": null,
   "source_page_number": 21,
@@ -23,7 +23,7 @@
     {
       "id": "semiya-kesari-ingredient-1",
       "name_ta": "சேமியா",
-      "name_en": "Semiya",
+      "name_en": "Vermicelli",
       "quantity": "500",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -34,7 +34,7 @@
     {
       "id": "semiya-kesari-ingredient-2",
       "name_ta": "சர்க்கரை",
-      "name_en": "Sarkkarai",
+      "name_en": "Sugar",
       "quantity": "400",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -45,7 +45,7 @@
     {
       "id": "semiya-kesari-ingredient-3",
       "name_ta": "தண்ணீர்",
-      "name_en": "Thanneer",
+      "name_en": "Water",
       "quantity": "4",
       "unit_ta": "கப்",
       "unit_en": "Cup",
@@ -56,7 +56,7 @@
     {
       "id": "semiya-kesari-ingredient-4",
       "name_ta": "நெய்",
-      "name_en": "Nei",
+      "name_en": "Ghee",
       "quantity": "300",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -67,7 +67,7 @@
     {
       "id": "semiya-kesari-ingredient-5",
       "name_ta": "முந்திரி பருப்பு",
-      "name_en": "Mundhiri Paruppu",
+      "name_en": "Cashew nuts",
       "quantity": "10",
       "unit_ta": null,
       "unit_en": null,
@@ -78,7 +78,7 @@
     {
       "id": "semiya-kesari-ingredient-6",
       "name_ta": "ஏலக்காய்",
-      "name_en": "Elakkai",
+      "name_en": "Cardamom",
       "quantity": "4",
       "unit_ta": null,
       "unit_en": null,
@@ -89,7 +89,7 @@
     {
       "id": "semiya-kesari-ingredient-7",
       "name_ta": "கேசரி பவுடர்",
-      "name_en": "Kesari Powder",
+      "name_en": "Kesari powder (orange food colouring)",
       "quantity": "சிறிதளவு",
       "unit_ta": null,
       "unit_en": null,
@@ -103,7 +103,7 @@
       "id": "semiya-kesari-instruction-1",
       "step_number": 1,
       "instruction_ta": "சேமியா, முந்திரிப் பருப்பை தனித்தனியாக நெய்யில் வறுக்கவும். வாணலியில் தண்ணீர் கொதித்ததும் சேமியா போட்டு கிளறி வேகவிடவும். சேமியா வெந்ததும் சர்க்கரை சேர்த்து முந்திரி பருப்பு, மீதியுள்ள நெய், கேசரி பவுடர் ஆகியவற்றை போட்டு கிளறி இறக்கவும். பிறகு ஏலப்பொடி சேர்க்கவும். பின்னர் தட்டில் கொட்டி சற்று ஆறியதும் வில்லைகளாக நறுக்கிப் பரிமாறவும்.",
-      "instruction_en": "Semiya, mundhirip paruppai thanithaniyaaga neiyil varukkavum. Vaanaliyil thanneer kothithathum semiya pottu kilaRi vegavidavum. Semiya venthathum sarkkarai serthu mundhiri paruppu, meethiyuLLa nei, kesari powder aagiyavatRai pottu kilaRi irakkavum. PiRagu elapodi serkkavum. PinnaR thattil kotti saRRu aaRiyathum villaigaLaaga narukkip parimaaravum.",
+      "instruction_en": "Roast the vermicelli and cashew nuts separately in ghee. Once the water boils in a pan, add the vermicelli, stir, and cook. Once the vermicelli is cooked, add the sugar along with the cashew nuts, the remaining ghee, and the kesari powder, stir, and remove from heat. Then add the cardamom powder. Pour it onto a tray, and once slightly cooled, cut into pieces and serve.",
       "image_url": null,
       "display_order": 1
     }

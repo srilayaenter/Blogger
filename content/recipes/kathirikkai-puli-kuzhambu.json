@@ -1,7 +1,7 @@
 {
   "slug": "kathirikkai-puli-kuzhambu",
   "title_ta": "கத்தரிக்காய் புளிக்குழம்பு",
-  "title_en": "Kathirikkai Puli Kuzhambu",
+  "title_en": "Brinjal Tamarind Kuzhambu",
   "description_ta": null,
   "description_en": null,
   "source_page_number": 18,
@@ -23,7 +23,7 @@
     {
       "id": "kathirikkai-puli-kuzhambu-ingredient-1",
       "name_ta": "கத்திரிக்காய்",
-      "name_en": "Kathirikkai",
+      "name_en": "Brinjal",
       "quantity": "¼",
       "unit_ta": "கிலோ",
       "unit_en": "Kilo",
@@ -34,10 +34,10 @@
     {
       "id": "kathirikkai-puli-kuzhambu-ingredient-2",
       "name_ta": "எண்ணெய்",
-      "name_en": "Ennai",
+      "name_en": "Oil",
       "quantity": "4",
       "unit_ta": "கரண்டி",
-      "unit_en": "Karandi",
+      "unit_en": "Ladle",
       "notes_ta": null,
       "notes_en": null,
       "display_order": 2
@@ -45,7 +45,7 @@
     {
       "id": "kathirikkai-puli-kuzhambu-ingredient-3",
       "name_ta": "கடுகு, உளுந்தம்பருப்பு",
-      "name_en": "Kadugu, Ulundham Paruppu",
+      "name_en": "Mustard seeds, urad dal",
       "quantity": null,
       "unit_ta": null,
       "unit_en": null,
@@ -56,18 +56,18 @@
     {
       "id": "kathirikkai-puli-kuzhambu-ingredient-4",
       "name_ta": "வெங்காயம்",
-      "name_en": "Vengayam",
+      "name_en": "Onion",
       "quantity": "6",
       "unit_ta": null,
       "unit_en": null,
       "notes_ta": "கீறியது",
-      "notes_en": "keeRiyathu (slit)",
+      "notes_en": "slit",
       "display_order": 4
     },
     {
       "id": "kathirikkai-puli-kuzhambu-ingredient-5",
       "name_ta": "பச்சை மிளகாய்",
-      "name_en": "Pachai Milagai",
+      "name_en": "Green chilli",
       "quantity": "2",
       "unit_ta": null,
       "unit_en": null,
@@ -78,18 +78,18 @@
     {
       "id": "kathirikkai-puli-kuzhambu-ingredient-6",
       "name_ta": "பூண்டு",
-      "name_en": "Poondu",
+      "name_en": "Garlic",
       "quantity": "10",
       "unit_ta": "பல்",
-      "unit_en": "Pal (cloves)",
+      "unit_en": "Cloves",
       "notes_ta": "உரித்தது",
-      "notes_en": "uriththathu (peeled)",
+      "notes_en": "peeled",
       "display_order": 6
     },
     {
       "id": "kathirikkai-puli-kuzhambu-ingredient-7",
       "name_ta": "கருவேப்பிலை",
-      "name_en": "Karuvepilai",
+      "name_en": "Curry leaves",
       "quantity": null,
       "unit_ta": null,
       "unit_en": null,
@@ -100,7 +100,7 @@
     {
       "id": "kathirikkai-puli-kuzhambu-ingredient-8",
       "name_ta": "மசால், உப்பு, மஞ்சள்",
-      "name_en": "Masaal, Uppu, Manjal",
+      "name_en": "Masala, salt, turmeric",
       "quantity": null,
       "unit_ta": null,
       "unit_en": null,
@@ -111,18 +111,18 @@
     {
       "id": "kathirikkai-puli-kuzhambu-ingredient-9",
       "name_ta": "தேங்காய்",
-      "name_en": "Thengai",
+      "name_en": "Coconut",
       "quantity": "2 சில",
       "unit_ta": null,
       "unit_en": null,
       "notes_ta": "பால் எடுக்க",
-      "notes_en": "paal edukka (to extract milk)",
+      "notes_en": "to extract milk",
       "display_order": 9
     },
     {
       "id": "kathirikkai-puli-kuzhambu-ingredient-10",
       "name_ta": "புளி",
-      "name_en": "Puli",
+      "name_en": "Tamarind",
       "quantity": "எலுமிச்சம்பழ அளவு",
       "unit_ta": null,
       "unit_en": null,
@@ -136,7 +136,7 @@
       "id": "kathirikkai-puli-kuzhambu-instruction-1",
       "step_number": 1,
       "instruction_ta": "¼ கிலோ கத்திரிக்காயை நீளமாக வெட்டி வைக்கவும். குக்கரில் 4 கரண்டி எண்ணெய் ஊற்றி கடுகு உளுந்தம்பருப்பு போட்டு சிவந்ததும் வெட்டிய வெங்காயம் 6, கீறிய மிளகாய் 2, உரித்த பூண்டு 10 பல், கருவேப்பிலை போட்டு வதங்கியதும் கத்திரிக்காயை கழுவிப்போட்டு அரைத்த மசால், உப்பு, மஞ்சள் போட்டு சிறிது நேரம் தண்ணீரில் வேக வைத்து 2 சில தேங்காய் அரைத்து பால் எடுத்து ஊற்றி குக்கரை மூடி 5 நிமிஷம் வைத்திருந்து பின் திறந்து, சிறிய எலுமிச்சம்பழ அளவு புளியை நனைய வைத்து கரைத்து ஊற்றி குழம்பு நன்றாக கொதித்து கத்திரிக்காய் வெந்தது பார்த்து எண்ணெய் தெளிய இறக்கவும்.",
-      "instruction_en": "1/4 kilo kathirikkaiyai neeLamaaga vetti vaikkavum. Cooker-il 4 karandi ennai oorRi kadugu ulundham paruppu pottu sivanthathum vettiya vengayam 6, keeRiya milagai 2, uriththa poondu 10 pal, karuvepilai pottu vathangiyathum kathirikkaiyai kazhuvip pottu araitha masaal, uppu, manjal pottu siRithu neram thanneeril vega vaithu 2 sila thengai araithu paal eduthu oorRi cooker-ai moodi 5 nimisham vaithirunthu pin thiRanthu, siRiya elumichampazha aLavu puliyai naNaiya vaithu karaithu oorRi kuzhambu nanRaaga kothithu kathirikkai venthathu paarthu ennai theliya irakkavum.",
+      "instruction_en": "Cut ¼ kilo of brinjal lengthwise. Heat 4 ladles of oil in a pressure cooker, add mustard seeds and urad dal, and once they turn golden, add 6 sliced onions, 2 slit green chillies, 10 peeled garlic cloves and curry leaves. Once they soften, wash and add the brinjal along with the ground masala paste, salt and turmeric, and cook briefly in a little water. Grind 2 pieces of coconut, extract the milk, and pour it in. Close the cooker and let it sit for 5 minutes, then open it. Soak a lemon-sized ball of tamarind, dissolve it in water, and pour it in. Let the gravy boil well, and once the brinjal is cooked and the oil separates on top, remove from heat.",
       "image_url": null,
       "display_order": 1
     },
@@ -144,7 +144,7 @@
       "id": "kathirikkai-puli-kuzhambu-instruction-2",
       "step_number": 2,
       "instruction_ta": "1) ½ கிலோ கத்திரிக்காய்க்கு 2 முருங்கைக்காயும் 1 தக்காளிப் பழம் சேர்த்து குழம்பு வைக்கலாம். 2) 100 கத்திரிக்காய் 100 பாகற்காய் சேர்த்து புளிக்குழம்பு வைக்கலாம்.",
-      "instruction_en": "1) 1/2 kilo kathirikkaikku 2 murungaikkaaiyum 1 thakkaalip pazham serthu kuzhambu vaikkalaam. 2) 100 kathirikkai 100 pagarkai serthu puli kuzhambu vaikkalaam.",
+      "instruction_en": "1) For ½ kilo of brinjal, you can also add 2 drumsticks and 1 tomato to make the kuzhambu. 2) Puli kuzhambu can also be made using equal parts (100 each) of brinjal and bitter gourd.",
       "image_url": null,
       "display_order": 2
     }

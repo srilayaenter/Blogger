@@ -1,7 +1,7 @@
 {
   "slug": "kothumai-puttu",
   "title_ta": "கோதுமை புட்டு",
-  "title_en": "Kothumai Puttu",
+  "title_en": "Wheat Puttu",
   "description_ta": null,
   "description_en": null,
   "source_page_number": 23,
@@ -23,7 +23,7 @@
     {
       "id": "kothumai-puttu-ingredient-1",
       "name_ta": "கோதுமை",
-      "name_en": "Kothumai",
+      "name_en": "Wheat",
       "quantity": "500",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -34,7 +34,7 @@
     {
       "id": "kothumai-puttu-ingredient-2",
       "name_ta": "உப்பு",
-      "name_en": "Uppu",
+      "name_en": "Salt",
       "quantity": "சிறிதளவு",
       "unit_ta": null,
       "unit_en": null,
@@ -48,7 +48,7 @@
       "id": "kothumai-puttu-instruction-1",
       "step_number": 1,
       "instruction_ta": "கோதுமையை சுத்தம் செய்து நன்கு வறுத்த மிக்ஸியில் மாவாக திரித்து வைத்துக் கொள்ளவும். அந்த மாவில் சிறிது உப்பு நீர் விட்டு புட்டுக்கு விரவுவது போல் விரவி இட்லி பாத்திரத்தில் வைத்து அவிக்கலாம்.",
-      "instruction_en": "Kothumaiyai suththam seithu nangu varuththa mixiyil maavaaga thirithu vaithuk kollavum. Antha maavil siRithu uppu neer vittu puttukku viravuvathu pol viravi idli paathirathil vaithu avikkalaam.",
+      "instruction_en": "Clean the wheat, roast it well, and grind it into flour in a mixer. Sprinkle a little salted water into the flour and rub it in as you would for puttu, then steam it in an idli vessel.",
       "image_url": null,
       "display_order": 1
     },
@@ -56,7 +56,7 @@
       "id": "kothumai-puttu-instruction-2",
       "step_number": 2,
       "instruction_ta": "டிப்ஸ்: இதே போல் கம்பு புட்டு, கேழ்வரகு புட்டும் தயார் செய்யலாம்.",
-      "instruction_en": "Tips: Ithe pol kambu puttu, kezhvaragu puttum thayaar seyyalaam.",
+      "instruction_en": "Tips: Pearl millet puttu and finger millet puttu can also be made the same way.",
       "image_url": null,
       "display_order": 2
     }

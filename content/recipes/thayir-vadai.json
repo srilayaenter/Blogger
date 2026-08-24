@@ -1,7 +1,7 @@
 {
   "slug": "thayir-vadai",
   "title_ta": "தயிர் வடை",
-  "title_en": "Thayir Vadai",
+  "title_en": "Curd Vada",
   "description_ta": null,
   "description_en": null,
   "source_page_number": 7,
@@ -23,7 +23,7 @@
     {
       "id": "thayir-vadai-ingredient-1",
       "name_ta": "தயிர்",
-      "name_en": "Thayir",
+      "name_en": "Curd (yogurt)",
       "quantity": "200",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -34,7 +34,7 @@
     {
       "id": "thayir-vadai-ingredient-2",
       "name_ta": "தேங்காய்",
-      "name_en": "Thengai",
+      "name_en": "Coconut",
       "quantity": "1/4",
       "unit_ta": "மூடி",
       "unit_en": "Mudi",
@@ -45,7 +45,7 @@
     {
       "id": "thayir-vadai-ingredient-3",
       "name_ta": "பச்சை மிளகாய்",
-      "name_en": "Pachai Milagai",
+      "name_en": "Green chilli",
       "quantity": "3",
       "unit_ta": null,
       "unit_en": null,
@@ -56,7 +56,7 @@
     {
       "id": "thayir-vadai-ingredient-4",
       "name_ta": "கடுகு",
-      "name_en": "Kadugu",
+      "name_en": "Mustard seeds",
       "quantity": "1",
       "unit_ta": "டீஸ்பூன்",
       "unit_en": "Teaspoon",
@@ -67,7 +67,7 @@
     {
       "id": "thayir-vadai-ingredient-5",
       "name_ta": "உப்பு",
-      "name_en": "Uppu",
+      "name_en": "Salt",
       "quantity": "சிறிது",
       "unit_ta": null,
       "unit_en": null,
@@ -81,7 +81,7 @@
       "id": "thayir-vadai-instruction-1",
       "step_number": 1,
       "instruction_ta": "உளுந்து வடை தயார் செய்யவும். பிறகு, அதை வெந்நீரில் போட்டு, உடனே எடுத்து, தயிரில் போடவும். தேங்காய், பச்சை மிளகாய், உப்பு முதலியவற்றை மிக்சியில் அரைத்து தயிரில் கலக்கவும். அதனுடன் கடுகு தாளித்து கொட்டவும். 'தயிர் வடை ரெடி'",
-      "instruction_en": "Ulundhu vadai thayaar seyyavum. PiRagu, athai venneeril pottu, udane eduthu, thayiril podavum. Thengai, pachai milagai, uppu muthaliyavatRai mixiyil araithu thayiril kalakkavum. Athanudan kadugu thaalithu kottavum. 'Thayir vadai ready'",
+      "instruction_en": "Prepare urad dal vadai. Then drop it briefly into hot water and immediately transfer it into the curd. Grind the coconut, green chilli and salt together in a mixer and mix into the curd. Temper with mustard seeds and pour over. 'Curd vadai ready!'",
       "image_url": null,
       "display_order": 1
     }

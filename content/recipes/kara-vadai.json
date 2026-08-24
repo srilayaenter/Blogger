@@ -1,7 +1,7 @@
 {
   "slug": "kara-vadai",
   "title_ta": "கார வடை",
-  "title_en": "Kara Vadai",
+  "title_en": "Spicy Vada",
   "description_ta": null,
   "description_en": null,
   "source_page_number": 9,
@@ -23,7 +23,7 @@
     {
       "id": "kara-vadai-ingredient-1",
       "name_ta": "பச்சரிசி",
-      "name_en": "Pacharisi",
+      "name_en": "Raw rice",
       "quantity": "400",
       "unit_ta": "மி.லி.",
       "unit_en": "ml",
@@ -34,7 +34,7 @@
     {
       "id": "kara-vadai-ingredient-2",
       "name_ta": "உளுந்தம் பருப்பு",
-      "name_en": "Ulundham Paruppu",
+      "name_en": "Urad dal",
       "quantity": "100",
       "unit_ta": "மி.லி.",
       "unit_en": "ml",
@@ -45,7 +45,7 @@
     {
       "id": "kara-vadai-ingredient-3",
       "name_ta": "புழுங்கலரிசி",
-      "name_en": "Puzhungal Arisi",
+      "name_en": "Parboiled rice",
       "quantity": "25",
       "unit_ta": "மி.லி.",
       "unit_en": "ml",
@@ -56,7 +56,7 @@
     {
       "id": "kara-vadai-ingredient-4",
       "name_ta": "வற்றல்",
-      "name_en": "Vatral",
+      "name_en": "Dried red chilli",
       "quantity": "3",
       "unit_ta": null,
       "unit_en": null,
@@ -67,7 +67,7 @@
     {
       "id": "kara-vadai-ingredient-5",
       "name_ta": "பெருங்காயம்",
-      "name_en": "Perungayam",
+      "name_en": "Asafoetida",
       "quantity": null,
       "unit_ta": null,
       "unit_en": null,
@@ -78,12 +78,12 @@
     {
       "id": "kara-vadai-ingredient-6",
       "name_ta": "உப்பு, கடலை எண்ணெய்",
-      "name_en": "Uppu, Kadalai Ennai",
+      "name_en": "Salt, groundnut oil",
       "quantity": "சிறிது",
       "unit_ta": null,
       "unit_en": null,
       "notes_ta": "கலர் வேண்டுமாயின் பஜ்ஜிப் பொடி சேர்க்கவும்",
-      "notes_en": "colour vendumaayin bajjip podi serkkavum (add bajji flour if colour is wanted)",
+      "notes_en": "add bajji flour if colour is wanted",
       "display_order": 6
     }
   ],
@@ -92,7 +92,7 @@
       "id": "kara-vadai-instruction-1",
       "step_number": 1,
       "instruction_ta": "அரிசி இரண்டையும் ஒன்றாக நனைய வைக்கவும். உளுந்தை தனியாக நனைய வைக்கவும். அரிசியுடன் வற்றல், காயம், உப்பு சேர்த்து எண்ணெயை காய வைத்து குழிவான கரண்டியால் ஊற்றி சிவந்ததும் எடுக்கவும். விரும்பினால் பொடியாக நறுக்கிய வெங்காயம், மல்லிச் செடி, கருவேப்பிலை கலந்து சுடலாம்.",
-      "instruction_en": "Arisi irandaiyum onRaaga naNaiya vaikkavum. Ulundhai thaniyaaga naNaiya vaikkavum. Arisiyudan vatral, kaayam, uppu serthu ennaiyai kaaya vaithu kuzhivaana karandiyaal oorRi sivanthathum edukkavum. Virumbinaal podiyaaga narukkiya vengayam, mallichedi, karuvepilai kalanthu sudalaam.",
+      "instruction_en": "Soak both types of rice together. Soak the urad dal separately. Grind the rice with dried red chilli, asafoetida and salt. Heat oil, pour the batter using a perforated ladle, and remove once golden brown. If desired, finely chopped onion, coriander leaves and curry leaves can be mixed in before frying.",
       "image_url": null,
       "display_order": 1
     }

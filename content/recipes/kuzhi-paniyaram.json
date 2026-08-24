@@ -23,7 +23,7 @@
     {
       "id": "kuzhi-paniyaram-ingredient-1",
       "name_ta": "பச்சரிசி",
-      "name_en": "Pacharisi",
+      "name_en": "Raw rice",
       "quantity": "1",
       "unit_ta": "கப்",
       "unit_en": "Cup",
@@ -34,7 +34,7 @@
     {
       "id": "kuzhi-paniyaram-ingredient-2",
       "name_ta": "புழுங்கலரிசி",
-      "name_en": "Puzhungal Arisi",
+      "name_en": "Parboiled rice",
       "quantity": "1",
       "unit_ta": "கப்",
       "unit_en": "Cup",
@@ -45,10 +45,10 @@
     {
       "id": "kuzhi-paniyaram-ingredient-3",
       "name_ta": "உளுந்தம்பருப்பு",
-      "name_en": "Ulundham Paruppu",
+      "name_en": "Urad dal",
       "quantity": "1",
       "unit_ta": "மேஜைக்கரண்டி",
-      "unit_en": "Mejaikkarandi",
+      "unit_en": "Tablespoon",
       "notes_ta": null,
       "notes_en": null,
       "display_order": 3
@@ -56,7 +56,7 @@
     {
       "id": "kuzhi-paniyaram-ingredient-4",
       "name_ta": "தேங்காய்",
-      "name_en": "Thengai",
+      "name_en": "Coconut",
       "quantity": "1",
       "unit_ta": "முடி",
       "unit_en": "Mudi",
@@ -67,7 +67,7 @@
     {
       "id": "kuzhi-paniyaram-ingredient-5",
       "name_ta": "வெந்தயம்",
-      "name_en": "Venthayam",
+      "name_en": "Fenugreek seeds",
       "quantity": "சிறிது",
       "unit_ta": null,
       "unit_en": null,
@@ -78,7 +78,7 @@
     {
       "id": "kuzhi-paniyaram-ingredient-6",
       "name_ta": "உப்பு",
-      "name_en": "Uppu",
+      "name_en": "Salt",
       "quantity": "சிறிது",
       "unit_ta": null,
       "unit_en": null,
@@ -92,7 +92,7 @@
       "id": "kuzhi-paniyaram-instruction-1",
       "step_number": 1,
       "instruction_ta": "அரிசி உளுந்தம்பருப்பு, வெந்தயம் எல்லாவற்றையும் ஒன்றாக நனைய வைத்து, இரவு தோசை மாவு போல் ஆட்டி வைக்கவும். காலையில் தேங்காய்ப்பூ கலந்து குழிப்பணியாரம் சட்டியில் ஊற்றி வைக்கவும்.",
-      "instruction_en": "Arisi ulundham paruppu, venthayam ellaavatRaiyum onRaaga naNaiya vaithu, iravu thosai maavu pol aatti vaikkavum. Kaalaiyil thengaippoo kalanthu kuzhippaniyaaram sattiyil oorRi vaikkavum.",
+      "instruction_en": "Soak the rice, urad dal and fenugreek seeds together, and grind them at night into a batter like dosa batter. In the morning, mix in coconut pieces and pour the batter into a kuzhi paniyaram pan.",
       "image_url": null,
       "display_order": 1
     },
@@ -100,7 +100,7 @@
       "id": "kuzhi-paniyaram-instruction-2",
       "step_number": 2,
       "instruction_ta": "குறிப்பு: கருப்பட்டி கலந்தும் சுடலாம்.",
-      "instruction_en": "KuRippu: Karuppatti kalanthum sudalaam.",
+      "instruction_en": "Note: You can also mix in palm jaggery and make it this way.",
       "image_url": null,
       "display_order": 2
     }

@@ -23,7 +23,7 @@
     {
       "id": "idli-ingredient-1",
       "name_ta": "புழுங்கல் அரிசி",
-      "name_en": "Puzhungal Arisi",
+      "name_en": "Parboiled rice",
       "quantity": "300",
       "unit_ta": "மி.லி.",
       "unit_en": "ml",
@@ -34,7 +34,7 @@
     {
       "id": "idli-ingredient-2",
       "name_ta": "உளுந்தம் பருப்பு",
-      "name_en": "Ulundham Paruppu",
+      "name_en": "Urad dal",
       "quantity": "75",
       "unit_ta": "மி.லி.",
       "unit_en": "ml",
@@ -48,7 +48,7 @@
       "id": "idli-instruction-1",
       "step_number": 1,
       "instruction_ta": "அரிசி போடும் அளவிற்கு நாலில் ஒரு பாகம் உளுந்தம்பருப்பு போட வேண்டும். அரிசியை நன்றாகத் தண்ணீர் விட்டு நனைய வைத்து உரலில் இட்டு நன்றாக ஆட்டவும். உளுந்தபருப்பையும் நன்றாக நனைய வைத்து, அதையும் உரலில் இட்டு, தண்ணீர் தெளித்து வெண்ணெய் போல் ஆட்டவும். இரண்டு மாவுகளையும் உப்பு சேர்த்துக் கெட்டியாகப் பிசைந்து சுமார் 3 மணி நேரம் புளிக்க வைத்து, இட்லி தட்டிலிட்டு வேக வைக்கவும். இட்லி மாவையே தோசைக்கும் உபயோகப்படுத்தலாம். தோசைக்கு அரிசியின் அளவில் மூன்றில் ஒரு பாகம் உளுந்தம் பருப்பு போட்டால் தோசை மிகவும் மிருதுவாக இருக்கும். இட்லிக்கு உளுந்தம் பருப்பு புதிய பருப்பு என்றால் சற்று குறைத்துப் போட்டால் நல்லது.",
-      "instruction_en": "Arisi podum aLavirku naalil oru paagam ulundham paruppu poda vendum. Arisiyai nanRaagath thanneer vittu naNaiya vaithu uralil ittu nanRaaga aattavum. Ulundhaparuppaiyum nanRaaga naNaiya vaithu, athaiyum uralil ittu, thanneer thelithu vennai pol aattavum. Irandu maavugaLaiyum uppu serthuk kettiyaagap pisainthu sumaar 3 mani neram puLikka vaithu, idli thattilittu vega vaikkavum. Idli maavaiye thosaikkum upayogappaduthalaam. Thosaikku arisiyin aLavil moonRil oru paagam ulundham paruppu pottaal thosai migavum mirithuvaaga irukkum. Idlikku ulundham paruppu puthiya paruppu enRaal saRRu kuRaithup pottaal nallathu.",
+      "instruction_en": "For the quantity of rice used, add one-fourth that amount of urad dal. Soak the rice well in water, then grind it on the grinding stone until smooth. Soak the urad dal well too, grind it on the grinding stone, sprinkling in water, until it turns as fluffy as butter. Mix both batters with salt, knead into a thick batter, let it ferment for about 3 hours, then pour into idli plates and steam. The idli batter can also be used for making dosas. If you use one-third the quantity of urad dal to rice for dosa batter, the dosa will turn out very soft. If the urad dal is fresh, it is best to reduce its quantity slightly for idli.",
       "image_url": null,
       "display_order": 1
     }

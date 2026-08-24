@@ -1,7 +1,7 @@
 {
   "slug": "kondaikadalai-sundal",
   "title_ta": "கொண்டைக்கடலை சுண்டல்",
-  "title_en": "Kondaikadalai Sundal",
+  "title_en": "Chickpea Sundal",
   "description_ta": null,
   "description_en": null,
   "source_page_number": 20,
@@ -23,7 +23,7 @@
     {
       "id": "kondaikadalai-sundal-ingredient-1",
       "name_ta": "கொண்டைக்கடலை",
-      "name_en": "Kondaikadalai",
+      "name_en": "Chickpeas",
       "quantity": "200",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -34,7 +34,7 @@
     {
       "id": "kondaikadalai-sundal-ingredient-2",
       "name_ta": "மிளகாய் வற்றல்",
-      "name_en": "Milagai Vatral",
+      "name_en": "Dried red chilli",
       "quantity": "2",
       "unit_ta": null,
       "unit_en": null,
@@ -45,7 +45,7 @@
     {
       "id": "kondaikadalai-sundal-ingredient-3",
       "name_ta": "தேங்காய் துருவல்",
-      "name_en": "Thengai Thuruval",
+      "name_en": "Grated coconut",
       "quantity": "1",
       "unit_ta": "கப்",
       "unit_en": "Cup",
@@ -56,7 +56,7 @@
     {
       "id": "kondaikadalai-sundal-ingredient-4",
       "name_ta": "கடுகு, உளுந்தம்பருப்பு",
-      "name_en": "Kadugu, Ulundham Paruppu",
+      "name_en": "Mustard seeds, urad dal",
       "quantity": "தலா 1",
       "unit_ta": "டீஸ்பூன்",
       "unit_en": "Teaspoon",
@@ -67,7 +67,7 @@
     {
       "id": "kondaikadalai-sundal-ingredient-5",
       "name_ta": "உப்பு",
-      "name_en": "Uppu",
+      "name_en": "Salt",
       "quantity": "தேவையானது",
       "unit_ta": null,
       "unit_en": null,
@@ -78,7 +78,7 @@
     {
       "id": "kondaikadalai-sundal-ingredient-6",
       "name_ta": "பெருங்காயம்",
-      "name_en": "Perungayam",
+      "name_en": "Asafoetida",
       "quantity": "½",
       "unit_ta": "டீஸ்பூன்",
       "unit_en": "Teaspoon",
@@ -89,12 +89,12 @@
     {
       "id": "kondaikadalai-sundal-ingredient-7",
       "name_ta": "எண்ணெய்",
-      "name_en": "Ennai",
+      "name_en": "Oil",
       "quantity": null,
       "unit_ta": null,
       "unit_en": null,
       "notes_ta": "தாளிக்க",
-      "notes_en": "thaalikka (for tempering)",
+      "notes_en": "for tempering",
       "display_order": 7
     }
   ],
@@ -103,7 +103,7 @@
       "id": "kondaikadalai-sundal-instruction-1",
       "step_number": 1,
       "instruction_ta": "கடலையை முதல் நாள் இரவே ஊற வைத்துக் கொள்ளவும் அல்லது வெந்நீரில் 2 மணி நேரம் ஊற வைக்கவும். குக்கரில் கொண்டைக்கடலையை உப்பு சேர்த்து வேகவைத்து தண்ணீரை வடித்துக் கொள்ளவும். வாணலியில் எண்ணெய் ஊற்றி கடுகு, உளுந்தம் பருப்பு, பெருங்காயம் தாளித்து மிளகாய் வற்றல் சேர்த்து வதக்கி கடலையை கொட்டி கிளறவும். பின்பு தேங்காயைச் சேர்த்து, கிளறி பரிமாறவும்.",
-      "instruction_en": "Kadalaiyai muthal naaL iravey oora vaithuk kollavum allathu venneeril 2 mani neram oora vaikkavum. Cooker-il kondaikadalaiyai uppu serthu vega vaithu thanneerai vadithuk kollavum. Vaanaliyil ennai oorRi kadugu, ulundham paruppu, perungayam thaalithu milagai vatral serthu vathakki kadalaiyai kotti kilaRavum. Pinbu thengaiyaich serthu, kilaRi parimaaravum.",
+      "instruction_en": "Soak the chickpeas the night before, or soak them in hot water for 2 hours. Pressure-cook the chickpeas with salt, then drain the water. Heat oil in a pan, temper with mustard seeds, urad dal and asafoetida, add the dried red chilli and sauté. Add the chickpeas and stir. Then mix in the coconut, stir, and serve.",
       "image_url": null,
       "display_order": 1
     }

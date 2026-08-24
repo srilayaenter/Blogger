@@ -1,7 +1,7 @@
 {
   "slug": "bajji",
   "title_ta": "பஜ்ஜி",
-  "title_en": "Bajji",
+  "title_en": "Vegetable Fritters",
   "description_ta": null,
   "description_en": null,
   "source_page_number": 9,
@@ -23,7 +23,7 @@
     {
       "id": "bajji-ingredient-1",
       "name_ta": "பச்சரிசி",
-      "name_en": "Pacharisi",
+      "name_en": "Raw rice",
       "quantity": "400",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -34,7 +34,7 @@
     {
       "id": "bajji-ingredient-2",
       "name_ta": "உளுந்தம் பருப்பு",
-      "name_en": "Ulundham Paruppu",
+      "name_en": "Urad dal",
       "quantity": "100",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -45,7 +45,7 @@
     {
       "id": "bajji-ingredient-3",
       "name_ta": "உப்பு",
-      "name_en": "Uppu",
+      "name_en": "Salt",
       "quantity": "தேவைக்கேற்ப",
       "unit_ta": null,
       "unit_en": null,
@@ -56,7 +56,7 @@
     {
       "id": "bajji-ingredient-4",
       "name_ta": "வற்றல்",
-      "name_en": "Vatral",
+      "name_en": "Dried red chilli",
       "quantity": "4",
       "unit_ta": null,
       "unit_en": null,
@@ -67,7 +67,7 @@
     {
       "id": "bajji-ingredient-5",
       "name_ta": "காயம்",
-      "name_en": "Kayam",
+      "name_en": "Asafoetida",
       "quantity": "சிறிதளவு",
       "unit_ta": null,
       "unit_en": null,
@@ -78,7 +78,7 @@
     {
       "id": "bajji-ingredient-6",
       "name_ta": "பஜ்ஜிப்பொடி",
-      "name_en": "Bajjip Podi",
+      "name_en": "Bajji powder",
       "quantity": "1",
       "unit_ta": "சிட்டிகை",
       "unit_en": "Pinch",
@@ -92,7 +92,7 @@
       "id": "bajji-instruction-1",
       "step_number": 1,
       "instruction_ta": "அரிசியையும் பருப்பையும் தனித்தனியாக நனைய வைக்கவும். அரைமணி நேரம் நனைந்த பின் இட்லிக்கு ஆட்டுவது போல் நன்றாக ஆட்டி எடுக்கவும். பின் அரிசியை ஆட்டும் போது வற்றல், காயம், உப்பு சேர்த்து நன்றாக ஆட்டி பஜ்ஜிப் பொடியையும் உளுந்து மாவையும் சேர்த்து நன்றாகக் கலக்கவும். மாவு அதிகம் கெட்டியாக இல்லாமலும் இளக்கமாக இல்லாமலும் இருக்க வேண்டும். வாணலியில் எண்ணெயைக் காயவைத்து, பின் வாழைக்காய், கத்தரிக்காய், உருளைக்கிழங்கு பெரிய வெங்காயம், குடை மிளகாய், அப்பளம், பிரியப்பட்டதை வாழைக்காய் சீவும் உதவியால் வெட்டி மாவில் தோய்த்து காயும் எண்ணெயில் சுட்டு இரண்டு பக்கமும் சிவந்ததும் பஜ்ஜி மெதுவாக இல்லாவிட்டால் ஒரு சிட்டிகை சோடா உப்பு சேர்த்துக் கொள்ளலாம். ரொட்டியையும் பஜ்ஜி மாவில் தோய்த்து ரொட்டி பஜ்ஜி சுடலாம்.",
-      "instruction_en": "Arisiyaiyum paruppaiyum thanithaniyaaga naNaiya vaikkavum. Araimani neram naNainthai pin idlikku aattuvathu pol nanRaaga aatti edukkavum. Pin arisiyai aattum pothu vatral, kaayam, uppu serthu nanRaaga aatti bajjip podiyaiyum ulundhu maavaiyum serthu nanRaagak kalakkavum. Maavu athigam kettiyaaga illaamalum iLakkamaaga illaamalum irukka vendum. Vaanaliyil ennaiyaik kaayavaithu, pin vaazhaikkai, kathirikkai, urulaikizhangu periya vengayam, kudai milagai, appalam, piriyappattathai vaazhaikkai seevum uthaviyaal vetti maavil thoyithu kaayum ennaiyil suttu irandu pakkamum sivanthathum bajji methuvaaga illaavittaal oru sittigai soda uppu serthuk kollalaam. Rottiyaiyum bajji maavil thoyithu rotti bajji sudalaam.",
+      "instruction_en": "Soak the rice and dal separately. After soaking for half an hour, grind each smoothly the way you would idli batter. While grinding the rice, add dried red chilli, asafoetida and salt, grind well, then mix in the bajji powder and urad dal batter thoroughly. The batter should be neither too thick nor too thin. Heat oil in a pan. Slice raw banana, brinjal, potato, big onion, capsicum, or papad — whichever you prefer — using a peeler or knife, dip the slices in the batter, and deep-fry in the hot oil until golden brown on both sides. If the bajji doesn't turn out soft, you can add a pinch of baking soda to the batter. Bread can also be dipped in the bajji batter to make bread bajji.",
       "image_url": null,
       "display_order": 1
     }

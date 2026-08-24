@@ -1,7 +1,7 @@
 {
   "slug": "vendaikkai-puli-kuzhambu",
   "title_ta": "வெண்டைக்காய் புளிக்குழம்பு",
-  "title_en": "Vendaikkai Puli Kuzhambu",
+  "title_en": "Okra Tamarind Kuzhambu",
   "description_ta": null,
   "description_en": null,
   "source_page_number": 19,
@@ -23,7 +23,7 @@
     {
       "id": "vendaikkai-puli-kuzhambu-ingredient-1",
       "name_ta": "வெண்டைக்காய்",
-      "name_en": "Vendaikkai",
+      "name_en": "Okra",
       "quantity": "250",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -34,10 +34,10 @@
     {
       "id": "vendaikkai-puli-kuzhambu-ingredient-2",
       "name_ta": "எண்ணெய்",
-      "name_en": "Ennai",
+      "name_en": "Oil",
       "quantity": "2",
       "unit_ta": "கரண்டி",
-      "unit_en": "Karandi",
+      "unit_en": "Ladle",
       "notes_ta": null,
       "notes_en": null,
       "display_order": 2
@@ -45,7 +45,7 @@
     {
       "id": "vendaikkai-puli-kuzhambu-ingredient-3",
       "name_ta": "கடுகு, உளுந்தம்பருப்பு",
-      "name_en": "Kadugu, Ulundham Paruppu",
+      "name_en": "Mustard seeds, urad dal",
       "quantity": null,
       "unit_ta": null,
       "unit_en": null,
@@ -56,18 +56,18 @@
     {
       "id": "vendaikkai-puli-kuzhambu-ingredient-4",
       "name_ta": "வெங்காயம்",
-      "name_en": "Vengayam",
+      "name_en": "Onion",
       "quantity": "4",
       "unit_ta": null,
       "unit_en": null,
       "notes_ta": "நறுக்கியது",
-      "notes_en": "narukkiyathu (chopped)",
+      "notes_en": "chopped",
       "display_order": 4
     },
     {
       "id": "vendaikkai-puli-kuzhambu-ingredient-5",
       "name_ta": "பச்சை மிளகாய்",
-      "name_en": "Pachai Milagai",
+      "name_en": "Green chilli",
       "quantity": "1",
       "unit_ta": null,
       "unit_en": null,
@@ -78,7 +78,7 @@
     {
       "id": "vendaikkai-puli-kuzhambu-ingredient-6",
       "name_ta": "கருவேப்பிலை",
-      "name_en": "Karuvepilai",
+      "name_en": "Curry leaves",
       "quantity": null,
       "unit_ta": null,
       "unit_en": null,
@@ -89,18 +89,18 @@
     {
       "id": "vendaikkai-puli-kuzhambu-ingredient-7",
       "name_ta": "தேங்காய்",
-      "name_en": "Thengai",
+      "name_en": "Coconut",
       "quantity": "2 சில",
       "unit_ta": null,
       "unit_en": null,
       "notes_ta": "பால் எடுத்தது",
-      "notes_en": "paal eduthathu (milk extracted)",
+      "notes_en": "milk extracted",
       "display_order": 7
     },
     {
       "id": "vendaikkai-puli-kuzhambu-ingredient-8",
       "name_ta": "மசால், உப்பு, மஞ்சள்",
-      "name_en": "Masaal, Uppu, Manjal",
+      "name_en": "Masala, salt, turmeric",
       "quantity": null,
       "unit_ta": null,
       "unit_en": null,
@@ -111,7 +111,7 @@
     {
       "id": "vendaikkai-puli-kuzhambu-ingredient-9",
       "name_ta": "புளி",
-      "name_en": "Puli",
+      "name_en": "Tamarind",
       "quantity": "நெல்லிக்காயளவு",
       "unit_ta": null,
       "unit_en": null,
@@ -125,7 +125,7 @@
       "id": "vendaikkai-puli-kuzhambu-instruction-1",
       "step_number": 1,
       "instruction_ta": "250 கிராம் வெண்டைக்காயை சுத்தம் செய்து பெரிய வில்லைகளாக நறுக்கி 2 கரண்டி எண்ணெயில் கடுகு உளுந்தம்பருப்பு வெடித்ததும் நறுக்கிய 4 வெங்காயம், 1 பச்சை மிளகாய், கருவேப்பிலை சேர்த்து வதக்கவும். சிறிது வதங்கியதும் 2 சில தேங்காயை பால் எடுத்து அரைத்த மசால், உப்பு, மஞ்சள் கலந்து ஊற்றி கொதிக்க வைக்கவும். குழம்பு வற்றிவரும் போது நெல்லிக் காயளவு புளியைக் கரைத்து ஊற்றி கொதிக்க வைத்து எண்ணெய் தெளியவும் இறக்கவும்.",
-      "instruction_en": "250 grams vendaikkaiyai suththam seithu periya villaigaLaaga narukki 2 karandi ennaiyil kadugu ulundham paruppu vedithathum narukkiya 4 vengayam, 1 pachai milagai, karuvepilai serthu vathakkavum. SiRithu vathangiyathum 2 sila thengaiyai paal eduthu araitha masaal, uppu, manjal kalanthu oorRi kothikka vaikkavum. Kuzhambu vatRivarum pothu nellik kaayaLavu puliyaik karaithu oorRi kothikka vaithu ennai theliyavum irakkavum.",
+      "instruction_en": "Clean 250 grams of okra and cut into large pieces. Heat 2 ladles of oil, add mustard seeds and urad dal, and once they splutter, add 4 chopped onions, 1 green chilli and curry leaves, and sauté. Once slightly softened, extract milk from 2 pieces of coconut, mix in the ground masala, salt and turmeric, pour it in, and bring to a boil. As the gravy reduces, dissolve a gooseberry-sized ball of tamarind in water, pour it in, and let it boil until the oil separates on top, then remove from heat.",
       "image_url": null,
       "display_order": 1
     }

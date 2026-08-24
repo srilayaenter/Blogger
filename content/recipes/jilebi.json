@@ -23,7 +23,7 @@
     {
       "id": "jilebi-ingredient-1",
       "name_ta": "உளுந்தம்பருப்பு",
-      "name_en": "Ulundham Paruppu",
+      "name_en": "Urad dal",
       "quantity": "250",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -34,7 +34,7 @@
     {
       "id": "jilebi-ingredient-2",
       "name_ta": "அரிசி",
-      "name_en": "Arisi",
+      "name_en": "Rice",
       "quantity": "30",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -45,7 +45,7 @@
     {
       "id": "jilebi-ingredient-3",
       "name_ta": "சீனி",
-      "name_en": "Seeni",
+      "name_en": "Sugar",
       "quantity": "1",
       "unit_ta": "கிலோ",
       "unit_en": "Kilo",
@@ -56,7 +56,7 @@
     {
       "id": "jilebi-ingredient-4",
       "name_ta": "லெமன் கலர்பவுடர், ரோஸ் எசன்ஸ்",
-      "name_en": "Lemon Colour Powder, Rose Essence",
+      "name_en": "Lemon-yellow food colour, rose essence",
       "quantity": null,
       "unit_ta": null,
       "unit_en": null,
@@ -67,7 +67,7 @@
     {
       "id": "jilebi-ingredient-5",
       "name_ta": "டால்டா, நெய், அல்லது ரீபைண்ட் ஆயில்",
-      "name_en": "Dalda, Nei, Allathu Refined Oil",
+      "name_en": "Dalda, ghee, or refined oil",
       "quantity": null,
       "unit_ta": null,
       "unit_en": null,
@@ -81,7 +81,7 @@
       "id": "jilebi-instruction-1",
       "step_number": 1,
       "instruction_ta": "அகலமான பாத்திரத்தில் சீனியை போட்டு, தண்ணீர் ஊற்றி எசன்ஸ் கலர் சேர்த்து (தண்ணீர் சீனி மூழ்கும் வரை) அடுப்பில் வைக்கவும். அதே நேரம் உளுந்தம்பருப்பையும் அரிசியையும் சேர்த்து ஊறவைக்கவும். சீனிபாகு கம்பிபாதம் வந்தவுடன் இறக்கி வைக்கவும். பருப்பையும் அரிசியையும் தண்ணீர் லேசாகத் தொட்டுக்கொண்டு பொங்க ஆட்டவும். வாணலியில் டால்டா அல்லது நெய் ஊற்றி காய்ந்ததும் மாவு உரலில் ஆட்டிக்கொண்டு இருக்கும்போதே ஒரு கரண்டி மாவை எடுத்து ஜாங்கிரி பிழியும் ரெட்டியில் வைத்து கையால் அழுத்தி எண்ணெயில் சுற்றவும். நன்றாக சிவக்க வெந்ததும் எடுத்து சீனிப்பாகில் போடவும். ஒரு தடவைக்கு 4, 5, ஜிலேபி போடலாம். முதலில் போட்ட ஜிலேபியை எடுத்து தட்டி வைக்கவும். அடுத்தது பிழியலாம். சுவையான ஜிலேபி ரெடி. (மாவு குழைவாக இருந்தால் 1 கரண்டி மைதா மாவை சேர்க்கவும்.)",
-      "instruction_en": "Agalamaana paathirathil seeniyai pottu, thanneer oorRi essence colour serthu (thanneer seeni moozhgum varai) aduppil vaikkavum. Athe neram ulundham paruppaiyum arisiyaiyum serthu ooravaikkavum. Seenipaagu kambipaatham vanthavudan irakki vaikkavum. Paruppaiyum arisiyaiyum thanneer lesaagath thottukkondu ponga aattavum. Vaanaliyil dalda allathu nei oorRi kaainthathum maavu uralil aattikkondu irukkumbothe oru karandi maavai eduthu jaangiri pizhiyum reddy-il vaithu kaiyaal azhuthi ennaiyil suRRavum. NanRaaga sivakka venthathum eduthu seenippaagil podavum. Oru thadavaikku 4, 5, jilebi podalaam. Muthalil potta jilebiyai eduthu thatti vaikkavum. Adutthathu pizhiyalaam. Suvaiyaana jilebi ready. (Maavu kuzhaivaaga irunthaal 1 karandi maida maavai serkkavum.)",
+      "instruction_en": "Put the sugar in a wide vessel, add water and the essence colour (enough water to cover the sugar), and place it on the stove. At the same time, soak the urad dal and rice together. Once the sugar syrup reaches one-string consistency, remove from heat and set aside. Grind the soaked dal and rice together, sprinkling in a little water, until it rises light and frothy like whipped batter. Heat Dalda or ghee in a pan. While the batter is still being ground on the stone, take a ladle of it, put it in a jilebi piping cloth, press it with your hand, and pipe it in swirls into the oil. Once it is cooked and nicely golden, remove it and drop it into the sugar syrup. You can pipe 4 to 5 jilebis at a time — remove the first batch and set them aside flat before piping the next. Tasty jilebi is ready. (If the batter is too runny, add a ladle of maida flour.)",
       "image_url": null,
       "display_order": 1
     }

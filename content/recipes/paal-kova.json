@@ -1,7 +1,7 @@
 {
   "slug": "paal-kova",
   "title_ta": "பால்கோவா",
-  "title_en": "Paal Kova",
+  "title_en": "Milk Kova",
   "description_ta": null,
   "description_en": null,
   "source_page_number": 24,
@@ -23,7 +23,7 @@
     {
       "id": "paal-kova-ingredient-1",
       "name_ta": "ஆவின் பால்",
-      "name_en": "Aavin Paal",
+      "name_en": "Aavin milk",
       "quantity": "1",
       "unit_ta": "லிட்டர்",
       "unit_en": "Litre",
@@ -34,10 +34,10 @@
     {
       "id": "paal-kova-ingredient-2",
       "name_ta": "நெய்",
-      "name_en": "Nei",
+      "name_en": "Ghee",
       "quantity": "2",
       "unit_ta": "தேக்கரண்டி",
-      "unit_en": "Thekkarandi",
+      "unit_en": "Teaspoon",
       "notes_ta": null,
       "notes_en": null,
       "display_order": 2
@@ -45,7 +45,7 @@
     {
       "id": "paal-kova-ingredient-3",
       "name_ta": "சீனி",
-      "name_en": "Seeni",
+      "name_en": "Sugar",
       "quantity": "250",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -59,7 +59,7 @@
       "id": "paal-kova-instruction-1",
       "step_number": 1,
       "instruction_ta": "கனமான பாத்திரத்தில் பாலை ஊற்றி நன்கு வத்தக் காய்ச்சி பால் நன்கு காய்ச்சி கெட்டியாக வரும் போது சீனியை போட்டு சிறிது நேரம் கிளறி. நெய் ஊற்றி திரண்டு வரும் போது இறக்கவும். சுவையான பால்கோவா ரெடி.",
-      "instruction_en": "Kanamaana paathirathil paalai oorRi nangu vaththak kaaichi paal nangu kaaichi kettiyaaga varum pothu seeniyai pottu siRithu neram kilaRi. Nei oorRi thirandu varum pothu irakkavum. Suvaiyaana paal kova ready.",
+      "instruction_en": "Pour the milk into a heavy vessel and boil it down well until it thickens. Once it thickens, add the sugar and stir for a while. Pour in the ghee, and once it comes together into a thick mass, remove from heat. Tasty paal kova is ready.",
       "image_url": null,
       "display_order": 1
     }

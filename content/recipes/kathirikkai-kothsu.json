@@ -1,7 +1,7 @@
 {
   "slug": "kathirikkai-kothsu",
   "title_ta": "கத்தரிக்காய் கொத்சு",
-  "title_en": "Kathirikkai Kothsu",
+  "title_en": "Brinjal Kothsu",
   "description_ta": null,
   "description_en": null,
   "source_page_number": 18,
@@ -23,7 +23,7 @@
     {
       "id": "kathirikkai-kothsu-ingredient-1",
       "name_ta": "பெரிய கத்தரிக்காய்",
-      "name_en": "Periya Kathirikkai",
+      "name_en": "Large brinjal",
       "quantity": "200",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -34,10 +34,10 @@
     {
       "id": "kathirikkai-kothsu-ingredient-2",
       "name_ta": "நல்லெண்ணெய்",
-      "name_en": "Nallennai",
+      "name_en": "Sesame oil",
       "quantity": "2",
       "unit_ta": "தேக்கரண்டி",
-      "unit_en": "Thekkarandi",
+      "unit_en": "Teaspoon",
       "notes_ta": null,
       "notes_en": null,
       "display_order": 2
@@ -45,10 +45,10 @@
     {
       "id": "kathirikkai-kothsu-ingredient-3",
       "name_ta": "கடுகு",
-      "name_en": "Kadugu",
+      "name_en": "Mustard seeds",
       "quantity": "¼",
       "unit_ta": "தேக்கரண்டி",
-      "unit_en": "Thekkarandi",
+      "unit_en": "Teaspoon",
       "notes_ta": null,
       "notes_en": null,
       "display_order": 3
@@ -56,10 +56,10 @@
     {
       "id": "kathirikkai-kothsu-ingredient-4",
       "name_ta": "குழம்புப்பொடி",
-      "name_en": "Kuzhambup Podi",
+      "name_en": "Kuzhambu powder",
       "quantity": "2",
       "unit_ta": "தேக்கரண்டி",
-      "unit_en": "Thekkarandi",
+      "unit_en": "Teaspoon",
       "notes_ta": null,
       "notes_en": null,
       "display_order": 4
@@ -67,7 +67,7 @@
     {
       "id": "kathirikkai-kothsu-ingredient-5",
       "name_ta": "வெங்காயம்",
-      "name_en": "Vengayam",
+      "name_en": "Onion",
       "quantity": "5",
       "unit_ta": null,
       "unit_en": null,
@@ -78,7 +78,7 @@
     {
       "id": "kathirikkai-kothsu-ingredient-6",
       "name_ta": "பச்சை மிளகாய்",
-      "name_en": "Pachai Milagai",
+      "name_en": "Green chilli",
       "quantity": "2",
       "unit_ta": null,
       "unit_en": null,
@@ -89,7 +89,7 @@
     {
       "id": "kathirikkai-kothsu-ingredient-7",
       "name_ta": "புளி",
-      "name_en": "Puli",
+      "name_en": "Tamarind",
       "quantity": "நெல்லிக்காயளவு",
       "unit_ta": null,
       "unit_en": null,
@@ -100,7 +100,7 @@
     {
       "id": "kathirikkai-kothsu-ingredient-8",
       "name_ta": "உப்பு, மஞ்சள் தூள்",
-      "name_en": "Uppu, Manjal Thool",
+      "name_en": "Salt, turmeric powder",
       "quantity": null,
       "unit_ta": null,
       "unit_en": null,
@@ -114,7 +114,7 @@
       "id": "kathirikkai-kothsu-instruction-1",
       "step_number": 1,
       "instruction_ta": "கத்தரிக்காயை சிறு துண்டுகளாக நறுக்கி, உப்பு மஞ்சள் தூள் மிளகாய் நறுக்கி போட்டு வேக வைத்து கடைந்து கொள்ளவும். புளியைக் கரைந்து, கரைசலில் குழம்புப் போட்டு சேர்த்து காயில் ஊற்றி இறக்கவும்.",
-      "instruction_en": "Kathirikkaiyai siRu thundugaLaaga narukki, uppu manjal thool milagai narukki pottu vega vaithu kadainthu kollavum. Puliyaik karainthu, karaisalil kuzhambup pottu serthu kaayil oorRi irakkavum.",
+      "instruction_en": "Cut the brinjal into small pieces and cook with salt, turmeric powder and chopped chillies, then mash well. Dissolve the tamarind in water, mix in the kuzhambu powder, pour this into the cooked brinjal, and remove from heat.",
       "image_url": null,
       "display_order": 1
     },
@@ -122,7 +122,7 @@
       "id": "kathirikkai-kothsu-instruction-2",
       "step_number": 2,
       "instruction_ta": "குறிப்பு: கத்தரிக்காயை தணலில் போட்டு சுட்டு தோலுரித்து பிசைந்தும் செய்யலாம்.",
-      "instruction_en": "KuRippu: Kathirikkaiyai thaNalil pottu suttu tholurithu pisainthum seyyalaam.",
+      "instruction_en": "Note: You can also roast the brinjal over embers, peel off the skin, and mash it this way.",
       "image_url": null,
       "display_order": 2
     }

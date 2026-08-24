@@ -1,7 +1,7 @@
 {
   "slug": "kathirikkai-masala",
   "title_ta": "கத்திரிக்காய் மசாலை",
-  "title_en": "Kathirikkai Masala",
+  "title_en": "Spiced Brinjal",
   "description_ta": null,
   "description_en": null,
   "source_page_number": 17,
@@ -23,7 +23,7 @@
     {
       "id": "kathirikkai-masala-ingredient-1",
       "name_ta": "கத்திரிக்காய்",
-      "name_en": "Kathirikkai",
+      "name_en": "Brinjal",
       "quantity": "½",
       "unit_ta": "கிலோ",
       "unit_en": "Kilo",
@@ -34,7 +34,7 @@
     {
       "id": "kathirikkai-masala-ingredient-2",
       "name_ta": "வெங்காயம்",
-      "name_en": "Vengayam",
+      "name_en": "Onion",
       "quantity": "100",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -45,7 +45,7 @@
     {
       "id": "kathirikkai-masala-ingredient-3",
       "name_ta": "தக்காளி",
-      "name_en": "Thakkali",
+      "name_en": "Tomato",
       "quantity": "100",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -56,7 +56,7 @@
     {
       "id": "kathirikkai-masala-ingredient-4",
       "name_ta": "மிளகாய்ப் பொடி",
-      "name_en": "Milagaip Podi",
+      "name_en": "Chilli powder",
       "quantity": "1",
       "unit_ta": "டேபிள் ஸ்பூன்",
       "unit_en": "Tablespoon",
@@ -67,7 +67,7 @@
     {
       "id": "kathirikkai-masala-ingredient-5",
       "name_ta": "மல்லிப் பொடி",
-      "name_en": "Mallip Podi",
+      "name_en": "Coriander powder",
       "quantity": "1",
       "unit_ta": "டேபிள் ஸ்பூன்",
       "unit_en": "Tablespoon",
@@ -78,7 +78,7 @@
     {
       "id": "kathirikkai-masala-ingredient-6",
       "name_ta": "மஞ்சள்தூள்",
-      "name_en": "Manjal Thool",
+      "name_en": "Turmeric powder",
       "quantity": "1",
       "unit_ta": "டீஸ்பூன்",
       "unit_en": "Teaspoon",
@@ -89,7 +89,7 @@
     {
       "id": "kathirikkai-masala-ingredient-7",
       "name_ta": "பட்டை, சோம்பு",
-      "name_en": "Pattai, Sombu",
+      "name_en": "Cinnamon, fennel seeds",
       "quantity": null,
       "unit_ta": null,
       "unit_en": null,
@@ -100,7 +100,7 @@
     {
       "id": "kathirikkai-masala-ingredient-8",
       "name_ta": "இலவங்கஇலை",
-      "name_en": "Ilavanga Ilai",
+      "name_en": "Cloves, bay leaf",
       "quantity": "தலா 1",
       "unit_ta": "டீஸ்பூன்",
       "unit_en": "Teaspoon",
@@ -111,7 +111,7 @@
     {
       "id": "kathirikkai-masala-ingredient-9",
       "name_ta": "எண்ணெய்",
-      "name_en": "Ennai",
+      "name_en": "Oil",
       "quantity": "50",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -122,7 +122,7 @@
     {
       "id": "kathirikkai-masala-ingredient-10",
       "name_ta": "உப்பு",
-      "name_en": "Uppu",
+      "name_en": "Salt",
       "quantity": "தேவையான அளவு",
       "unit_ta": null,
       "unit_en": null,
@@ -136,7 +136,7 @@
       "id": "kathirikkai-masala-instruction-1",
       "step_number": 1,
       "instruction_ta": "கத்தரிக்காயை நான்காக நறுக்கி தண்ணீரில் போட்டு வைக்கவும். வெங்காயம், தக்காளியைப் பொடியாக நறுக்கவும். வாணலியில் எண்ணெய் ஊற்றி, பட்டை, சோம்பு, இலவங்கம் தாளித்து அதில் வெங்காயம் சேர்த்துப் பொன்னிறமாக வதங்கியதும் தக்காளி சேர்த்துக் கிளறவும். கத்திரிக்காய் சேர்த்து மூன்று நிமிடம் வதக்கவும். பிறகு கால் டம்ளர் வெந்நீர் ஊற்றி வேக விடவும். தண்ணீர் நன்றாக வற்றியதும் அடுப்பிலிருந்து எடுக்கவும்.",
-      "instruction_en": "Kathirikkaiyai naankaaga narukki thanneeril pottu vaikkavum. Vengayam, thakkaaliyaip podiyaaga narukkavum. Vaanaliyil ennai oorRi, pattai, sombu, ilavangam thaalithu athil vengayam serthup ponniRamaaga vathangiyathum thakkaali serthuk kilaRavum. Kathirikkai serthu moonRu nimidam vathakkavum. PiRagu kaal dumbler venneer oorRi vega vidavum. Thanneer nanRaaga vatRiyathum aduppilirunthu edukkavum.",
+      "instruction_en": "Cut the brinjal into quarters and place it in water. Finely chop the onion and tomato. Heat oil in a pan, temper with cinnamon, fennel seeds and cloves, then add the onion and sauté until golden. Add the tomato and stir. Add the brinjal and sauté for three minutes. Then pour in a quarter tumbler of hot water and let it cook. Once the water has reduced well, remove from heat.",
       "image_url": null,
       "display_order": 1
     }

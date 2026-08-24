@@ -1,7 +1,7 @@
 {
   "slug": "kara-chutney",
   "title_ta": "கார சட்னி",
-  "title_en": "Kara Chutney",
+  "title_en": "Spicy Chutney",
   "description_ta": null,
   "description_en": null,
   "source_page_number": 11,
@@ -23,7 +23,7 @@
     {
       "id": "kara-chutney-ingredient-1",
       "name_ta": "உரித்த வெங்காயம்",
-      "name_en": "Uriththa Vengayam",
+      "name_en": "Peeled onion",
       "quantity": "1/16",
       "unit_ta": "படி",
       "unit_en": "Padi",
@@ -34,10 +34,10 @@
     {
       "id": "kara-chutney-ingredient-2",
       "name_ta": "நல்லெண்ணெய்",
-      "name_en": "Nallennai",
+      "name_en": "Sesame oil",
       "quantity": "4",
       "unit_ta": "தேக்கரண்டி",
-      "unit_en": "Thekkarandi",
+      "unit_en": "Teaspoon",
       "notes_ta": null,
       "notes_en": null,
       "display_order": 2
@@ -45,7 +45,7 @@
     {
       "id": "kara-chutney-ingredient-3",
       "name_ta": "வற்றல்",
-      "name_en": "Vatral",
+      "name_en": "Dried red chilli",
       "quantity": "25",
       "unit_ta": null,
       "unit_en": null,
@@ -56,7 +56,7 @@
     {
       "id": "kara-chutney-ingredient-4",
       "name_ta": "உப்பு",
-      "name_en": "Uppu",
+      "name_en": "Salt",
       "quantity": null,
       "unit_ta": null,
       "unit_en": null,
@@ -70,7 +70,7 @@
       "id": "kara-chutney-instruction-1",
       "step_number": 1,
       "instruction_ta": "வெங்காயம், வற்றல், உப்பு சேர்த்து அரைத்து இரும்புச் சட்டியில் நல்லெண்ணெய் ஊற்றி கடுகு, கருவேப்பிலை போட்டு தாளித்து அரைத்த விழுதை தண்ணீரில் கரைத்து எண்ணெயில் ஊற்றி நன்றாக கொதித்து கெட்டியாக வந்தவுடன் எண்ணெய்ப் பிரியவும் இறக்கவும்.",
-      "instruction_en": "Vengayam, vatral, uppu serthu araithu irumpuch sattiyil nallennai oorRi kadugu, karuvepilai pottu thaalithu araitha vizhuthai thanneeril karaithu ennaiyil oorRi nanRaaga kothithu kettiyaaga vanthavudan ennaiyip piriyavum irakkavum.",
+      "instruction_en": "Grind the onion, dried red chilli and salt together. Heat sesame oil in an iron pan, temper with mustard seeds and curry leaves, then dilute the ground paste with water and pour it into the oil. Let it boil well until it thickens and the oil separates on top, then remove from heat.",
       "image_url": null,
       "display_order": 1
     }

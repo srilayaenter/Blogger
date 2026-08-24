@@ -1,7 +1,7 @@
 {
   "slug": "inippu-vadai",
   "title_ta": "இனிப்பு வடை",
-  "title_en": "Inippu Vadai",
+  "title_en": "Sweet Vada",
   "description_ta": null,
   "description_en": null,
   "source_page_number": 9,
@@ -23,7 +23,7 @@
     {
       "id": "inippu-vadai-ingredient-1",
       "name_ta": "உளுந்தம் பருப்பு",
-      "name_en": "Ulundham Paruppu",
+      "name_en": "Urad dal",
       "quantity": "¼",
       "unit_ta": "கிலோ",
       "unit_en": "Kilo",
@@ -34,7 +34,7 @@
     {
       "id": "inippu-vadai-ingredient-2",
       "name_ta": "சீனி",
-      "name_en": "Seeni",
+      "name_en": "Sugar",
       "quantity": "400",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -48,7 +48,7 @@
       "id": "inippu-vadai-instruction-1",
       "step_number": 1,
       "instruction_ta": "¼ கிலோ உளுந்தம் பருப்பை ½ மணி நேரம் நனைய வைத்து, வடைக்கு ஆட்டிய மாதிரி ஆட்டி 400 கிராம் சீனியைப் பாகு காய்ச்சி இறக்கி வைக்கவும். மாவைச் சிறு உருண்டையாக உருட்டி எண்ணெயில் சுட்டு சீனிப்பாகில் ஊற வைத்து எடுத்துச் சாப்பிடலாம்.",
-      "instruction_en": "1/4 kilo ulundham paruppai 1/2 mani neram naNaiya vaithu, vadaikku aattiya maathiri aatti 400 grams seeniyaip paagu kaaichi irakki vaikkavum. Maavaich siRu urundaiyaaga urutti ennaiyil suttu seenippaagil oora vaithu eduthuch saappidalaam.",
+      "instruction_en": "Soak ¼ kilo of urad dal for ½ hour and grind it as you would for vada batter. Boil 400 grams of sugar into a syrup and set aside. Roll the batter into small balls, fry in oil, soak them in the sugar syrup, and then take them out to eat.",
       "image_url": null,
       "display_order": 1
     }

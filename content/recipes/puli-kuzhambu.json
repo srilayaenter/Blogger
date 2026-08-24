@@ -1,7 +1,7 @@
 {
   "slug": "puli-kuzhambu",
   "title_ta": "புளிக்குழம்பு",
-  "title_en": "Puli Kuzhambu",
+  "title_en": "Tamarind Kuzhambu",
   "description_ta": null,
   "description_en": null,
   "source_page_number": 19,
@@ -23,7 +23,7 @@
     {
       "id": "puli-kuzhambu-ingredient-1",
       "name_ta": "அவரைக்காய்",
-      "name_en": "Avaraikkai",
+      "name_en": "Broad beans",
       "quantity": "¼",
       "unit_ta": "கிலோ",
       "unit_en": "Kilo",
@@ -34,7 +34,7 @@
     {
       "id": "puli-kuzhambu-ingredient-2",
       "name_ta": "உப்பு, மஞ்சள்",
-      "name_en": "Uppu, Manjal",
+      "name_en": "Salt, turmeric",
       "quantity": null,
       "unit_ta": null,
       "unit_en": null,
@@ -45,7 +45,7 @@
     {
       "id": "puli-kuzhambu-ingredient-3",
       "name_ta": "வற்றல்",
-      "name_en": "Vatral",
+      "name_en": "Dried red chilli",
       "quantity": "4",
       "unit_ta": null,
       "unit_en": null,
@@ -56,10 +56,10 @@
     {
       "id": "puli-kuzhambu-ingredient-4",
       "name_ta": "சீரகம்",
-      "name_en": "Seeragam",
+      "name_en": "Cumin seeds",
       "quantity": "1",
       "unit_ta": "தேக்கரண்டி",
-      "unit_en": "Thekkarandi",
+      "unit_en": "Teaspoon",
       "notes_ta": null,
       "notes_en": null,
       "display_order": 4
@@ -67,7 +67,7 @@
     {
       "id": "puli-kuzhambu-ingredient-5",
       "name_ta": "தேங்காய்",
-      "name_en": "Thengai",
+      "name_en": "Coconut",
       "quantity": "2 சில",
       "unit_ta": null,
       "unit_en": null,
@@ -81,7 +81,7 @@
       "id": "puli-kuzhambu-instruction-1",
       "step_number": 1,
       "instruction_ta": "¼ கிலோ அவரைக்காயை உப்பு, மஞ்சள் சேர்த்து வேக வைத்து எடுத்துக்கொள்ளவும். 4 வற்றல், 1 தேக்கரண்டி சீரகம், 2 சில தேங்காய் அரைக்கவும். புளி மற்ற புளிக்குழம்புகளை விட குறைவாகப் போட்டு புளிக்குழம்பு தாளித முறைப்படி புளிக்கரைசலில் மசால் கலந்து தாளித்து வேக வைத்து அவரைக்காயைப் போட்டு குழம்பு எண்ணெய் தெளிய இறக்கவும்.",
-      "instruction_en": "1/4 kilo avaraikkaiyai uppu, manjal serthu vega vaithu eduthuk kollavum. 4 vatral, 1 thekkarandi seeragam, 2 sila thengai araikkavum. Puli maRRa puli kuzhambugaLai vida kuRaivaagap pottu puli kuzhambu thaalitha muRaippadi puli karaisalil masaal kalanthu thaalithu vega vaithu avaraikkaiyaip pottu kuzhambu ennai theliya irakkavum.",
+      "instruction_en": "Cook ¼ kilo of broad beans with salt and turmeric, then set aside. Grind 4 dried red chillies, 1 teaspoon cumin seeds, and 2 pieces of coconut into a paste. Use less tamarind than in other puli kuzhambu recipes. Following the usual method for tempering puli kuzhambu, mix the ground masala into the tamarind water, temper it, and let it cook. Add the broad beans and remove from heat once the gravy is done and the oil separates on top.",
       "image_url": null,
       "display_order": 1
     }

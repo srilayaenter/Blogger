@@ -1,7 +1,7 @@
 {
   "slug": "ulundu-vadai",
   "title_ta": "உளுந்து வடை",
-  "title_en": "Ulundhu Vadai",
+  "title_en": "Urad Dal Vada",
   "description_ta": null,
   "description_en": null,
   "source_page_number": 8,
@@ -23,7 +23,7 @@
     {
       "id": "ulundu-vadai-ingredient-1",
       "name_ta": "தோல் இல்லாத உளுந்தம் பருப்பு",
-      "name_en": "Thol Illaatha Ulundham Paruppu",
+      "name_en": "Skinned urad dal",
       "quantity": "250",
       "unit_ta": "மி.லி.",
       "unit_en": "ml",
@@ -34,7 +34,7 @@
     {
       "id": "ulundu-vadai-ingredient-2",
       "name_ta": "காயம்",
-      "name_en": "Kayam",
+      "name_en": "Asafoetida",
       "quantity": "சிறிது",
       "unit_ta": null,
       "unit_en": null,
@@ -45,7 +45,7 @@
     {
       "id": "ulundu-vadai-ingredient-3",
       "name_ta": "உப்பு",
-      "name_en": "Uppu",
+      "name_en": "Salt",
       "quantity": "தேவையான அளவு",
       "unit_ta": null,
       "unit_en": null,
@@ -56,18 +56,18 @@
     {
       "id": "ulundu-vadai-ingredient-4",
       "name_ta": "வெங்காயம்",
-      "name_en": "Vengayam",
+      "name_en": "Onion",
       "quantity": "50",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
       "notes_ta": "சிறியது, பொடியாக நறுக்கியது",
-      "notes_en": "siRiyathu, podiyaaga narukkiyathu (small, finely chopped)",
+      "notes_en": "small, finely chopped",
       "display_order": 4
     },
     {
       "id": "ulundu-vadai-ingredient-5",
       "name_ta": "பச்சை மிளகாய்",
-      "name_en": "Pachai Milagai",
+      "name_en": "Green chilli",
       "quantity": "6",
       "unit_ta": null,
       "unit_en": null,
@@ -78,7 +78,7 @@
     {
       "id": "ulundu-vadai-ingredient-6",
       "name_ta": "இஞ்சி",
-      "name_en": "Inji",
+      "name_en": "Ginger",
       "quantity": "சிறிது",
       "unit_ta": null,
       "unit_en": null,
@@ -89,7 +89,7 @@
     {
       "id": "ulundu-vadai-ingredient-7",
       "name_ta": "கருவேப்பிலை",
-      "name_en": "Karuvepilai",
+      "name_en": "Curry leaves",
       "quantity": null,
       "unit_ta": null,
       "unit_en": null,
@@ -100,7 +100,7 @@
     {
       "id": "ulundu-vadai-ingredient-8",
       "name_ta": "மல்லிச்செடி",
-      "name_en": "Mallichedi",
+      "name_en": "Coriander leaves",
       "quantity": null,
       "unit_ta": null,
       "unit_en": null,
@@ -111,7 +111,7 @@
     {
       "id": "ulundu-vadai-ingredient-9",
       "name_ta": "தட்டிய மிளகு",
-      "name_en": "Thattiya Milagu",
+      "name_en": "Crushed pepper",
       "quantity": null,
       "unit_ta": null,
       "unit_en": null,
@@ -122,12 +122,12 @@
     {
       "id": "ulundu-vadai-ingredient-10",
       "name_ta": "அரிசி மாவு",
-      "name_en": "Arisi Maavu",
+      "name_en": "Rice flour",
       "quantity": "1",
       "unit_ta": "மேஜைக் கரண்டி",
-      "unit_en": "Mejaik Karandi",
+      "unit_en": "Tablespoon",
       "notes_ta": "விருப்பப்படி",
-      "notes_en": "viruppappadi (optional)",
+      "notes_en": "optional",
       "display_order": 10
     }
   ],
@@ -136,7 +136,7 @@
       "id": "ulundu-vadai-instruction-1",
       "step_number": 1,
       "instruction_ta": "250 மி.லி. தோல் இல்லாத உளுந்தம் பருப்பை அரை மணி நேரம் நனைய வைத்து, சிறிது காயம் சேர்த்து அதிகம் இளக்கம் இல்லாமல் பொங்க ஆட்டித் தோண்டும் போது தேவையான உப்பு சேர்த்து இரண்டு சுற்று சுற்றி தோண்டி, சின்ன வெங்காயம் வட்டம் வட்டமாகப் பொடியாக நறுக்கியது 50 கிராம், பச்சைமிளகாய் 6, இஞ்சி சிறிது, கருவேப்பிலை, மல்லிச்செடி, தட்டிய மிளகு இவற்றைப் போட்டு கலந்து கொண்டு வாணலியில் ரீபெண்ட் ஆயிலைக் காய வைத்து இலையில் தண்ணீர் தடவி மாவில் சிறு உருண்டை எடுத்துத் தட்டி நடுவில் ஒரு துவாரம் செய்து எண்ணெய் காய்ந்ததும் வடையைப் போட்டு, வடைக் கம்பியால் திருப்பி விட்டு இரண்டு பக்கமும் சிவந்தவுடன் எடுக்கவும். மாவில் 1 மேஜைக் கரண்டி அரிசி மாவு கலந்து சுட்டால் வடை மொறு மொறுப்பாக இருக்கும்.",
-      "instruction_en": "250 ml thol illaatha ulundham paruppai arai mani neram naNaiya vaithu, siRithu kaayam serthu athigam iLakkam illaamal ponga aattith thondum pothu thevaiyaana uppu serthu irandu suRRu suRRi thondi, sinna vengayam vattam vattamaaga podiyaaga narukkiyathu 50 grams, pachaimilagai 6, inji siRithu, karuvepilai, mallichedi, thattiya milagu ivatRaip pottu kalanthu kondu vaanaliyil refined oil-ai kaaya vaithu ilaiyil thanneer thadavi maavil siRu urundai eduthuth thatti naduvil oru thuvaaram seythu ennai kaainthathum vadaiyaip pottu, vadaik kambiyaal thiruppi vittu irandu pakkamum sivanthavudan edukkavum. Maavil 1 mejaik karandi arisi maavu kalanthu suttaal vadai moRu moRuppaaga irukkum.",
+      "instruction_en": "Soak 250 ml of skinned urad dal for half an hour, add a little asafoetida, and grind without adding too much water so it rises light and fluffy. While grinding, add salt as needed and beat it around a couple more times. Mix in 50 grams of finely chopped small onions, 6 green chillies, a little ginger, curry leaves, coriander leaves and crushed pepper. Heat refined oil in a pan. Wet a leaf with water, take a small ball of the batter, flatten it, make a hole in the centre, and once the oil is hot, slide the vadai in. Flip it with a vadai stick and remove once golden brown on both sides. If you mix 1 tablespoon of rice flour into the batter before frying, the vadai will turn out extra crisp.",
       "image_url": null,
       "display_order": 1
     }

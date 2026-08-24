@@ -23,7 +23,7 @@
     {
       "id": "maida-paniyaram-ingredient-1",
       "name_ta": "மைதா மாவு",
-      "name_en": "Maida Maavu",
+      "name_en": "Maida flour (all-purpose flour)",
       "quantity": "2",
       "unit_ta": "கப்",
       "unit_en": "Cup",
@@ -34,7 +34,7 @@
     {
       "id": "maida-paniyaram-ingredient-2",
       "name_ta": "வாழைப்பழம்",
-      "name_en": "Vaazhaippazham",
+      "name_en": "Banana",
       "quantity": "1",
       "unit_ta": null,
       "unit_en": null,
@@ -45,7 +45,7 @@
     {
       "id": "maida-paniyaram-ingredient-3",
       "name_ta": "சீனி",
-      "name_en": "Seeni",
+      "name_en": "Sugar",
       "quantity": "1",
       "unit_ta": "கப்",
       "unit_en": "Cup",
@@ -56,7 +56,7 @@
     {
       "id": "maida-paniyaram-ingredient-4",
       "name_ta": "சுடுவதற்கு டால்டா",
-      "name_en": "Suduvathakku Dalda",
+      "name_en": "Dalda for frying",
       "quantity": null,
       "unit_ta": null,
       "unit_en": null,
@@ -70,7 +70,7 @@
       "id": "maida-paniyaram-instruction-1",
       "step_number": 1,
       "instruction_ta": "எல்லாச் சாமான்களையும் சிறிது நீர் சேர்த்து இளக்கமாய் பிசைந்து ¼ மணி நேரம் ஊற வைத்து விட வேண்டும். வாணலியில் எண்ணெயையை காய வைத்து ஒரு குழிக்கரண்டி மாவை ஊற்ற வேண்டும். பணியாரம் எழும்பியவுடன் திருப்பிப் போட்டு வெந்தது பார்த்து எடுக்க வேண்டும். விரும்பினால் 1 மேஜைக்கரண்டி ரவை சேர்த்து வாழைப்பழம் போடாமலும் சுடலாம்.",
-      "instruction_en": "Ellaach saamaangaLaiyum siRithu neer serthu iLakkamaai pisainthu 1/4 mani neram oora vaithu vida vendum. Vaanaliyil ennaiyaiyai kaaya vaithu oru kuzhikkarandi maavai oorRa vendum. Paniyaaram ezhumbiyavudan thiruppip pottu venthathu paarthu edukka vendum. Virumbinaal 1 mejaikkarandi ravai serthu vaazhaippazham podaamalum sudalaam.",
+      "instruction_en": "Mix all the ingredients with a little water and knead into a loose batter, then let it rest for ¼ hour. Heat oil in a paniyaram pan and pour a ladleful of batter into each mould. Once the paniyaram rises, flip it over and remove once cooked through. If you like, you can add 1 tablespoon of rava (semolina) and make it without the banana.",
       "image_url": null,
       "display_order": 1
     }

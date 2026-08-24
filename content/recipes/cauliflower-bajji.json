@@ -1,7 +1,7 @@
 {
   "slug": "cauliflower-bajji",
   "title_ta": "காலிப்பிளவர் பஜ்ஜி",
-  "title_en": "Cauliflower Bajji",
+  "title_en": "Cauliflower Fritters",
   "description_ta": null,
   "description_en": null,
   "source_page_number": 10,
@@ -34,7 +34,7 @@
     {
       "id": "cauliflower-bajji-ingredient-2",
       "name_ta": "கடலை எண்ணெய்",
-      "name_en": "Kadalai Ennai",
+      "name_en": "Groundnut oil",
       "quantity": "¼",
       "unit_ta": "லிட்டர்",
       "unit_en": "Litre",
@@ -45,7 +45,7 @@
     {
       "id": "cauliflower-bajji-ingredient-3",
       "name_ta": "பஜ்ஜி மாவு",
-      "name_en": "Bajji Maavu",
+      "name_en": "Bajji flour",
       "quantity": "200",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -56,7 +56,7 @@
     {
       "id": "cauliflower-bajji-ingredient-4",
       "name_ta": "உப்பு",
-      "name_en": "Uppu",
+      "name_en": "Salt",
       "quantity": "தேவையான அளவு",
       "unit_ta": null,
       "unit_en": null,
@@ -70,7 +70,7 @@
       "id": "cauliflower-bajji-instruction-1",
       "step_number": 1,
       "instruction_ta": "காலிபிளவர் நறுக்கி சுத்தம் செய்து வேக வைத்து எடுத்துக் கொள்ளவும். பஜ்ஜிமாவுடன் தேவையான அளவு தண்ணீரில் உப்பு சேர்த்து கரைத்துக் கொள்ளவும். வேக வைத்த காலிபிளவரை பஜ்ஜிமாவில் தோய்த்து எண்ணெயில் பொரித்து எடுத்தால் சுவையான பஜ்ஜி ரெடி. இதேமாதிரி வெங்காயம், அப்பளம், கத்தரிக்காய், வாழைக்காய் பஜ்ஜியும் தயார் செய்யலாம்.",
-      "instruction_en": "Cauliflower narukki suththam seithu vega vaithu eduthuk kollavum. Bajji maavudan thevaiyaana aLavu thanneeril uppu serthu karaithuk kollavum. Vega vaitha cauliflower-ai bajji maavil thoyithu ennaiyil porithu eduthaal suvaiyaana bajji ready. Ithemaathiri vengayam, appalam, kathirikkai, vaazhaikkai bajjiyum thayaar seyyalaam.",
+      "instruction_en": "Cut and clean the cauliflower, then parboil it. Mix the bajji flour with the required amount of water and salt to make a batter. Dip the parboiled cauliflower in the batter and deep-fry in oil to get tasty bajji. Onion, papad, brinjal, and raw banana bajji can also be prepared the same way.",
       "image_url": null,
       "display_order": 1
     }

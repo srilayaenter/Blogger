@@ -1,7 +1,7 @@
 {
   "slug": "ven-pongal",
   "title_ta": "வெண்பொங்கல்",
-  "title_en": "Ven Pongal",
+  "title_en": "Savory Rice and Lentil Pongal",
   "description_ta": null,
   "description_en": null,
   "source_page_number": 32,
@@ -23,7 +23,7 @@
     {
       "id": "ven-pongal-ingredient-1",
       "name_ta": "பச்சரிசி",
-      "name_en": "Pacharisi",
+      "name_en": "Raw rice",
       "quantity": "250",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -34,7 +34,7 @@
     {
       "id": "ven-pongal-ingredient-2",
       "name_ta": "நெய் அல்லது டால்டா",
-      "name_en": "Nei Allathu Dalda",
+      "name_en": "Ghee or Dalda",
       "quantity": "1",
       "unit_ta": "டீஸ்பூன்",
       "unit_en": "Teaspoon",
@@ -45,7 +45,7 @@
     {
       "id": "ven-pongal-ingredient-3",
       "name_ta": "தண்ணீர்",
-      "name_en": "Thanneer",
+      "name_en": "Water",
       "quantity": "600",
       "unit_ta": "மி.லி.",
       "unit_en": "ml",
@@ -56,7 +56,7 @@
     {
       "id": "ven-pongal-ingredient-4",
       "name_ta": "கருவேப்பிலை",
-      "name_en": "Karuvepilai",
+      "name_en": "Curry leaves",
       "quantity": "சிறிதளவு",
       "unit_ta": null,
       "unit_en": null,
@@ -67,7 +67,7 @@
     {
       "id": "ven-pongal-ingredient-5",
       "name_ta": "வறுத்த பாசிப்பருப்பு",
-      "name_en": "Varuththa Pasi Paruppu",
+      "name_en": "Roasted moong dal",
       "quantity": "50",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -78,7 +78,7 @@
     {
       "id": "ven-pongal-ingredient-6",
       "name_ta": "மிளகு, சீரகம்",
-      "name_en": "Milagu, Seeragam",
+      "name_en": "Pepper, cumin seeds",
       "quantity": "1",
       "unit_ta": "டீஸ்பூன்",
       "unit_en": "Teaspoon",
@@ -89,7 +89,7 @@
     {
       "id": "ven-pongal-ingredient-7",
       "name_ta": "முந்திரிபருப்பு",
-      "name_en": "Mundhiri Paruppu",
+      "name_en": "Cashew nuts",
       "quantity": "சிறிதளவு",
       "unit_ta": null,
       "unit_en": null,
@@ -100,7 +100,7 @@
     {
       "id": "ven-pongal-ingredient-8",
       "name_ta": "உப்பு",
-      "name_en": "Uppu",
+      "name_en": "Salt",
       "quantity": "சிறிதளவு",
       "unit_ta": null,
       "unit_en": null,
@@ -114,7 +114,7 @@
       "id": "ven-pongal-instruction-1",
       "step_number": 1,
       "instruction_ta": "ஒரு பாத்திரத்தில் 600 மி.லி. நீர் ஊற்றி அடுப்பில் வைத்து பச்சரிசியையும் பாசிப்பருப்பையும் கழைந்து போட்டு உப்பு போட்டு குழைய வேக வைத்து இறக்கவும். மற்றொரு சட்டியில் நெய் ஊற்றி காய்ந்ததும் மிளகு, சீரகம், முந்திரிப்பருப்பு, கறிவேப்பிலை போட்டு சிவக்க வறுத்தவுடன் சாதத்துடன் கலந்து கிளறிவிட்டு இரண்டு நிமிடம் அடுப்பில் வைத்து இறக்கவும்.",
-      "instruction_en": "Oru paathirathil 600 ml neer oorRi aduppil vaithu pacharisiyaiyum pasipparuppaiyum kazhainthu pottu uppu pottu kuzhaiya vega vaithu irakkavum. MatRoru sattiyil nei oorRi kaainthathum milagu, seeragam, mundhirip paruppu, karivepilai pottu sivakka varuththavudan saathathudan kalanthu kilaRivittu irandu nimidam aduppil vaithu irakkavum.",
+      "instruction_en": "Pour 600 ml of water into a pot, place it on the stove, wash and add the raw rice and moong dal, add salt, and cook until mushy, then remove from heat. In another pan, heat ghee, and once hot, add pepper, cumin seeds, cashew nuts and curry leaves, roast until golden, then mix into the rice and stir. Keep it on the stove for two more minutes, then remove from heat.",
       "image_url": null,
       "display_order": 1
     }

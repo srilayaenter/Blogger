@@ -1,7 +1,7 @@
 {
   "slug": "paal-paniyaram",
   "title_ta": "பால் பணியாரம்",
-  "title_en": "Paal Paniyaram",
+  "title_en": "Milk Paniyaram",
   "description_ta": null,
   "description_en": null,
   "source_page_number": 22,
@@ -23,7 +23,7 @@
     {
       "id": "paal-paniyaram-ingredient-1",
       "name_ta": "பச்சரிசி",
-      "name_en": "Pacharisi",
+      "name_en": "Raw rice",
       "quantity": "100",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -34,7 +34,7 @@
     {
       "id": "paal-paniyaram-ingredient-2",
       "name_ta": "உளுந்து",
-      "name_en": "Ulundhu",
+      "name_en": "Urad dal",
       "quantity": "75",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -45,7 +45,7 @@
     {
       "id": "paal-paniyaram-ingredient-3",
       "name_ta": "பசும்பால்",
-      "name_en": "Pasumpaal",
+      "name_en": "Fresh milk",
       "quantity": "200",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -56,7 +56,7 @@
     {
       "id": "paal-paniyaram-ingredient-4",
       "name_ta": "தேங்காய் பால்",
-      "name_en": "Thengai Paal",
+      "name_en": "Coconut milk",
       "quantity": "ஒரு",
       "unit_ta": "டம்ளர்",
       "unit_en": "Tumbler",
@@ -67,7 +67,7 @@
     {
       "id": "paal-paniyaram-ingredient-5",
       "name_ta": "சர்க்கரை",
-      "name_en": "Sarkkarai",
+      "name_en": "Sugar",
       "quantity": "100",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -78,7 +78,7 @@
     {
       "id": "paal-paniyaram-ingredient-6",
       "name_ta": "ஏலக்காய் பொடி",
-      "name_en": "Elakkai Podi",
+      "name_en": "Cardamom powder",
       "quantity": "சிறிதளவு",
       "unit_ta": null,
       "unit_en": null,
@@ -89,7 +89,7 @@
     {
       "id": "paal-paniyaram-ingredient-7",
       "name_ta": "பொரிக்க (எண்ணெய்)",
-      "name_en": "Porikka (Ennai)",
+      "name_en": "Oil (for frying)",
       "quantity": "தேவையான அளவு",
       "unit_ta": null,
       "unit_en": null,
@@ -103,7 +103,7 @@
       "id": "paal-paniyaram-instruction-1",
       "step_number": 1,
       "instruction_ta": "பச்சரிசியையும், உளுந்தையும் ஐந்து மணி நேரம் ஊற வைத்து, கிரைண்டரில் ஒரே சமயத்தில் போட்டு மை மாதிரி அரைக்கவும். இந்த மாவை சுண்டைக்காய் சைஸாக கிள்ளி எண்ணெயில் போட்டு பொறித்து எடுக்கவும். வெள்ளை நிறமாக பொறித்து எடுக்கவும். பொறித்து எடுத்த உருண்டைகளைக் கொதிக்கிற வெந்நீரில் போட்டு, உடனே எடுத்து தயாராக வைத்திருக்கும் பாலில் போடவும். சுவையான பால் பணியாரம் ரெடி!",
-      "instruction_en": "Pacharisiyaiyum, ulundhaiyum ainthu mani neram oora vaithu, grinder-il ore samayathil pottu mai maathiri araikkavum. Intha maavai sundaikkai size-aaga kiLLi ennaiyil pottu poRithu edukkavum. VeLLai niRamaaga poRithu edukkavum. PoRithu eduththa urundaigaLaik kothikkiRa venneeril pottu, udane eduthu thayaaraaga vaithirukkum paalil podavum. Suvaiyaana paal paniyaram ready!",
+      "instruction_en": "Soak the raw rice and urad dal together for five hours, then grind them together in a grinder into a smooth, ink-like batter. Pinch off small, turkey-berry-sized portions of the batter and deep-fry in oil, frying only until pale — not browned. Drop the fried balls briefly into boiling water, then immediately transfer them into the prepared milk. Tasty milk paniyaram is ready!",
       "image_url": null,
       "display_order": 1
     },
@@ -111,7 +111,7 @@
       "id": "paal-paniyaram-instruction-2",
       "step_number": 2,
       "instruction_ta": "பால் செய்முறை: பசும் பாலைக் காய்ச்சி, இறக்குகிற சமயம் கடைசியாக தேங்காய்ப் பால் சேர்த்து இறக்கவும். அதில் சர்க்கரை, ஏலப்பொடி சேர்க்கவும்.",
-      "instruction_en": "Paal seymuRai: Pasum paalaik kaaichi, irakkukiRa samayam kadaisiyaaga thengaip paal serthu irakkavum. Athil sarkkarai, elapodi serkkavum.",
+      "instruction_en": "Milk preparation: Boil the fresh milk, and just before taking it off the heat, add the coconut milk last and remove from heat. Add sugar and cardamom powder to it.",
       "image_url": null,
       "display_order": 2
     }

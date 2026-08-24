@@ -23,7 +23,7 @@
     {
       "id": "pakoda-ingredient-1",
       "name_ta": "கடலை மாவு",
-      "name_en": "Kadalai Maavu",
+      "name_en": "Gram flour",
       "quantity": "400",
       "unit_ta": "கி.",
       "unit_en": "Grams",
@@ -34,7 +34,7 @@
     {
       "id": "pakoda-ingredient-2",
       "name_ta": "அரிசி மாவு",
-      "name_en": "Arisi Maavu",
+      "name_en": "Rice flour",
       "quantity": "100",
       "unit_ta": "கி.",
       "unit_en": "Grams",
@@ -45,10 +45,10 @@
     {
       "id": "pakoda-ingredient-3",
       "name_ta": "நெய்",
-      "name_en": "Nei",
+      "name_en": "Ghee",
       "quantity": "1",
       "unit_ta": "கரண்டி",
-      "unit_en": "Karandi",
+      "unit_en": "Ladle",
       "notes_ta": null,
       "notes_en": null,
       "display_order": 3
@@ -56,10 +56,10 @@
     {
       "id": "pakoda-ingredient-4",
       "name_ta": "எண்ணெய்",
-      "name_en": "Ennai",
+      "name_en": "Oil",
       "quantity": "1",
       "unit_ta": "கரண்டி",
-      "unit_en": "Karandi",
+      "unit_en": "Ladle",
       "notes_ta": null,
       "notes_en": null,
       "display_order": 4
@@ -67,7 +67,7 @@
     {
       "id": "pakoda-ingredient-5",
       "name_ta": "முந்திரிப்பருப்பு",
-      "name_en": "Mundhiri Paruppu",
+      "name_en": "Cashew nuts",
       "quantity": "25",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -78,10 +78,10 @@
     {
       "id": "pakoda-ingredient-6",
       "name_ta": "பூண்டு",
-      "name_en": "Poondu",
+      "name_en": "Garlic",
       "quantity": "4",
       "unit_ta": "பல்",
-      "unit_en": "Pal (cloves)",
+      "unit_en": "Cloves",
       "notes_ta": null,
       "notes_en": null,
       "display_order": 6
@@ -89,7 +89,7 @@
     {
       "id": "pakoda-ingredient-7",
       "name_ta": "சுடுவதற்கு எண்ணெய்",
-      "name_en": "Suduvathakku Ennai",
+      "name_en": "Oil for frying",
       "quantity": null,
       "unit_ta": null,
       "unit_en": null,
@@ -100,7 +100,7 @@
     {
       "id": "pakoda-ingredient-8",
       "name_ta": "வெங்காயம்",
-      "name_en": "Vengayam",
+      "name_en": "Onion",
       "quantity": "100",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -111,7 +111,7 @@
     {
       "id": "pakoda-ingredient-9",
       "name_ta": "பச்சை மிளகாய்",
-      "name_en": "Pachai Milagai",
+      "name_en": "Green chilli",
       "quantity": "8",
       "unit_ta": null,
       "unit_en": null,
@@ -122,7 +122,7 @@
     {
       "id": "pakoda-ingredient-10",
       "name_ta": "இஞ்சி",
-      "name_en": "Inji",
+      "name_en": "Ginger",
       "quantity": "சிறு துண்டு",
       "unit_ta": null,
       "unit_en": null,
@@ -133,7 +133,7 @@
     {
       "id": "pakoda-ingredient-11",
       "name_ta": "சோடா உப்பு",
-      "name_en": "Soda Uppu",
+      "name_en": "Baking soda",
       "quantity": "சிறிது",
       "unit_ta": null,
       "unit_en": null,
@@ -144,7 +144,7 @@
     {
       "id": "pakoda-ingredient-12",
       "name_ta": "கருவேப்பிலை",
-      "name_en": "Karuvepilai",
+      "name_en": "Curry leaves",
       "quantity": null,
       "unit_ta": null,
       "unit_en": null,
@@ -158,7 +158,7 @@
       "id": "pakoda-instruction-1",
       "step_number": 1,
       "instruction_ta": "ஒரு தாம்பாளத்தில் வெட்டிய வெங்காயம், மிளகாய், பூண்டு, இஞ்சி, நெய், எண்ணெய், உப்பு, சோடா உப்பு, போட்டு நுரைக்கத் தேய்த்து, பின் இரண்டு மாவு, முந்திரிப்பருப்பு போட்டு சிறு தண்ணீர் சேர்த்துத் தேய்த்து, கெட்டியாகப் பிசைந்து, எண்ணெயில் உதிர்த்து விட்டு சிவக்க வெந்ததும் எடுக்கவும்.",
-      "instruction_en": "Oru thaambaaLathil vettiya vengayam, milagai, poondu, inji, nei, ennai, uppu, soda uppu, pottu nuraikkath theyithu, pin irandu maavu, mundhiri paruppu pottu siRu thanneer serthuth theyithu, kettiyaagap pisainthu, ennaiyil udhirthu vittu sivakka venthathum edukkavum.",
+      "instruction_en": "In a wide tray, mix the chopped onion, chilli, garlic, ginger, ghee, oil, salt and baking soda, and rub together until it froths. Then add both flours and the cashew nuts, mix in a little water, and knead into a firm dough. Drop it into the oil in small pieces and remove once golden brown and cooked.",
       "image_url": null,
       "display_order": 1
     }

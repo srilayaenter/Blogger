@@ -1,7 +1,7 @@
 {
   "slug": "rava-kesari",
   "title_ta": "ரவா கேசரி",
-  "title_en": "Rava Kesari",
+  "title_en": "Semolina Kesari",
   "description_ta": null,
   "description_en": null,
   "source_page_number": 20,
@@ -23,7 +23,7 @@
     {
       "id": "rava-kesari-ingredient-1",
       "name_ta": "ரவை",
-      "name_en": "Ravai",
+      "name_en": "Semolina",
       "quantity": "200",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -34,7 +34,7 @@
     {
       "id": "rava-kesari-ingredient-2",
       "name_ta": "சர்க்கரை",
-      "name_en": "Sarkkarai",
+      "name_en": "Sugar",
       "quantity": "200",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -45,7 +45,7 @@
     {
       "id": "rava-kesari-ingredient-3",
       "name_ta": "நெய்",
-      "name_en": "Nei",
+      "name_en": "Ghee",
       "quantity": "150",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -56,7 +56,7 @@
     {
       "id": "rava-kesari-ingredient-4",
       "name_ta": "கேசரிப்பவுடர்",
-      "name_en": "Kesari Powder",
+      "name_en": "Kesari powder (orange food colouring)",
       "quantity": "சிறிதளவு",
       "unit_ta": null,
       "unit_en": null,
@@ -67,7 +67,7 @@
     {
       "id": "rava-kesari-ingredient-5",
       "name_ta": "ஏலக்காய்",
-      "name_en": "Elakkai",
+      "name_en": "Cardamom",
       "quantity": "4",
       "unit_ta": null,
       "unit_en": null,
@@ -78,7 +78,7 @@
     {
       "id": "rava-kesari-ingredient-6",
       "name_ta": "முந்திரிப்பருப்பு",
-      "name_en": "Mundhiri Paruppu",
+      "name_en": "Cashew nuts",
       "quantity": "10",
       "unit_ta": null,
       "unit_en": null,
@@ -92,7 +92,7 @@
       "id": "rava-kesari-instruction-1",
       "step_number": 1,
       "instruction_ta": "வாணலியில் ஒரு ஸ்பூன் நெய் விட்டு, ரவையை சிவக்க வறுக்கவும். முந்திரிப்பருப்பை நெய்யில் வறுத்து வைக்கவும். ரவையின் தரத்துக்கு தகுந்தபடி தண்ணீர் விட்டு கிளறவும். ரவை நன்கு வெந்ததும் சர்க்கரை போடவும். நன்கு இளகி கெட்டிப்படத் துவங்கும். கேசரி அடிபிடிக்காமல் இருக்க விடாமல் கிளற வேண்டும். கேசரி நன்கு சேர்ந்து வந்ததும், மீதமுள்ள நெய் விட்டு, கேசரி பவுடர் போட்டு கிளறி இறக்கவும். பின்னர் ஏலப்பொடி, வறுத்த முந்திரி ஆகியவற்றை சேர்க்கவும்.",
-      "instruction_en": "Vaanaliyil oru spoon nei vittu, ravaiyai sivakka varukkavum. Mundhiri paruppai neiyil varuthu vaikkavum. Ravaiyin tharaththukku thakunthapadi thanneer vittu kilaRavum. Ravai nangu venthathum sarkkarai podavum. Nangu iLagi kettippadath thuvangum. Kesari adipidikkaamal irukka vidaamal kilaRa vendum. Kesari nangu serthu vanthathum, meethamuLLa nei vittu, kesari powder pottu kilaRi irakkavum. PinnaR elapodi, varuththa mundhiri aagiyavatRai serkkavum.",
+      "instruction_en": "Heat a spoon of ghee in a pan and roast the semolina until golden. Fry the cashew nuts in ghee separately and set aside. Add water according to the quality of the semolina and stir. Once the semolina is well cooked, add the sugar. It will soften and then start to thicken. Keep stirring continuously so the kesari doesn't stick to the pan. Once it comes together well, add the remaining ghee and the kesari powder, stir, and remove from heat. Then add the cardamom powder and the fried cashew nuts.",
       "image_url": null,
       "display_order": 1
     }

@@ -1,7 +1,7 @@
 {
   "slug": "kara-sev",
   "title_ta": "காரச் சேவு",
-  "title_en": "Kara Sev",
+  "title_en": "Spicy Sev",
   "description_ta": null,
   "description_en": null,
   "source_page_number": 34,
@@ -23,7 +23,7 @@
     {
       "id": "kara-sev-ingredient-1",
       "name_ta": "கடலை மாவு",
-      "name_en": "Kadalai Maavu",
+      "name_en": "Gram flour",
       "quantity": "2",
       "unit_ta": "கிலோ",
       "unit_en": "Kilo",
@@ -34,7 +34,7 @@
     {
       "id": "kara-sev-ingredient-2",
       "name_ta": "டால்டா",
-      "name_en": "Dalda",
+      "name_en": "Dalda (vegetable shortening)",
       "quantity": "200",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -45,7 +45,7 @@
     {
       "id": "kara-sev-ingredient-3",
       "name_ta": "நல்லெண்ணெய்",
-      "name_en": "Nallennai",
+      "name_en": "Sesame oil",
       "quantity": "500",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -56,7 +56,7 @@
     {
       "id": "kara-sev-ingredient-4",
       "name_ta": "மிளகு பொடி",
-      "name_en": "Milagu Podi",
+      "name_en": "Pepper powder",
       "quantity": "சிறிதளவு",
       "unit_ta": null,
       "unit_en": null,
@@ -67,7 +67,7 @@
     {
       "id": "kara-sev-ingredient-5",
       "name_ta": "உப்பு",
-      "name_en": "Uppu",
+      "name_en": "Salt",
       "quantity": "சிறிதளவு",
       "unit_ta": null,
       "unit_en": null,
@@ -78,7 +78,7 @@
     {
       "id": "kara-sev-ingredient-6",
       "name_ta": "அரிசிமாவு",
-      "name_en": "Arisimaavu",
+      "name_en": "Rice flour",
       "quantity": "100",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -89,7 +89,7 @@
     {
       "id": "kara-sev-ingredient-7",
       "name_ta": "சோடா உப்பு",
-      "name_en": "Soda Uppu",
+      "name_en": "Baking soda",
       "quantity": "1",
       "unit_ta": "சிட்டிகை",
       "unit_en": "Pinch",
@@ -100,7 +100,7 @@
     {
       "id": "kara-sev-ingredient-8",
       "name_ta": "மிளகாய் தூள்",
-      "name_en": "Milagai Thool",
+      "name_en": "Chilli powder",
       "quantity": "10",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -111,7 +111,7 @@
     {
       "id": "kara-sev-ingredient-9",
       "name_ta": "பெருங்காயம்",
-      "name_en": "Perungayam",
+      "name_en": "Asafoetida",
       "quantity": "சிறிதளவு",
       "unit_ta": null,
       "unit_en": null,
@@ -122,7 +122,7 @@
     {
       "id": "kara-sev-ingredient-10",
       "name_ta": "வெள்ளபூடு பொடி",
-      "name_en": "Vellapoodu Podi",
+      "name_en": "[TRANSLATION REVIEW REQUIRED]",
       "quantity": "சிறிதளவு",
       "unit_ta": null,
       "unit_en": null,
@@ -136,7 +136,7 @@
       "id": "kara-sev-instruction-1",
       "step_number": 1,
       "instruction_ta": "கடலை மாவு அரிசிமாவுடன், மிளகாய்தூள், பெருங்காயம், பூடு மிளகுத்தூள் சேர்த்து கலந்து கொள்ளவும். உப்பு தண்ணீர் சேர்த்து கட்டியாக பிசைந்து வைத்துக் கொள்ளவும். வாணலியில் எண்ணெய் ஊற்றி நன்றாக காய்ந்ததும் காரச் சேவு தேய்க்கும் கரண்டியில் சிறிதளவு மாவை வைத்து நன்றாக அழுத்தி தேய்க்கவும். மற்றொரு கரண்டியால் சேவை திருப்பி விட்டு நன்றாக சிவந்ததும் எடுத்து எண்ணெய் வடிய வைக்கவும். (முறுக்கு குழலில் பிழிந்து தயார் செய்ததும் உதிரியாக்கி கொள்ளலாம்.)",
-      "instruction_en": "Kadalai maavu arisimaavudan, milagaithool, perungayam, poodu miladhuthool serthu kalanthu kollavum. Uppu thanneer serthu kattiyaaga pisainthu vaithuk kollavum. Vaanaliyil ennai oorRi nanRaaga kainthathum kara sev theykkum karandiyil siRithaLavu maavai vaithu nanRaaga azhuthi theykkavum. MatRoru karandiyaal sevai thiruppi vittu nanRaaga sivanthathum eduthu ennai vadiya vaikkavum. (Murukku kuzhalil pizhinthu thayaar seythathum udhiriyaakki kollalaam.)",
+      "instruction_en": "Mix the gram flour with the rice flour, chilli powder, asafoetida, and [TRANSLATION REVIEW REQUIRED — \"பூடு மிளகுத்தூள்\"]. Add salted water and knead into a firm dough. Heat oil in a pan; once it is well heated, place a little of the dough in the kara sev press and press it firmly through into the oil. Turn the sev over with another ladle, and once it is well browned, remove it and drain off the oil. (If pressed out through a murukku mould instead, it can be broken up loose once ready.)",
       "image_url": null,
       "display_order": 1
     }

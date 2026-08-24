@@ -1,7 +1,7 @@
 {
   "slug": "rava-barfi",
   "title_ta": "ரவை பர்பி",
-  "title_en": "Ravai Barfi",
+  "title_en": "Semolina Barfi",
   "description_ta": null,
   "description_en": null,
   "source_page_number": 26,
@@ -23,7 +23,7 @@
     {
       "id": "rava-barfi-ingredient-1",
       "name_ta": "வறுத்த பொடி ரவை",
-      "name_en": "Varuththa Podi Ravai",
+      "name_en": "Roasted fine semolina",
       "quantity": "100",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -34,7 +34,7 @@
     {
       "id": "rava-barfi-ingredient-2",
       "name_ta": "நெய்",
-      "name_en": "Nei",
+      "name_en": "Ghee",
       "quantity": "100",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -45,7 +45,7 @@
     {
       "id": "rava-barfi-ingredient-3",
       "name_ta": "ஏலம்",
-      "name_en": "Elam",
+      "name_en": "Cardamom",
       "quantity": "சிறிதளவு",
       "unit_ta": null,
       "unit_en": null,
@@ -56,7 +56,7 @@
     {
       "id": "rava-barfi-ingredient-4",
       "name_ta": "சீனி",
-      "name_en": "Seeni",
+      "name_en": "Sugar",
       "quantity": "400",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -67,7 +67,7 @@
     {
       "id": "rava-barfi-ingredient-5",
       "name_ta": "பால்",
-      "name_en": "Paal",
+      "name_en": "Milk",
       "quantity": "800",
       "unit_ta": "மி.லி.",
       "unit_en": "ml",
@@ -81,7 +81,7 @@
       "id": "rava-barfi-instruction-1",
       "step_number": 1,
       "instruction_ta": "வறுத்த ரவை மேலே கூறியுள்ள அனைத்து பொருடகளையும் சேர்த்து மைசூர்பாகு பதத்தில் கிளறி இறக்கி, நெய் தடவிய தட்டில் ஊற்றி ஒன்று போல் பரப்பி வில்லைகளாக போடவும். பின்னர் உடனே ரவை பர்பி ரெடி.",
-      "instruction_en": "Varuththa ravai mele kooRiyuLLa anaithu porudagaLaiyum serthu mysore paagu pathathil kilaRi irakki, nei thadaviya thattil oorRi onRu pol parappi villaigaLaaga podavum. PinnaR udane ravai barfi ready.",
+      "instruction_en": "Combine the roasted semolina with all the ingredients listed above, and stir over heat until it reaches Mysore-pak consistency, then remove from heat. Pour it onto a ghee-greased tray, spread evenly, and cut into pieces. The semolina barfi is then ready.",
       "image_url": null,
       "display_order": 1
     }

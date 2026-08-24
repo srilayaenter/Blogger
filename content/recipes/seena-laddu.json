@@ -23,7 +23,7 @@
     {
       "id": "seena-laddu-ingredient-1",
       "name_ta": "கடலை மாவு",
-      "name_en": "Kadalai Maavu",
+      "name_en": "Gram flour",
       "quantity": "200",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -34,7 +34,7 @@
     {
       "id": "seena-laddu-ingredient-2",
       "name_ta": "நெய்",
-      "name_en": "Nei",
+      "name_en": "Ghee",
       "quantity": "100",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -45,7 +45,7 @@
     {
       "id": "seena-laddu-ingredient-3",
       "name_ta": "முந்திரி, திராட்சை",
-      "name_en": "Mundhiri, Thiratchai",
+      "name_en": "Cashew nuts, raisins",
       "quantity": "25",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -56,7 +56,7 @@
     {
       "id": "seena-laddu-ingredient-4",
       "name_ta": "சீனி",
-      "name_en": "Seeni",
+      "name_en": "Sugar",
       "quantity": "250",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -67,7 +67,7 @@
     {
       "id": "seena-laddu-ingredient-5",
       "name_ta": "தேங்காய்",
-      "name_en": "Thengai",
+      "name_en": "Coconut",
       "quantity": "1",
       "unit_ta": "முடி",
       "unit_en": "Mudi",
@@ -78,10 +78,10 @@
     {
       "id": "seena-laddu-ingredient-6",
       "name_ta": "ஏலம்",
-      "name_en": "Elam",
+      "name_en": "Cardamom",
       "quantity": "3",
       "unit_ta": "எண்ணம்",
-      "unit_en": "Ennam (count)",
+      "unit_en": "Count",
       "notes_ta": null,
       "notes_en": null,
       "display_order": 6
@@ -92,7 +92,7 @@
       "id": "seena-laddu-instruction-1",
       "step_number": 1,
       "instruction_ta": "சீனியை நைசாக மிக்ஸியில் அடித்து வைத்துக் கொள்ள வேண்டும். தேங்காய்த்துருவலையும், முந்திரி பருப்பு, திராட்சையும் சேர்த்து நெய்யில் வறுத்து எடுக்க வேண்டும். வாணலியில் நெய்யை ஊற்றி நன்றாக சூடானதும், கடலைமாவை கொட்டி பச்சை வாசனை நீங்கும்படி வறுக்கவும். பின் அதோடு நைசாக சீனி, வறுத்த முந்திரி, திராட்சை, தேங்காய் துருவல் ஏலம்பொடி தூவி நன்றாக கிளற வேண்டும். பின்னர் அதை கீழே இறக்கி சிறு சிறு உருண்டைகளாக பிடித்து வைக்கவும். சுவையான சீனா லட்டு ரெடி.",
-      "instruction_en": "Seeniyai naisaaga mixiyil adithu vaithuk koLLa vendum. Thengaithuruvalaiyum, mundhiri paruppu, thiratchaiyum serthu neiyil varuthu eduka vendum. Vaanaliyil neiyai oorRi nanRaaga soodaanathum, kadalaimaavai kotti pachai vaasanai neengumpadi varukkavum. Pin athodu naisaaga seeni, varuththa mundhiri, thiratchai, thengai thuruval elampodi thoovi nanRaaga kilaRa vendum. PinnaR athai keezhe irakki siRu siRu urundaigaLaaga pidithu vaikkavum. Suvaiyaana seena laddu ready.",
+      "instruction_en": "Grind the sugar finely in a mixer and set aside. Fry the grated coconut, cashew nuts and raisins together in ghee and set aside. Heat ghee in a pan, and once it's well heated, add the gram flour and roast until the raw smell goes away. Then add the fine sugar, the fried cashew nuts, raisins, grated coconut and cardamom powder, and mix well. Remove from heat and shape into small balls while still warm. Tasty seena laddu is ready.",
       "image_url": null,
       "display_order": 1
     }

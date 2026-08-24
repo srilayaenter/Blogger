@@ -1,7 +1,7 @@
 {
   "slug": "pattani-sundal",
   "title_ta": "பட்டாணி சுண்டல்",
-  "title_en": "Pattani Sundal",
+  "title_en": "Dried Peas Sundal",
   "description_ta": null,
   "description_en": null,
   "source_page_number": 30,
@@ -23,7 +23,7 @@
     {
       "id": "pattani-sundal-ingredient-1",
       "name_ta": "காய்ந்த பட்டாணி",
-      "name_en": "Kainthai Pattani",
+      "name_en": "Dried peas",
       "quantity": "3",
       "unit_ta": "கப்",
       "unit_en": "Cup",
@@ -34,7 +34,7 @@
     {
       "id": "pattani-sundal-ingredient-2",
       "name_ta": "கடுகு",
-      "name_en": "Kadugu",
+      "name_en": "Mustard seeds",
       "quantity": "2",
       "unit_ta": "டீஸ்பூன்",
       "unit_en": "Teaspoon",
@@ -45,7 +45,7 @@
     {
       "id": "pattani-sundal-ingredient-3",
       "name_ta": "பெருங்காயம்",
-      "name_en": "Perungayam",
+      "name_en": "Asafoetida",
       "quantity": "2",
       "unit_ta": "சிட்டிகை",
       "unit_en": "Pinch",
@@ -56,7 +56,7 @@
     {
       "id": "pattani-sundal-ingredient-4",
       "name_ta": "கறிவேப்பிலை",
-      "name_en": "Karivepilai",
+      "name_en": "Curry leaves",
       "quantity": "சிறிதளவு",
       "unit_ta": null,
       "unit_en": null,
@@ -67,7 +67,7 @@
     {
       "id": "pattani-sundal-ingredient-5",
       "name_ta": "மிளகாய் வற்றல்",
-      "name_en": "Milagai Vatral",
+      "name_en": "Dried red chilli",
       "quantity": "6",
       "unit_ta": null,
       "unit_en": null,
@@ -78,7 +78,7 @@
     {
       "id": "pattani-sundal-ingredient-6",
       "name_ta": "தேங்காய்ப்பூ",
-      "name_en": "Thengaippoo",
+      "name_en": "Coconut pieces",
       "quantity": "¼",
       "unit_ta": "முடி",
       "unit_en": "Mudi",
@@ -89,7 +89,7 @@
     {
       "id": "pattani-sundal-ingredient-7",
       "name_ta": "உப்பு",
-      "name_en": "Uppu",
+      "name_en": "Salt",
       "quantity": "தேவையானது",
       "unit_ta": null,
       "unit_en": null,
@@ -100,7 +100,7 @@
     {
       "id": "pattani-sundal-ingredient-8",
       "name_ta": "எண்ணெய்",
-      "name_en": "Ennai",
+      "name_en": "Oil",
       "quantity": "2",
       "unit_ta": "டேபிள் ஸ்பூன்",
       "unit_en": "Tablespoon",
@@ -114,7 +114,7 @@
       "id": "pattani-sundal-instruction-1",
       "step_number": 1,
       "instruction_ta": "பட்டாணியை முதல்நாள் இரவே ஊறப் போடவும். மறுநாள் சுத்தமாக கழுவி, அதிகம் தண்ணீர் சேர்க்காமல் குக்கரில் 5 விசில் வரும் வரை வேக விடவும். தேங்காயை துருவிக் கொள்ளவும். வாணலியில் எண்ணெய் ஊற்றி கடுகு மிளகாய் வற்றல் போட்டு தாளிக்கவும். அதில் வெந்த பட்டாணியை கொட்டி தேவையான உப்பு போட்டுக் கிளறவும். பெருங்காயம் தூவவும். கறிவேப்பிலையை கிள்ளிப் போட்டு, தேங்காய்த் துருவல் சேர்த்து நன்கு கிளறி இறக்கவும்.",
-      "instruction_en": "Pattaaniyai muthalnaaL iravey ooRap podavum. MaRunaaL suththamaaga kazhuvi, athigam thanneer serkkaamal cooker-il 5 whistle varum varai vega vidavum. Thengaiyai thuruvik kollavum. Vaanaliyil ennai oorRi kadugu milagai vatral pottu thaalikkavum. Athil venthai pattaaniyai kotti thevaiyaana uppu pottuk kilaRavum. Perungayam thoovavum. Karivepilaiyai kiLLip pottu, thengaith thuruval serthu nangu kilaRi irakkavum.",
+      "instruction_en": "Soak the dried peas the night before. The next day, wash them clean and pressure-cook without adding much water until 5 whistles. Grate the coconut. Heat oil in a pan, temper with mustard seeds and dried red chilli. Add the cooked peas, add salt as needed, and stir. Sprinkle in the asafoetida. Add curry leaves, mix in the grated coconut, stir well, and remove from heat.",
       "image_url": null,
       "display_order": 1
     }

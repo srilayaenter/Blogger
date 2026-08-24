@@ -1,7 +1,7 @@
 {
   "slug": "murukkal-thosai",
   "title_ta": "முறுகல் தோசை",
-  "title_en": "Murukkal Thosai",
+  "title_en": "Crispy Dosa",
   "description_ta": null,
   "description_en": null,
   "source_page_number": 5,
@@ -23,7 +23,7 @@
     {
       "id": "murukkal-thosai-ingredient-1",
       "name_ta": "புழுங்கல் அரிசி",
-      "name_en": "Puzhungal Arisi",
+      "name_en": "Parboiled rice",
       "quantity": "300",
       "unit_ta": "மி.லி.",
       "unit_en": "ml",
@@ -34,23 +34,23 @@
     {
       "id": "murukkal-thosai-ingredient-2",
       "name_ta": "பச்சரிசி",
-      "name_en": "Pacharisi",
+      "name_en": "Raw rice",
       "quantity": "75",
       "unit_ta": "மி.லி.",
       "unit_en": "ml",
       "notes_ta": "மாகாணிப்படி",
-      "notes_en": "maagaanippadi (measured by the standard maakaani measure)",
+      "notes_en": "using the traditional maakaani measure",
       "display_order": 2
     },
     {
       "id": "murukkal-thosai-ingredient-3",
       "name_ta": "உளுந்தம்பருப்பு",
-      "name_en": "Ulundham Paruppu",
+      "name_en": "Urad dal",
       "quantity": "75",
       "unit_ta": "மி.லி.",
       "unit_en": "ml",
       "notes_ta": "மாகாணிப்படி",
-      "notes_en": "maagaanippadi (measured by the standard maakaani measure)",
+      "notes_en": "using the traditional maakaani measure",
       "display_order": 3
     }
   ],
@@ -59,7 +59,7 @@
       "id": "murukkal-thosai-instruction-1",
       "step_number": 1,
       "instruction_ta": "தோசைக்கு இட்லி மாவைப்போல் அல்லாமல் அரிசி மாவு மிகவும் நைசாக அரைத்தால் மொறுமொறுப்பாக நன்றாக இருக்கும். தனிப்பச்சரிசியிலும், உளுந்த மாவு மட்டும் கலந்து தோசை மாவு தயார் செய்யலாம். அரிசியுடன் 1 தேக்கரண்டி வெந்தயம் நனைய வைத்து ஆட்டினால் தோசை ஒட்டாமல் வரும்.",
-      "instruction_en": "Thosaikku idli maavaip pol allaamal arisi maavu migavum naisaaga araithaal moRumoRuppaaga nanRaaga irukkum. Thanip pacharisiyilum, ulundha maavu mattum kalanthu thosai maavu thayaar seyyalaam. Arisiyudan 1 thekkarandi venthayam naNaiya vaithu aattinaal thosai ottaamal varum.",
+      "instruction_en": "Unlike idli batter, grinding the rice flour very finely for dosa makes it come out crisp and delicious. Dosa batter can also be made using only raw rice mixed with urad dal batter. Soaking and grinding 1 teaspoon of fenugreek seeds along with the rice will keep the dosa from sticking to the pan.",
       "image_url": null,
       "display_order": 1
     }

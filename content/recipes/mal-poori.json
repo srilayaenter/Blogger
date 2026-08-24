@@ -23,7 +23,7 @@
     {
       "id": "mal-poori-ingredient-1",
       "name_ta": "மைதா மாவு",
-      "name_en": "Maida Maavu",
+      "name_en": "Maida flour (all-purpose flour)",
       "quantity": "2",
       "unit_ta": "கப்",
       "unit_en": "Cup",
@@ -34,7 +34,7 @@
     {
       "id": "mal-poori-ingredient-2",
       "name_ta": "அரிசி மாவு",
-      "name_en": "Arisi Maavu",
+      "name_en": "Rice flour",
       "quantity": "¼",
       "unit_ta": "கப்",
       "unit_en": "Cup",
@@ -45,7 +45,7 @@
     {
       "id": "mal-poori-ingredient-3",
       "name_ta": "சோடா உப்பு",
-      "name_en": "Soda Uppu",
+      "name_en": "Baking soda",
       "quantity": "1",
       "unit_ta": "சிட்டிகை",
       "unit_en": "Pinch",
@@ -56,10 +56,10 @@
     {
       "id": "mal-poori-ingredient-4",
       "name_ta": "கேசரிப்பவுடர்",
-      "name_en": "Kesari Powder",
+      "name_en": "Kesari powder (orange food colouring)",
       "quantity": "½",
       "unit_ta": "தேக்கரண்டி",
-      "unit_en": "Thekkarandi",
+      "unit_en": "Teaspoon",
       "notes_ta": null,
       "notes_en": null,
       "display_order": 4
@@ -67,7 +67,7 @@
     {
       "id": "mal-poori-ingredient-5",
       "name_ta": "தயிர்",
-      "name_en": "Thayir",
+      "name_en": "Curd (yogurt)",
       "quantity": "1",
       "unit_ta": "கப்",
       "unit_en": "Cup",
@@ -78,7 +78,7 @@
     {
       "id": "mal-poori-ingredient-6",
       "name_ta": "சீனி",
-      "name_en": "Seeni",
+      "name_en": "Sugar",
       "quantity": "2¼",
       "unit_ta": "கப்",
       "unit_en": "Cup",
@@ -89,7 +89,7 @@
     {
       "id": "mal-poori-ingredient-7",
       "name_ta": "சுடுவதற்கு டால்டா அல்லது எண்ணெய்",
-      "name_en": "Suduvathakku Dalda Allathu Ennai",
+      "name_en": "Dalda or oil for frying",
       "quantity": null,
       "unit_ta": null,
       "unit_en": null,
@@ -103,7 +103,7 @@
       "id": "mal-poori-instruction-1",
       "step_number": 1,
       "instruction_ta": "இரண்டு மாவுகளையும் கலந்து தயிர் சேர்த்து பணியார மாவு போல் சிறிது தண்ணீர் ஊற்றி கரைத்து வைத்துக் கொள்ளவும். சீனியில் மூழ்கும் வரை தண்ணீர் ஊற்றி கேசரி பவுடர் சேர்த்து, பாகு கம்பிப் பதமாக தயாரித்து வைத்துக் கொள்ளவும். வாணலியில் எண்ணெய் ஊற்றி காய்ந்ததும் கரைத்து வைத்திருக்கும் மாவில் ஒரு கரண்டி ஊற்றி வெந்ததும் எடுத்துச் சீனிப்பாகில் போட்டு பாகு குடித்ததும் எடுத்து வைக்கவும்.",
-      "instruction_en": "Irandu maavugaLaiyum kalanthu thayir serthu paniyaara maavu pol siRithu thanneer oorRi karaithu vaithuk kollavum. Seeniyil moozhgum varai thanneer oorRi kesari powder serthu, paagu kambip pathamaaga thayaarithu vaithuk kollavum. Vaanaliyil ennai oorRi kaainthathum karaithu vaithirukkum maavil oru karandi oorRi venthathum eduthuch seenippaagil pottu paagu kudithathum eduthu vaikkavum.",
+      "instruction_en": "Mix both flours together, add the curd, and dissolve with a little water to a paniyaram-batter consistency. Add enough water to cover the sugar, mix in the kesari powder, and prepare a one-string syrup. Heat oil in a pan; once hot, pour in a ladle of the batter and remove once cooked. Drop it into the sugar syrup, and once it has soaked up the syrup, take it out and set aside.",
       "image_url": null,
       "display_order": 1
     }

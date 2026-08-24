@@ -1,7 +1,7 @@
 {
   "slug": "vengaya-thool-pakoda",
   "title_ta": "வெங்காய தூள் பக்கடா",
-  "title_en": "Vengaya Thool Pakoda",
+  "title_en": "Shredded Onion Pakoda",
   "description_ta": null,
   "description_en": null,
   "source_page_number": 17,
@@ -23,7 +23,7 @@
     {
       "id": "vengaya-thool-pakoda-ingredient-1",
       "name_ta": "கடலை மாவு",
-      "name_en": "Kadalai Maavu",
+      "name_en": "Gram flour",
       "quantity": "1",
       "unit_ta": "கிலோ",
       "unit_en": "Kilo",
@@ -34,7 +34,7 @@
     {
       "id": "vengaya-thool-pakoda-ingredient-2",
       "name_ta": "கடலை எண்ணெய்",
-      "name_en": "Kadalai Ennai",
+      "name_en": "Groundnut oil",
       "quantity": "300",
       "unit_ta": "மில்லி",
       "unit_en": "ml",
@@ -45,7 +45,7 @@
     {
       "id": "vengaya-thool-pakoda-ingredient-3",
       "name_ta": "பெல்லாரி வெங்காயம்",
-      "name_en": "Bellari Vengayam",
+      "name_en": "Bellary onion",
       "quantity": "1½",
       "unit_ta": "கிலோ",
       "unit_en": "Kilo",
@@ -56,10 +56,10 @@
     {
       "id": "vengaya-thool-pakoda-ingredient-4",
       "name_ta": "சோடா உப்பு",
-      "name_en": "Soda Uppu",
+      "name_en": "Baking soda",
       "quantity": "½",
       "unit_ta": "தேக்கரண்டி",
-      "unit_en": "Thekkarandi",
+      "unit_en": "Teaspoon",
       "notes_ta": null,
       "notes_en": null,
       "display_order": 4
@@ -67,7 +67,7 @@
     {
       "id": "vengaya-thool-pakoda-ingredient-5",
       "name_ta": "மிளகாய்",
-      "name_en": "Milagai",
+      "name_en": "Chilli",
       "quantity": "25",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -78,12 +78,12 @@
     {
       "id": "vengaya-thool-pakoda-ingredient-6",
       "name_ta": "உப்பு",
-      "name_en": "Uppu",
+      "name_en": "Salt",
       "quantity": "தேவையானது",
       "unit_ta": null,
       "unit_en": null,
       "notes_ta": "சுடுவதற்கு எண்ணெய்",
-      "notes_en": "suduvathaRku ennai (plus oil for frying)",
+      "notes_en": "plus oil for frying",
       "display_order": 6
     }
   ],
@@ -92,7 +92,7 @@
       "id": "vengaya-thool-pakoda-instruction-1",
       "step_number": 1,
       "instruction_ta": "வெங்காயத்தை நீளமாக பொடியாக வெட்டவும். கடலை மாவில் சோடா உப்பு, உப்பு, வெட்டி வைத்திருக்கும் வெங்காயம் மிளகாய் கலந்து சிறிது தண்ணீர் சேர்த்து உதிரியாக பிசைந்து வைத்துக் கொண்டு எண்ணெயில் உதிர்த்துப் போட்டு சிவந்ததும் எடுக்கவும்.",
-      "instruction_en": "Vengayathai neeLamaaga podiyaaga vettavum. Kadalai maavil soda uppu, uppu, vetti vaithirukkum vengayam milagai kalanthu siRithu thanneer serthu uthiriyaaga pisainthu vaithuk kondu ennaiyil uthirthup pottu sivanthathum edukkavum.",
+      "instruction_en": "Cut the onion into thin, long strips. Mix the gram flour with baking soda, salt, the sliced onion and chilli, add a little water, and mix into a loose, crumbly dough. Drop it into the oil in small pieces and remove once golden brown.",
       "image_url": null,
       "display_order": 1
     }

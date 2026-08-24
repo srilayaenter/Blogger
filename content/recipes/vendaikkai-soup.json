@@ -1,7 +1,7 @@
 {
   "slug": "vendaikkai-soup",
   "title_ta": "வெண்டைக்காய் சூப்",
-  "title_en": "Vendaikkai Soup",
+  "title_en": "Okra Soup",
   "description_ta": null,
   "description_en": null,
   "source_page_number": 31,
@@ -23,7 +23,7 @@
     {
       "id": "vendaikkai-soup-ingredient-1",
       "name_ta": "வெண்டைக்காய்",
-      "name_en": "Vendaikkai",
+      "name_en": "Okra",
       "quantity": "¼",
       "unit_ta": "கிலோ",
       "unit_en": "Kilo",
@@ -34,7 +34,7 @@
     {
       "id": "vendaikkai-soup-ingredient-2",
       "name_ta": "தக்காளி",
-      "name_en": "Thakkali",
+      "name_en": "Tomato",
       "quantity": "1",
       "unit_ta": null,
       "unit_en": null,
@@ -45,7 +45,7 @@
     {
       "id": "vendaikkai-soup-ingredient-3",
       "name_ta": "பெரிய வெங்காயம்",
-      "name_en": "Periya Vengayam",
+      "name_en": "Big onion",
       "quantity": "1",
       "unit_ta": null,
       "unit_en": null,
@@ -56,7 +56,7 @@
     {
       "id": "vendaikkai-soup-ingredient-4",
       "name_ta": "மிளகு",
-      "name_en": "Milagu",
+      "name_en": "Pepper",
       "quantity": "6",
       "unit_ta": null,
       "unit_en": null,
@@ -67,7 +67,7 @@
     {
       "id": "vendaikkai-soup-ingredient-5",
       "name_ta": "பச்சை மிளகாய்",
-      "name_en": "Pachai Milagai",
+      "name_en": "Green chilli",
       "quantity": "1",
       "unit_ta": null,
       "unit_en": null,
@@ -78,7 +78,7 @@
     {
       "id": "vendaikkai-soup-ingredient-6",
       "name_ta": "மஞ்சள் தூள்",
-      "name_en": "Manjal Thool",
+      "name_en": "Turmeric powder",
       "quantity": "½",
       "unit_ta": "டீஸ்பூன்",
       "unit_en": "Teaspoon",
@@ -89,7 +89,7 @@
     {
       "id": "vendaikkai-soup-ingredient-7",
       "name_ta": "இலவங்கபட்டை இலை",
-      "name_en": "Ilavangapattai Ilai",
+      "name_en": "Cinnamon, bay leaf",
       "quantity": "சிறிதளவு",
       "unit_ta": null,
       "unit_en": null,
@@ -100,7 +100,7 @@
     {
       "id": "vendaikkai-soup-ingredient-8",
       "name_ta": "உப்பு",
-      "name_en": "Uppu",
+      "name_en": "Salt",
       "quantity": "தேவையான அளவு",
       "unit_ta": null,
       "unit_en": null,
@@ -111,7 +111,7 @@
     {
       "id": "vendaikkai-soup-ingredient-9",
       "name_ta": "எண்ணெய்",
-      "name_en": "Ennai",
+      "name_en": "Oil",
       "quantity": "தேவையான அளவு",
       "unit_ta": null,
       "unit_en": null,
@@ -122,10 +122,10 @@
     {
       "id": "vendaikkai-soup-ingredient-10",
       "name_ta": "கொத்தமல்லி",
-      "name_en": "Kothamalli",
+      "name_en": "Coriander leaves",
       "quantity": "1",
       "unit_ta": "கொத்து",
-      "unit_en": "Kothu (bunch)",
+      "unit_en": "Bunch",
       "notes_ta": null,
       "notes_en": null,
       "display_order": 10
@@ -133,7 +133,7 @@
     {
       "id": "vendaikkai-soup-ingredient-11",
       "name_ta": "துவரம் பருப்பு அல்லது பாசிப் பருப்பு",
-      "name_en": "Thuvaram Paruppu Allathu Pasi Paruppu",
+      "name_en": "Toor dal or moong dal",
       "quantity": "50",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -147,7 +147,7 @@
       "id": "vendaikkai-soup-instruction-1",
       "step_number": 1,
       "instruction_ta": "வாணலியில் எண்ணெய் ஊற்றி இலவங்கபட்டை, இலை, மிளகு, பச்சைமிளகாய், பெரிய வெங்காயம் சேர்த்து லேசாக வதக்கவும். பின்னர் மூன்று அங்குலமாக நறுக்கிய வெண்டைக்காயை சேர்த்து மிகவும் நன்றாக வதக்கவும். மூன்று டம்ளர் தண்ணீர் சேர்த்து வேக விடவும். மஞ்சள் தூள், தக்காளி, உப்பு சேர்த்து கலவையை நன்றாக கொதிக்க விடவும். வெண்டைக்காய் வெந்ததும், வேக வைத்து மசித்த பருப்பை இக்கலவையுடன் சேர்த்து நன்றாக கொதிக்க விட்டு இறக்கவும். கொத்தமல்லி இலை தூவி பரிமாறவும்.",
-      "instruction_en": "Vaanaliyil ennai oorRi ilavangapattai, ilai, milagu, pachaimilagai, periya vengayam serthu lesaaga vathakkavum. PinnaR moonRu angulamaaga narukkiya vendaikkaiyai serthu migavum nanRaaga vathakkavum. MoonRu dumbler thanneer serthu vega vidavum. Manjal thool, thakkali, uppu serthu kalavaiyai nanRaaga kothikka vidavum. Vendaikkai venthathum, vega vaithu masitha paruppai ikkalavaiyudan serthu nanRaaga kothikka vittu irakkavum. Kothamalli ilai thoovi parimaaravum.",
+      "instruction_en": "Heat oil in a pan, add cinnamon, bay leaf, pepper, green chilli and big onion, and sauté lightly. Then add the okra, cut into three-inch pieces, and sauté very well. Add three tumblers of water and let it cook. Add turmeric powder, tomato and salt, and let the mixture boil well. Once the okra is cooked, add the cooked and mashed dal to this mixture, let it boil well, and remove from heat. Sprinkle with coriander leaves and serve.",
       "image_url": null,
       "display_order": 1
     },
@@ -155,7 +155,7 @@
       "id": "vendaikkai-soup-instruction-2",
       "step_number": 2,
       "instruction_ta": "குறிப்பு: வெண்டைக்காயை வதக்கும் போது 1 ஸ்பூன் எலுமிச்சம் சாறு சேர்த்தால் சீக்கிரம் வதங்கி விடும். நூல்நூலாக வராது.",
-      "instruction_en": "KuRippu: Vendaikkaiyai vathakkum pothu 1 spoon elumicham saaRu serthaal seekiram vathangi vidum. Noolnoolaaga varaathu.",
+      "instruction_en": "Note: If you add 1 spoon of lemon juice while sautéing the okra, it will soften quickly and won't turn stringy or slimy.",
       "image_url": null,
       "display_order": 2
     }

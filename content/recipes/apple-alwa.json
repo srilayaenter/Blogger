@@ -1,7 +1,7 @@
 {
   "slug": "apple-alwa",
   "title_ta": "ஆப்பிள் அல்வா",
-  "title_en": "Apple Alwa",
+  "title_en": "Apple Halwa",
   "description_ta": null,
   "description_en": null,
   "source_page_number": 28,
@@ -28,13 +28,13 @@
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
       "notes_ta": "துருவியது",
-      "notes_en": "thuruviyathu (grated)",
+      "notes_en": "grated",
       "display_order": 1
     },
     {
       "id": "apple-alwa-ingredient-2",
       "name_ta": "கோதுமை மாவு",
-      "name_en": "Kothumai Maavu",
+      "name_en": "Wheat flour",
       "quantity": "200",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -45,7 +45,7 @@
     {
       "id": "apple-alwa-ingredient-3",
       "name_ta": "நெய்",
-      "name_en": "Nei",
+      "name_en": "Ghee",
       "quantity": "100",
       "unit_ta": "மில்லி",
       "unit_en": "ml",
@@ -56,7 +56,7 @@
     {
       "id": "apple-alwa-ingredient-4",
       "name_ta": "ஏலத்தாள்",
-      "name_en": "Elaththaal",
+      "name_en": "Cardamom powder",
       "quantity": "சிறிதளவு",
       "unit_ta": null,
       "unit_en": null,
@@ -67,7 +67,7 @@
     {
       "id": "apple-alwa-ingredient-5",
       "name_ta": "சீனி",
-      "name_en": "Seeni",
+      "name_en": "Sugar",
       "quantity": "400",
       "unit_ta": "கிராம்",
       "unit_en": "Grams",
@@ -78,7 +78,7 @@
     {
       "id": "apple-alwa-ingredient-6",
       "name_ta": "பால்",
-      "name_en": "Paal",
+      "name_en": "Milk",
       "quantity": "200",
       "unit_ta": "மில்லி",
       "unit_en": "ml",
@@ -89,7 +89,7 @@
     {
       "id": "apple-alwa-ingredient-7",
       "name_ta": "முந்திரிபருப்பு",
-      "name_en": "Mundhiri Paruppu",
+      "name_en": "Cashew nuts",
       "quantity": "சிறிதளவு",
       "unit_ta": null,
       "unit_en": null,
@@ -100,7 +100,7 @@
     {
       "id": "apple-alwa-ingredient-8",
       "name_ta": "கேசரி பவுடர்",
-      "name_en": "Kesari Powder",
+      "name_en": "Kesari powder (orange food colouring)",
       "quantity": "சிறிதளவு",
       "unit_ta": null,
       "unit_en": null,
@@ -114,7 +114,7 @@
       "id": "apple-alwa-instruction-1",
       "step_number": 1,
       "instruction_ta": "பாலில் ஆப்பிள் துருவியது போட்டு வேகவிடவும். நன்கு வெந்த பிறகு கையினால் மசிக்கவும். இதனுடன் கோதுமை மாவைக் கலந்து கரைத்து கேசரிபவுடர் சேர்த்து கிளறவும். சீனியையும் கலந்து சற்று இறுகியதும் நெய் சிறிது சிறிதாக கலந்து கிளறவும். அல்வாபதம் வந்ததும் முந்திரிபருப்பு ஏலக்காய்த்தூள் சேர்த்து இறக்கிவிடவும். இது சுவையாக இருக்கும். உடம்புக்கு சத்தானது.",
-      "instruction_en": "Paalil apple thuruviyathu pottu vegavidavum. Nangu venthapiRagu kaiyinaal masikkavum. Ithanudan kothumai maavaik kalanthu karaithu kesari powder serthu kilaRavum. Seeniyaiyum kalanthu saRRu iRugiyathum nei siRithu siRithaaga kalanthu kilaRavum. Alwaapatham vanthathum mundhiri paruppu elakkaithool serthu irakkivittavum. Ithu suvaiyaaga irukkum. Udampukku saththaanathu.",
+      "instruction_en": "Add the grated apple to the milk and cook. Once well cooked, mash it by hand. Mix in the wheat flour, dissolving it well, then add kesari powder and stir. Mix in the sugar, and once it thickens slightly, gradually add the ghee little by little, stirring continuously. When it reaches halwa consistency, add the cashew nuts and cardamom powder and remove from heat. This is delicious and nutritious.",
       "image_url": null,
       "display_order": 1
     }
