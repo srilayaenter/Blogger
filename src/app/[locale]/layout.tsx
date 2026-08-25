@@ -51,6 +51,9 @@ export async function generateMetadata({
       card: "summary_large_image",
       images: [image.url],
     },
+    verification: {
+      google: "Q8idzl2UZNNAr50igNOC_nEXwQ5RknQUhkG-qHyGUFk",
+    },
   };
 }
 
