@@ -166,5 +166,19 @@
     "name_en": "Fusion",
     "description_ta": null,
     "description_en": null
+  },
+  {
+    "slug": "pickle",
+    "name_ta": "ஊறுகாய்",
+    "name_en": "Pickle",
+    "description_ta": null,
+    "description_en": null
+  },
+  {
+    "slug": "puttu",
+    "name_ta": "புட்டு",
+    "name_en": "Puttu",
+    "description_ta": null,
+    "description_en": null
   }
 ]

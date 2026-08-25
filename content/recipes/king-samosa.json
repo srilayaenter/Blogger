@@ -1,0 +1,50 @@
+{
+  "slug": "king-samosa",
+  "title_ta": "கிங் சமோசா",
+  "title_en": "King Samosa",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 40,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-25T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["fried-snack"],
+  "ingredients": [
+    { "id": "king-samosa-ingredient-1", "name_ta": "மைதா மாவு", "name_en": "Maida (all-purpose flour)", "quantity": "125", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "king-samosa-ingredient-2", "name_ta": "வற்றல் பொடி", "name_en": "Dried-chili powder blend", "quantity": "1 1/2", "unit_ta": "தேக்கரண்டி", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "king-samosa-ingredient-3", "name_ta": "உருளைக்கிழங்கு", "name_en": "Potato", "quantity": "1/2", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "king-samosa-ingredient-4", "name_ta": "மஞ்சள் பொடி", "name_en": "Turmeric powder", "quantity": "1/4", "unit_ta": "தேக்கரண்டி", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "king-samosa-ingredient-5", "name_ta": "பச்சை பட்டாணி", "name_en": "Green peas", "quantity": "100", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "king-samosa-ingredient-6", "name_ta": "மல்லி இலை", "name_en": "Coriander leaves", "quantity": "25", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "king-samosa-ingredient-7", "name_ta": "கடலை எண்ணெய்", "name_en": "Groundnut oil", "quantity": "1/4", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": "for the dough and deep frying", "display_order": 7 },
+    { "id": "king-samosa-ingredient-8", "name_ta": "சிட்ரிக் ஆசிட்", "name_en": "Citric acid", "quantity": "1/2", "unit_ta": "தேக்கரண்டி", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "king-samosa-ingredient-9", "name_ta": "இஞ்சி", "name_en": "Ginger", "quantity": "சிறுதுண்டு", "unit_ta": null, "unit_en": "small piece", "notes_ta": null, "notes_en": null, "display_order": 9 },
+    { "id": "king-samosa-ingredient-10", "name_ta": "சீரகம்", "name_en": "Cumin seeds", "quantity": "1/2", "unit_ta": "தேக்கரண்டி", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 10 },
+    { "id": "king-samosa-ingredient-11", "name_ta": "கரம் மசாலா", "name_en": "Garam masala", "quantity": "1", "unit_ta": "தேக்கரண்டி", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 11 },
+    { "id": "king-samosa-ingredient-12", "name_ta": "முந்திரிப்பருப்பு", "name_en": "Cashew nuts", "quantity": "1", "unit_ta": "தேக்கரண்டி", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 12 },
+    { "id": "king-samosa-ingredient-13", "name_ta": "உலர்ந்த திராட்சை", "name_en": "Raisins", "quantity": "1", "unit_ta": "தேக்கரண்டி", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 13 },
+    { "id": "king-samosa-ingredient-14", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவையான அளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 14 },
+    { "id": "king-samosa-ingredient-15", "name_ta": "பச்சை மிளகாய்", "name_en": "Green chilies", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 15 }
+  ],
+  "instructions": [
+    {
+      "id": "king-samosa-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "உருளைக்கிழங்கை வேக வைத்து நன்றாக மசித்துக் கொள்ளவும். வேக வைத்த பட்டாணியுடன் வற்றல் பொடி, மஞ்சள் பொடி, தேவையான உப்பு, இஞ்சி, கரம் மசாலா, முந்திரிப்பருப்பு, உலர்ந்த திராட்சை, மல்லி இலை, பச்சை மிளகாய், சிட்ரிக் ஆசிட் எல்லாவற்றையும் கலந்து மசித்த உருளைக்கிழங்குடன் சேர்க்கவும். வாணலியில் 1 மேஜைக்கரண்டி எண்ணெய் விட்டு சீரகத்தைப் பொரித்து கலவையை வதக்கி பின்னர் ஆறவைக்கவும். பிறகு மைதா மாவுடன் 2 மேஜைக்கரண்டி எண்ணெயை விட்டு, தேவையான உப்பும் போட்டு தண்ணீர் விட்டுப் பிசைந்து கொள்ளவும். இந்த மாவை சுட்டு சப்பாத்திகளாக இட்டு ஒவ்வொன்றையும் இரண்டு பகுதிகளாக வெட்டிக் கொள்ளவும். ஒவ்வொரு பகுதியையும் கூம்பு வடிவமாக மடித்து உள்ளே உருளைக்கிழங்கு கலவையை நிரப்பி லேசாக விரலில் தண்ணீர் தொட்டு ஓரங்களை மடித்துக் கொள்ளவும். பின்பு மீதி பொன்நிறமாகப் பொரித்து எடுத்துக்கொள்ளவும்.",
+      "instruction_en": "Boil the potatoes and mash them well. Mix the cooked green peas with the dried-chili powder blend, turmeric powder, needed salt, ginger, garam masala, cashews, raisins, coriander leaves, green chilies, and citric acid, then combine with the mashed potato. In a pan, add 1 tablespoon of oil, roast the cumin seeds, sauté the mixture, and then let it cool. Next, to the maida flour add 2 tablespoons of oil, the needed salt, and water, and knead into a dough. Roll this dough out into chapatis and cut each one into two half-moon pieces. Fold each half into a cone shape and fill the inside with the potato mixture; lightly wet the edges with a fingertip dipped in water and fold to seal. Deep-fry the rest until golden brown and remove.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

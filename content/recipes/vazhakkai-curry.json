@@ -1,0 +1,43 @@
+{
+  "slug": "vazhakkai-curry",
+  "title_ta": "வாழைக்காய் குழம்பு",
+  "title_en": "Raw Banana Curry",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 37,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-25T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["curry"],
+  "ingredients": [
+    { "id": "vazhakkai-curry-ingredient-1", "name_ta": "வாழைக்காய்", "name_en": "Raw banana", "quantity": "2", "unit_ta": "எண்ணம்", "unit_en": "count", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "vazhakkai-curry-ingredient-2", "name_ta": "மஞ்சள்த் தூள்", "name_en": "Turmeric powder", "quantity": "1", "unit_ta": "ஸ்பூன்", "unit_en": "spoon", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "vazhakkai-curry-ingredient-3", "name_ta": "சோம்பு", "name_en": "Fennel seeds", "quantity": "1/2", "unit_ta": "ஸ்பூன்", "unit_en": "spoon", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "vazhakkai-curry-ingredient-4", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "சுவைக்கு ஏற்ப", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "vazhakkai-curry-ingredient-5", "name_ta": "மிளகாய்த்தூள்", "name_en": "Chili powder", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "teaspoon", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "vazhakkai-curry-ingredient-6", "name_ta": "சீரகத்தூள்", "name_en": "Cumin powder", "quantity": "1", "unit_ta": "கரண்டி", "unit_en": "ladle", "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "vazhakkai-curry-ingredient-7", "name_ta": "தேங்காய் துருவல்", "name_en": "Grated coconut", "quantity": "சிறிதளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "vazhakkai-curry-ingredient-8", "name_ta": "பூண்டு", "name_en": "Garlic", "quantity": "3", "unit_ta": "பற்கள்", "unit_en": "cloves", "notes_ta": null, "notes_en": null, "display_order": 8 }
+  ],
+  "instructions": [
+    {
+      "id": "vazhakkai-curry-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "வாழைக்காய் தோல் சீவிய பின் நீளமான துண்டுகளாக நறுக்கி கொள்ளவும். தேங்காய் துருவல், சோம்பு, பூண்டு ஆகியவற்றை விழுதாக அரைத்துக் கொள்ளவும். வாழைக்காய் துண்டுகளுடன் தேவையான தண்ணீர், உப்பு, மிளகாய்த்தூள், மஞ்சள்தூள் சேர்த்து வேக வைத்துக் கொள்ளவும். இத்துடன் அரைத்து வைத்த தேங்காய் கலவையை சேர்த்துக் கொள்ளவும். மிதமான தீயில் சில நிமிடங்கள் வைத்து இறக்கி பரிமாறவும்.",
+      "instruction_en": "Peel the raw banana skin and cut into long pieces. Grind the grated coconut, fennel seeds, and garlic together into a smooth paste. Cook the banana pieces with the needed water, salt, chili powder, and turmeric powder. Add the ground coconut mixture. Cook on medium heat for a few minutes, then remove from heat and serve.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

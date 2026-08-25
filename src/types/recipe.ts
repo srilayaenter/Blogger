@@ -60,6 +60,8 @@ export type RecipeContent = {
   categories: string[];
   ingredients: Ingredient[];
   instructions: Instruction[];
+  // Optional during migration; distinguishes egg recipes from vegetarian recipes.
+  dietary_type?: "vegetarian" | "egg" | "non-vegetarian";
 };
 
 /** What src/lib/content/loader.ts actually returns -- category slugs resolved to full objects. */

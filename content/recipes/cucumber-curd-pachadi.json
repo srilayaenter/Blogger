@@ -1,0 +1,40 @@
+{
+  "slug": "cucumber-curd-pachadi",
+  "title_ta": "வெள்ளரிக்காய் தயிர் பச்சடி",
+  "title_en": "Cucumber Curd Pachadi",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 42,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-25T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["poriyal"],
+  "ingredients": [
+    { "id": "cucumber-curd-pachadi-ingredient-1", "name_ta": "வெள்ளரிக்காய்", "name_en": "Cucumber", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "பெரிய சைஸ்", "notes_en": "large size; count not specified in source", "display_order": 1 },
+    { "id": "cucumber-curd-pachadi-ingredient-2", "name_ta": "தயிர்", "name_en": "Yogurt (curd)", "quantity": "1", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "cucumber-curd-pachadi-ingredient-3", "name_ta": "உப்பு", "name_en": "Salt", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "cucumber-curd-pachadi-ingredient-4", "name_ta": "கடுகு", "name_en": "Mustard seeds", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": "for tempering", "display_order": 4 },
+    { "id": "cucumber-curd-pachadi-ingredient-5", "name_ta": "பெருங்காயம்", "name_en": "Asafoetida", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": "for tempering", "display_order": 5 }
+  ],
+  "instructions": [
+    {
+      "id": "cucumber-curd-pachadi-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "பெரிய சைஸ் வெள்ளரிக்காயை தோல் நீக்கி துருவிக் கொள்ளவும். இதை ஒரு கப் தயிரில் போட்டு, உப்பு சேர்க்கவும். பின்னர் கடுகு, பெருங்காயம் தாளித்து கொட்டவும். இவற்றை ஒரு கலக்கு கலக்கவும். தயிர் பச்சடி ரெடி.",
+      "instruction_en": "Peel a large cucumber and grate it. Add this to a cup of yogurt and mix in salt. Then temper mustard seeds and asafoetida and pour it in. Give it all one good mix. The curd pachadi is ready.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "wheat-rava-pongal",
+  "title_ta": "கோதுமை ரவை பொங்கல்",
+  "title_en": "Wheat Rava Pongal",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 44,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-25T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["breakfast"],
+  "ingredients": [
+    { "id": "wheat-rava-pongal-ingredient-1", "name_ta": "சம்பா கோதுமை ரவை", "name_en": "Samba wheat rava (cracked wheat)", "quantity": "500", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "wheat-rava-pongal-ingredient-2", "name_ta": "நெய்", "name_en": "Ghee", "quantity": "3", "unit_ta": "தேக்கரண்டி", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "wheat-rava-pongal-ingredient-3", "name_ta": "பச்சை மிளகாய்", "name_en": "Green chilies", "quantity": "5", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "wheat-rava-pongal-ingredient-4", "name_ta": "கடுகு", "name_en": "Mustard seeds", "quantity": "1", "unit_ta": "தேக்கரண்டி", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "wheat-rava-pongal-ingredient-5", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவையான அளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "wheat-rava-pongal-ingredient-6", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": "2", "unit_ta": "தேக்கரண்டி", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "wheat-rava-pongal-ingredient-7", "name_ta": "பெரிய வெங்காயம்", "name_en": "Big onion", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "wheat-rava-pongal-ingredient-8", "name_ta": "தேங்காய் பால்", "name_en": "Coconut milk", "quantity": "3", "unit_ta": "டம்ளர்", "unit_en": "tumblers", "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "wheat-rava-pongal-ingredient-9", "name_ta": "கருவேப்பிலை", "name_en": "Curry leaves", "quantity": "சிறிதளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 9 }
+  ],
+  "instructions": [
+    {
+      "id": "wheat-rava-pongal-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "அடுப்பில் வாணலியை வைத்து 2 தேக்கரண்டி எண்ணெய் ஊற்றி சம்பா கோதுமை ரவையை வறுக்கவும். 1 தேங்காயிலிருந்து 3 டம்ளர் தேங்காய் பாலை எடுத்து வைத்துக் கொள்ளவும். வாணலியில் எண்ணெய் ஊற்றி கடுகு போட்டு தாளிக்கவும். வதக்கிய வெங்காயம், பச்சைமிளகாயை போட்டு தேங்காய் பாலை ஊற்றி உப்பு சேர்த்து கொதிக்க விடவும். கொதித்து வந்ததும் வறுத்த சம்பா கோதுமை ரவையை போட்டு கரண்டிக் இறக்கினால் சம்பா கோதுமை ரவை நன்றாக கிளறி விடவும். பின் நெய் ஊற்றிக் கிளறி சம்பா கோதுமை ரவை பொங்கல் ரெடி.",
+      "instruction_en": "Place a pan on the stove, pour in 2 tablespoons of oil, and roast the samba wheat rava. Extract 3 tumblers of coconut milk from one coconut and keep aside. In the pan, pour oil, add mustard seeds, and temper. Add sautéed onion and green chilies, then pour in the coconut milk, add salt, and bring to a boil. Once it boils, add the roasted wheat rava and stir well with a ladle. Then add the ghee and mix well — the wheat rava pongal is ready.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

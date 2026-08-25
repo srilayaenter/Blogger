@@ -1,0 +1,45 @@
+{
+  "slug": "vegetable-pratal",
+  "title_ta": "காய்கறி பிரட்டல்",
+  "title_en": "Vegetable Pratal (Mixed Vegetable Stir-Fry)",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 43,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-25T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["poriyal"],
+  "ingredients": [
+    { "id": "vegetable-pratal-ingredient-1", "name_ta": "காலிஃபிளவர்", "name_en": "Cauliflower", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "vegetable-pratal-ingredient-2", "name_ta": "கேரட்", "name_en": "Carrot", "quantity": "1/4", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "vegetable-pratal-ingredient-3", "name_ta": "பீன்ஸ்", "name_en": "Beans", "quantity": "1/4", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "vegetable-pratal-ingredient-4", "name_ta": "தேங்காய் துருவல்", "name_en": "Grated coconut", "quantity": "1/4", "unit_ta": "மூடி", "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "vegetable-pratal-ingredient-5", "name_ta": "பொட்டுக்கடலை", "name_en": "Roasted chana dal", "quantity": "2", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "vegetable-pratal-ingredient-6", "name_ta": "மிளகாய்த் தூள்", "name_en": "Chili powder", "quantity": "1", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "vegetable-pratal-ingredient-7", "name_ta": "இஞ்சி", "name_en": "Ginger", "quantity": "சிறிய துண்டு", "unit_ta": null, "unit_en": "small piece", "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "vegetable-pratal-ingredient-8", "name_ta": "பட்டை இலவங்க இலை", "name_en": "Bay leaf", "quantity": "5", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "vegetable-pratal-ingredient-9", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவையான அளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 9 },
+    { "id": "vegetable-pratal-ingredient-10", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": "தேவையான அளவு", "unit_ta": null, "unit_en": "for tempering", "notes_ta": null, "notes_en": null, "display_order": 10 }
+  ],
+  "instructions": [
+    {
+      "id": "vegetable-pratal-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "முதலில் கேரட், பீன்ஸ் ஆகியவற்றை சிறு துண்டுகளாக நறுக்கி வேக வைத்துக் கொள்ளவும். காலிஃபிளவரை வாணலியில் 2 டம்ளர் தண்ணீர் விட்டு வேக வைத்துக் கொள்ளவும். பிறகு தேங்காய் துருவல், மிளகாய்த் தூள், பொட்டுக்கடலை, இஞ்சி ஆகியவற்றை மிக்சியில் போட்டு லேசாக தண்ணீர் விட்டு கரகரவென்று அரைத்துக் கொள்ளவும்.",
+      "instruction_en": "First, cut the carrot and beans into small pieces and cook them. Cook the cauliflower separately in a pan with 2 tumblers of water. Then grind the grated coconut, chili powder, roasted chana dal, and ginger in a mixer, adding a little water, to a coarse (not smooth) paste.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

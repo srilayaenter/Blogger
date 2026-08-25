@@ -1,0 +1,44 @@
+{
+  "slug": "beetroot-soup",
+  "title_ta": "பீட்ரூட் சூப்",
+  "title_en": "Beetroot Soup",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 38,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-25T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["soup"],
+  "ingredients": [
+    { "id": "beetroot-soup-ingredient-1", "name_ta": "பீட்ரூட்", "name_en": "Beetroot", "quantity": "1/4", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "beetroot-soup-ingredient-2", "name_ta": "பெரிய வெங்காயம்", "name_en": "Big onion", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "beetroot-soup-ingredient-3", "name_ta": "உருளைக்கிழங்கு", "name_en": "Potato", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "beetroot-soup-ingredient-4", "name_ta": "எலுமிச்சம் பழம்", "name_en": "Lemon", "quantity": "பாதி", "unit_ta": null, "unit_en": "half", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "beetroot-soup-ingredient-5", "name_ta": "புதினா", "name_en": "Mint leaves", "quantity": "சிறிதளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "beetroot-soup-ingredient-6", "name_ta": "கிரீம்", "name_en": "Cream", "quantity": "1/2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "beetroot-soup-ingredient-7", "name_ta": "மிளகு தூள்", "name_en": "Pepper powder", "quantity": "தேவையானது", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "beetroot-soup-ingredient-8", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவையானது", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "beetroot-soup-ingredient-9", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": "தாளிக்க", "unit_ta": null, "unit_en": "for tempering", "notes_ta": null, "notes_en": null, "display_order": 9 }
+  ],
+  "instructions": [
+    {
+      "id": "beetroot-soup-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "பீட்ரூட், உருளைக்கிழங்கை தோல் நீக்கி வேக வைக்கவும். பெ. வெங்காயத்தை சிறியதாக நறுக்கி எண்ணெயில் தாளித்து வேக வைத்து கொள்ளவும். இவற்றை மிக்சியில் போட்டு அரைத்துக் கொள்ளவும். பின்பு அதில் எலுமிச்சை பழத்தை பிழிந்து அடுப்பில் வைத்து கொதிக்க விடவும். அதில் மிளகுதூள், உப்பு சேர்க்கவும். தண்ணீர் தேவைக்கு ஏற்ப சேர்க்கவும். சூப் நன்றாக கொதித்து வந்ததும் அடுப்பில் இருந்து இறக்கி கிரீம், புதினா சேர்த்து பருகவும்.",
+      "instruction_en": "Peel the beetroot and potato and boil until cooked. Finely chop the big onion and sauté it in oil until cooked. Grind these together (beetroot, potato, and sautéed onion) in a mixer. Then squeeze in the lemon juice, place on the stove, and bring to a boil. Add pepper powder and salt. Add water as needed. Once the soup comes to a good boil, remove from the stove, stir in the cream and mint, and serve.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

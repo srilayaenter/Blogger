@@ -1,0 +1,38 @@
+{
+  "slug": "sundakkai-manathakkali-kuzhambu",
+  "title_ta": "சுண்டைக்காய், மணத்தக்காளி குழம்பு",
+  "title_en": "Sundakkai & Manathakkali Kuzhambu",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 42,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-25T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["kuzhambu"],
+  "ingredients": [
+    { "id": "sundakkai-manathakkali-kuzhambu-ingredient-1", "name_ta": "சுண்டைக்காய் அல்லது மணத்தக்காளி", "name_en": "Sundakkai (turkey berry) or manathakkali (black nightshade berries)", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": "quantity not specified in source", "display_order": 1 },
+    { "id": "sundakkai-manathakkali-kuzhambu-ingredient-2", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": "for frying the sundakkai/manathakkali", "display_order": 2 },
+    { "id": "sundakkai-manathakkali-kuzhambu-ingredient-3", "name_ta": "புளி கலந்த மசாலா", "name_en": "Tamarind-mixed masala", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": "prepared the same way as the tamarind masala in Vendhaya Kuzhambu (recipe 72); source gives no separate ingredient list for this recipe", "display_order": 3 }
+  ],
+  "instructions": [
+    {
+      "id": "sundakkai-manathakkali-kuzhambu-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "வெந்தயக்குழம்பு மாதிரியே தயார் செய்ய வேண்டும். குழம்பு தாளிதம் செய்யும் போது எண்ணெயில் சுண்டவற்றலை அல்லது மணத்தக்காளியை பொரித்துக் கொண்டு புளி கலந்த மசாலாவை சேர்க்க வேண்டும்.",
+      "instruction_en": "Prepare this the same way as Vendhaya Kuzhambu (recipe 72). When tempering the curry, fry the sundakkai or manathakkali in oil, then add it to the tamarind-mixed masala.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

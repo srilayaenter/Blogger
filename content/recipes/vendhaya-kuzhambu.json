@@ -1,0 +1,44 @@
+{
+  "slug": "vendhaya-kuzhambu",
+  "title_ta": "வெந்தைய குழம்பு",
+  "title_en": "Vendhaya Kuzhambu (Fenugreek Curry)",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 40,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-25T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["kuzhambu"],
+  "ingredients": [
+    { "id": "vendhaya-kuzhambu-ingredient-1", "name_ta": "உளுந்தம் பருப்பு", "name_en": "Urad dal", "quantity": "1 1/2", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": "quantity as printed in source", "display_order": 1 },
+    { "id": "vendhaya-kuzhambu-ingredient-2", "name_ta": "கடுகு", "name_en": "Mustard seeds", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "vendhaya-kuzhambu-ingredient-3", "name_ta": "சாம்பார் பொடி", "name_en": "Sambar powder", "quantity": "60", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "vendhaya-kuzhambu-ingredient-4", "name_ta": "பட்ட மிளகாய்", "name_en": "Dried red chili", "quantity": "6", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "vendhaya-kuzhambu-ingredient-5", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவைக்கேற்றவை", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "vendhaya-kuzhambu-ingredient-6", "name_ta": "துவரம் பருப்பு", "name_en": "Toor dal", "quantity": "150", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "vendhaya-kuzhambu-ingredient-7", "name_ta": "கடலைப்பருப்பு", "name_en": "Chana dal", "quantity": "1 1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoons", "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "vendhaya-kuzhambu-ingredient-8", "name_ta": "புளி", "name_en": "Tamarind", "quantity": "40", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "vendhaya-kuzhambu-ingredient-9", "name_ta": "வெந்தையம்", "name_en": "Fenugreek seeds", "quantity": "80", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 9 }
+  ],
+  "instructions": [
+    {
+      "id": "vendhaya-kuzhambu-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "புளியை ஒரு பாத்திரத்தில் 125 மில்லி தண்ணீரில் போட்டு நன்றாக பிசைந்து சக்கையை நீக்கிவிட்டு கரைத்த புளிச்சாற்றில் சாம்பார் பொடியை போட்டு நன்றாக கலக்க வேண்டும். 100 மில்லி தண்ணீர் ஊற்றி வெந்தையம் பருப்பை சுத்தம் செய்து அடுப்பில் வைத்து நன்றாக வேக விடவும். வெந்தபின் ஒரு தனிப் பாத்திரத்தில் ஊற்றி வைக்கவும். வாணலியில் தேவைக்கேற்ற நல்லெண்ணெயை ஊற்றி கடலைப்பருப்பு, பச்சைமிளகாயை வதக்கவும். புளிச்சாற்றை கொதிக்க வைக்கவும். பின் பருப்பு வெந்தையம் போட்டு மீண்டும் கொதிக்க விடவும். கொதி வந்தவுடன் கடுகு, உளுந்தம்பருப்பை, கருவேப்பிலையை உருவிப் போட்டு கடுகு பொறிந்ததும் தாளித்துப் போட்டு இறக்கவும்.",
+      "instruction_en": "Soak the tamarind in 125ml of water in a bowl, mash it well, remove the fibers, and mix the sambar powder well into the tamarind water. Pour in 100ml of water, clean the fenugreek seeds, place on the stove, and cook until well done. Once cooked, pour into a separate vessel. In a pan, pour the needed amount of good oil and sauté the chana dal and green chilies. Bring the tamarind water to a boil. Then add the cooked dal and fenugreek and let it boil again. Once it comes to a boil, temper mustard seeds, urad dal, and torn curry leaves in oil, and once the mustard seeds pop, pour the tempering over the curry and remove from heat.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

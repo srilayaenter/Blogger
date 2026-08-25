@@ -1,0 +1,45 @@
+{
+  "slug": "drumstick-stem-soup",
+  "title_ta": "முருங்கைக் காம்பு சூப்",
+  "title_en": "Drumstick Stem Soup",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 42,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-25T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["soup"],
+  "ingredients": [
+    { "id": "drumstick-stem-soup-ingredient-1", "name_ta": "முருங்கைக் காம்பு", "name_en": "Drumstick stem", "quantity": "100", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "drumstick-stem-soup-ingredient-2", "name_ta": "தக்காளி", "name_en": "Tomato", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "drumstick-stem-soup-ingredient-3", "name_ta": "பெரிய வெங்காயம்", "name_en": "Big onion", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "drumstick-stem-soup-ingredient-4", "name_ta": "மிளகு", "name_en": "Pepper", "quantity": "6", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "drumstick-stem-soup-ingredient-5", "name_ta": "இலவங்கபட்டை இலை", "name_en": "Bay leaf", "quantity": "சிறிதளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "drumstick-stem-soup-ingredient-6", "name_ta": "மஞ்சள்தூள்", "name_en": "Turmeric powder", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "drumstick-stem-soup-ingredient-7", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": "தாளிக்க", "unit_ta": null, "unit_en": "for tempering", "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "drumstick-stem-soup-ingredient-8", "name_ta": "பச்சை மிளகாய்", "name_en": "Green chili", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "drumstick-stem-soup-ingredient-9", "name_ta": "துவரம் பருப்பு அல்லது பாசிப்பருப்பு", "name_en": "Toor dal or moong dal", "quantity": "50", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 9 },
+    { "id": "drumstick-stem-soup-ingredient-10", "name_ta": "உப்பு", "name_en": "Salt", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 10 }
+  ],
+  "instructions": [
+    {
+      "id": "drumstick-stem-soup-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "முருங்கைக் காம்பை மூன்று அங்குல நீளத்திற்கு நறுக்கிக் கொள்ளவும். தக்காளி, வெங்காயத்தை நீளவாக்கில் பெரிய துண்டுகளாக நறுக்கிக் கொள்ளவும். பருப்பை வேகவைத்து மசித்துக் கொள்ளவும். வாணலியில் எண்ணெய் ஊற்றி, இலவங்க பட்டை இலை, மிளகு, வெங்காயம், தக்காளி, முருங்கைக் காம்பு, பச்சை மிளகாய் சேர்த்து லேசாக வதக்கி மூன்று டம்ளர் தண்ணீர் ஊற்றி வேக விடவும். மஞ்சள் தூள், உப்பு, பருப்பு சேர்க்கவும். கலவை நன்றாக கொதித்தவுடன் இறக்கவும். சூப் தயார். (தண்ணீர் தேவைக்கு ஏற்ப சேர்த்துக் கொள்ளவும்.)",
+      "instruction_en": "Cut the drumstick stem into three-inch lengths. Cut the tomato and onion into large lengthwise pieces. Cook the dal and mash it. In a pan, pour oil, add the bay leaf, pepper, onion, tomato, drumstick stem, and green chili, sauté lightly, then add three tumblers of water and let it cook. Add the turmeric powder, salt, and cooked dal. Once the mixture comes to a good boil, remove from heat. The soup is ready. (Add water as needed to adjust consistency.)",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "porotta",
+  "title_ta": "புரோட்டா",
+  "title_en": "Porotta (Layered Flatbread)",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 36,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-25T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["flatbread"],
+  "ingredients": [
+    { "id": "porotta-ingredient-1", "name_ta": "மாவு", "name_en": "Flour", "quantity": "500", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "porotta-ingredient-2", "name_ta": "வெண்ணெய்", "name_en": "Butter", "quantity": "1", "unit_ta": "மேசைக்கரண்டி", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "porotta-ingredient-3", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "porotta-ingredient-4", "name_ta": "தேங்காய் எண்ணெய் அல்லது ரீபைண்ட் ஆயில்", "name_en": "Coconut oil or refined oil", "quantity": "300", "unit_ta": "மி.லி", "unit_en": "ml", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "porotta-ingredient-5", "name_ta": "தண்ணீர்", "name_en": "Water", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 5 }
+  ],
+  "instructions": [
+    {
+      "id": "porotta-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "மாவைச் சலித்து பாத்திரத்தில் போட்டு வெண்ணெய், உப்பு இவற்றை நன்கு கலந்து கொள்ளவும். பின் தண்ணீர் விட்டு ஒன்று சேரப் பிசைந்து கொள்ளவும். சப்பாத்தி மாவு உருண்டைகளை விட சற்று பெரிய உருண்டைகளாக உருட்டி எடுத்துக் கொள்ளவும். 500 கிராம் மாவில் 8 புரோட்டா வரும். உருண்டைகளின் மீது தேங்காய் எண்ணெய் அல்லது ரீபைண்ட் ஆயில் ஊற்றி 30 நிமிடம் ஊற வைக்கவும். இந்த எண்ணெயையே புரோட்டா விரிப்பதற்கும் எடுத்துக் கொள்ளலாம். மாவு உருண்டைகளை, எண்ணெய் தடவிய பெரிய பலகையில் மெல்லியதாக விரிக்கவும் - ஒரு அடி நீளம் விரிக்கலாம். மெல்லிய துணி போன்றிருக்கும் மாவை சேலைக் கொசுவம் மடிப்பது போல் குட்டிச் சுருக்கங்கள் செய்து இருபுறமும் சுருட்டிக் கொண்டு வந்து ஒன்றன் மேல் ஒன்று வைத்து விடவும். இவ்வாறு புரோட்டா இட்டபின், தோசை சட்டியை சுடவைக்கவும். புரோட்டா சுருக்கிய உருண்டைகளை கைவிரல் கொண்டு சுருக்கம் கலையாது விரித்து விடவும். எண்ணெய் ஊற்றாமல் புரோட்டாவை தோசை சட்டியில் போட்டு சிறு தீயில் வாட்டி எடுத்து வைத்துக் கொள்ளவும். இவ்வாறு வாட்டிய புரோட்டாக்களை 2 தினம் வைத்திருந்தாலும் கெட்டுப்போகாது - காற்றுப் புகாத பாலிதீன் பைகளில் ஃபிரிட்ஜில் வைத்துக் கொண்டு தேவையான சமயம் பயன்படுத்தலாம். இந்த வறண்ட புரோட்டாக்களை பூரி மாதிரி, குழிந்த வாணலியில் நிறைய எண்ணெய் விட்டு சுட்டால் பொங்கிப் பொங்கி வரும். இம்மாதிரி இருமுறை - முதலில் வெறும் தோசைச் சட்டியிலும், மற்றொரு முறை எண்ணெயிலும் - பொரிப்பதால் புரோட்டாவின் உள்பக்கமும் வெந்து சுவையானதாக இருக்கும்.",
+      "instruction_en": "Sift the flour into a bowl and mix in the butter and salt well. Add water and knead into a single dough. Shape into balls slightly larger than usual chapati-dough balls — 500g of flour makes 8 porottas. Coat the balls with coconut oil or refined oil and let rest for 30 minutes; the same oil can be used later for spreading the porottas. On a large board brushed with oil, stretch each ball out very thin — like a piece of cloth, about a foot long. Pleat this thin sheet the way you'd pleat a saree into small folds, then coil both ends inward and stack them one on top of the other. Once all the porottas are shaped this way, heat a dosa griddle. Take each coiled piece and flatten it gently by hand without losing the coiled pleats, then place it on the griddle without oil and cook on low heat; set aside once done. Porottas prepared this way keep well for up to 2 days without spoiling — store them in the fridge in an airtight polythene bag and use as needed. These dry, griddle-cooked porottas can also be puffed like a poori: heat plenty of oil in a deep pan and deep-fry them to get a puffed result. Cooking the porotta twice this way — once dry on the griddle, then again in oil — cooks the inside through and makes it more flavorful.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

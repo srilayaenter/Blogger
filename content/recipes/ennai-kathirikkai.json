@@ -1,0 +1,43 @@
+{
+  "slug": "ennai-kathirikkai",
+  "title_ta": "எண்ணெய் கத்தரிக்காய்",
+  "title_en": "Ennai Kathirikkai (Oil-Braised Brinjal)",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 39,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-25T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["curry"],
+  "ingredients": [
+    { "id": "ennai-kathirikkai-ingredient-1", "name_ta": "பிஞ்சு கத்தரிக்காய்", "name_en": "Tender brinjal (eggplant)", "quantity": "1/4", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": "சிறியதாக, ஒரே அளவில்", "notes_en": "small, uniform-sized", "display_order": 1 },
+    { "id": "ennai-kathirikkai-ingredient-2", "name_ta": "அரைத்த மசால்", "name_en": "Ground masala", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": "composition of the masala is not specified in the source", "display_order": 2 },
+    { "id": "ennai-kathirikkai-ingredient-3", "name_ta": "உப்பு", "name_en": "Salt", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "ennai-kathirikkai-ingredient-4", "name_ta": "மஞ்சள்", "name_en": "Turmeric", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "ennai-kathirikkai-ingredient-5", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": "4", "unit_ta": "கரண்டி", "unit_en": "ladles", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "ennai-kathirikkai-ingredient-6", "name_ta": "கடுகு, உளுந்தம்பருப்பு", "name_en": "Mustard seeds, urad dal", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": "for tempering", "display_order": 6 },
+    { "id": "ennai-kathirikkai-ingredient-7", "name_ta": "வெங்காயம்", "name_en": "Onion", "quantity": "25", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": "வெட்டியது", "notes_en": "chopped", "display_order": 7 },
+    { "id": "ennai-kathirikkai-ingredient-8", "name_ta": "கருவேப்பிலை", "name_en": "Curry leaves", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 8 }
+  ],
+  "instructions": [
+    {
+      "id": "ennai-kathirikkai-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "¼ கிலோ பிஞ்சு கத்தரிக்காய் சிறியதாக ஒரே அளவில் வாங்கி முழுவதும் வெட்டாமல் நாலுபாகமாக கீறி அரைத்த மசால், உப்பு, மஞ்சள் கலவையை உள்ளே வைத்து சிறிது நேரம் வைத்திருந்து, வாணலியில் 4 கரண்டி எண்ணெய் ஊற்றி கடுகு, உளுந்தம்பருப்பு வெடித்ததும் 25 கிராம் வெட்டிய வெங்காயம், கருவேப்பிலை போட்டு வதக்கி கத்தரிக்காயையும் போட்டு சிறு தணலில் மூடி வைத்து வதக்கவும். நன்றாக சுருள சிவந்ததும் இறக்கவும்.",
+      "instruction_en": "Buy ¼ kg of tender brinjals, small and uniform in size. Without cutting all the way through, slit each one into four sections, stuff the ground masala, salt, and turmeric mixture inside, and let them sit for a little while. In a pan, pour 4 ladles of oil; once the mustard seeds and urad dal pop, add 25g chopped onion and curry leaves and sauté. Add the stuffed brinjals, cover, and cook on low heat. Once they shrivel and turn a good reddish color, remove from heat.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

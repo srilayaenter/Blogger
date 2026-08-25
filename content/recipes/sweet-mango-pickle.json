@@ -1,0 +1,44 @@
+{
+  "slug": "sweet-mango-pickle",
+  "title_ta": "இனிப்பு மாங்காய் ஊறுகாய்",
+  "title_en": "Sweet Mango Pickle",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 36,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-25T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["pickle"],
+  "ingredients": [
+    { "id": "sweet-mango-pickle-ingredient-1", "name_ta": "மாங்காய்", "name_en": "Raw mango", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "நல்ல பெரிய மாங்காய்கள்", "notes_en": "good, large raw mangoes; count not specified in source", "display_order": 1 },
+    { "id": "sweet-mango-pickle-ingredient-2", "name_ta": "வெங்காயம்", "name_en": "Onion", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": "quantity not specified in source", "display_order": 2 },
+    { "id": "sweet-mango-pickle-ingredient-3", "name_ta": "பச்சை மிளகாய்", "name_en": "Green chilies", "quantity": "4", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "sweet-mango-pickle-ingredient-4", "name_ta": "கருவேப்பிலை", "name_en": "Curry leaves", "quantity": "2", "unit_ta": "கொத்து", "unit_en": "sprigs", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "sweet-mango-pickle-ingredient-5", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": "1", "unit_ta": "கரண்டி", "unit_en": "ladle", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "sweet-mango-pickle-ingredient-6", "name_ta": "கடுகு", "name_en": "Mustard seeds", "quantity": "சிறிதளவு", "unit_ta": null, "unit_en": null, "notes_ta": "தாளிக்க", "notes_en": "for tempering", "display_order": 6 },
+    { "id": "sweet-mango-pickle-ingredient-7", "name_ta": "தண்ணீர்", "name_en": "Water", "quantity": "சிறிதளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "sweet-mango-pickle-ingredient-8", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவையானது", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "sweet-mango-pickle-ingredient-9", "name_ta": "சீனி அல்லது தட்டிய வெல்லம்", "name_en": "Sugar or grated jaggery", "quantity": "தேவையானது", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 9 }
+  ],
+  "instructions": [
+    {
+      "id": "sweet-mango-pickle-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "நல்ல பெரிய மாங்காய்களாக தேர்ந்தெடுத்துக் கொள்ளவும். கழுவி சுத்தம் செய்து விட்டு தோலைச் சீவி பெரிய துண்டுகளாக தகடாக சில்சில்லாக வெட்டிக் கொள்ளவும். வெங்காயம், 4 பச்சை மிளகாய், 2 கருவேப்பிலை இவைகளை வெட்டி வைத்துக் கொள்ளவும். வாணலியில் 1 கரண்டி எண்ணெய் ஊற்றி கடுகு தாளித்து வெங்காயம், மிளகாய், கருவேப்பிலை போட்டு சிவந்ததும் மாங்காய் துண்டுகளைப் போட்டு சிறிது நேரம் வதக்கி சிறிது தண்ணீர் ஊற்றி உப்பு கலந்து வேக வைக்கவும். நன்றாக வெந்தபின் கரண்டியால் மசித்துவிட்டு தேவையான சீனி அல்லது தட்டிய வெல்லம் சேர்த்து கெட்டியான பதம் வந்ததும் இறக்கவும். மாங்காய் கூழ் போல் வெந்த பிறகு தான் சீனியை சேர்க்க வேண்டும். இந்த தயாரிப்பில் காரம், புளிப்பு, இனிப்பு, உப்பு ஆகிய சுவைகள் கலந்திருக்கும்.",
+      "instruction_en": "Choose good, large raw mangoes. Wash them clean, peel the skin, and cut into large flat slices, then chop finely. Chop the onion, 4 green chilies, and 2 sprigs of curry leaves and keep aside. In a pan, pour 1 ladle of oil, temper mustard seeds, add the onion, chilies, and curry leaves, and once they turn reddish, add the mango pieces. Sauté briefly, add a little water and salt, and cook until done. Once well cooked, mash with a ladle, then stir in the needed amount of sugar or grated jaggery, and cook until it reaches a thick consistency, then remove from heat. The sugar should only be added after the mango has cooked down to a mushy, porridge-like consistency. The finished pickle balances spicy, sour, sweet, and salty flavors together.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

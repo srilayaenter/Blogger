@@ -1,0 +1,45 @@
+{
+  "slug": "lemon-rice",
+  "title_ta": "எலுமிச்சை சாதம்",
+  "title_en": "Lemon Rice",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 41,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-25T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["rice-dish"],
+  "ingredients": [
+    { "id": "lemon-rice-ingredient-1", "name_ta": "பச்சரிசி", "name_en": "Raw rice", "quantity": "200", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "lemon-rice-ingredient-2", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": "4", "unit_ta": "மேஜைக்கரண்டி", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "lemon-rice-ingredient-3", "name_ta": "கடுகு", "name_en": "Mustard seeds", "quantity": "1", "unit_ta": "தேக்கரண்டி", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "lemon-rice-ingredient-4", "name_ta": "உளுந்தம்பருப்பு", "name_en": "Urad dal", "quantity": "1", "unit_ta": "தேக்கரண்டி", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "lemon-rice-ingredient-5", "name_ta": "கடலை பருப்பு", "name_en": "Chana dal", "quantity": "1", "unit_ta": "தேக்கரண்டி", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "lemon-rice-ingredient-6", "name_ta": "கருவேப்பிலை", "name_en": "Curry leaves", "quantity": "சிறிதளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "lemon-rice-ingredient-7", "name_ta": "சிகப்புமிளகாய்கள்", "name_en": "Dried red chilies", "quantity": "5", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "lemon-rice-ingredient-8", "name_ta": "மஞ்சள் தூள்", "name_en": "Turmeric powder", "quantity": "2", "unit_ta": "சிட்டிகை", "unit_en": "pinches", "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "lemon-rice-ingredient-9", "name_ta": "எலுமிச்சை", "name_en": "Lemon", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 9 },
+    { "id": "lemon-rice-ingredient-10", "name_ta": "கொத்தமல்லி தழைகள்", "name_en": "Coriander leaves", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": "for garnish", "display_order": 10 }
+  ],
+  "instructions": [
+    {
+      "id": "lemon-rice-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "200 கிராம் தரமான பச்சரிசியை குழையாமல் வேக வைத்து ஆற விடவும். வாணலியில் 4 மேஜைக்கரண்டி இதயம் நல்லெண்ணெய் ஊற்றி, சூடேறியதும் 1 தேக்கரண்டி கடுகு, 1 தேக்கரண்டி உளுந்தம்பருப்பு, 1 தேக்கரண்டி கடலை பருப்பு, சிறிதளவு கருவேப்பிலை, 5 சிகப்புமிளகாய்கள் போட்டுத் தாளிக்கவும். இத்துடன் 2 சிட்டிகை மஞ்சள் தூள் சேர்க்கவும். பருப்பு வகைகள் பக்குவமாக சிவந்ததும் இறக்கிக் கொள்ளவும். ஆற வைத்த சாதத்துடன் 2 எலுமிச்சையின் சாறைப் பிழிந்து கொள்ளவும். இத்துடன் தாளித்த பொருட்களையும் சேர்த்து நன்றாக கிளறி விடவும். நறுக்கிய கொத்தமல்லித் தழைகளைத் தூவி பரிமாறலாம். எலுமிச்சை சாறு தேவைக்கேற்ப கூட்டிக் குறைத்துக்கொள்ளலாம்.",
+      "instruction_en": "Cook 200g of good-quality raw rice without letting it turn mushy, and let it cool. In a pan, pour 4 tablespoons of good oil; once hot, add 1 tablespoon mustard seeds, 1 tablespoon urad dal, 1 tablespoon chana dal, a little curry leaves, and 5 dried red chilies, and temper. Add 2 pinches of turmeric powder. Once the dals turn a good golden color, remove from heat. Squeeze the juice of 2 lemons over the cooled rice. Add the tempered ingredients as well and mix thoroughly. Garnish with chopped coriander leaves before serving. Adjust the amount of lemon juice up or down to taste.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}
