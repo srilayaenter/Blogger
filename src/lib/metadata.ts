@@ -4,7 +4,7 @@
  * URLs the same way instead of re-deriving them.
  */
 
-export const SITE_URL = "https://srilaya-recipes.pages.dev";
+export const SITE_URL = "https://blogger-8js.pages.dev";
 
 export const SUPPORTED_LOCALES = ["en", "ta"] as const;
 export type Locale = (typeof SUPPORTED_LOCALES)[number];
