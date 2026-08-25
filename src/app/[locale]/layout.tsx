@@ -52,7 +52,7 @@ export async function generateMetadata({
       images: [image.url],
     },
     verification: {
-      google: "Q8idzl2UZNNAr50igNOC_nEXwQ5RknQUhkG-qHyGUFk",
+      google: "RQLNvbY_0Tis_G9jQPQgrkMGuZvQyQcXTzTB5kdgv4A",
     },
   };
 }
