@@ -1,0 +1,45 @@
+{
+  "slug": "capsicum-egg",
+  "title_ta": "குடை மிளகாய் முட்டை",
+  "title_en": "Capsicum Egg",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 86,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-26T00:00:00.000Z",
+  "dietary_type": "egg",
+  "categories": ["snack"],
+  "ingredients": [
+    { "id": "capsicum-egg-ingredient-1", "name_ta": "பெரிய குடை மிளகாய்", "name_en": "Large bell pepper (capsicum)", "quantity": "6", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "capsicum-egg-ingredient-2", "name_ta": "துருவிய தேங்காய்", "name_en": "Grated coconut", "quantity": "1", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "capsicum-egg-ingredient-3", "name_ta": "மிளகாய்", "name_en": "Chili", "quantity": "8", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "capsicum-egg-ingredient-4", "name_ta": "வெங்காயம்", "name_en": "Onion", "quantity": "6", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "capsicum-egg-ingredient-5", "name_ta": "பச்சைப்பட்டாணி", "name_en": "Green peas", "quantity": "1", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "capsicum-egg-ingredient-6", "name_ta": "சிறியகோஸ்", "name_en": "Small cabbage", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "capsicum-egg-ingredient-7", "name_ta": "முட்டை", "name_en": "Egg", "quantity": "6", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "capsicum-egg-ingredient-8", "name_ta": "துருவிய சீஸ்", "name_en": "Grated cheese", "quantity": "4", "unit_ta": "கப்", "unit_en": "cups", "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "capsicum-egg-ingredient-9", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "1", "unit_ta": "தேக்கரண்டி", "unit_en": "tablespoon", "notes_ta": null, "notes_en": null, "display_order": 9 },
+    { "id": "capsicum-egg-ingredient-10", "name_ta": "கரம் மசாலா", "name_en": "Garam masala", "quantity": "2", "unit_ta": "தேக்கரண்டி", "unit_en": "tablespoons", "notes_ta": null, "notes_en": null, "display_order": 10 }
+  ],
+  "instructions": [
+    {
+      "id": "capsicum-egg-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "முட்டைக்கோஸ், வெங்காயம், மிளகாயைப் பொடியாக நறுக்கிக் கொள்ளவும். குடை மிளகாயின் மேல் காம்புகளை நறுக்கி, உள்ளிருக்கும் விதைகளை நீக்கவும். உப்புக் கலந்த கொதிநீரில் மிளகாயை 3 நிமிடம் போட்டு எடுக்கவும். வாணலியில் எண்ணெய் ஊற்றி, நறுக்கிய வெங்காயம், கோஸ், மிளகாய், பட்டாணி இவற்றை வதக்கி உப்பைப் போடவும். துருவிய தேங்காயையும் சேர்த்து அடுப்பிலிருந்து இறக்கவும். கரம் மசாலாத்தூள் சேர்த்துப் புரட்டவும். இந்தக் கலவையைக் குடமிளகாயின் முக்கால் பாகம் நிறையும் வரை அடைக்கவும். முட்டையை உடைத்து குடமிளகாயின் மேல் ஊற்றவும். ஒவ்வொரு குடமிளகாயின் உள்ளும், ஒரு முட்டை ஊற்றி, சீஸ் துருவல் தூவி, அடுப்பில் வேக வைத்து சுடச் சூடாகப் பரிமாறவும்.",
+      "instruction_en": "Finely chop the cabbage, onion, and chili. Cut off the tops of the capsicums and remove the seeds inside. Blanch the capsicums in salted boiling water for 3 minutes and remove. Heat oil in a pan, saute the chopped onion, cabbage, chili, and peas, then add salt. Add the grated coconut and remove from heat. Add garam masala powder and mix. Fill this mixture into the capsicums until three-quarters full. Break an egg and pour it over each capsicum -- one egg into each -- sprinkle grated cheese, cook on the stove, and serve piping hot.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}
