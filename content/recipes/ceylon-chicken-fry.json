@@ -1,0 +1,46 @@
+{
+  "slug": "ceylon-chicken-fry",
+  "title_ta": "சிலோன் சிக்கன் பிரைய்",
+  "title_en": "Ceylon Chicken Fry",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 58,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-26T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["fried-snack"],
+  "ingredients": [
+    { "id": "ceylon-chicken-fry-ingredient-1", "name_ta": "தோல் உரித்த கோழி", "name_en": "Skinned chicken", "quantity": "1", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": "பெரிய துண்டுகளாக வெட்டவும்", "notes_en": "cut into large pieces", "display_order": 1 },
+    { "id": "ceylon-chicken-fry-ingredient-2", "name_ta": "வற்றல்", "name_en": "Dried red chilies", "quantity": "8", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "ceylon-chicken-fry-ingredient-3", "name_ta": "மிளகு", "name_en": "Pepper", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "ceylon-chicken-fry-ingredient-4", "name_ta": "ரீபைண்ட் ஆயில்", "name_en": "Refined oil", "quantity": "5", "unit_ta": "கரண்டி", "unit_en": "ladles", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "ceylon-chicken-fry-ingredient-5", "name_ta": "சீரகம்", "name_en": "Cumin", "quantity": "1", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "ceylon-chicken-fry-ingredient-6", "name_ta": "மல்லி", "name_en": "Coriander seeds", "quantity": "2", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "ceylon-chicken-fry-ingredient-7", "name_ta": "பூண்டு", "name_en": "Garlic", "quantity": "2", "unit_ta": "பல்", "unit_en": "cloves", "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "ceylon-chicken-fry-ingredient-8", "name_ta": "வெங்காயம்", "name_en": "Onion", "quantity": "1/4", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "ceylon-chicken-fry-ingredient-9", "name_ta": "இஞ்சி", "name_en": "Ginger", "quantity": "1", "unit_ta": "துண்டு", "unit_en": "piece", "notes_ta": null, "notes_en": null, "display_order": 9 },
+    { "id": "ceylon-chicken-fry-ingredient-10", "name_ta": "தக்காளி", "name_en": "Tomato", "quantity": "4", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 10 },
+    { "id": "ceylon-chicken-fry-ingredient-11", "name_ta": "முட்டை", "name_en": "Egg", "quantity": "4", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 11 }
+  ],
+  "instructions": [
+    {
+      "id": "ceylon-chicken-fry-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "மசாலாப் பொருட்களை அரைத்து கோழித்துண்டுகளில் போட்டு உப்பு, மஞ்சள் தூள், தக்காளி போட்டு வேக வைக்கவும். வெந்த பின் நீர் இல்லாமல் வற்ற வைக்கவும். பின் ஆற வைத்து கோழித்துண்டுகளிலுள்ள எலும்புகளை நீக்கவும். வாணலியில் எண்ணெயை ஊற்றி வெட்டிய வெங்காயம் போட்டு வதங்கியதும் கறித்துண்டுகளைப் போட்டு 5-10 நிமிடம் வதக்கவும். முட்டைகளை உப்பு போட்டு அடித்து தனியாக பொடிமாஸ் செய்து கோழி வறுவலுடன் சேர்த்து மேலும் 2 நிமிடம் வதக்கி எடுக்கவும்.",
+      "instruction_en": "Grind the masala ingredients and add to the chicken pieces along with salt, turmeric powder, and tomato, and cook. Once done, let it dry out with no remaining water. Let it cool, then remove the bones from the chicken pieces. In a pan, pour oil, add chopped onion, and once it wilts, add the chicken pieces and sauté for 5-10 minutes. Beat the eggs with salt, scramble them separately, then mix into the fried chicken and sauté for a further 2 minutes before removing.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

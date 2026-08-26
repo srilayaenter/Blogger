@@ -1,0 +1,42 @@
+{
+  "slug": "chicken-fry",
+  "title_ta": "கோழி வறுவல்",
+  "title_en": "Chicken Fry",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 46,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-26T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["fried-snack"],
+  "ingredients": [
+    { "id": "chicken-fry-ingredient-1", "name_ta": "கோழி (எலும்பு நீக்கப்பட்ட நடுத்தர சைஸ் துண்டுகள்)", "name_en": "Chicken (boneless, medium-sized pieces)", "quantity": "1", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "chicken-fry-ingredient-2", "name_ta": "இஞ்சி, பூண்டு சாறு", "name_en": "Ginger garlic paste", "quantity": "1", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "chicken-fry-ingredient-3", "name_ta": "மிளகாய்தூள்", "name_en": "Chili powder", "quantity": "2", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "chicken-fry-ingredient-4", "name_ta": "எலுமிச்சை சாறு", "name_en": "Lemon juice", "quantity": "1", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "chicken-fry-ingredient-5", "name_ta": "மஞ்சள்தூள்", "name_en": "Turmeric powder", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "chicken-fry-ingredient-6", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "தாளிக்க", "notes_en": "for deep frying", "display_order": 6 },
+    { "id": "chicken-fry-ingredient-7", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவையான அளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 7 }
+  ],
+  "instructions": [
+    {
+      "id": "chicken-fry-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "கோழி, இஞ்சி பூண்டு சாறு, மிளகாய்தூள், மஞ்சள்தூள், எலுமிச்சை சாறு, உப்பு ஆகியவற்றை நன்றாக கலந்து ½ மணி நேரம் ஊற வைக்கவும். பின் ஒவ்வொரு துண்டாக எண்ணெயில் பொன்னிறமாக பொரித்து எடுத்து பரிமாறவும்.",
+      "instruction_en": "Mix the chicken, ginger garlic paste, chili powder, turmeric powder, lemon juice, and salt together well, and let it marinate for ½ hour. Then deep-fry each piece in oil until golden brown, remove, and serve.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

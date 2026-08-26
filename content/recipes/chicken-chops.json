@@ -1,0 +1,41 @@
+{
+  "slug": "chicken-chops",
+  "title_ta": "கோழி சாப்ஸ்",
+  "title_en": "Chicken Chops",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 49,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-26T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["fried-snack"],
+  "ingredients": [
+    { "id": "chicken-chops-ingredient-1", "name_ta": "கோழி", "name_en": "Chicken", "quantity": "1", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "chicken-chops-ingredient-2", "name_ta": "பச்சை மிளகாய்", "name_en": "Green chilies", "quantity": "10", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "chicken-chops-ingredient-3", "name_ta": "இஞ்சி", "name_en": "Ginger", "quantity": "2", "unit_ta": "அங்குலம்", "unit_en": "inches", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "chicken-chops-ingredient-4", "name_ta": "பெரிய மிளகாய்", "name_en": "Large chili (as printed in source)", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": "Source wording is unusual for this context (ground into a marinade paste with ginger and green chilies) -- possibly intended as \"large onion\" (பெரிய வெங்காயம்), but transcribed exactly as printed rather than silently corrected. Flagging for confirmation.", "display_order": 4 },
+    { "id": "chicken-chops-ingredient-5", "name_ta": "முட்டை", "name_en": "Egg", "quantity": "3", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "chicken-chops-ingredient-6", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவையான அளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 6 }
+  ],
+  "instructions": [
+    {
+      "id": "chicken-chops-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "1 கிலோ கோழியை சுத்தம் செய்து துண்டுகளாக்கிக் கொள்ளவும். 2 அங்குலம் இஞ்சி, 10 பச்சை மிளகாய்கள், 1 பெரிய மிளகாய், இவற்றை அரைத்துக்கொள்ளவும். கோழிக்கறித் துண்டுகளுடன் அரைத்த மசாலா, தேவையான உப்பு சேர்த்து பிசிறி வைக்கவும். ப்ரஷர் குக்கரில் 2 டம்ளர் தண்ணீர் ஊற்றி, அதன் மீது பிசிறி வைத்துள்ள கோழிக்கறித்துண்டுகள் உள்ள பாத்திரத்தை வைத்து மூடி, குக்கரின் மூடியையும் மூடவும். வெயிட் வைக்கவும். விசில் சப்தம் கேட்டதும் இறக்கவும். குக்கர் திறந்த வந்த பின், கறித்துண்டுகள் உள்ள பாத்திரத்தை வெளியே எடுத்துக்கொள்ளவும். 3 முட்டைகளை தேவையான உப்பு கலந்து நன்கு நுரைக்க அடித்துக்கொள்ளவும். வாணலியில் இதயம் நல்லெண்ணெய் 100 கிராம் ஊற்றி, காய்ந்ததும், தீயை மிதமாக்கவும். கோழிக்கறித்துண்டுகளை ஒவ்வொன்றாக அடித்து வைத்துள்ள முட்டைக்கலவையில் நனைத்து எடுத்து எண்ணெயில் போட்டு பொரித்து எடுக்கவும். ஒரு தடவைக்கு 6 துண்டுகள் வீதம் போட்டு பொரிக்கலாம்.",
+      "instruction_en": "Clean 1 kg of chicken and cut into pieces. Grind the 2-inch ginger, 10 green chilies, and 1 large chili (as printed in source) together. Mix the ground masala and needed salt with the chicken pieces and let it marinate. Pour 2 tumblers of water into a pressure cooker, place the vessel with the marinated chicken pieces inside, close the lid, and set the weight. Remove from heat once the whistle sounds. Once the cooker has released pressure, take the vessel with the chicken pieces out. Beat 3 eggs with the needed salt until well frothy. Heat 100g of good oil in a pan, and once hot, lower the flame. Dip each chicken piece in the beaten egg mixture, coat well, and deep-fry in the oil, then remove. You can fry 6 pieces at a time per batch.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

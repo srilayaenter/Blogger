@@ -1,0 +1,49 @@
+{
+  "slug": "madras-chicken",
+  "title_ta": "மதராஸ் சிக்கன்",
+  "title_en": "Madras Chicken",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 61,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-26T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["curry"],
+  "ingredients": [
+    { "id": "madras-chicken-ingredient-1", "name_ta": "கோழிக்கறி", "name_en": "Chicken curry", "quantity": "1", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "madras-chicken-ingredient-2", "name_ta": "பெல்லாரி வெங்காயம்", "name_en": "Bellary onion", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "madras-chicken-ingredient-3", "name_ta": "தக்காளிப்பழம்", "name_en": "Tomato", "quantity": "3", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": "unit as printed in source is unusual for whole tomatoes -- transcribed exactly as scanned rather than silently corrected", "display_order": 3 },
+    { "id": "madras-chicken-ingredient-4", "name_ta": "நல்லெண்ணெய்", "name_en": "Good oil", "quantity": "3/4", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "madras-chicken-ingredient-5", "name_ta": "கிராம்பு", "name_en": "Cloves", "quantity": "2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": "unit as printed in source is unusual for whole cloves -- transcribed exactly as scanned rather than silently corrected", "display_order": 5 },
+    { "id": "madras-chicken-ingredient-6", "name_ta": "பூண்டு", "name_en": "Garlic", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "madras-chicken-ingredient-7", "name_ta": "மல்லி இலை, மஞ்சள் தூள், உப்பு", "name_en": "Coriander leaves, turmeric powder, salt", "quantity": "சிறிதளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "madras-chicken-ingredient-8", "name_ta": "வற்றல்", "name_en": "Dried red chilies", "quantity": "10", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "madras-chicken-ingredient-9", "name_ta": "கடுகு", "name_en": "Mustard seeds", "quantity": "1", "unit_ta": "தேக்கரண்டி", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 9 },
+    { "id": "madras-chicken-ingredient-10", "name_ta": "மிளகு", "name_en": "Pepper", "quantity": "1/4", "unit_ta": "தேக்கரண்டி", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 10 },
+    { "id": "madras-chicken-ingredient-11", "name_ta": "பட்டை", "name_en": "Cinnamon", "quantity": "2", "unit_ta": "துண்டு", "unit_en": "pieces", "notes_ta": null, "notes_en": null, "display_order": 11 },
+    { "id": "madras-chicken-ingredient-12", "name_ta": "இஞ்சி", "name_en": "Ginger", "quantity": "2", "unit_ta": "அங்குலம்", "unit_en": "inches", "notes_ta": null, "notes_en": null, "display_order": 12 },
+    { "id": "madras-chicken-ingredient-13", "name_ta": "முந்திரிப்பருப்பு", "name_en": "Cashew nuts", "quantity": "15", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 13 },
+    { "id": "madras-chicken-ingredient-14", "name_ta": "சீரகம்", "name_en": "Cumin", "quantity": "1", "unit_ta": "தேக்கரண்டி", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 14 }
+  ],
+  "instructions": [
+    {
+      "id": "madras-chicken-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "முதலில் வற்றல், கடுகு, சீரகம், மிளகு, பட்டை, கிராம்பு, பின் இஞ்சி, பூண்டு தனியாகவும் முந்திரிப்பருப்புத் தனியாகவும் அரைக்கவும். கோழிக்கறியைச் சிறு துண்டுகளாக வெட்டி மஞ்சள் உப்புத் தடவி, ஒரு மணி நேரம் ஊறவைக்கவும். வாணலியில் எண்ணெய் ஊற்றி கறித்துண்டுகளை சிவக்க வறுத்துக் கொள்ளவும். மீதி எண்ணெயில் பெல்லாரியை வெட்டிப்போட்டு வதங்கியதும் அரைத்த மசாலா போட்டு வதக்கவும். வாசனை வந்தவுடன் தக்காளியை வெட்டிப்போட்டு, கோழிக்கறியை போட்டு பொடியாக நறுக்கிய மல்லி இலையையும் போட்டு, ஒரு கப் தண்ணீர் ஊற்றி இளந்தணலில் போடவும். கறி வெந்து தண்ணீர் வற்றி சாறு புரட்டினாற் போல் வந்தவுடன் இறக்கவும்.",
+      "instruction_en": "First, grind the dried chilies, mustard seeds, cumin, pepper, cinnamon, and cloves; then grind the ginger and garlic separately, and the cashews separately. Cut the chicken into small pieces, rub in turmeric and salt, and let it marinate for one hour. In a pan, pour oil and fry the chicken pieces until reddish. In the remaining oil, add chopped Bellary onion, and once wilted, add the ground masala and sauté. Once fragrant, add chopped tomato, then add the chicken along with finely chopped coriander leaves, pour in a cup of water, and place on low heat. Remove once the chicken is cooked, the water has reduced, and the sauce has thickened to a coating consistency.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

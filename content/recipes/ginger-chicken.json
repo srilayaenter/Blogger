@@ -1,0 +1,42 @@
+{
+  "slug": "ginger-chicken",
+  "title_ta": "ஜிஞ்சர் சிக்கன்",
+  "title_en": "Ginger Chicken",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 51,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-26T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["curry"],
+  "ingredients": [
+    { "id": "ginger-chicken-ingredient-1", "name_ta": "நாட்டுக் கோழிக்கறி", "name_en": "Country chicken curry pieces", "quantity": "500", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "ginger-chicken-ingredient-2", "name_ta": "மிளகாய்த்தூள்", "name_en": "Chili powder", "quantity": "3", "unit_ta": "ஸ்பூன்", "unit_en": "spoons", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "ginger-chicken-ingredient-3", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": "100", "unit_ta": "மில்லி", "unit_en": "ml", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "ginger-chicken-ingredient-4", "name_ta": "வினிகர்", "name_en": "Vinegar", "quantity": "1", "unit_ta": "ஸ்பூன்", "unit_en": "spoon", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "ginger-chicken-ingredient-5", "name_ta": "இஞ்சி சாறு", "name_en": "Ginger juice", "quantity": "100", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "ginger-chicken-ingredient-6", "name_ta": "மஞ்சள்தூள்", "name_en": "Turmeric powder", "quantity": "3", "unit_ta": "ஸ்பூன்", "unit_en": "spoons", "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "ginger-chicken-ingredient-7", "name_ta": "உப்பு, கறிவேப்பிலை", "name_en": "Salt, curry leaves", "quantity": "சிறிதளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 7 }
+  ],
+  "instructions": [
+    {
+      "id": "ginger-chicken-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "கோழி கறியை சுத்தமாக கழுவி தண்ணீர் இல்லாமல் பிழிந்து எடுக்கவும். இஞ்சியை நீக்கி சாறு எடுத்து மஞ்சள்தூள், உப்பு, வினிகர், மிளகாய்தூள் சேர்த்து கலக்கி கோழிக்கறியை போட்டு நன்றாக பிசையவும். கறிமசால் பொடியை போட்டு 1 மணி நேரம் மூடி வைக்கவும். பாதி அளவு கறி வெந்ததும் திறந்து கிளறவும். சிறிது எண்ணெய் சேர்த்து பொன்னிறமாகும் வரை கிளறவும். கறிவேப்பிலை சேர்க்கவும். சுவையாக இருக்கும்.",
+      "instruction_en": "Wash the chicken curry pieces clean and drain without retaining water. Extract ginger juice and mix it with turmeric powder, salt, vinegar, and chili powder, then add the chicken and knead it in well. Add the curry masala powder and cover for 1 hour. Once the curry is about half-cooked, open and stir. Add a little oil and stir until it turns golden. Add curry leaves. This tastes great.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

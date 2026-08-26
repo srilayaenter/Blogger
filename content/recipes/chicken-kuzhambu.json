@@ -1,0 +1,44 @@
+{
+  "slug": "chicken-kuzhambu",
+  "title_ta": "கோழிக் குழம்பு",
+  "title_en": "Chicken Kuzhambu",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 49,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-26T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["kuzhambu"],
+  "ingredients": [
+    { "id": "chicken-kuzhambu-ingredient-1", "name_ta": "கோழி", "name_en": "Chicken", "quantity": "1/2", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "chicken-kuzhambu-ingredient-2", "name_ta": "மிளகுத்தூள்", "name_en": "Pepper powder", "quantity": "1/2", "unit_ta": "கரண்டி", "unit_en": "ladle", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "chicken-kuzhambu-ingredient-3", "name_ta": "சீரகத்தூள்", "name_en": "Cumin powder", "quantity": "2", "unit_ta": "கரண்டி", "unit_en": "ladles", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "chicken-kuzhambu-ingredient-4", "name_ta": "தேங்காய்", "name_en": "Coconut milk", "quantity": "1/2", "unit_ta": "மூடி", "unit_en": null, "notes_ta": "பால்", "notes_en": "milk from half a coconut", "display_order": 4 },
+    { "id": "chicken-kuzhambu-ingredient-5", "name_ta": "வெங்காயம்", "name_en": "Onion", "quantity": "50", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "chicken-kuzhambu-ingredient-6", "name_ta": "மிளகாய்தூள்", "name_en": "Chili powder", "quantity": "50", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "chicken-kuzhambu-ingredient-7", "name_ta": "மல்லித்தூள்", "name_en": "Coriander powder", "quantity": "2", "unit_ta": "கரண்டி", "unit_en": "ladles", "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "chicken-kuzhambu-ingredient-8", "name_ta": "உப்பு, மஞ்சள்தூள்", "name_en": "Salt, turmeric powder", "quantity": "சிறிதளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "chicken-kuzhambu-ingredient-9", "name_ta": "நல்லெண்ணெய்", "name_en": "Good oil", "quantity": "100", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 9 }
+  ],
+  "instructions": [
+    {
+      "id": "chicken-kuzhambu-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "கோழியை சுத்தம் செய்து சிறு துண்டுகளாக வெட்டிக் கொள்ளவும். ஒரு பாத்திரத்தில் எண்ணெய் ஊற்றி காய்ந்ததும் நறுக்கிய வெங்காயம் போட்டு வதக்கி கோழிக்கறி போட்டு வதக்கி, தேவையான உப்பு, மஞ்சள் தூள் சிறிது நேரம் மூடி வைக்கவும். கோழிக்கறியை சிறிது நீரில் வேகவிடவும். பின் மசாலாவையும், தேங்காய்பாலையும் கறியில் ஊற்றி எண்ணெய் விட்டு வேக வைக்கவும். கறி வெந்து குழம்பு வற்றி எண்ணெய் தெளியவும் இறக்கி விடவும்.",
+      "instruction_en": "Clean the chicken and cut into small pieces. In a pot, pour oil and once hot, add chopped onion and sauté, then add the chicken and sauté, add the needed salt and turmeric powder, and cover for a little while. Cook the chicken with a little water. Then pour the masala paste and coconut milk into the curry, add oil, and cook. Once the chicken is cooked and the kuzhambu has reduced with the oil separating out on top, remove from heat.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

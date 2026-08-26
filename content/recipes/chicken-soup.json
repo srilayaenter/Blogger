@@ -1,0 +1,40 @@
+{
+  "slug": "chicken-soup",
+  "title_ta": "கோழி சூப்",
+  "title_en": "Chicken Soup",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 53,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-26T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["soup"],
+  "ingredients": [
+    { "id": "chicken-soup-ingredient-1", "name_ta": "கோழி", "name_en": "Chicken", "quantity": "1", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "chicken-soup-ingredient-2", "name_ta": "பெரிய வெங்காயம்", "name_en": "Big onion", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "chicken-soup-ingredient-3", "name_ta": "இஞ்சி", "name_en": "Ginger", "quantity": "1", "unit_ta": "அங்குலம்", "unit_en": "inch", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "chicken-soup-ingredient-4", "name_ta": "மிளகுதூள்", "name_en": "Pepper powder", "quantity": "2", "unit_ta": "தேக்கரண்டி", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "chicken-soup-ingredient-5", "name_ta": "உப்பு, மஞ்சள் தூள்", "name_en": "Salt, turmeric powder", "quantity": "தேவையான அளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 5 }
+  ],
+  "instructions": [
+    {
+      "id": "chicken-soup-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "1 கிலோ கோழி கறியை சுத்தம் செய்து, துண்டுகளாக நறுக்கிக் கொள்ளவும். 1 அங்குலம் இஞ்சி, 2 பெரிய வெங்காயம் ஆகியவற்றை நறுக்கிக்கொள்ளவும். அடி கனமான பாத்திரத்தில் 4 டம்ளர் தண்ணீர் ஊற்றி, கொதித்ததும் கோழித்துண்டுகள், நறுக்கிய இஞ்சி, வெங்காயம், 2 தேக்கரண்டி மிளகு தூள், தேவையான உப்பு, மஞ்சள் தூள் போடவும். மிதமான தீயில் வைத்து கோழிக்கறி வெந்ததும் இறக்கவும். ப்ரஷர் குக்கரில் தயாரிப்பதனால் 3 டம்ளர் தண்ணீர் ஊற்றி விசில் சப்தம் கேட்டு 3 நிமிடங்கள் கழித்து இறக்கவும்.",
+      "instruction_en": "Clean 1 kg of chicken and cut into pieces. Chop the 1-inch ginger and 2 big onions. Pour 4 tumblers of water into a heavy-bottomed pot, and once it boils, add the chicken pieces, chopped ginger, onion, 2 tablespoons of pepper powder, the needed salt, and turmeric powder. Cook on medium heat and remove once the chicken is done. If preparing in a pressure cooker instead, pour 3 tumblers of water and remove 3 minutes after the whistle sounds.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

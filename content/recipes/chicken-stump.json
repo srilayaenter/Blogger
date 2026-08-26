@@ -1,0 +1,42 @@
+{
+  "slug": "chicken-stump",
+  "title_ta": "சிக்கன் ஸ்டம்ப்",
+  "title_en": "Chicken Stump",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 51,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-26T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["fried-snack"],
+  "ingredients": [
+    { "id": "chicken-stump-ingredient-1", "name_ta": "கோதுமை மாவு", "name_en": "Wheat flour", "quantity": "100", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "chicken-stump-ingredient-2", "name_ta": "முட்டை", "name_en": "Egg", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "chicken-stump-ingredient-3", "name_ta": "கொத்திய எலும்பு நீக்கிய கறி", "name_en": "Minced boneless chicken curry", "quantity": "100", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "chicken-stump-ingredient-4", "name_ta": "சோயா சாஸ்", "name_en": "Soy sauce", "quantity": "1/4", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "chicken-stump-ingredient-5", "name_ta": "அஜினோ மோடோ", "name_en": "Ajinomoto (MSG)", "quantity": "1/4", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "chicken-stump-ingredient-6", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "பொரிக்க", "notes_en": "for frying", "display_order": 6 },
+    { "id": "chicken-stump-ingredient-7", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவையான அளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 7 }
+  ],
+  "instructions": [
+    {
+      "id": "chicken-stump-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "கோதுமை மாவில் முட்டையை சேர்த்து சப்பாத்திக்கு மாவு பிசைவது போல் பிசைந்து கொள்ளவும். இந்த மாவை சப்பாத்தியாக செய்யவும். இதன் கனம் 2 மில்லி மீட்டர் உடையதாக இருக்க வேண்டும். பின்பு, இந்த சப்பாத்தியை சதுரம் ஆக வெட்டி வைத்துக் கொள்ளவும். கோழிக்கறியுடன் அஜினோமோடோ, சோயா சாஸ், உப்பு சேர்த்து கலந்து வைக்கவும். ஒவ்வொரு சப்பாத்தி சதுரத்தின் மீதும் கொஞ்சம் கொஞ்சம் கோழிக்கறி கலவையை வைத்து முக்கோண வடிவமாக மடித்து எண்ணெயில் போட்டு பொன்னிறமாக பொரித்து எடுக்கவும். சூடாக பரிமாறவும்.",
+      "instruction_en": "Mix the egg into the wheat flour and knead it the way you would chapati dough. Roll this dough out into chapatis, about 2mm thick. Then cut each chapati into squares. Mix the ajinomoto, soy sauce, and salt into the chicken curry. Place a little of the chicken mixture onto each dough square, fold into a triangle shape, and deep-fry in oil until golden brown. Serve hot.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "ginger-chilli-chicken",
+  "title_ta": "ஜிஞ்சர் சில்லி சிக்கன்",
+  "title_en": "Ginger Chilli Chicken",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 51,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-26T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["fried-snack"],
+  "ingredients": [
+    { "id": "ginger-chilli-chicken-ingredient-1", "name_ta": "இஞ்சி", "name_en": "Ginger", "quantity": "1", "unit_ta": "துண்டு", "unit_en": "piece", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "ginger-chilli-chicken-ingredient-2", "name_ta": "பச்சை மிளகாய்", "name_en": "Green chilies", "quantity": "4", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "ginger-chilli-chicken-ingredient-3", "name_ta": "டால்டா", "name_en": "Dalda", "quantity": "1", "unit_ta": "கரண்டி", "unit_en": "ladle", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "ginger-chilli-chicken-ingredient-4", "name_ta": "சைனீஸ் சிக்கன் ப்ரையில் பொரித்த கறித்துண்டுகள், அதன் கிரேவி", "name_en": "Fried chicken pieces and gravy from Chinese Chicken Fry (recipe 6)", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": "source gives no separate ingredient list for this recipe -- it is built entirely on top of an already-prepared batch of Chinese Chicken Fry", "display_order": 4 }
+  ],
+  "instructions": [
+    {
+      "id": "ginger-chilli-chicken-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "இஞ்சி 1 துண்டு, பச்சை மிளகாய் 4, இரண்டையும் மிகப் பொடியாக வெட்டவும். வாணலியில் ஒரு கரண்டி டால்டா ஊற்றி நைசாக வெட்டிய இஞ்சி, மிளகாய் துண்டுகளை சிவக்க வதக்கி, முன்பு சைனீஸ் சிக்கன் ப்ரையில் கூறியபடி பொரித்தெடுத்த கறித்துண்டுகளை அதில் போட்டு, குக்கரில் மீதமுள்ள கிரேவியையும் ஊற்றி எண்ணெய் தெளியவும் இறக்கவும்.",
+      "instruction_en": "Finely chop 1 piece of ginger and 4 green chilies. In a pan, pour a ladle of dalda and sauté the finely chopped ginger and chili until reddish. Add the fried chicken pieces prepared as described earlier in Chinese Chicken Fry (recipe 6), pour in the remaining gravy from the cooker as well, and remove from heat once the oil separates out on top.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

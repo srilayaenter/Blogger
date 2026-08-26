@@ -1,0 +1,44 @@
+{
+  "slug": "whole-chicken-roast",
+  "title_ta": "முழுக்கோழி ரோஸ்ட்",
+  "title_en": "Whole Chicken Roast",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 59,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-26T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["curry"],
+  "ingredients": [
+    { "id": "whole-chicken-roast-ingredient-1", "name_ta": "கோழி", "name_en": "Chicken", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": "whole, young chicken", "display_order": 1 },
+    { "id": "whole-chicken-roast-ingredient-2", "name_ta": "இஞ்சி, பூண்டு", "name_en": "Ginger, garlic", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "whole-chicken-roast-ingredient-3", "name_ta": "பட்டை", "name_en": "Cinnamon", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "whole-chicken-roast-ingredient-4", "name_ta": "மிளகாய் வற்றல்", "name_en": "Dried red chilies", "quantity": "15", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "whole-chicken-roast-ingredient-5", "name_ta": "கிராம்பு", "name_en": "Cloves", "quantity": "4", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "whole-chicken-roast-ingredient-6", "name_ta": "வெங்காயம்", "name_en": "Onion", "quantity": "10", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "whole-chicken-roast-ingredient-7", "name_ta": "நெய்", "name_en": "Ghee", "quantity": "1/16", "unit_ta": "படி", "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "whole-chicken-roast-ingredient-8", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவையான அளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "whole-chicken-roast-ingredient-9", "name_ta": "மஞ்சள் தூள்", "name_en": "Turmeric powder", "quantity": "தேவையான அளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 9 }
+  ],
+  "instructions": [
+    {
+      "id": "whole-chicken-roast-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "இளம் கோழி ஒன்றை சுத்தம் செய்து குடல் நீக்கி முழுதாக எடுத்துக்கொள்ளவும். மிளகாய் வற்றல் 15, இஞ்சி ஒரு சிறு துண்டு, பூண்டு 1, கிராம்பு 4, பட்டை 2, வெங்காயம் 10, இவற்றை நன்கு அரைத்துக்கொள்ளவும். அரைத்த மசாலுடன் தேவையான உப்புத்தூள், மஞ்சள் தூள் கலந்து கொள்ளவும். கோழியின் மேற்புறத்தை முள்கரண்டி அல்லது ஊசியினால் நன்றாக குத்தி விடவும். பின் மசாலாவை உப்புக்கால் வெளிப்பக்கமும் நன்றாக தடவி விட்டு இட்லித்தட்டில் வைத்து ஆவியில் வேக வைக்கவும். கறி வெந்ததும் எடுத்து வாணலியில் 1/16 படி நெய் அல்லது டால்டாவை ஊற்றி அதில் பொரித்து எடுக்கவும்.",
+      "instruction_en": "Clean a young whole chicken, remove the innards, and keep it whole. Grind together 15 dried red chilies, a small piece of ginger, 1 garlic, 4 cloves, 2 cinnamon, and 10 onions into a smooth paste. Mix the ground masala with the needed salt and turmeric powder. Prick the surface of the chicken well with a fork or needle. Then rub the masala well all over the outside, place it on an idli plate, and steam it. Once the chicken is cooked, take it out, heat 1/16 measure of ghee or dalda in a pan, and fry it in that.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

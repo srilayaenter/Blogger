@@ -1,0 +1,48 @@
+{
+  "slug": "chicken-masala",
+  "title_ta": "கோழி மசாலா",
+  "title_en": "Chicken Masala",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 53,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-26T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["curry"],
+  "ingredients": [
+    { "id": "chicken-masala-ingredient-1", "name_ta": "கோழி", "name_en": "Chicken", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "chicken-masala-ingredient-2", "name_ta": "பூண்டு", "name_en": "Garlic", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "chicken-masala-ingredient-3", "name_ta": "தயிர்", "name_en": "Yogurt", "quantity": "1", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "chicken-masala-ingredient-4", "name_ta": "இஞ்சி", "name_en": "Ginger", "quantity": "1", "unit_ta": "துண்டு", "unit_en": "piece", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "chicken-masala-ingredient-5", "name_ta": "பெல்லாரி", "name_en": "Bellary onion", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "chicken-masala-ingredient-6", "name_ta": "மிளகு", "name_en": "Pepper", "quantity": "10", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "chicken-masala-ingredient-7", "name_ta": "எலுமிச்சம்பழம்", "name_en": "Lemon", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "chicken-masala-ingredient-8", "name_ta": "சீரகம்", "name_en": "Cumin", "quantity": "1", "unit_ta": "தேக்கரண்டி", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "chicken-masala-ingredient-9", "name_ta": "ஏலக்காய்", "name_en": "Cardamom", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 9 },
+    { "id": "chicken-masala-ingredient-10", "name_ta": "கிராம்பு", "name_en": "Cloves", "quantity": "7", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 10 },
+    { "id": "chicken-masala-ingredient-11", "name_ta": "பட்டை", "name_en": "Cinnamon", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 11 },
+    { "id": "chicken-masala-ingredient-12", "name_ta": "கசகசா", "name_en": "Poppy seeds", "quantity": "1", "unit_ta": "மேஜைக்கரண்டி", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 12 },
+    { "id": "chicken-masala-ingredient-13", "name_ta": "வற்றல்", "name_en": "Dried red chilies", "quantity": "7", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 13 }
+  ],
+  "instructions": [
+    {
+      "id": "chicken-masala-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "கறியைப் பெரிய துண்டுகளாக வெட்டித் தயிரில் 1 மணி நேரம் ஊற வைக்கும் போது, உப்பு, மஞ்சள் தூள் சேர்க்கவும். பெல்லாரியை பொடியாக வெட்டி 6 கரண்டி எண்ணெயில் வதக்கி அரைத்த மசாலையும் சேர்த்து வேக வைக்கவும். வெந்தபின் எலுமிச்சம்பழம் பிழிந்து குழம்பு வற்றி எண்ணெய் தெளியவும் இறக்கவும்.",
+      "instruction_en": "Cut the curry into large pieces and let it marinate in yogurt for 1 hour, adding salt and turmeric powder at that time. Finely chop the Bellary onion, sauté it in 6 ladles of oil, add in the ground masala as well, and cook. Once done, squeeze in the lemon and cook until the gravy reduces and the oil separates out on top, then remove from heat.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "parsi-chicken-curry",
+  "title_ta": "பார்ஸி கோழிக்கறி",
+  "title_en": "Parsi Chicken Curry",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 56,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-26T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["curry"],
+  "ingredients": [
+    { "id": "parsi-chicken-curry-ingredient-1", "name_ta": "கோழிக்கறித் துண்டுகள்", "name_en": "Chicken curry pieces", "quantity": "1", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "parsi-chicken-curry-ingredient-2", "name_ta": "இஞ்சி", "name_en": "Ginger", "quantity": "1", "unit_ta": "துண்டு", "unit_en": "piece", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "parsi-chicken-curry-ingredient-3", "name_ta": "பூண்டு", "name_en": "Garlic", "quantity": "10", "unit_ta": "பல்", "unit_en": "cloves", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "parsi-chicken-curry-ingredient-4", "name_ta": "வரமிளகாய்", "name_en": "Dried red chilies", "quantity": "10", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "parsi-chicken-curry-ingredient-5", "name_ta": "சீரகம்", "name_en": "Cumin", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "parsi-chicken-curry-ingredient-6", "name_ta": "முந்திரிப் பருப்பு", "name_en": "Cashew nuts", "quantity": "1/2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "parsi-chicken-curry-ingredient-7", "name_ta": "பெ. வெங்காயம்", "name_en": "Big onion", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "parsi-chicken-curry-ingredient-8", "name_ta": "தக்காளி கெச்சப்", "name_en": "Tomato ketchup", "quantity": "3", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "parsi-chicken-curry-ingredient-9", "name_ta": "சர்க்கரை", "name_en": "Sugar", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 9 },
+    { "id": "parsi-chicken-curry-ingredient-10", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": "2", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 10 },
+    { "id": "parsi-chicken-curry-ingredient-11", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவையான அளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 11 }
+  ],
+  "instructions": [
+    {
+      "id": "parsi-chicken-curry-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "இஞ்சி, பூண்டை நைசாக அரைத்து கோழிக்கறியில் தடவி 1 மணி நேரம் ஊற வைக்கவும். மிளகாய், சீரகம் இவைகளை நைசாக அரைத்துக் கொள்ளவும். முந்திரிப் பருப்பையும் நைசாக அரைக்கவும். வாணலியில் எண்ணெய் விட்டு, வெங்காயத்தை சேர்த்து பொன்னிறமாக வதக்கவும். மிளகாய் விழுதை சேர்த்து சிறிது நேரம் வதக்கி கோழிக்கறியை சேர்க்கவும். இதனுடன் உப்பு சேர்த்து நன்றாக வேக விடவும். கறி வெந்ததும் முந்திரிப் பருப்பு விழுது, தக்காளி கெச்சப், சர்க்கரை இவற்றை சேர்த்துக் கிளறவும். இக்கலவை கெட்டியாகும் வரை தொடர்ந்து கிளறி இறக்கவும்.",
+      "instruction_en": "Grind the ginger and garlic into a smooth paste, rub it onto the chicken, and let it marinate for 1 hour. Grind the chili and cumin into a smooth paste. Also grind the cashews into a smooth paste. In a pan, add oil, add the onion, and sauté until golden. Add the ground chili paste, sauté briefly, and add the chicken. Add salt and let it cook well. Once the chicken is done, add the ground cashew paste, tomato ketchup, and sugar, and stir. Keep stirring continuously until the mixture thickens, then remove from heat.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

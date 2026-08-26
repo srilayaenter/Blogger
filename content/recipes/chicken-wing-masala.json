@@ -1,0 +1,45 @@
+{
+  "slug": "chicken-wing-masala",
+  "title_ta": "கோழி இறக்கைகறி மசாலா",
+  "title_en": "Chicken Wing Masala",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 54,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-26T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["curry"],
+  "ingredients": [
+    { "id": "chicken-wing-masala-ingredient-1", "name_ta": "கோழி இறக்கை கறி", "name_en": "Chicken wings", "quantity": "5", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "chicken-wing-masala-ingredient-2", "name_ta": "இஞ்சி", "name_en": "Ginger", "quantity": "1", "unit_ta": "துண்டு", "unit_en": "piece", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "chicken-wing-masala-ingredient-3", "name_ta": "பூண்டு", "name_en": "Garlic", "quantity": "10", "unit_ta": "பல்", "unit_en": "cloves", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "chicken-wing-masala-ingredient-4", "name_ta": "மிளகாய்தூள்", "name_en": "Chili powder", "quantity": "1", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "chicken-wing-masala-ingredient-5", "name_ta": "மிளகுதூள்", "name_en": "Pepper powder", "quantity": "1/2", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "chicken-wing-masala-ingredient-6", "name_ta": "முட்டை", "name_en": "Egg", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "chicken-wing-masala-ingredient-7", "name_ta": "சோளமாவு", "name_en": "Corn flour", "quantity": "சிறிதளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "chicken-wing-masala-ingredient-8", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "பொரிக்க", "notes_en": "for frying", "display_order": 8 },
+    { "id": "chicken-wing-masala-ingredient-9", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவையான அளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 9 },
+    { "id": "chicken-wing-masala-ingredient-10", "name_ta": "வெங்காயம், தக்காளி", "name_en": "Onion, tomato", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": "used in the method for the gravy but no quantity printed in the தேவை list", "display_order": 10 }
+  ],
+  "instructions": [
+    {
+      "id": "chicken-wing-masala-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "கோழி இறக்கையை சுத்தம் செய்து அதை சோளமாவில் பிரட்டி, அடித்து வைத்துள்ள முட்டையில் நனைத்து வைக்கவும். இதில் லேசாக உப்பு சேர்க்கவும். இஞ்சி, பூண்டை விழுதாக அரைக்கவும். கோழி இறக்கையை எண்ணெயில் பொரித்து எடுக்கவும். பின்பு, சிறிதளவு எண்ணெயில் நறுக்கிய வெங்காயம், இஞ்சி பூண்டு விழுது போட்டு வதக்கி அதனுடன் தக்காளி, மிளகு தூள், உப்பு சேர்த்து கலவை கெட்டியாகும் வரை கொதிக்க விடவும். பின்பு, இதில் வறுத்து வைத்துள்ள கோழி இறக்கையை போட்டு சுண்டும் வரை கொதிக்க விடவும். சூடாக பரிமாறவும்.",
+      "instruction_en": "Clean the chicken wings, toss them in corn flour, and dip them in the beaten egg. Add a little salt to this. Grind the ginger and garlic into a smooth paste. Deep-fry the chicken wings in oil. Then, in a little oil, sauté chopped onion and the ginger-garlic paste, add tomato, pepper powder, and salt, and let it cook until the mixture thickens. Then add the fried chicken wings into this and let it simmer until the gravy reduces. Serve hot.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

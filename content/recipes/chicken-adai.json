@@ -1,0 +1,41 @@
+{
+  "slug": "chicken-adai",
+  "title_ta": "சிக்கன் அடை",
+  "title_en": "Chicken Adai",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 45,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-26T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["breakfast"],
+  "ingredients": [
+    { "id": "chicken-adai-ingredient-1", "name_ta": "காக் அடைமாவு", "name_en": "Adai batter mix", "quantity": null, "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": "quantity digit partially unclear in source scan; likely 500g but not fully legible", "display_order": 1 },
+    { "id": "chicken-adai-ingredient-2", "name_ta": "மிளகுத்தூள்", "name_en": "Pepper powder", "quantity": "1/2", "unit_ta": "ஸ்பூன்", "unit_en": "spoon", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "chicken-adai-ingredient-3", "name_ta": "இஞ்சி, பச்சைமிளகாய்", "name_en": "Ginger, green chili", "quantity": "சிறிதளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "chicken-adai-ingredient-4", "name_ta": "கோழிக்கறி", "name_en": "Chicken curry pieces", "quantity": "250", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "chicken-adai-ingredient-5", "name_ta": "மஞ்சள் தூள்", "name_en": "Turmeric powder", "quantity": "1/2", "unit_ta": "ஸ்பூன்", "unit_en": "spoon", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "chicken-adai-ingredient-6", "name_ta": "பூண்டு, வெங்காயம்", "name_en": "Garlic, onion", "quantity": "சிறிதளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 6 }
+  ],
+  "instructions": [
+    {
+      "id": "chicken-adai-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "எலும்பு இல்லாமல் சிறுதுண்டுகளாக கோழிக்கறியை வெட்டிக் கொள்ளவேண்டும். உப்பு, மஞ்சள்தூள், மிளகுத்தூள் சேர்த்து வைத்து சிறிது தயிர் ஊற்றி ½ மணி நேரம் ஊற வைக்கவும். அடைமாவை தண்ணீரில் ஊற்றி வெங்காயம், இஞ்சி, பூண்டு, பச்சைமிளகாய் நறுக்கி போட்டு ஊறவைக்க வேண்டும். அதனுடன் ஊறவைத்த கோழிக்கறியை கலக்க வேண்டும். பிறகு தோசை கல்லில் இடியாப்பம் போல் எண்ணெயில் ஊற்றி கடவேண்டும். இது சுவையாக இருக்கும்.",
+      "instruction_en": "Cut the chicken curry into small pieces without bone. Mix in salt, turmeric powder, and pepper powder, pour in a little yogurt, and let it marinate for ½ hour. Soak the adai batter mix in water, add chopped onion, ginger, garlic, and green chili, and let it soak. Mix in the marinated chicken. Then pour and cook it on a griddle in oil like idiyappam. This tastes great.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

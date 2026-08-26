@@ -1,0 +1,41 @@
+{
+  "slug": "tandoori-chicken",
+  "title_ta": "தந்தூரி சிக்கன்",
+  "title_en": "Tandoori Chicken",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 50,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-26T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["curry"],
+  "ingredients": [
+    { "id": "tandoori-chicken-ingredient-1", "name_ta": "கோழி", "name_en": "Chicken", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "tandoori-chicken-ingredient-2", "name_ta": "எலுமிச்சம்பழம்", "name_en": "Lemon", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "tandoori-chicken-ingredient-3", "name_ta": "தயிர்", "name_en": "Yogurt", "quantity": "6", "unit_ta": "மேஜைக்கரண்டி", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "tandoori-chicken-ingredient-4", "name_ta": "சிகப்பு பவுடர்", "name_en": "Red/chili powder", "quantity": "1/4", "unit_ta": "தேக்கரண்டி", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "tandoori-chicken-ingredient-5", "name_ta": "டால்டா", "name_en": "Dalda", "quantity": "25", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "tandoori-chicken-ingredient-6", "name_ta": "மிளகுத்தூள், உப்பு", "name_en": "Pepper powder, salt", "quantity": "தேவையானது", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 6 }
+  ],
+  "instructions": [
+    {
+      "id": "tandoori-chicken-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "கோழியை தோல் உரித்து பெரிய துண்டுகளாக வெட்டி முள் கரண்டியால் நன்றாக குத்தி எலுமிச்சம்பழச்சாறு பிழிந்து, தயிர், மிளகுத்தூள், கலர் பவுடர் கலந்து 6 மணி நேரம் ஊற வைக்கவும். அடுப்புக்கரியை பெருக்கி கறியை சுத்தமான கம்பியில் குத்தி தணலில் சுட்டு எடுக்கவும். ஒரு ப்ளேட்டில் டால்டா ஊற்றி ஒவ்வொரு கறியாக சுடவும். ஒரு முறை சுட்டக் கறியை பிரட்டி மறுபடியும் கம்பியில் மாட்டி கறியை நன்றாக எல்லாப் பக்கமும் வேக விடவும். இதே போல் மற்ற எல்லாக் கறித்துண்டுகளையும் தயாரிக்கவும்.",
+      "instruction_en": "Skin the chicken, cut into large pieces, and prick well with a fork. Squeeze in the lemon juice, mix in the yogurt, pepper powder, and red/chili powder, and let it marinate for 6 hours. Build up the stove flame, skewer the chicken pieces onto a clean wire, and roast over the flame. Spread dalda on a plate and roast each piece once, then thread it back onto the wire and cook evenly on all sides. Prepare all the remaining chicken pieces the same way.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

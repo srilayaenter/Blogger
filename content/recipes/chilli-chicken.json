@@ -1,0 +1,42 @@
+{
+  "slug": "chilli-chicken",
+  "title_ta": "சில்லி சிக்கன்",
+  "title_en": "Chilli Chicken",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 45,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-26T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["fried-snack"],
+  "ingredients": [
+    { "id": "chilli-chicken-ingredient-1", "name_ta": "கோழிக்கறி", "name_en": "Chicken curry pieces", "quantity": "500", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "chilli-chicken-ingredient-2", "name_ta": "பூண்டு", "name_en": "Garlic", "quantity": "5", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "chilli-chicken-ingredient-3", "name_ta": "பச்சைமிளகாய்", "name_en": "Green chili", "quantity": "சிறிதளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "chilli-chicken-ingredient-4", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": "100", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "chilli-chicken-ingredient-5", "name_ta": "பட்டை மிளகாய்", "name_en": "Dried chili, ground", "quantity": "1", "unit_ta": "ஸ்பூன்", "unit_en": "spoon", "notes_ta": "அரைத்து", "notes_en": "ground", "display_order": 5 },
+    { "id": "chilli-chicken-ingredient-6", "name_ta": "வினிகர்", "name_en": "Vinegar", "quantity": "1", "unit_ta": "ஸ்பூன்", "unit_en": "spoon", "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "chilli-chicken-ingredient-7", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "சிறிதளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 7 }
+  ],
+  "instructions": [
+    {
+      "id": "chilli-chicken-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "கோழிக்கறியை சுத்தம் செய்து சிறு துண்டுகளாக நறுக்கி வைத்துக் கொள்ளவும். ஒரு பாத்திரத்தில் கோழிக்கறி, வினிகர், உப்பு, அரைத்த மிளகாய், பூண்டு, அரைத்த பச்சை மிளகாய் போட்டு கிளறி ½ மணிநேரம் ஊற வைக்கவும். அடுப்பை மிதமாக எரிய விடவும். சிறிது நேரம் வாணலியை மூடி வைக்கவும். கோழிக்கறி வெந்ததும் திறந்து மீண்டும் கிளறவும். எல்லாம் ஒன்றாக கலந்து நன்றாக வெந்து சுண்டி வரும்போது இறக்கி வைக்கவும். இது சுவையாக இருக்கும்.",
+      "instruction_en": "Clean the chicken curry pieces and cut into small pieces. In a bowl, mix the chicken with vinegar, salt, the ground chili, garlic, and ground green chili, and let it marinate for ½ hour. Heat the pan on medium flame and cover it for a little while. Once the chicken cooks, open and stir again. Once everything is well mixed and cooked down to a thickened consistency, remove from heat. This tastes great.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

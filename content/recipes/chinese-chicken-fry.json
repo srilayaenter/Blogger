@@ -1,0 +1,46 @@
+{
+  "slug": "chinese-chicken-fry",
+  "title_ta": "சைனீஸ் சிக்கன் பிரைய்",
+  "title_en": "Chinese Chicken Fry",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 48,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-26T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["fried-snack"],
+  "ingredients": [
+    { "id": "chinese-chicken-fry-ingredient-1", "name_ta": "அஜினோ மோட்டோ சால்ட்", "name_en": "Ajinomoto (MSG) salt", "quantity": "1/4", "unit_ta": "தேக்கரண்டி", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "chinese-chicken-fry-ingredient-2", "name_ta": "வெட் கோழி", "name_en": "Whole dressed chicken", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "chinese-chicken-fry-ingredient-3", "name_ta": "சோயா சாஸ்", "name_en": "Soy sauce", "quantity": "1", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "chinese-chicken-fry-ingredient-4", "name_ta": "வினிகர்", "name_en": "Vinegar", "quantity": "1/2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "chinese-chicken-fry-ingredient-5", "name_ta": "நல்லெண்ணெய்", "name_en": "Good oil", "quantity": "2", "unit_ta": "தேக்கரண்டி", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "chinese-chicken-fry-ingredient-6", "name_ta": "உப்பு, மஞ்சள்", "name_en": "Salt, turmeric", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": "quantity not printed in source", "display_order": 6 },
+    { "id": "chinese-chicken-fry-ingredient-7", "name_ta": "பெல்லாரி வெங்காயம்", "name_en": "Bellary onion", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "chinese-chicken-fry-ingredient-8", "name_ta": "மிளகுத்தூள்", "name_en": "Pepper powder", "quantity": "2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoons", "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "chinese-chicken-fry-ingredient-9", "name_ta": "கார்ன்பிளவர்", "name_en": "Corn flour", "quantity": "3", "unit_ta": "மேஜைக்கரண்டி", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 9 },
+    { "id": "chinese-chicken-fry-ingredient-10", "name_ta": "மைதா", "name_en": "Maida (all-purpose flour)", "quantity": "2", "unit_ta": "மேஜைக்கரண்டி", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 10 },
+    { "id": "chinese-chicken-fry-ingredient-11", "name_ta": "பொரிப்பதற்கு டால்டா", "name_en": "Dalda, for frying", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 11 }
+  ],
+  "instructions": [
+    {
+      "id": "chinese-chicken-fry-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "கோழியை எலும்புடன் சிறு உருண்டைத் துண்டுகளாக நறுக்கி அரைத்த வெங்காயம், மிளகுத்தூள், சாஸ், வினிகர், அஜினோமோட்டோ சால்ட், உப்பு, மஞ்சள் சேர்த்து அரை மணி நேரம் ஊற வைத்துக் குக்கரில் அரை வேகாடு வேக வைக்கவும். பின் கார்ன் பிளவரையும் மைதா மாவையும் தண்ணீர் விட்டு கரைத்து வெந்த துண்டுகளை மட்டும் எடுத்து மாவில் தேய்த்து வாணலியில் காயும் டால்டாவில் போட்டு இரண்டிரண்டாக பொரித்து சிவந்ததும் எடுக்கவும்.",
+      "instruction_en": "Cut the chicken with bone into small round pieces. Mix in ground onion, pepper powder, soy sauce, vinegar, ajinomoto salt, salt, and turmeric, and let it marinate for half an hour, then pressure-cook until just under fully done. Then dissolve the corn flour and maida in water, take out only the cooked pieces, coat them in the batter, and deep-fry two at a time in hot dalda until golden, then remove.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

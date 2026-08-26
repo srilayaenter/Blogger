@@ -1,0 +1,40 @@
+{
+  "slug": "chicken-bajji",
+  "title_ta": "கோழி பஜ்ஜி",
+  "title_en": "Chicken Bajji",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 47,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-26T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["bajji"],
+  "ingredients": [
+    { "id": "chicken-bajji-ingredient-1", "name_ta": "காக் பிராண்ட் பஜ்ஜி மாவு", "name_en": "Store-bought bajji batter mix", "quantity": "200", "unit_ta": "கிராம் (பாக்)", "unit_en": "Grams (packet)", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "chicken-bajji-ingredient-2", "name_ta": "மிளகாய்தூள்", "name_en": "Chili powder", "quantity": "2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoons", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "chicken-bajji-ingredient-3", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "சிறிதளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "chicken-bajji-ingredient-4", "name_ta": "நெஞ்சுக்கறி கோழி", "name_en": "Chicken breast", "quantity": "500", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "chicken-bajji-ingredient-5", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": "200", "unit_ta": "மி.லி", "unit_en": "ml", "notes_ta": null, "notes_en": null, "display_order": 5 }
+  ],
+  "instructions": [
+    {
+      "id": "chicken-bajji-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "கோழிக்கறியை விரல் நீள துண்டுகளாக வெட்டி கழுவி தண்ணீர் இல்லாமல் பிழிந்து சிறிது உப்பு மிளகாய் தூள் தூவி ஊற வைக்கவும். வாணலியில் எண்ணெய் காய வைத்து (பஜ்ஜி மாவில் கரைத்துக் கொள்ளவும்.) கரைத்தமாவில் கோழிக்கறி துண்டுகள் தேய்த்து எண்ணெயில் பொரித்து எடுக்கவும். இது சுவையாக இருக்கும். குறிப்பு: ப்ராய்லர் கோழிதான் உபயோகிக்க வேண்டும். மற்ற கோழியாக இருந்தால் கறியை சிறிது வேக வைக்க வேண்டும்.",
+      "instruction_en": "Cut the chicken into finger-length pieces, wash without retaining water, drain well, sprinkle a little salt and chili powder, and let it sit. Heat oil in a pan (mix the bajji batter mix with water in the meantime). Coat the chicken pieces in the mixed batter and deep-fry in the oil. This tastes great. Note: only broiler chicken should be used for this. If using another type of chicken, the curry needs to be cooked a little first.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "chicken-vindaloo",
+  "title_ta": "சிக்கன் விந்தாரி",
+  "title_en": "Chicken Vindaloo",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 58,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-26T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["curry"],
+  "ingredients": [
+    { "id": "chicken-vindaloo-ingredient-1", "name_ta": "கோழி", "name_en": "Chicken", "quantity": "1", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "chicken-vindaloo-ingredient-2", "name_ta": "பெல்லாரி வெங்காயம்", "name_en": "Bellary onion", "quantity": "100", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "chicken-vindaloo-ingredient-3", "name_ta": "நல்லெண்ணெய்", "name_en": "Good oil", "quantity": "6", "unit_ta": "கரண்டி", "unit_en": "ladles", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "chicken-vindaloo-ingredient-4", "name_ta": "தேங்காய்ச் சில்", "name_en": "Coconut", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "chicken-vindaloo-ingredient-5", "name_ta": "கசகசா", "name_en": "Poppy seeds", "quantity": "2", "unit_ta": "தேக்கரண்டி", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "chicken-vindaloo-ingredient-6", "name_ta": "இஞ்சி", "name_en": "Ginger", "quantity": "1", "unit_ta": "அங்குலத்துண்டு", "unit_en": "inch piece", "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "chicken-vindaloo-ingredient-7", "name_ta": "வற்றல்", "name_en": "Dried red chilies", "quantity": "15", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "chicken-vindaloo-ingredient-8", "name_ta": "கொத்தமல்லி", "name_en": "Coriander seeds", "quantity": "2", "unit_ta": "தேக்கரண்டி", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "chicken-vindaloo-ingredient-9", "name_ta": "சீரகம்", "name_en": "Cumin", "quantity": "4", "unit_ta": "தேக்கரண்டி", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 9 },
+    { "id": "chicken-vindaloo-ingredient-10", "name_ta": "கடுகு", "name_en": "Mustard seeds", "quantity": "2", "unit_ta": "தேக்கரண்டி", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 10 },
+    { "id": "chicken-vindaloo-ingredient-11", "name_ta": "பூண்டு", "name_en": "Garlic", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 11 }
+  ],
+  "instructions": [
+    {
+      "id": "chicken-vindaloo-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "முதலில் வற்றல், மல்லி, சீரகம், கசகசா எல்லாவற்றையும் வறுத்து அரைக்கவும். இஞ்சி, பூண்டு தனியாகவும் தேங்காய் தனியாகவும் அரைக்கவும். பாத்திரத்தில் எண்ணெய் விட்டு நீளமாக வெட்டிய வெங்காயத்தை வதக்கி அரைத்த இஞ்சி, பூண்டு போட்டு அரைத்த மசாலாவையும் போட்டு வாசனை வரும் வரை வதக்கி 200 மில்லி தண்ணீர் ஊற்றி கொதிக்க விடவும். பின்னர் கோழித்துண்டுகளை தேவையான உப்பு, மஞ்சள் சேர்த்து வேகவிடவும். பாதி வெந்தவுடன் அரைத்த தேங்காய் விழுதைப் போட்டு கொதிக்க விடவும். குழம்பு வற்றிச் சிவந்து எண்ணெய் பிரிந்ததும் இறக்கவும்.",
+      "instruction_en": "First, roast and grind the dried chilies, coriander seeds, cumin, and poppy seeds all together. Grind the ginger and garlic separately, and the coconut separately. In a pot, add oil, sauté the lengthwise-cut onion, add the ground ginger and garlic, then add the ground masala and sauté until fragrant. Pour in 200ml of water and let it boil. Then add the chicken pieces with the needed salt and turmeric, and cook. Once half cooked, add the ground coconut paste and let it boil. Remove from heat once the gravy has reduced, turned reddish, and the oil has separated out.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}
