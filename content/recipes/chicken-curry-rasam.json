@@ -21,12 +21,12 @@
   "dietary_type": "non-vegetarian",
   "categories": ["soup"],
   "ingredients": [
-    { "id": "chicken-curry-rasam-ingredient-1", "name_ta": "கோழிக்கறி குழம்பிலுள்ள ஈரல்", "name_en": "Liver from an already-prepared Chicken Kuzhambu (recipe 8)", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": "this recipe is built on top of an already-prepared batch of Chicken Kuzhambu -- source gives no separate quantity for this", "display_order": 1 },
+    { "id": "chicken-curry-rasam-ingredient-1", "name_ta": "கோழிக்கறி குழம்பிலுள்ள ஈரல்", "name_en": "Liver from an already-prepared Chicken Kuzhambu (recipe 8)", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 1 },
     { "id": "chicken-curry-rasam-ingredient-2", "name_ta": "புளி", "name_en": "Tamarind", "quantity": "எலுமிச்சையளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": "lemon-sized", "display_order": 2 },
     { "id": "chicken-curry-rasam-ingredient-3", "name_ta": "வற்றல்", "name_en": "Dried red chilies", "quantity": "5", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 3 },
     { "id": "chicken-curry-rasam-ingredient-4", "name_ta": "சீரகம்", "name_en": "Cumin", "quantity": "1", "unit_ta": "தேக்கரண்டி", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 4 },
     { "id": "chicken-curry-rasam-ingredient-5", "name_ta": "மல்லிச்செடி", "name_en": "Coriander plant leaves", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "தூவி", "notes_en": "for garnish", "display_order": 5 },
-    { "id": "chicken-curry-rasam-ingredient-6", "name_ta": "கருவேப்பிலை, கடுகு, வெந்தயம்", "name_en": "Curry leaves, mustard seeds, fenugreek seeds", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": "for tempering; no quantity printed in source", "display_order": 6 }
+    { "id": "chicken-curry-rasam-ingredient-6", "name_ta": "கருவேப்பிலை, கடுகு, வெந்தயம்", "name_en": "Curry leaves, mustard seeds, fenugreek seeds", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": "for tempering", "display_order": 6 }
   ],
   "instructions": [
     {

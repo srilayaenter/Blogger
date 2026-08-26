@@ -23,9 +23,9 @@
   "ingredients": [
     { "id": "madras-chicken-ingredient-1", "name_ta": "கோழிக்கறி", "name_en": "Chicken curry", "quantity": "1", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": null, "display_order": 1 },
     { "id": "madras-chicken-ingredient-2", "name_ta": "பெல்லாரி வெங்காயம்", "name_en": "Bellary onion", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 2 },
-    { "id": "madras-chicken-ingredient-3", "name_ta": "தக்காளிப்பழம்", "name_en": "Tomato", "quantity": "3", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": "unit as printed in source is unusual for whole tomatoes -- transcribed exactly as scanned rather than silently corrected", "display_order": 3 },
+    { "id": "madras-chicken-ingredient-3", "name_ta": "தக்காளிப்பழம்", "name_en": "Tomato", "quantity": "3", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 3 },
     { "id": "madras-chicken-ingredient-4", "name_ta": "நல்லெண்ணெய்", "name_en": "Good oil", "quantity": "3/4", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 4 },
-    { "id": "madras-chicken-ingredient-5", "name_ta": "கிராம்பு", "name_en": "Cloves", "quantity": "2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": "unit as printed in source is unusual for whole cloves -- transcribed exactly as scanned rather than silently corrected", "display_order": 5 },
+    { "id": "madras-chicken-ingredient-5", "name_ta": "கிராம்பு", "name_en": "Cloves", "quantity": "2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 5 },
     { "id": "madras-chicken-ingredient-6", "name_ta": "பூண்டு", "name_en": "Garlic", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 6 },
     { "id": "madras-chicken-ingredient-7", "name_ta": "மல்லி இலை, மஞ்சள் தூள், உப்பு", "name_en": "Coriander leaves, turmeric powder, salt", "quantity": "சிறிதளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 7 },
     { "id": "madras-chicken-ingredient-8", "name_ta": "வற்றல்", "name_en": "Dried red chilies", "quantity": "10", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 8 },

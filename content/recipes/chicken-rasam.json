@@ -21,7 +21,7 @@
   "dietary_type": "non-vegetarian",
   "categories": ["soup"],
   "ingredients": [
-    { "id": "chicken-rasam-ingredient-1", "name_ta": "கோழி எலும்பு", "name_en": "Chicken bones", "quantity": "1/2", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": "source layout splits \"chicken (bone / wing)\" across two lines in an ambiguous way -- represented here as two separate ingredient lines rather than guessing a single combined reading", "display_order": 1 },
+    { "id": "chicken-rasam-ingredient-1", "name_ta": "கோழி எலும்பு", "name_en": "Chicken bones", "quantity": "1/2", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": null, "display_order": 1 },
     { "id": "chicken-rasam-ingredient-2", "name_ta": "கோழி இறக்கை", "name_en": "Chicken wings", "quantity": "150", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 2 },
     { "id": "chicken-rasam-ingredient-3", "name_ta": "சின்ன வெங்காயம்", "name_en": "Small (shallot) onions", "quantity": "1", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 3 },
     { "id": "chicken-rasam-ingredient-4", "name_ta": "மிளகு, சீரகத்தூள்", "name_en": "Pepper, cumin powder", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 4 },
@@ -34,7 +34,7 @@
     { "id": "chicken-rasam-ingredient-11", "name_ta": "தனியா தூள்", "name_en": "Coriander powder", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "தாளிக்க", "notes_en": "for tempering", "display_order": 11 },
     { "id": "chicken-rasam-ingredient-12", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": "தேவையான அளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 12 },
     { "id": "chicken-rasam-ingredient-13", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 13 },
-    { "id": "chicken-rasam-ingredient-14", "name_ta": "மஞ்சள் தூள்", "name_en": "Turmeric powder", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": "quantity not printed in source", "display_order": 14 }
+    { "id": "chicken-rasam-ingredient-14", "name_ta": "மஞ்சள் தூள்", "name_en": "Turmeric powder", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 14 }
   ],
   "instructions": [
     {

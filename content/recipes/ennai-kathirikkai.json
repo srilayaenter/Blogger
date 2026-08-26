@@ -22,7 +22,7 @@
   "categories": ["curry"],
   "ingredients": [
     { "id": "ennai-kathirikkai-ingredient-1", "name_ta": "பிஞ்சு கத்தரிக்காய்", "name_en": "Tender brinjal (eggplant)", "quantity": "1/4", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": "சிறியதாக, ஒரே அளவில்", "notes_en": "small, uniform-sized", "display_order": 1 },
-    { "id": "ennai-kathirikkai-ingredient-2", "name_ta": "அரைத்த மசால்", "name_en": "Ground masala", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": "composition of the masala is not specified in the source", "display_order": 2 },
+    { "id": "ennai-kathirikkai-ingredient-2", "name_ta": "அரைத்த மசால்", "name_en": "Ground masala", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 2 },
     { "id": "ennai-kathirikkai-ingredient-3", "name_ta": "உப்பு", "name_en": "Salt", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 3 },
     { "id": "ennai-kathirikkai-ingredient-4", "name_ta": "மஞ்சள்", "name_en": "Turmeric", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 4 },
     { "id": "ennai-kathirikkai-ingredient-5", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": "4", "unit_ta": "கரண்டி", "unit_en": "ladles", "notes_ta": null, "notes_en": null, "display_order": 5 },

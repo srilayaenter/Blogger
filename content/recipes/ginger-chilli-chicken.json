@@ -24,7 +24,7 @@
     { "id": "ginger-chilli-chicken-ingredient-1", "name_ta": "இஞ்சி", "name_en": "Ginger", "quantity": "1", "unit_ta": "துண்டு", "unit_en": "piece", "notes_ta": null, "notes_en": null, "display_order": 1 },
     { "id": "ginger-chilli-chicken-ingredient-2", "name_ta": "பச்சை மிளகாய்", "name_en": "Green chilies", "quantity": "4", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 2 },
     { "id": "ginger-chilli-chicken-ingredient-3", "name_ta": "டால்டா", "name_en": "Dalda", "quantity": "1", "unit_ta": "கரண்டி", "unit_en": "ladle", "notes_ta": null, "notes_en": null, "display_order": 3 },
-    { "id": "ginger-chilli-chicken-ingredient-4", "name_ta": "சைனீஸ் சிக்கன் ப்ரையில் பொரித்த கறித்துண்டுகள், அதன் கிரேவி", "name_en": "Fried chicken pieces and gravy from Chinese Chicken Fry (recipe 6)", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": "source gives no separate ingredient list for this recipe -- it is built entirely on top of an already-prepared batch of Chinese Chicken Fry", "display_order": 4 }
+    { "id": "ginger-chilli-chicken-ingredient-4", "name_ta": "சைனீஸ் சிக்கன் ப்ரையில் பொரித்த கறித்துண்டுகள், அதன் கிரேவி", "name_en": "Fried chicken pieces and gravy from Chinese Chicken Fry (recipe 6)", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 4 }
   ],
   "instructions": [
     {

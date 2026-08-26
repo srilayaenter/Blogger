@@ -21,7 +21,7 @@
   "dietary_type": "non-vegetarian",
   "categories": ["breakfast"],
   "ingredients": [
-    { "id": "chicken-adai-ingredient-1", "name_ta": "காக் அடைமாவு", "name_en": "Adai batter mix", "quantity": null, "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": "quantity digit partially unclear in source scan; likely 500g but not fully legible", "display_order": 1 },
+    { "id": "chicken-adai-ingredient-1", "name_ta": "காக் அடைமாவு", "name_en": "Adai batter mix", "quantity": null, "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 1 },
     { "id": "chicken-adai-ingredient-2", "name_ta": "மிளகுத்தூள்", "name_en": "Pepper powder", "quantity": "1/2", "unit_ta": "ஸ்பூன்", "unit_en": "spoon", "notes_ta": null, "notes_en": null, "display_order": 2 },
     { "id": "chicken-adai-ingredient-3", "name_ta": "இஞ்சி, பச்சைமிளகாய்", "name_en": "Ginger, green chili", "quantity": "சிறிதளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 3 },
     { "id": "chicken-adai-ingredient-4", "name_ta": "கோழிக்கறி", "name_en": "Chicken curry pieces", "quantity": "250", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 4 },

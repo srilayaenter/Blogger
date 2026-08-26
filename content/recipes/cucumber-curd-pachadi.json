@@ -21,7 +21,7 @@
   "dietary_type": "vegetarian",
   "categories": ["poriyal"],
   "ingredients": [
-    { "id": "cucumber-curd-pachadi-ingredient-1", "name_ta": "வெள்ளரிக்காய்", "name_en": "Cucumber", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "பெரிய சைஸ்", "notes_en": "large size; count not specified in source", "display_order": 1 },
+    { "id": "cucumber-curd-pachadi-ingredient-1", "name_ta": "வெள்ளரிக்காய்", "name_en": "Cucumber", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "பெரிய சைஸ்", "notes_en": "large size", "display_order": 1 },
     { "id": "cucumber-curd-pachadi-ingredient-2", "name_ta": "தயிர்", "name_en": "Yogurt (curd)", "quantity": "1", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 2 },
     { "id": "cucumber-curd-pachadi-ingredient-3", "name_ta": "உப்பு", "name_en": "Salt", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 3 },
     { "id": "cucumber-curd-pachadi-ingredient-4", "name_ta": "கடுகு", "name_en": "Mustard seeds", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": "for tempering", "display_order": 4 },

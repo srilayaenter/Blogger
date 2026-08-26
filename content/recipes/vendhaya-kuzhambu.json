@@ -21,7 +21,7 @@
   "dietary_type": "vegetarian",
   "categories": ["kuzhambu"],
   "ingredients": [
-    { "id": "vendhaya-kuzhambu-ingredient-1", "name_ta": "உளுந்தம் பருப்பு", "name_en": "Urad dal", "quantity": "1 1/2", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": "quantity as printed in source", "display_order": 1 },
+    { "id": "vendhaya-kuzhambu-ingredient-1", "name_ta": "உளுந்தம் பருப்பு", "name_en": "Urad dal", "quantity": "1 1/2", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": null, "display_order": 1 },
     { "id": "vendhaya-kuzhambu-ingredient-2", "name_ta": "கடுகு", "name_en": "Mustard seeds", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 2 },
     { "id": "vendhaya-kuzhambu-ingredient-3", "name_ta": "சாம்பார் பொடி", "name_en": "Sambar powder", "quantity": "60", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 3 },
     { "id": "vendhaya-kuzhambu-ingredient-4", "name_ta": "பட்ட மிளகாய்", "name_en": "Dried red chili", "quantity": "6", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 4 },

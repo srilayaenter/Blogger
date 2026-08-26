@@ -21,8 +21,8 @@
   "dietary_type": "vegetarian",
   "categories": ["pickle"],
   "ingredients": [
-    { "id": "sweet-mango-pickle-ingredient-1", "name_ta": "மாங்காய்", "name_en": "Raw mango", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "நல்ல பெரிய மாங்காய்கள்", "notes_en": "good, large raw mangoes; count not specified in source", "display_order": 1 },
-    { "id": "sweet-mango-pickle-ingredient-2", "name_ta": "வெங்காயம்", "name_en": "Onion", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": "quantity not specified in source", "display_order": 2 },
+    { "id": "sweet-mango-pickle-ingredient-1", "name_ta": "மாங்காய்", "name_en": "Raw mango", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "நல்ல பெரிய மாங்காய்கள்", "notes_en": "good, large raw mangoes", "display_order": 1 },
+    { "id": "sweet-mango-pickle-ingredient-2", "name_ta": "வெங்காயம்", "name_en": "Onion", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 2 },
     { "id": "sweet-mango-pickle-ingredient-3", "name_ta": "பச்சை மிளகாய்", "name_en": "Green chilies", "quantity": "4", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 3 },
     { "id": "sweet-mango-pickle-ingredient-4", "name_ta": "கருவேப்பிலை", "name_en": "Curry leaves", "quantity": "2", "unit_ta": "கொத்து", "unit_en": "sprigs", "notes_ta": null, "notes_en": null, "display_order": 4 },
     { "id": "sweet-mango-pickle-ingredient-5", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": "1", "unit_ta": "கரண்டி", "unit_en": "ladle", "notes_ta": null, "notes_en": null, "display_order": 5 },

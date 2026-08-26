@@ -30,7 +30,7 @@
     { "id": "chicken-wing-masala-ingredient-7", "name_ta": "சோளமாவு", "name_en": "Corn flour", "quantity": "சிறிதளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 7 },
     { "id": "chicken-wing-masala-ingredient-8", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "பொரிக்க", "notes_en": "for frying", "display_order": 8 },
     { "id": "chicken-wing-masala-ingredient-9", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவையான அளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 9 },
-    { "id": "chicken-wing-masala-ingredient-10", "name_ta": "வெங்காயம், தக்காளி", "name_en": "Onion, tomato", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": "used in the method for the gravy but no quantity printed in the தேவை list", "display_order": 10 }
+    { "id": "chicken-wing-masala-ingredient-10", "name_ta": "வெங்காயம், தக்காளி", "name_en": "Onion, tomato", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 10 }
   ],
   "instructions": [
     {

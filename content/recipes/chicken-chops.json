@@ -24,7 +24,7 @@
     { "id": "chicken-chops-ingredient-1", "name_ta": "கோழி", "name_en": "Chicken", "quantity": "1", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": null, "display_order": 1 },
     { "id": "chicken-chops-ingredient-2", "name_ta": "பச்சை மிளகாய்", "name_en": "Green chilies", "quantity": "10", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 2 },
     { "id": "chicken-chops-ingredient-3", "name_ta": "இஞ்சி", "name_en": "Ginger", "quantity": "2", "unit_ta": "அங்குலம்", "unit_en": "inches", "notes_ta": null, "notes_en": null, "display_order": 3 },
-    { "id": "chicken-chops-ingredient-4", "name_ta": "பெரிய மிளகாய்", "name_en": "Large chili (as printed in source)", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": "Source wording is unusual for this context (ground into a marinade paste with ginger and green chilies) -- possibly intended as \"large onion\" (பெரிய வெங்காயம்), but transcribed exactly as printed rather than silently corrected. Flagging for confirmation.", "display_order": 4 },
+    { "id": "chicken-chops-ingredient-4", "name_ta": "பெரிய மிளகாய்", "name_en": "Large chili (as printed in source)", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 4 },
     { "id": "chicken-chops-ingredient-5", "name_ta": "முட்டை", "name_en": "Egg", "quantity": "3", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 5 },
     { "id": "chicken-chops-ingredient-6", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவையான அளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 6 }
   ],

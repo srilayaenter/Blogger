@@ -29,7 +29,7 @@
     { "id": "chicken-kadai-ingredient-6", "name_ta": "கொத்தமல்லிதழை", "name_en": "Coriander leaves", "quantity": "சிறிதளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 6 },
     { "id": "chicken-kadai-ingredient-7", "name_ta": "வெங்காயம்", "name_en": "Onion", "quantity": "சிறிதளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 7 },
     { "id": "chicken-kadai-ingredient-8", "name_ta": "கரம் மசாலா", "name_en": "Garam masala", "quantity": "சிறிதளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 8 },
-    { "id": "chicken-kadai-ingredient-9", "name_ta": "வெந்தயம்", "name_en": "Fenugreek", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": "quantity not printed in source; used in the method but not listed with a quantity in தேவை", "display_order": 9 }
+    { "id": "chicken-kadai-ingredient-9", "name_ta": "வெந்தயம்", "name_en": "Fenugreek", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 9 }
   ],
   "instructions": [
     {
