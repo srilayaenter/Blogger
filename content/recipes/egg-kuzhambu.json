@@ -1,0 +1,46 @@
+{
+  "slug": "egg-kuzhambu",
+  "title_ta": "முட்டைக் குழம்பு",
+  "title_en": "Egg Kuzhambu",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 84,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-26T00:00:00.000Z",
+  "dietary_type": "egg",
+  "categories": ["kuzhambu"],
+  "ingredients": [
+    { "id": "egg-kuzhambu-ingredient-1", "name_ta": "முட்டை", "name_en": "Egg", "quantity": "4", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "egg-kuzhambu-ingredient-2", "name_ta": "தேங்காய் பால்", "name_en": "Coconut milk", "quantity": "3", "unit_ta": "டம்ளர்", "unit_en": "tumblers", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "egg-kuzhambu-ingredient-3", "name_ta": "ப.மிளகாய்", "name_en": "Green chili", "quantity": "4", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "egg-kuzhambu-ingredient-4", "name_ta": "வெங்காயம்", "name_en": "Onion", "quantity": "100", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "egg-kuzhambu-ingredient-5", "name_ta": "மஞ்சள் தூள்", "name_en": "Turmeric powder", "quantity": "½", "unit_ta": "டீஸ்பூன்", "unit_en": "teaspoon", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "egg-kuzhambu-ingredient-6", "name_ta": "எலுமிச்சை சாறு", "name_en": "Lemon juice", "quantity": "2", "unit_ta": "டீஸ்பூன்", "unit_en": "teaspoons", "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "egg-kuzhambu-ingredient-7", "name_ta": "பூண்டு", "name_en": "Garlic", "quantity": "4", "unit_ta": "பல்", "unit_en": "cloves", "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "egg-kuzhambu-ingredient-8", "name_ta": "கறிவேப்பிலை", "name_en": "Curry leaves", "quantity": "1", "unit_ta": "கொத்து", "unit_en": "sprig", "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "egg-kuzhambu-ingredient-9", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவையான அளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 9 },
+    { "id": "egg-kuzhambu-ingredient-10", "name_ta": "சோம்பு", "name_en": "Fennel seeds", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "teaspoon", "notes_ta": null, "notes_en": null, "display_order": 10 },
+    { "id": "egg-kuzhambu-ingredient-11", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": "தேவையான அளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 11 }
+  ],
+  "instructions": [
+    {
+      "id": "egg-kuzhambu-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "முட்டையை வேக வைத்துக் கொள்ளவும். வாணலியில் எண்ணெய் ஊற்றி சோம்பு, கறிவேப்பிலை தாளித்து, நறுக்கிய வெங்காயத்தை போட்டு வதக்கவும். மஞ்சள்தூள் நறுக்கிய மிளகாய், பூண்டு சேர்த்து கிளறி 1 டம்ளர் தேங்காய் பால் ஊற்றவும். இக்கலவையை நன்றாக கொதிக்க விடவும். இதனுடன் முட்டை சேர்த்து 2 நிமிடம் கொதிக்க விட்டு, மீதுள்ள தேங்காய் பால், எலுமிச்சை சாறு, உப்பு சேர்த்து ஒரு கொதியில் இறக்கி விடவும்.",
+      "instruction_en": "Hard-boil the eggs. Heat oil in a pan, temper the fennel seeds and curry leaves, then add the chopped onion and saute. Add turmeric powder, chopped chilies, and garlic, stir, and pour in 1 tumbler of coconut milk. Bring this mixture to a good boil. Add the boiled eggs and let it boil for 2 minutes, then add the remaining coconut milk, lemon juice, and salt, and remove from heat after one more boil.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}
