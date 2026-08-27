@@ -1,5 +1,19 @@
 [
   {
+    "slug": "veg",
+    "name_ta": "சைவம்",
+    "name_en": "Veg",
+    "description_ta": null,
+    "description_en": null
+  },
+  {
+    "slug": "non-veg",
+    "name_ta": "அசைவம்",
+    "name_en": "Non-Veg",
+    "description_ta": null,
+    "description_en": null
+  },
+  {
     "slug": "millet",
     "name_ta": "சிறுதானியம்",
     "name_en": "Millet",

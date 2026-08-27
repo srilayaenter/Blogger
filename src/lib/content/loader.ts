@@ -16,6 +16,7 @@ import { readFileSync, readdirSync } from "node:fs";
 import path from "node:path";
 import type { Category } from "@/types/category";
 import type { RecipeContent, RecipeWithDetails } from "@/types/recipe";
+import { getVegNonVegCategory } from "@/lib/dietary";
 
 const CONTENT_DIR = path.join(process.cwd(), "content");
 const RECIPES_DIR = path.join(CONTENT_DIR, "recipes");
@@ -62,6 +63,16 @@ export async function getPublishedRecipesByCategorySlug(
   categorySlug: string,
 ): Promise<RecipeWithDetails[]> {
   const recipes = await getPublishedRecipes();
+
+  // "veg" and "non-veg" are virtual categories: no recipe file lists them in its own
+  // `categories` array (that field is reserved for dish-type categories like "kuzhambu").
+  // Membership is instead derived live from the same dietary classifier used everywhere
+  // else, so this never drifts out of sync with the tag shown on cards/detail pages and
+  // never requires editing any of the recipe content files.
+  if (categorySlug === "veg" || categorySlug === "non-veg") {
+    return recipes.filter((recipe) => getVegNonVegCategory(recipe) === categorySlug);
+  }
+
   return recipes.filter((recipe) =>
     recipe.categories.some((category) => category.slug === categorySlug),
   );

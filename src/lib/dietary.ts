@@ -88,3 +88,24 @@ export function getDietaryTag(
   // No meat, fish, or egg tokens found anywhere in the ingredient list -- vegetarian.
   return "vegetarian";
 }
+
+export type VegNonVegCategory = "veg" | "non-veg";
+
+/**
+ * Maps the full dietary classification onto the site's two top-level Veg/Non-Veg
+ * categories (content/categories.json slugs "veg" and "non-veg"). This project has only
+ * two top-level dietary categories, not three -- egg recipes get their own distinct
+ * DietaryTagBadge label but are deliberately left out of both Veg and Non-Veg here rather
+ * than folded into either, since neither is accurate. Recipes with no derivable
+ * classification are likewise excluded, never guessed into a category.
+ */
+export function getVegNonVegCategory(
+  recipe: Pick<RecipeContent, "dietary_type"> & {
+    ingredients: Pick<Ingredient, "name_en" | "name_ta">[];
+  },
+): VegNonVegCategory | null {
+  const tag = getDietaryTag(recipe);
+  if (tag === "vegetarian") return "veg";
+  if (tag === "non-vegetarian") return "non-veg";
+  return null;
+}
