@@ -89,8 +89,8 @@ export default async function HomePage({ params }: { params: Promise<{ locale: L
       </section>
 
       <section className="mt-16">
-        <div className="flex items-end justify-between gap-4">
-          <div>
+        <div className="flex flex-wrap items-end justify-between gap-x-4 gap-y-2">
+          <div className="min-w-0">
             <span className="text-xs font-semibold tracking-wide text-brand uppercase">
               {t.recipesKicker}
             </span>

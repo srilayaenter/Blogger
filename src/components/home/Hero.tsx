@@ -52,11 +52,11 @@ export function Hero({ locale }: { locale: Locale }) {
       </div>
 
       <div className="relative grid items-center gap-8 md:grid-cols-2 md:gap-12">
-        <div>
+        <div className="min-w-0">
           <span className="inline-flex items-center rounded-full bg-white/15 px-3 py-1 text-xs font-semibold tracking-wide text-white uppercase backdrop-blur-sm">
             {t.eyebrow}
           </span>
-          <h1 className="mt-4 text-3xl leading-tight font-bold text-white md:text-5xl">
+          <h1 className="mt-4 [overflow-wrap:anywhere] text-3xl leading-tight font-bold text-white md:text-5xl">
             {t.headline}
           </h1>
           <p className="mt-4 max-w-md text-sm text-white/85 md:text-base">{t.supporting}</p>
