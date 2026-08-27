@@ -24,7 +24,7 @@ export function RecipeCard({ recipe, locale }: { recipe: RecipeWithDetails; loca
   return (
     <Link
       href={`/${locale}/recipes/${recipe.slug}`}
-      className="group block overflow-hidden rounded-xl border border-neutral-200 shadow-sm transition duration-200 hover:border-brand hover:shadow-md"
+      className="group block overflow-hidden rounded-2xl border border-neutral-200 bg-white shadow-sm transition-all duration-200 hover:-translate-y-1 hover:border-brand hover:shadow-lg"
     >
       <div className="aspect-[4/3] w-full overflow-hidden">
         {recipe.featured_image_url ? (
@@ -32,25 +32,31 @@ export function RecipeCard({ recipe, locale }: { recipe: RecipeWithDetails; loca
           <img
             src={recipe.featured_image_url}
             alt={imageAlt}
-            className="h-full w-full object-cover transition-transform duration-300 ease-out group-hover:scale-[1.03] motion-reduce:transition-none motion-reduce:group-hover:scale-100"
+            className="h-full w-full object-cover transition-transform duration-300 ease-out group-hover:scale-[1.05] motion-reduce:transition-none motion-reduce:group-hover:scale-100"
           />
         ) : (
           <div
             role="img"
             aria-label={title}
-            className="flex h-full w-full items-center justify-center bg-brand-light p-4 text-center text-sm text-neutral-600"
+            className="relative flex h-full w-full items-center justify-center overflow-hidden bg-gradient-to-br from-brand-light to-white p-4 text-center text-sm font-medium text-brand-dark"
           >
-            {title}
+            <div
+              aria-hidden="true"
+              className="absolute inset-0 bg-[radial-gradient(circle_at_1px_1px,rgba(0,106,56,0.12)_1px,transparent_0)] bg-[length:16px_16px]"
+            />
+            <span className="relative">{title}</span>
           </div>
         )}
       </div>
       <div className="p-4">
-        <h3 className="line-clamp-2 font-semibold">{title}</h3>
+        <h3 className="line-clamp-2 font-semibold text-neutral-900 transition-colors group-hover:text-brand-dark">
+          {title}
+        </h3>
         {description ? (
           <p className="mt-1 line-clamp-2 text-sm text-neutral-600">{description}</p>
         ) : null}
         {hasMeta ? (
-          <div className="mt-2 flex flex-wrap gap-1.5">
+          <div className="mt-3 flex flex-wrap gap-1.5 border-t border-neutral-100 pt-3">
             {recipe.total_time_minutes ? (
               <span className="rounded-full bg-brand-light px-2.5 py-0.5 text-xs font-medium text-brand-dark">
                 {recipe.total_time_minutes} {t.minutes}
@@ -62,7 +68,7 @@ export function RecipeCard({ recipe, locale }: { recipe: RecipeWithDetails; loca
               </span>
             ) : null}
             {recipe.difficulty ? (
-              <span className="rounded-full bg-brand-light px-2.5 py-0.5 text-xs font-medium text-brand-dark">
+              <span className="rounded-full bg-brand-accent/20 px-2.5 py-0.5 text-xs font-medium text-brand-dark">
                 {DIFFICULTY_LABELS[locale][recipe.difficulty]}
               </span>
             ) : null}
