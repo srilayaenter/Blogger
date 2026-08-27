@@ -15,8 +15,8 @@
   },
   {
     "slug": "millet",
-    "name_ta": "சிறுதானியம்",
-    "name_en": "Millet",
+    "name_ta": "சிறுதானிய சமையல் குறிப்புகள்",
+    "name_en": "Millet Recipes",
     "description_ta": null,
     "description_en": null
   },
@@ -29,29 +29,29 @@
   },
   {
     "slug": "traditional",
-    "name_ta": "பாரம்பரிய",
-    "name_en": "Traditional",
+    "name_ta": "பாரம்பரிய உணவுகள்",
+    "name_en": "Traditional Dishes",
     "description_ta": null,
     "description_en": null
   },
   {
     "slug": "dosa",
-    "name_ta": "தோசை",
-    "name_en": "Dosa",
+    "name_ta": "தோசை வகைகள்",
+    "name_en": "Dosa Varieties",
     "description_ta": null,
     "description_en": null
   },
   {
     "slug": "idli",
-    "name_ta": "இட்லி",
-    "name_en": "Idli",
+    "name_ta": "இட்லி வகைகள்",
+    "name_en": "Idli Varieties",
     "description_ta": null,
     "description_en": null
   },
   {
     "slug": "vadai",
-    "name_ta": "வடை",
-    "name_en": "Vadai",
+    "name_ta": "வடை சமையல் குறிப்புகள்",
+    "name_en": "Vadai Recipes",
     "description_ta": null,
     "description_en": null
   },
