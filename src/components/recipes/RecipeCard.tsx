@@ -1,5 +1,6 @@
 import Link from "next/link";
 import type { RecipeWithDetails } from "@/types/recipe";
+import { DietaryTagBadge } from "./DietaryTagBadge";
 
 type Locale = "en" | "ta";
 
@@ -26,7 +27,10 @@ export function RecipeCard({ recipe, locale }: { recipe: RecipeWithDetails; loca
       href={`/${locale}/recipes/${recipe.slug}`}
       className="group block overflow-hidden rounded-2xl border border-neutral-200 bg-white shadow-sm transition-all duration-200 hover:-translate-y-1 hover:border-brand hover:shadow-lg"
     >
-      <div className="aspect-[4/3] w-full overflow-hidden">
+      <div className="relative aspect-[4/3] w-full overflow-hidden">
+        <div className="absolute top-2 left-2 z-10">
+          <DietaryTagBadge recipe={recipe} locale={locale} />
+        </div>
         {recipe.featured_image_url ? (
           // eslint-disable-next-line @next/next/no-img-element
           <img

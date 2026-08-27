@@ -1,4 +1,5 @@
 import type { RecipeWithDetails } from "@/types/recipe";
+import { DietaryTagBadge } from "./DietaryTagBadge";
 
 type Locale = "en" | "ta";
 
@@ -93,7 +94,10 @@ export function RecipeDetail({ recipe, locale }: { recipe: RecipeWithDetails; lo
         </div>
       )}
 
-      <h1 className="text-2xl font-bold">{title}</h1>
+      <div className="flex flex-wrap items-center gap-2">
+        <h1 className="text-2xl font-bold">{title}</h1>
+        <DietaryTagBadge recipe={recipe} locale={locale} />
+      </div>
       {description ? <p className="mt-2 text-neutral-600">{description}</p> : null}
 
       <dl className="mt-4 grid grid-cols-2 gap-2 text-sm sm:grid-cols-5">
