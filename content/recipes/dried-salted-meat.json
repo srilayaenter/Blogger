@@ -1,0 +1,38 @@
+{
+  "slug": "dried-salted-meat",
+  "title_ta": "கொடிக்கறி அல்லது உப்புக்கண்டம்",
+  "title_en": "Dried Salted Meat",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 79,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-26T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["fried-snack"],
+  "ingredients": [
+    { "id": "dried-salted-meat-ingredient-1", "name_ta": "கறி", "name_en": "Meat", "quantity": "1", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "dried-salted-meat-ingredient-2", "name_ta": "மஞ்சள் தூள்", "name_en": "Turmeric powder", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "teaspoon", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "dried-salted-meat-ingredient-3", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "2", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "tablespoons", "notes_ta": null, "notes_en": null, "display_order": 3 }
+  ],
+  "instructions": [
+    {
+      "id": "dried-salted-meat-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "1 கிலோ கறியை நறுக்கி 2 டேபிள் ஸ்பூன் உப்புத்தூள் 1 டீஸ்பூன் மஞ்சள் தூள் 1 டீஸ்பூன் எண்ணெய் ஊற்றி புரட்டி வெயிலில் காய வைக்கவும். நன்றாகக் காய்ந்ததும், எடுத்து பத்திரப்படுத்தி தேவையான சமயம் 1 டேபிள் ஸ்பூன் எண்ணெயைக் காய வைத்து அதில் கொஞ்சம் காய்ந்த கறியை உபயோகிக்கவும்.",
+      "instruction_en": "Cut 1 kg of meat into pieces, add 2 tablespoons of salt powder, 1 teaspoon of turmeric powder, and 1 teaspoon of oil, mix well, and dry it in the sun. Once well dried, store it carefully; whenever needed, heat 1 tablespoon of oil and use a little of the dried meat in it.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "meat-puffs",
+  "title_ta": "கறி பப்ஸ்",
+  "title_en": "Meat Puffs",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 67,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-26T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["fried-snack"],
+  "ingredients": [
+    { "id": "meat-puffs-ingredient-1", "name_ta": "கொத்துக்கறி", "name_en": "Minced meat", "quantity": "250", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "meat-puffs-ingredient-2", "name_ta": "உருளைக்கிழங்கு", "name_en": "Potato", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "meat-puffs-ingredient-3", "name_ta": "மிளகாய்த்தூள்", "name_en": "Chili powder", "quantity": "2", "unit_ta": "தேக்கரண்டி", "unit_en": "teaspoons", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "meat-puffs-ingredient-4", "name_ta": "பட்டை, கிராம்புத்தூள்", "name_en": "Cinnamon, clove powder", "quantity": "1", "unit_ta": "தேக்கரண்டி", "unit_en": "teaspoon", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "meat-puffs-ingredient-5", "name_ta": "இஞ்சி", "name_en": "Ginger", "quantity": "1", "unit_ta": "அங்குலம்", "unit_en": "inch", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "meat-puffs-ingredient-6", "name_ta": "பூண்டு", "name_en": "Garlic", "quantity": "5", "unit_ta": "பல்", "unit_en": "cloves", "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "meat-puffs-ingredient-7", "name_ta": "மைதா", "name_en": "Maida (refined flour)", "quantity": "½", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "meat-puffs-ingredient-8", "name_ta": "கொழுப்பு", "name_en": "Fat (shortening)", "quantity": "100", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "meat-puffs-ingredient-9", "name_ta": "சோடா உப்பு", "name_en": "Baking soda", "quantity": "2", "unit_ta": "தேக்கரண்டி", "unit_en": "teaspoons", "notes_ta": null, "notes_en": null, "display_order": 9 },
+    { "id": "meat-puffs-ingredient-10", "name_ta": "முட்டை", "name_en": "Egg", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 10 },
+    { "id": "meat-puffs-ingredient-11", "name_ta": "டால்டா", "name_en": "Dalda (vanaspati shortening)", "quantity": "200", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 11 },
+    { "id": "meat-puffs-ingredient-12", "name_ta": "பெரிய வெங்காயம்", "name_en": "Big onion", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 12 },
+    { "id": "meat-puffs-ingredient-13", "name_ta": "உப்பு, மல்லி தழை, புதினா", "name_en": "Salt, coriander leaves, mint", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 13 }
+  ],
+  "instructions": [
+    {
+      "id": "meat-puffs-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "கறியைத் தனியாக உப்பு சேர்த்து வேக வைக்கவும். உருளைக்கிழங்கை வேக வைத்து உப்பு போட்டு உதிர்த்து வைத்துக்கொள்ளவும். வாணலியில் எண்ணெய் 2 கரண்டி, நெய் விட்டு, பொடியாக வெட்டி வைத்திருக்கும் மல்லி, புதினா, வெங்காயம், இஞ்சி பூண்டு போட்டு நன்றாக வதக்கி வெந்த கறி, மிளகாய் தூள், கரம் மசால் தூள், உதிர்த்து வைத்திருக்கும் உருளைக்கிழங்கு போட்டு தண்ணீர் சத்தில்லாமல் வதக்கி வைக்க வேண்டும். மைதாவை முட்டை மஞ்சள் கரு, உப்பு, சோடா உப்பு, அம்மியில் அரைத்த கொழுப்பு இவற்றைப் போட்டு பிசைந்து மடித்து பிசைந்து 4 பூரிகளாக உருட்டி ஒன்றுக்கு மேல் ஒன்று போட்டு நீளமாக பாய் போல சுருட்டி 4 பாகமாக பிரித்து பழையபடி விரித்து 1 மேஜைக்கரண்டி பூரி பூரணம் ஓரத்தில் வெள்ளைக்கரு தடவி டால்டாவில் பொரிக்கவும்.",
+      "instruction_en": "Cook the meat separately with salt. Boil the potatoes, add salt, and crumble them, setting aside. In a pan, heat 2 ladles of oil and ghee, add the finely chopped coriander leaves, mint, onion, ginger, and garlic, and saute well. Add the cooked meat, chili powder, garam masala powder, and the crumbled potato, and saute without any water content, keeping it dry. Knead the maida with egg yolk, salt, baking soda, and the fat ground on a grinding stone; fold and knead again, then roll into 4 balls, stack them one on top of another, and roll out long like a scroll. Divide into 4 parts, unfold, place 1 tablespoon of the filling at the edge, brush with egg white, and deep-fry in Dalda.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

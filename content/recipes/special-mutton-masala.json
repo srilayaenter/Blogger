@@ -1,0 +1,42 @@
+{
+  "slug": "special-mutton-masala",
+  "title_ta": "ஸ்பெஷல் மட்டன் மசாலா",
+  "title_en": "Special Mutton Masala",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 64,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-26T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["curry"],
+  "ingredients": [
+    { "id": "special-mutton-masala-ingredient-1", "name_ta": "மட்டன்", "name_en": "Mutton", "quantity": "500", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "special-mutton-masala-ingredient-2", "name_ta": "தக்காளி", "name_en": "Tomato", "quantity": "100", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "special-mutton-masala-ingredient-3", "name_ta": "இஞ்சி, பூண்டு", "name_en": "Ginger, garlic", "quantity": "சிறிதளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "special-mutton-masala-ingredient-4", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "சிறிதளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "special-mutton-masala-ingredient-5", "name_ta": "மல்லிபொடி", "name_en": "Coriander powder", "quantity": "2", "unit_ta": "டீஸ்பூன்", "unit_en": "teaspoons", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "special-mutton-masala-ingredient-6", "name_ta": "மஞ்சள்தூள்", "name_en": "Turmeric powder", "quantity": "சிறிதளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "special-mutton-masala-ingredient-7", "name_ta": "பெரிய வெங்காயம்", "name_en": "Big onion", "quantity": "சிறிதளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 7 }
+  ],
+  "instructions": [
+    {
+      "id": "special-mutton-masala-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "மட்டன் சுத்தம் செய்து துண்டுகளாக்கி, பூண்டு, இஞ்சி அரைத்துக் கொள்ளவும். நெய் விட்டு பாத்திரத்தில் வெங்காயத்தை நறுக்கி போட்டு தாளிக்கவும். பொன்நிறத்தில் வரும் போது இஞ்சி, பூண்டு, மட்டன் ஆகியவற்றை போட்டு தாளிக்கவும். மட்டன் ஓரளவு வெந்து வரும் போது கறிமசாலா தவிர மீதியை அரைக்கவும். மசாலாக்களை அதில் போட்டு கிளறவும். பின்பு மூடி வேகவிடவும். வெந்து வரும் போது கறிமசால் பொடி தக்காளியும் சேர்த்து கிளறவும். மட்டன் மேல் படியும் போது இறக்கி விடவும்.",
+      "instruction_en": "Clean the mutton and cut into pieces; grind the garlic and ginger. Heat ghee in a vessel, add chopped onion, and temper. When it turns golden, add the ginger-garlic paste and mutton, and temper. Once the mutton is partly cooked, grind the remaining spices apart from the curry masala. Add the ground masala and stir, then cover and let it cook. Once cooked, add the curry masala powder and tomato, and stir. Remove from heat once it clings thickly to the mutton.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

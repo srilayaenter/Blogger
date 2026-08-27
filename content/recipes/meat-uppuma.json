@@ -1,0 +1,45 @@
+{
+  "slug": "meat-uppuma",
+  "title_ta": "கறி உப்புமா",
+  "title_en": "Meat Uppuma",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 82,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-26T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["snack"],
+  "ingredients": [
+    { "id": "meat-uppuma-ingredient-1", "name_ta": "வீசை கொத்துக்கறி", "name_en": "Chopped meat", "quantity": "1/18", "unit_ta": "வீசை", "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "meat-uppuma-ingredient-2", "name_ta": "பச்சை மிளகாய்", "name_en": "Green chili", "quantity": "6", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "meat-uppuma-ingredient-3", "name_ta": "பெரிய வெங்காயம்", "name_en": "Big onion", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "meat-uppuma-ingredient-4", "name_ta": "ரவை", "name_en": "Semolina (rava)", "quantity": "1/8", "unit_ta": "படி", "unit_en": "measure", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "meat-uppuma-ingredient-5", "name_ta": "பட்டை", "name_en": "Cinnamon", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "meat-uppuma-ingredient-6", "name_ta": "நெய்", "name_en": "Ghee", "quantity": "1", "unit_ta": "கரண்டி", "unit_en": "ladle", "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "meat-uppuma-ingredient-7", "name_ta": "மஞ்சள் தூள், இஞ்சி", "name_en": "Turmeric powder, ginger", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "meat-uppuma-ingredient-8", "name_ta": "கொத்தமல்லி இலை", "name_en": "Coriander leaves", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "meat-uppuma-ingredient-9", "name_ta": "டால்டா", "name_en": "Dalda (vanaspati shortening)", "quantity": "3", "unit_ta": "தேக்கரண்டி", "unit_en": "teaspoons", "notes_ta": null, "notes_en": null, "display_order": 9 },
+    { "id": "meat-uppuma-ingredient-10", "name_ta": "கிராம்பு", "name_en": "Cloves", "quantity": "4", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 10 }
+  ],
+  "instructions": [
+    {
+      "id": "meat-uppuma-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "1/8 வீசை கொத்துக்கறியில் தேவையான உப்பு, மஞ்சள்தூள் போட்டு 1/16 படி தண்ணீர் ஊற்றி வைக்கவும். பெரியவெங்காயம் 2, பச்சை மிளகாய் 6, சிறிய துண்டு இஞ்சி, சிறிது கொத்தமல்லி இலை ஆகியவற்றை நறுக்கிக்கொள்ளவும். வாணலியில் 1/8 படி ரவையைப் போட்டு சிவக்க வறுத்து எடுத்துக்கொள்ளவும். 3 தேக்கரண்டி டால்டாவைக் காய வைத்து 2 பட்டை, 4 கிராம்பு போட்டு சிவக்கவும், வெங்காயம், பச்சை மிளகாய், இஞ்சி போட்டு வதக்கிய பின் கறிவேப்பிலை போட்டு 1/4 படி தண்ணீர் ஊற்றவும். திட்டமாய் உப்பு போட்டு வெந்தக்கறியையும் அதனுடன் சேர்க்கவும். தண்ணீர் கொதித்த பின் ரவையைப் போட்டு லேசான நெருப்பில் கட்டிவிடாமல் கிளறி விட்டு கொத்தமல்லி இலை, 1 கரண்டி நெய் விட்டு கிளறி இறக்கவும்.",
+      "instruction_en": "To 1/8 measure of chopped meat (as printed in the method; the ingredient list above states 1/18), add the required salt and turmeric powder, pour in 1/16 measure of water, and set aside. Chop the 2 big onions, 6 green chilies, a small piece of ginger, and a little coriander leaves. In a pan, add 1/8 measure of semolina and roast until reddish, then remove. Heat 3 teaspoons of Dalda, add 2 cinnamon and 4 cloves and let them redden, then add the onion, green chili, and ginger and saute; add curry leaves and pour in 1/4 measure of water. Add salt as needed and mix in the cooked meat. Once the water boils, add the semolina and stir on low heat without letting it clump, then add coriander leaves and 1 ladle of ghee, stir, and remove from heat.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

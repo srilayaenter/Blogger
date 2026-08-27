@@ -1,0 +1,44 @@
+{
+  "slug": "pepper-mutton-masala",
+  "title_ta": "மிளகு மட்டன் மசாலா",
+  "title_en": "Pepper Mutton Masala",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 83,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-26T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["curry"],
+  "ingredients": [
+    { "id": "pepper-mutton-masala-ingredient-1", "name_ta": "மட்டன்", "name_en": "Mutton", "quantity": "½", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": "எலும்பு நீக்கியது", "notes_en": "boneless", "display_order": 1 },
+    { "id": "pepper-mutton-masala-ingredient-2", "name_ta": "பெ. வெங்காயம்", "name_en": "Big onion", "quantity": "4", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "pepper-mutton-masala-ingredient-3", "name_ta": "மிளகு, சீரகத்தூள்", "name_en": "Pepper, cumin powder", "quantity": "2", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "tablespoons", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "pepper-mutton-masala-ingredient-4", "name_ta": "மஞ்சள்தூள்", "name_en": "Turmeric powder", "quantity": "½", "unit_ta": "டீஸ்பூன்", "unit_en": "teaspoon", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "pepper-mutton-masala-ingredient-5", "name_ta": "பச்சை மிளகாய்", "name_en": "Green chili", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "pepper-mutton-masala-ingredient-6", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவையானது", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "pepper-mutton-masala-ingredient-7", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": "தேவையான அளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "pepper-mutton-masala-ingredient-8", "name_ta": "தக்காளி", "name_en": "Tomato", "quantity": "3", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "pepper-mutton-masala-ingredient-9", "name_ta": "கறிமசால் தூள்", "name_en": "Curry masala powder", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "teaspoon", "notes_ta": null, "notes_en": null, "display_order": 9 }
+  ],
+  "instructions": [
+    {
+      "id": "pepper-mutton-masala-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "மட்டனை லேசாக உப்பு சேர்த்து குக்கரில் வேக வைக்கவும். வெங்காயத்தை நீளவாக்கில் நறுக்கிக் கொள்ளவும். தக்காளியை பொடியாக நறுக்கவும். வாணலியில் எண்ணெய் விட்டு பட்டை, இலவங்க இலை தாளித்து, வெங்காயத்தை போட்டு பொன்நிறமாக வதக்கவும். அடுத்து மிளகு, சீரக தூள், தக்காளி, ப.மிளகாய், கறிமசால் தூள் சேர்த்து வதக்கவும். தண்ணீர் லேசாக ஊற்றவும். பின்பு வேக வைத்த கறியை இக்கலவையில் சேர்த்து சுண்ட வதக்கி விடவும். அதன் மீது நறுக்கிய வெங்காயத்தை தூவி பரிமாறவும்.",
+      "instruction_en": "Cook the mutton in a pressure cooker with a little salt. Slice the onion lengthwise. Finely chop the tomato. Heat oil in a pan, temper with cinnamon and bay leaf, add the onion, and saute until golden. Next, add the pepper-cumin powder, tomato, green chili, and curry masala powder, and saute. Pour in a little water. Then add the cooked mutton to this mixture and saute until it thickens. Garnish with chopped onion on top and serve.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

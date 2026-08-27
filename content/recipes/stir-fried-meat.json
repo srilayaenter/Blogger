@@ -1,0 +1,41 @@
+{
+  "slug": "stir-fried-meat",
+  "title_ta": "பிரட்டுக்கறி",
+  "title_en": "Stir-Fried Meat",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 76,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-26T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["fried-snack"],
+  "ingredients": [
+    { "id": "stir-fried-meat-ingredient-1", "name_ta": "வீசை கறி", "name_en": "Meat", "quantity": "¼", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "stir-fried-meat-ingredient-2", "name_ta": "சீரகம்", "name_en": "Cumin", "quantity": "3", "unit_ta": "தேக்கரண்டி", "unit_en": "teaspoons", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "stir-fried-meat-ingredient-3", "name_ta": "மிளகாய் வற்றல்", "name_en": "Dried red chili", "quantity": "9", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "stir-fried-meat-ingredient-4", "name_ta": "மஞ்சள் தூள்", "name_en": "Turmeric powder", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "stir-fried-meat-ingredient-5", "name_ta": "நறுக்கிய வெங்காயம்", "name_en": "Chopped onion", "quantity": "20", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "stir-fried-meat-ingredient-6", "name_ta": "உப்பு", "name_en": "Salt", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 6 }
+  ],
+  "instructions": [
+    {
+      "id": "stir-fried-meat-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "¼ வீசை கறியைத் துண்டுகளாக்கிக் கொள்ளவும். மிளகாய் வற்றல் 7, சீரகம் 3 தேக்கரண்டி இவற்றை நன்கு அரைத்துக் கொள்ளவும். ஒரு பாத்திரத்தில் 4 கரண்டி எண்ணெய் ஊற்றிக் காய்ந்த பின் 20 நறுக்கிய வெங்காயத்தையும் கறியையும் போட்டு வதக்கி அரைத்த மசாலுடன் தேவையான உப்பு, மஞ்சள் தூள் கலந்து கறியில் போடவும். 3/8படி தண்ணீர் ஊற்றி சிறு தீயில் கறியை வேக வைக்கவும். கறி வெந்த பின் நீர் வற்றி சிவந்த பின் இறக்கவும்.",
+      "instruction_en": "Cut the meat into pieces. Grind 7 dried red chilies (the ingredient list above states 9 -- both figures are printed in the source) with 3 teaspoons of cumin well. In a vessel, heat 4 ladles of oil, and once hot, add the 20 chopped onions and the meat, and saute. Mix the ground masala with the required salt and turmeric powder, and add to the meat. Pour in 3/8 measure of water and cook the meat on low heat. Once the meat is cooked, let the water reduce, and remove from heat once it turns reddish-brown.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

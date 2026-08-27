@@ -1,0 +1,50 @@
+{
+  "slug": "tangy-meat-curry",
+  "title_ta": "புளிக்கறி",
+  "title_en": "Tangy Meat Curry",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 81,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-26T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["curry"],
+  "ingredients": [
+    { "id": "tangy-meat-curry-ingredient-1", "name_ta": "கறி", "name_en": "Meat", "quantity": "¼", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "tangy-meat-curry-ingredient-2", "name_ta": "வெள்ளைப்பூண்டு", "name_en": "Garlic", "quantity": "6", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "tangy-meat-curry-ingredient-3", "name_ta": "சீரகம்", "name_en": "Cumin", "quantity": "1", "unit_ta": "ஸ்பூன்", "unit_en": "spoon", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "tangy-meat-curry-ingredient-4", "name_ta": "பட்டை", "name_en": "Cinnamon", "quantity": "2", "unit_ta": "துண்டு", "unit_en": "pieces", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "tangy-meat-curry-ingredient-5", "name_ta": "சோம்பு", "name_en": "Fennel seeds", "quantity": "1", "unit_ta": "ஸ்பூன்", "unit_en": "spoon", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "tangy-meat-curry-ingredient-6", "name_ta": "புளி", "name_en": "Tamarind", "quantity": "நெல்லிக்காயளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": "gooseberry-sized", "display_order": 6 },
+    { "id": "tangy-meat-curry-ingredient-7", "name_ta": "ஏலக்காய்", "name_en": "Cardamom", "quantity": "3", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "tangy-meat-curry-ingredient-8", "name_ta": "கிராம்பு", "name_en": "Cloves", "quantity": "3", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "tangy-meat-curry-ingredient-9", "name_ta": "மிளகாய் வற்றல்", "name_en": "Dried red chili", "quantity": "11", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 9 },
+    { "id": "tangy-meat-curry-ingredient-10", "name_ta": "மிளகு", "name_en": "Pepper", "quantity": "1", "unit_ta": "ஸ்பூன்", "unit_en": "spoon", "notes_ta": null, "notes_en": null, "display_order": 10 },
+    { "id": "tangy-meat-curry-ingredient-11", "name_ta": "இஞ்சி", "name_en": "Ginger", "quantity": "1", "unit_ta": "துண்டு", "unit_en": "piece", "notes_ta": null, "notes_en": null, "display_order": 11 },
+    { "id": "tangy-meat-curry-ingredient-12", "name_ta": "அன்னாச்சிப்பூ", "name_en": "Star anise", "quantity": "2", "unit_ta": "துண்டு", "unit_en": "pieces", "notes_ta": null, "notes_en": null, "display_order": 12 },
+    { "id": "tangy-meat-curry-ingredient-13", "name_ta": "தயிர்", "name_en": "Curd", "quantity": "100", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 13 },
+    { "id": "tangy-meat-curry-ingredient-14", "name_ta": "மஞ்சள் தூள்", "name_en": "Turmeric powder", "quantity": "1", "unit_ta": "சிட்டிகை", "unit_en": "pinch", "notes_ta": null, "notes_en": null, "display_order": 14 },
+    { "id": "tangy-meat-curry-ingredient-15", "name_ta": "எண்ணை", "name_en": "Oil", "quantity": "50", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 15 }
+  ],
+  "instructions": [
+    {
+      "id": "tangy-meat-curry-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "முதலில் கறியை பெரியதும் சிறியதும் அல்லாமல் நடுத்தரமான அளவில் வெட்டிக் கழுவி பாத்திரத்தில் போட்டு அதனுடன் வற்றல், பூண்டு, மிளகு, சீரகம், மல்லி, இஞ்சி, 1 துண்டு ஏலக்காய், கிராம்பு இவைகளை முழுதாகச் சேர்க்கவும். புளியைக் கரைத்து ஊற்றி, தயிர் மஞ்சள் தூள், எண்ணெய் ஊற்றி அளவான தண்ணீர் ஊற்றி நன்றாக வேக விட வேண்டும். (அடுப்பில் சிறு தீயாகவே எரிய விடவும்) ¼ வேக்காட்டில் அளவாக உப்பு சேர்க்கவும். நன்றாக வெந்து எண்ணெய் பிரிந்து வந்ததும் இறக்க வேண்டும். இந்த புளிக்கறி 2,3 நாள் கூட சுவை கெடாமல் இருக்கும்.",
+      "instruction_en": "First, cut the meat into medium-sized pieces (not too big or too small), wash, and place in a vessel. Add to it the dried chilies, garlic, pepper, cumin, coriander seeds, ginger, 1 piece of cardamom, and cloves, all together. Dissolve the tamarind and pour it in, add the curd, turmeric powder, and oil, pour in the appropriate amount of water, and cook well (keep the stove flame low). When it is about a quarter cooked, add the appropriate amount of salt. Once well cooked and the oil has separated, remove from heat. This tangy meat curry stays good in flavor for 2-3 days.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

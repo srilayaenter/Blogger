@@ -1,0 +1,49 @@
+{
+  "slug": "mutton-kola-kuzhambu",
+  "title_ta": "மட்டன் கோலா குழம்பு",
+  "title_en": "Mutton Kola Kuzhambu",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 68,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-26T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["kuzhambu"],
+  "ingredients": [
+    { "id": "mutton-kola-kuzhambu-ingredient-1", "name_ta": "மட்டன்", "name_en": "Mutton", "quantity": "½", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": "கொத்தியது", "notes_en": "minced", "display_order": 1 },
+    { "id": "mutton-kola-kuzhambu-ingredient-2", "name_ta": "சின்ன வெங்காயம்", "name_en": "Shallots", "quantity": "25", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "mutton-kola-kuzhambu-ingredient-3", "name_ta": "பூண்டு", "name_en": "Garlic", "quantity": "25", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "mutton-kola-kuzhambu-ingredient-4", "name_ta": "தேங்காய்", "name_en": "Coconut", "quantity": "¼", "unit_ta": "முடி", "unit_en": "whole", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "mutton-kola-kuzhambu-ingredient-5", "name_ta": "மிளகாய்தூள்", "name_en": "Chili powder", "quantity": "1", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "tablespoon", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "mutton-kola-kuzhambu-ingredient-6", "name_ta": "மஞ்சள்தூள்", "name_en": "Turmeric powder", "quantity": "½", "unit_ta": "டீஸ்பூன்", "unit_en": "teaspoon", "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "mutton-kola-kuzhambu-ingredient-7", "name_ta": "இஞ்சி", "name_en": "Ginger", "quantity": "1", "unit_ta": "துண்டு", "unit_en": "piece", "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "mutton-kola-kuzhambu-ingredient-8", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவையானது", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "mutton-kola-kuzhambu-ingredient-9", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": "பொரிக்க", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": "for frying", "display_order": 9 },
+    { "id": "mutton-kola-kuzhambu-ingredient-10", "name_ta": "தேங்காய்", "name_en": "Coconut", "quantity": "¼", "unit_ta": "முடி", "unit_en": "whole", "notes_ta": null, "notes_en": "for the masala kuzhambu", "display_order": 10 },
+    { "id": "mutton-kola-kuzhambu-ingredient-11", "name_ta": "சோம்பு", "name_en": "Fennel seeds", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "teaspoon", "notes_ta": null, "notes_en": null, "display_order": 11 },
+    { "id": "mutton-kola-kuzhambu-ingredient-12", "name_ta": "பொட்டுக்கடலை", "name_en": "Roasted gram", "quantity": "2", "unit_ta": "டீஸ்பூன்", "unit_en": "teaspoons", "notes_ta": null, "notes_en": null, "display_order": 12 },
+    { "id": "mutton-kola-kuzhambu-ingredient-13", "name_ta": "கசகசா", "name_en": "Poppy seeds", "quantity": "1", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "tablespoon", "notes_ta": null, "notes_en": null, "display_order": 13 },
+    { "id": "mutton-kola-kuzhambu-ingredient-14", "name_ta": "மிளகாய்த்தூள்", "name_en": "Chili powder", "quantity": "2", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "tablespoons", "notes_ta": null, "notes_en": "for the masala kuzhambu", "display_order": 14 }
+  ],
+  "instructions": [
+    {
+      "id": "mutton-kola-kuzhambu-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "மேற்கண்ட பொருட்களை அதிகம் தண்ணீர் விடாமல் நைசாக அரைத்து ஒரு முட்டை உடைத்து ஊற்றி சின்ன சின்ன உருண்டைகளாக உருட்டி எண்ணெயில் பொரித்து எடுத்து வைக்கவும். மசாலா குழம்புக்கான பொருட்களை நைசாக அரைத்து வைக்கவும். இப்பொழுது வாணலியில் 25 கிராம் எண்ணெய் ஊற்றி, தலா 1 டீஸ்பூன் பட்டை, கிராம்பு, சோம்பு போட்டு வதக்கி 100 கிராம் பெ. வெங்காயத்தை நறுக்கிச் சேர்க்கவும். பொன்நிறத்தில் வதங்கியதும் அரைத்து வைத்துள்ள மசாலாவை சேர்த்து வதக்கவும். பின் 50 கிராம் தக்காளியைச் சேர்த்து கிளறவும். சுண்டைக்காய் சைஸ் புளியை கரைத்து ஊற்றவும். தேவையான உப்பு சேர்க்கவும். ஒரு டம்ளர் வெந்நீர் சேர்த்து குழம்பு நன்றாக கொதித்து வந்ததும், எண்ணெயில் பொரித்து வைத்துள்ள உருண்டைகளைப் போடவும். குழம்பு 10 நிமிடம் கொதித்ததும் அடுப்பில் இருந்து இறக்கவும்.",
+      "instruction_en": "Grind the above ingredients (the minced mutton, shallots, garlic, coconut, chili powder, turmeric, and ginger) fine without adding much water, break in one egg, mix, roll into small balls, and deep-fry in oil; set aside. Grind the masala-kuzhambu ingredients fine and set aside. Now heat 25g of oil in a pan, temper with 1 teaspoon each of cinnamon and cloves and the fennel, then add 100g of chopped big onion. Once golden, add the ground masala and saute. Then add 50g of chopped tomato and stir. Dissolve a gooseberry-sized ball of tamarind and pour it in. Add the required salt. Add a tumbler of hot water and let the curry come to a good boil, then add the fried meatballs. Once the curry has boiled for 10 minutes, remove from heat.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

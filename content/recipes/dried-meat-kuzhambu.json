@@ -1,0 +1,36 @@
+{
+  "slug": "dried-meat-kuzhambu",
+  "title_ta": "கொடிக்கறிக்குழம்பு",
+  "title_en": "Dried Meat Kuzhambu",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 81,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-26T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["kuzhambu"],
+  "ingredients": [
+    { "id": "dried-meat-kuzhambu-ingredient-1", "name_ta": "கொடிக்கறி", "name_en": "Dried meat", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 1 }
+  ],
+  "instructions": [
+    {
+      "id": "dried-meat-kuzhambu-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "கொடிக்கறியை சிறிது நேரம் ஊறவைக்கவும். பின் கொடிக்கறியும் காய்கறியும் சேர்த்து வைக்கும் குழம்புகள் மாதிரியே, தனியாகவோ காய்கறிகள் சேர்த்தோ குழம்பு செய்யலாம்.",
+      "instruction_en": "Soak the dried meat for a little while. Then, just like the curries made by combining dried meat and vegetables, a curry can be made either with the dried meat alone or together with vegetables.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

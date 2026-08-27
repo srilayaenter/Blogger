@@ -1,0 +1,48 @@
+{
+  "slug": "kheema-puttu",
+  "title_ta": "கைமா புட்டு",
+  "title_en": "Kheema Puttu",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 78,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-26T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["puttu"],
+  "ingredients": [
+    { "id": "kheema-puttu-ingredient-1", "name_ta": "கொத்துக்கறி", "name_en": "Chopped meat", "quantity": "200", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "kheema-puttu-ingredient-2", "name_ta": "மிளகாய்ப்பொடி", "name_en": "Chili powder", "quantity": "1", "unit_ta": "தேக்கரண்டி", "unit_en": "teaspoon", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "kheema-puttu-ingredient-3", "name_ta": "வெங்காயம்", "name_en": "Onion", "quantity": "100", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "kheema-puttu-ingredient-4", "name_ta": "இஞ்சி", "name_en": "Ginger", "quantity": "15", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "kheema-puttu-ingredient-5", "name_ta": "பூண்டு", "name_en": "Garlic", "quantity": "30", "unit_ta": "பல்", "unit_en": "cloves", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "kheema-puttu-ingredient-6", "name_ta": "நெய்", "name_en": "Ghee", "quantity": "20", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "kheema-puttu-ingredient-7", "name_ta": "பட்டை", "name_en": "Cinnamon", "quantity": "4", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "kheema-puttu-ingredient-8", "name_ta": "கிராம்பு", "name_en": "Cloves", "quantity": "4", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "kheema-puttu-ingredient-9", "name_ta": "ஏலக்காய்", "name_en": "Cardamom", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 9 },
+    { "id": "kheema-puttu-ingredient-10", "name_ta": "முந்திரிப்பருப்பு", "name_en": "Cashew nuts", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 10 },
+    { "id": "kheema-puttu-ingredient-11", "name_ta": "முட்டை", "name_en": "Egg", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 11 },
+    { "id": "kheema-puttu-ingredient-12", "name_ta": "மிளகாய்", "name_en": "Chili", "quantity": "3", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 12 },
+    { "id": "kheema-puttu-ingredient-13", "name_ta": "மல்லி இலை, மஞ்சள் பொடி, உப்பு", "name_en": "Coriander leaves, turmeric powder, salt", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 13 }
+  ],
+  "instructions": [
+    {
+      "id": "kheema-puttu-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "கறியுடன் மிளகாய், பொடியாக நறுக்கிய வெங்காயம், அரைத்த இஞ்சி, பூண்டு மஞ்சள், உப்பு, மிளகாய்த்தூள், போட்டு வேக வைக்கவும். தண்ணீர் வற்றியதும் அம்மியில் வைத்து பரபரப்பாக அரைக்கவும். பின் சட்டியில் நெய் ஊற்றி வாசனை சாமான்களைப் போட்டு, அரைத்து வைத்திருக்கும் கறி, மல்லி இலை, கறிவேப்பிலை போட்டு நன்றாகக் கிளறி விடவும். கறி வறுபட்டதும் வறுத்த முந்திரிப்பருப்பைப் போட்டு கிளறி இறக்கவும்.",
+      "instruction_en": "Cook the meat along with the chili, finely chopped onion, ground ginger and garlic, turmeric, salt, and chili powder. Once the water has reduced, grind it coarsely on a grinding stone. Then heat ghee in a pan, add the aromatic spices (cinnamon, cloves, cardamom), add the ground meat, coriander leaves, and curry leaves, and stir well. Once the meat is well roasted, add the roasted cashew nuts, stir, and remove from heat.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

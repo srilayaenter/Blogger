@@ -1,0 +1,45 @@
+{
+  "slug": "meat-idli",
+  "title_ta": "கொத்துக்கறி இட்லி",
+  "title_en": "Meat Idli",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 77,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-26T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["idli"],
+  "ingredients": [
+    { "id": "meat-idli-ingredient-1", "name_ta": "இட்லி மாவு", "name_en": "Idli batter", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "meat-idli-ingredient-2", "name_ta": "கொத்துக்கறி", "name_en": "Chopped meat", "quantity": "½", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "meat-idli-ingredient-3", "name_ta": "பல்பூண்டு", "name_en": "Garlic cloves", "quantity": "5", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "meat-idli-ingredient-4", "name_ta": "பச்சைமிளகாய்", "name_en": "Green chili", "quantity": "6", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "meat-idli-ingredient-5", "name_ta": "கொத்தமல்லி தழை", "name_en": "Coriander leaves", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "நறுக்கியது", "notes_en": "chopped", "display_order": 5 },
+    { "id": "meat-idli-ingredient-6", "name_ta": "கரம் மசாலா", "name_en": "Garam masala", "quantity": "1", "unit_ta": "தேக்கரண்டி", "unit_en": "teaspoon", "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "meat-idli-ingredient-7", "name_ta": "தேங்காய்", "name_en": "Coconut", "quantity": "½", "unit_ta": "முடி", "unit_en": "whole", "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "meat-idli-ingredient-8", "name_ta": "இஞ்சி", "name_en": "Ginger", "quantity": "½", "unit_ta": "அங்குலம்", "unit_en": "inch", "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "meat-idli-ingredient-9", "name_ta": "பெரிய வெங்காயம்", "name_en": "Big onion", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 9 },
+    { "id": "meat-idli-ingredient-10", "name_ta": "சிறுகட்டு புதினா", "name_en": "Mint", "quantity": "1", "unit_ta": "சிறு கட்டு", "unit_en": "small bunch", "notes_ta": null, "notes_en": null, "display_order": 10 }
+  ],
+  "instructions": [
+    {
+      "id": "meat-idli-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "முன்தினம் இட்லிக்கு மாவு ஆட்டி, தயாரித்துக்கொள்ளவும். ½ கிலோ கொத்துக்கறியை சுத்தம் செய்து கொள்ளவும். வாணலியில் 3 தேக்கரண்டி இதயம் நல்லெண்ணெய் ஊற்றி, காய்ந்ததும் ½ அங்குலம் இஞ்சி, 5 பல் பூண்டு, கொத்துக்கறி இவற்றைப் போட்டு வதக்கவும். வதங்கிய பின் தேவையான அளவு தண்ணீர் ஊற்றி கறியை நன்றாக வேகவிடவும். வெந்த பின் இறக்கிக்கொள்ளவும். 2 பெரிய வெங்காயம், 6 பச்சை மிளகாய்கள், 1 சிறு கட்டு புதினா, கொத்தமல்லி தழை ஆகியவற்றைப் பொடியாக நறுக்கிக்கொள்ளவும். வாணலியில் 3 தேக்கரண்டி நல்லெண்ணெய் ஊற்றி காய்ந்ததும் நறுக்கியவற்றைப் போட்டு வதக்கி, இத்துடன் வேக வைத்த கொத்துக்கறியையும் சேர்க்கவும். தேவையான உப்பு மஞ்சள் தூள் போட்டு நன்கு கிளறவும். 1 தேக்கரண்டி கரம் மசாலாவை போட்டு இறக்கிக்கொள்ளவும். ½ முடி தேங்காயை துருவிக்கொள்ளவும். இட்லி வேக வைக்கும் தட்டுகளில் இட்லி மாவு சிறிதளவு ஊற்றி இதன் மீது கொத்துக்கறி கலவை சிறிதளவு வைத்து மறுபடியும் இதன் மீது மாவை ஊற்றி இட்லிகளை வேக வைக்கவும். வெந்தபின் இறக்கி, இட்லிகளை எடுத்துக் கொள்ளவும். வாணலியில் இதயம் நல்லெண்ணெய் ஊற்றி, காய்ந்ததும் கடுகு, தேங்காய் துருவல், கறிவேப்பிலை, கொத்துமல்லித் தழை, புதினா ஆகியவற்றைப் போட்டு இறக்கவும். வேக வைத்து இட்லிகள் மீது தாளித்த கலவையைத் தூவி பரிமாறவும்.",
+      "instruction_en": "The day before, grind and prepare the idli batter. Clean ½ kg of the chopped meat. Heat 3 teaspoons of good sesame oil in a pan, and once hot, add the ginger, garlic, and meat, and saute. Once sauteed, pour in the required amount of water and cook the meat thoroughly. Remove from heat once cooked. Finely chop the big onion, green chilies, mint, and coriander leaves. Heat 3 teaspoons of good oil in a pan, and once hot, add the chopped items and saute, then mix in the cooked meat. Add the required salt and turmeric powder, and stir well. Add the garam masala and remove from heat. Grate ½ measure of coconut. In the idli plates, pour a little idli batter, place a little of the meat mixture on top, then pour more batter over it, and steam the idlis. Once cooked, remove and take out the idlis. Heat good sesame oil in a pan, and once hot, add mustard seeds, the grated coconut, curry leaves, coriander leaves, and mint, and remove from heat. Sprinkle this tempered mixture over the cooked idlis and serve.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

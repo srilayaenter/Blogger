@@ -1,0 +1,41 @@
+{
+  "slug": "roasted-meat",
+  "title_ta": "சுட்டகறி",
+  "title_en": "Roasted Meat",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 76,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-26T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["fried-snack"],
+  "ingredients": [
+    { "id": "roasted-meat-ingredient-1", "name_ta": "தொடை கறி", "name_en": "Thigh meat", "quantity": "200", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "roasted-meat-ingredient-2", "name_ta": "மஞ்சள்தூள்", "name_en": "Turmeric powder", "quantity": "1", "unit_ta": "ஸ்பூன்", "unit_en": "spoon", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "roasted-meat-ingredient-3", "name_ta": "வினிகர்", "name_en": "Vinegar", "quantity": "1", "unit_ta": "ஸ்பூன்", "unit_en": "spoon", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "roasted-meat-ingredient-4", "name_ta": "மிளகுத்தூள்", "name_en": "Pepper powder", "quantity": "2", "unit_ta": "ஸ்பூன்", "unit_en": "spoons", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "roasted-meat-ingredient-5", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": "2", "unit_ta": "ஸ்பூன்", "unit_en": "spoons", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "roasted-meat-ingredient-6", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "சுவைக்கு ஏற்ப", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 6 }
+  ],
+  "instructions": [
+    {
+      "id": "roasted-meat-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "ஆட்டின் முன் தொடைகறியை வாங்க சமஅளவுக்குள் துண்டுகள் வெட்டி சுத்தம் செய்து கழுவி வைக்கவும். உப்பு, மிளகுத்தூள், வினிகர், எண்ணெய் எல்லாவற்றையும் ஒன்றாக கலந்து வைக்கவும். கறித்துண்டை ஒவ்வொன்றாக எடுத்து சப்பாத்தி கட்டையால் தட்டி சதுரமாக பரத்தவும். கறித்துண்டுகளை எடுத்து மிளகு கலவையில் தேய்த்து 1 மணி நேரம் ஊற வைக்கவும். தோசைக் கல்லை காய வைத்து (எண்ணெயிட வேண்டியதில்லை) ஊறிய கறித்துண்டுகளை மிதமான தீயில் கொஞ்சம் கொஞ்சமாக சுட்டு எடுக்கவும். இரண்டு பக்கமும் பொன் வறுவலாக எடுக்கவும்.",
+      "instruction_en": "Buy front-thigh meat of the goat, cut into equal-sized pieces, clean, and wash. Mix together the salt, pepper powder, vinegar, and oil. Take each piece of meat and flatten it into a square shape using a chapati rolling pin. Take the meat pieces, coat them in the pepper mixture, and let them marinate for 1 hour. Heat a dosa griddle (no need to add oil), and roast the marinated meat pieces a little at a time on medium heat. Cook on both sides until golden brown.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

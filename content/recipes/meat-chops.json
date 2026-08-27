@@ -1,0 +1,47 @@
+{
+  "slug": "meat-chops",
+  "title_ta": "கறி சாப்ஸ்",
+  "title_en": "Meat Chops",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 65,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-26T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["curry"],
+  "ingredients": [
+    { "id": "meat-chops-ingredient-1", "name_ta": "சாப்ஸ் கறி", "name_en": "Chops meat", "quantity": "¼", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": "எலும்புடன் சேர்த்து பெரிய துண்டாக வாங்கவும்", "notes_en": "buy in large pieces, with bone", "display_order": 1 },
+    { "id": "meat-chops-ingredient-2", "name_ta": "பெருஞ்சீரகம்", "name_en": "Fennel seeds", "quantity": "1", "unit_ta": "தேக்கரண்டி", "unit_en": "teaspoon", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "meat-chops-ingredient-3", "name_ta": "வற்றல்", "name_en": "Dried red chili", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "meat-chops-ingredient-4", "name_ta": "கொத்தமல்லி", "name_en": "Coriander seeds", "quantity": "1", "unit_ta": "மேஜைக்கரண்டி", "unit_en": "tablespoon", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "meat-chops-ingredient-5", "name_ta": "கசகசா", "name_en": "Poppy seeds", "quantity": "1", "unit_ta": "தேக்கரண்டி", "unit_en": "teaspoon", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "meat-chops-ingredient-6", "name_ta": "சீரகம்", "name_en": "Cumin", "quantity": "1", "unit_ta": "மேஜைக்கரண்டி", "unit_en": "tablespoon", "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "meat-chops-ingredient-7", "name_ta": "சின்ன வெங்காயம்", "name_en": "Shallots", "quantity": "8", "unit_ta": null, "unit_en": null, "notes_ta": "வெட்டியது", "notes_en": "chopped", "display_order": 7 },
+    { "id": "meat-chops-ingredient-8", "name_ta": "தேங்காய்", "name_en": "Coconut", "quantity": "1", "unit_ta": "முடி", "unit_en": "whole", "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "meat-chops-ingredient-9", "name_ta": "இஞ்சி", "name_en": "Ginger", "quantity": "சிறியது", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 9 },
+    { "id": "meat-chops-ingredient-10", "name_ta": "பூண்டு", "name_en": "Garlic", "quantity": "4", "unit_ta": "பல்", "unit_en": "cloves", "notes_ta": null, "notes_en": null, "display_order": 10 },
+    { "id": "meat-chops-ingredient-11", "name_ta": "முந்திரிப்பருப்பு", "name_en": "Cashew nuts", "quantity": "15", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 11 },
+    { "id": "meat-chops-ingredient-12", "name_ta": "உப்பு, மஞ்சள்", "name_en": "Salt, turmeric", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 12 }
+  ],
+  "instructions": [
+    {
+      "id": "meat-chops-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "பாதி தேங்காயில் பால் எடுக்கவும். மீதி தேங்காயை மேலே உள்ள மசாலா சாமான்களுடன் சேர்த்து அரைத்து இரண்டாவது பாலில் கலந்து கறியையும் போட்டு, உப்பு மஞ்சள் சேர்த்து குக்கரில் நன்றாக வேக வைக்கவும். பின் இரும்புச்சட்டியில் நெய் 2 கரண்டி நல்லெண்ணெய் 2 கரண்டி ஊற்றி, முந்திரிப்பருப்பு, பட்டை சிறிது, கிராம்பு 3, ஏலக்காய் 3 போட்டு தாளித்து வெங்காயத்தை வதக்கி முதல் பாலையும் சேர்த்து ஊற்றி, குழம்பு வற்றி எண்ணெய் தெளியவும் இறக்கவும்.",
+      "instruction_en": "Extract milk from half the coconut. Grind the remaining coconut together with the masala ingredients listed above, mix it into a second extraction of milk, add the meat, and cook well in a pressure cooker with salt and turmeric. Then, in an iron pan, heat 2 ladles of ghee and 2 ladles of good oil, add cashew nuts, a little cinnamon, 3 cloves, and 3 cardamoms, and temper. Saute the onion, then pour in the first coconut milk extraction, and let the curry reduce until the oil separates, then remove from heat.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

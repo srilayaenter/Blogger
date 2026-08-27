@@ -1,0 +1,41 @@
+{
+  "slug": "dry-meat-curry",
+  "title_ta": "வறட்டுக்கறி",
+  "title_en": "Dry Meat Curry",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 82,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-26T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["curry"],
+  "ingredients": [
+    { "id": "dry-meat-curry-ingredient-1", "name_ta": "ஆட்டுக்கறி", "name_en": "Goat meat", "quantity": "1", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "dry-meat-curry-ingredient-2", "name_ta": "சிகப்பு மிளகாய்", "name_en": "Red chili", "quantity": "30", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "dry-meat-curry-ingredient-3", "name_ta": "மல்லி (தனியா)", "name_en": "Coriander seeds", "quantity": "2", "unit_ta": "மேஜைக்கரண்டி", "unit_en": "tablespoons", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "dry-meat-curry-ingredient-4", "name_ta": "சீரகம்", "name_en": "Cumin", "quantity": "1", "unit_ta": "தேக்கரண்டி", "unit_en": "teaspoon", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "dry-meat-curry-ingredient-5", "name_ta": "மிளகு", "name_en": "Pepper", "quantity": "1", "unit_ta": "தேக்கரண்டி", "unit_en": "teaspoon", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "dry-meat-curry-ingredient-6", "name_ta": "பெரியவெங்காயம்", "name_en": "Big onion", "quantity": "4", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 6 }
+  ],
+  "instructions": [
+    {
+      "id": "dry-meat-curry-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "1 கிலோ ஆட்டுக்கறியை சுத்தம் செய்து துண்டுகளாக்கிக் கொள்ளவும். 30 சிகப்பு மிளகாய்கள், 2 மேஜைக்கரண்டி மல்லி (தனியா) 1 தேக்கரண்டி சீரகம், 1 தேக்கரண்டி மிளகு இவற்றை அரைத்துக்கொள்ளவும். 4 பெரியவெங்காயத்தை நறுக்கிக்கொள்ளவும். துண்டுகள் செய்த கறியுடன் அரைத்த மசாலா, தேவையான உப்பு, மஞ்சள் தூள் சேர்த்து கலந்து வைக்கவும். அடி கனமான பாத்திரத்தில் 200 கிராம் நல்லெண்ணெய் ஊற்றி காய்ந்ததும் கறிக்கலவை நறுக்கிய வெங்காயத்தைப் போட்டு சிறிதளவு தண்ணீர் ஊற்றி வேகவிடவும். கறி வெந்த பின் எலுமிச்சையளவு வெண்ணெயை போடவும். மசாலா கறியுடன் நன்கு கலந்து கெட்டியானதும் எண்ணை மிதக்கும். தொடர்ந்து சில நிமிடங்கள் கிளறிய பின் இறக்கவும்.",
+      "instruction_en": "Clean 1 kg of goat meat and cut into pieces. Grind the red chilies, coriander seeds, cumin, and pepper. Chop the big onions. Mix the cut meat with the ground masala, the required salt, and turmeric powder. In a heavy-bottomed vessel, heat the good oil, and once hot, add the meat mixture and the chopped onion, pour in a little water, and let it cook. Once the meat is cooked, add a lemon-sized lump of butter. Mix well with the masala and meat; once it thickens, the oil will float on top. Continue stirring for a few more minutes, then remove from heat.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

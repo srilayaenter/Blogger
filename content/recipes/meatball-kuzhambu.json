@@ -1,0 +1,47 @@
+{
+  "slug": "meatball-kuzhambu",
+  "title_ta": "கொத்துக்கறி உருண்டைக்குழம்பு",
+  "title_en": "Meatball Kuzhambu",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 80,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-26T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["kuzhambu"],
+  "ingredients": [
+    { "id": "meatball-kuzhambu-ingredient-1", "name_ta": "கொத்துக்கறி", "name_en": "Chopped meat", "quantity": "¼", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "meatball-kuzhambu-ingredient-2", "name_ta": "வற்றல்", "name_en": "Dried red chili", "quantity": "6", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "meatball-kuzhambu-ingredient-3", "name_ta": "கொத்தமல்லி", "name_en": "Coriander seeds", "quantity": "2", "unit_ta": "தேக்கரண்டி", "unit_en": "teaspoons", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "meatball-kuzhambu-ingredient-4", "name_ta": "பெருஞ்சீரகம்", "name_en": "Fennel seeds", "quantity": "1", "unit_ta": "தேக்கரண்டி", "unit_en": "teaspoon", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "meatball-kuzhambu-ingredient-5", "name_ta": "வெங்காயம்", "name_en": "Onion", "quantity": "1", "unit_ta": "பெரியது", "unit_en": "large", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "meatball-kuzhambu-ingredient-6", "name_ta": "தேங்காய்", "name_en": "Coconut", "quantity": "1", "unit_ta": "முடி", "unit_en": "whole", "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "meatball-kuzhambu-ingredient-7", "name_ta": "கசகசா", "name_en": "Poppy seeds", "quantity": "1", "unit_ta": "தேக்கரண்டி", "unit_en": "teaspoon", "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "meatball-kuzhambu-ingredient-8", "name_ta": "பட்டை", "name_en": "Cinnamon", "quantity": "1", "unit_ta": "அங்குலம்", "unit_en": "inch", "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "meatball-kuzhambu-ingredient-9", "name_ta": "கிராம்பு", "name_en": "Cloves", "quantity": "3", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 9 },
+    { "id": "meatball-kuzhambu-ingredient-10", "name_ta": "ஏலக்காய்", "name_en": "Cardamom", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 10 },
+    { "id": "meatball-kuzhambu-ingredient-11", "name_ta": "முந்திரிப்பருப்பு", "name_en": "Cashew nuts", "quantity": "6", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 11 },
+    { "id": "meatball-kuzhambu-ingredient-12", "name_ta": "எலுமிச்சம்பழம்", "name_en": "Lemon", "quantity": "½", "unit_ta": "முடி", "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 12 }
+  ],
+  "instructions": [
+    {
+      "id": "meatball-kuzhambu-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "மேற்சொன்ன சாமான்களுள் தேங்காய் தவிர பிறவற்றை இளம் வறுப்பாக வறுத்துக் கொண்டு அரைக்க வேண்டும். குக்கர் சட்டியில் ஒரு கரண்டி எண்ணெய் விட்டு கறியை தண்ணீரில்லாமல் போட்டு வதக்கி உப்பு போட்டு உரலில் நன்றாக ஆட்ட வேண்டும். பின் அரைத்த மசாலாவில் பாதியைப் போட்டு, ஒரு முட்டையையும் ஊற்றி கறிக்கலவையை நன்றாக கலந்து உருண்டை பிடித்து வைத்துக் கொள்ளவும். சட்டியைக் காயவைத்து 2 கரண்டி எண்ணெய், 2 கரண்டி நெய் ஊற்றி பட்டை, ஏலக்காய், கிராம்பு, புதினா, மல்லி, பெரியவெங்காயம் போட்டு நன்றாக வதக்கி மீதி மசாலாவை எடுத்து வைத்துள்ள தேங்காய்ப் பாலில் கலந்து ஊற்றி நன்றாக கொதிக்க விடவும். கொதிக்கும்போது மேற்படி உருண்டைகளை ஒவ்வொன்றாக போடவும். குழம்பைக் கிண்டாமல் 2 கொதி கொதித்து எண்ணெய் தெளியவும் இறக்கவும். பாதி முடி எலுமிச்சம்பழச்சாறு பிழியவும். குறிப்பு: உருண்டைகளை வடை மாதிரி எண்ணெயில் வறுத்து எடுத்து கொதிக்கும் குழம்பில் போட்டு சிறிது நேரம் அடுப்பில் வைத்து இறக்கியும் இதனைத் தயார் செய்யலாம்.",
+      "instruction_en": "Among the above ingredients, lightly roast everything except the coconut, and grind them. In a pressure-cooker pan, add a ladle of oil, add the meat without any water, and saute; add salt and pound it well in a mortar. Then add half of the ground masala, pour in one egg, mix the meat mixture well, and shape into balls. Heat the pan, add 2 ladles of oil and 2 ladles of ghee, add cinnamon, cardamom, cloves, mint, coriander seeds, and big onion, and saute well. Mix the remaining masala into the coconut milk set aside, pour it in, and let it come to a good boil. While it's boiling, add the meatballs one by one. Without stirring the curry, let it boil twice more, then remove from heat once the oil separates. Squeeze in the juice of half the lemon. Note: this can also be prepared by deep-frying the meatballs like vadai in oil, then adding them to the boiling curry, keeping it on the stove briefly, and removing from heat.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "blood-fry",
+  "title_ta": "இரத்தம் வதக்கல்",
+  "title_en": "Blood Fry",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 75,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-26T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["fried-snack"],
+  "ingredients": [
+    { "id": "blood-fry-ingredient-1", "name_ta": "ஆட்டின் இரத்தம்", "name_en": "Goat's blood", "quantity": "200", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "blood-fry-ingredient-2", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": "2", "unit_ta": "தேக்கரண்டி", "unit_en": "teaspoons", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "blood-fry-ingredient-3", "name_ta": "பச்சை மிளகர்", "name_en": "Green chili", "quantity": "6", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "blood-fry-ingredient-4", "name_ta": "மஞ்சள் தூள்", "name_en": "Turmeric powder", "quantity": "1", "unit_ta": "சிட்டிகை", "unit_en": "pinch", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "blood-fry-ingredient-5", "name_ta": "தேங்காய்", "name_en": "Coconut", "quantity": "½", "unit_ta": "முடி", "unit_en": "whole", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "blood-fry-ingredient-6", "name_ta": "வெங்காயம்", "name_en": "Onion", "quantity": "50", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "blood-fry-ingredient-7", "name_ta": "கறிவேப்பிலை", "name_en": "Curry leaves", "quantity": "சிறிது", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "blood-fry-ingredient-8", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவையானது", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 8 }
+  ],
+  "instructions": [
+    {
+      "id": "blood-fry-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "ஆட்டின் இரத்தம் உறைந்து இருக்கும். அதில் தண்ணீர் சேர்த்து நன்றாக கலைந்து விட வேண்டும். (பிசைந்தும் சிறு சிறு உருண்டைத் துண்டுகளாக இருக்கும்) பின் தண்ணீரை வடித்து விட வேண்டும். வாணலியில் எண்ணெய் ஊற்றி நறுக்கிய வெங்காயம், மிளகாய், கறிவேப்பிலை போட்டு நன்றாக வதங்கியதும் இரத்தத்தையும் சேர்த்து உப்பு, மஞ்சள் கலந்து கிளற வேண்டும். சீக்கிரம் வந்து விடும். இறக்கும் போது தேங்காய்ப்பூ போட்டு இறக்கவும். இரத்தம் நிறம் மாறி இருக்கும். உளுந்தம் சுண்டல் மாதிரி இருக்கும். இட்லியுடன் சேர்த்து சாப்பிட சுவையாக இருக்கும்.",
+      "instruction_en": "The goat's blood will be coagulated. Mix in water and break it up well (it will form small round pieces when kneaded). Then drain off the water. Heat oil in a pan, add chopped onion, chili, and curry leaves, and once well sauteed, add the blood pieces along with salt and turmeric, and stir. It cooks quickly. When removing from heat, add grated coconut. The blood will change color and resemble urad dal sundal. It tastes good eaten with idli.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

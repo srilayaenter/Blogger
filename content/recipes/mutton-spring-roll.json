@@ -1,0 +1,47 @@
+{
+  "slug": "mutton-spring-roll",
+  "title_ta": "மட்டன் ஸ்பிரிங் ரோல்",
+  "title_en": "Mutton Spring Roll",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 65,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-26T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["fried-snack"],
+  "ingredients": [
+    { "id": "mutton-spring-roll-ingredient-1", "name_ta": "கொத்திய கறி", "name_en": "Minced meat", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "teaspoon", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "mutton-spring-roll-ingredient-2", "name_ta": "பெ. வெங்காயம்", "name_en": "Big onion", "quantity": "தேவையான அளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "mutton-spring-roll-ingredient-3", "name_ta": "இஞ்சி, பூண்டு விழுது", "name_en": "Ginger-garlic paste", "quantity": "பொரிக்க", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "mutton-spring-roll-ingredient-4", "name_ta": "சோளமாவு", "name_en": "Corn flour", "quantity": "½", "unit_ta": "டீஸ்பூன்", "unit_en": "teaspoon", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "mutton-spring-roll-ingredient-5", "name_ta": "பச்சரிசி மாவு", "name_en": "Rice flour", "quantity": "1", "unit_ta": "ஸ்பூன்", "unit_en": "spoon", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "mutton-spring-roll-ingredient-6", "name_ta": "முட்டை", "name_en": "Egg", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "mutton-spring-roll-ingredient-7", "name_ta": "மிளகுதூள்", "name_en": "Pepper powder", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "teaspoon", "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "mutton-spring-roll-ingredient-8", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவையான அளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "mutton-spring-roll-ingredient-9", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": "பொரிக்க", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": "for frying", "display_order": 9 },
+    { "id": "mutton-spring-roll-ingredient-10", "name_ta": "மஞ்சள்", "name_en": "Turmeric", "quantity": "½", "unit_ta": "டீஸ்பூன்", "unit_en": "teaspoon", "notes_ta": null, "notes_en": null, "display_order": 10 },
+    { "id": "mutton-spring-roll-ingredient-11", "name_ta": "சோயா சாஸ்", "name_en": "Soy sauce", "quantity": "1", "unit_ta": "ஸ்பூன்", "unit_en": "spoon", "notes_ta": null, "notes_en": null, "display_order": 11 },
+    { "id": "mutton-spring-roll-ingredient-12", "name_ta": "தக்காளி சாஸ்", "name_en": "Tomato sauce", "quantity": "1", "unit_ta": "ஸ்பூன்", "unit_en": "spoon", "notes_ta": null, "notes_en": null, "display_order": 12 }
+  ],
+  "instructions": [
+    {
+      "id": "mutton-spring-roll-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "கறியை லேசாக உப்பு, மஞ்சள் சேர்த்து வேக வைத்துக் கொள்ளவும். வாணலியில் எண்ணெய் விட்டு, இஞ்சி, பூண்டு விழுது போட்டு வதக்கவும். அடுத்து வெங்காயம் சேர்த்து பொன்னிறமாக வதக்கவும். இதனுடன் கறி, சோயா, தக்காளி சாஸ் சேர்த்து சுண்ட வதக்கிக் கொள்ளவும். அடுத்து இரண்டு மாவுடன் முட்டை, மிளகுதூள், அஜினோமோட்டோ சேர்த்து தோசை மாவு பதத்திற்கு கரைத்துக் கொள்ளவும். தோசைக் கல்லில் சிறுசிறு தோசைகளாக ஊற்றிக் கொள்ளவும் 10 அல்லது 15 தோசைகள் செய்யவும். ஒவ்வொரு தோசைகளின் மேலும் வதக்கி வைத்துள்ள கறிக்கலவையை கொஞ்சம் கொஞ்சமாக வைத்து ரோல் செய்து இரண்டு ஓரங்களையும் லேசாக மாவு வைத்து மூடவும். இந்த ரோல்களை எண்ணெயில் போட்டு பொன்னிறமாக பொரித்து எடுக்கவும்.",
+      "instruction_en": "Lightly cook the meat with salt and turmeric. Heat oil in a pan, add the ginger-garlic paste, and saute. Then add the onion and saute until golden. Add the meat, soy sauce, and tomato sauce, and saute until reduced. Next, mix the corn flour and rice flour with the egg, pepper powder, and Ajinomoto (MSG), and dissolve to a dosa-batter consistency. Pour small dosas on a griddle -- make 10 or 15 dosas. On top of each dosa, place a little of the sauteed meat mixture, roll it up, and seal both edges lightly with the batter. Deep-fry these rolls in oil until golden and remove.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

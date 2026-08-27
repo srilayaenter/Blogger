@@ -1,0 +1,45 @@
+{
+  "slug": "mutton-biryani",
+  "title_ta": "மட்டன் பிரியாணி",
+  "title_en": "Mutton Biryani",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 66,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-26T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["rice-dish"],
+  "ingredients": [
+    { "id": "mutton-biryani-ingredient-1", "name_ta": "பிரியாணி அரிசி", "name_en": "Biryani rice", "quantity": "250", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "mutton-biryani-ingredient-2", "name_ta": "நெய்", "name_en": "Ghee", "quantity": "100", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "mutton-biryani-ingredient-3", "name_ta": "பெரிய வெங்காயம்", "name_en": "Big onion", "quantity": "தேவையான அளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "mutton-biryani-ingredient-4", "name_ta": "பச்சை மிளகாய்", "name_en": "Green chili", "quantity": "சிறிதளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "mutton-biryani-ingredient-5", "name_ta": "வறுத்த மல்லி", "name_en": "Roasted coriander", "quantity": "2", "unit_ta": "டீஸ்பூன்", "unit_en": "teaspoons", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "mutton-biryani-ingredient-6", "name_ta": "மட்டன்", "name_en": "Mutton", "quantity": "250", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "mutton-biryani-ingredient-7", "name_ta": "தேங்காய்", "name_en": "Coconut", "quantity": "½", "unit_ta": "முடி", "unit_en": "whole", "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "mutton-biryani-ingredient-8", "name_ta": "கொத்தமல்லி தழை", "name_en": "Coriander leaves", "quantity": "சிறிதளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "mutton-biryani-ingredient-9", "name_ta": "பெரிய சீரகம்", "name_en": "Fennel seeds", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "teaspoon", "notes_ta": null, "notes_en": null, "display_order": 9 },
+    { "id": "mutton-biryani-ingredient-10", "name_ta": "கிராம்பு, ஏலம், பட்டை", "name_en": "Cloves, cardamom, cinnamon", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "நெய்யில் வறுத்து வைக்கவும்", "notes_en": "roast in ghee and set aside", "display_order": 10 }
+  ],
+  "instructions": [
+    {
+      "id": "mutton-biryani-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "அரிசியை சுத்தம் செய்து வடிகட்டி வைக்கவும். குக்கரில் வெட்டிய கறித்துண்டுகளை உப்பு, மஞ்சள், 700 கிராம் நீர் சேர்த்து வேக வைக்கவும். வாணலியில் நெய் ஊற்றி வெட்டிய வெங்காயம், புதினா, இலை சேர்த்து வதக்கவும். அவித்த கறி, அரைத்த மசால், அரிசியையும் சேர்த்து 2 நிமிடம் கிளறி இறக்கவும். குக்கரில் கறி வைத்து தண்ணீர் தேங்காய் பால் சேர்த்து அரை படியாக கொதிக்க வைக்கவும். தேங்காய் பாலில் வதக்கிய மசால் அரிசி, கறி சிறிது உப்பும் சேர்த்து கிளறி இளந்தீயில் குக்கரை மூடி 10 நிமிடத்தில் இறக்கவும். பிரியாணி தம் கட்டி சூடாக வைத்து பரிமாறவும்.",
+      "instruction_en": "Clean the rice and drain it. In a pressure cooker, cook the cut mutton pieces with salt, turmeric, and 700g of water. In a pan, heat ghee, add chopped onion, mint, and curry leaves, and saute. Add the cooked mutton, the ground masala, and the rice, stir for 2 minutes, and remove from heat. In the cooker, add the meat along with water and coconut milk and bring to a half-boil. Into the masala-sauteed coconut milk, add the rice and meat with a little salt, stir, cover, and cook on low heat in the cooker for 10 minutes before removing. Let the biryani rest covered and serve hot.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

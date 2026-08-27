@@ -1,0 +1,42 @@
+{
+  "slug": "meat-salna",
+  "title_ta": "கறி சால்னா",
+  "title_en": "Meat Salna",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 64,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-26T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["curry"],
+  "ingredients": [
+    { "id": "meat-salna-ingredient-1", "name_ta": "கறி", "name_en": "Meat", "quantity": "¼", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "meat-salna-ingredient-2", "name_ta": "தக்காளிப்பழம்", "name_en": "Tomato", "quantity": "200", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "meat-salna-ingredient-3", "name_ta": "சின்ன வெங்காயம்", "name_en": "Shallots", "quantity": "100", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "meat-salna-ingredient-4", "name_ta": "நல்லெண்ணெய்", "name_en": "Good oil", "quantity": "4", "unit_ta": "கரண்டி", "unit_en": "ladles", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "meat-salna-ingredient-5", "name_ta": "தேங்காய்", "name_en": "Coconut", "quantity": "1", "unit_ta": "முடி", "unit_en": "whole", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "meat-salna-ingredient-6", "name_ta": "வற்றல்", "name_en": "Dried red chili", "quantity": "8", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "meat-salna-ingredient-7", "name_ta": "சீரகம்", "name_en": "Cumin", "quantity": "2", "unit_ta": "தேக்கரண்டி", "unit_en": "teaspoons", "notes_ta": null, "notes_en": null, "display_order": 7 }
+  ],
+  "instructions": [
+    {
+      "id": "meat-salna-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "குக்கரில் எண்ணெய் விட்டு காயந்ததும், சிறு துண்டுகளாக வெட்டி வைத்திருக்கும் தக்காளிப்பழத்தையும் (வெங்காயம், வற்றல், சீரகம் சேர்த்து அரைக்கவும்) அரைத்த மசாலையும் போட்டு நன்றாக சிவக்க வதக்கி கறியைப் போட்டு தேங்காய்ப் பால் ஊற்றி உப்பு, மஞ்சள் தூள் போட்டு மூடி நன்றாக வெந்து எண்ணெய் தெளியவும் இறக்கவும். தேங்காய்ப்பாலுக்குப் பதில் தேங்காய்ச்சில்லை நன்றாக அரைத்துப் போடலாம்.",
+      "instruction_en": "Heat oil in a pressure cooker, and once hot, add the small pieces of tomato along with the ground masala (onion, dried chilies, and cumin ground together), and saute until well reddened. Add the meat, pour in coconut milk, add salt and turmeric powder, cover and cook well until the oil separates, then remove from heat. Instead of coconut milk, finely ground fresh coconut can also be used.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "mutton-dal",
+  "title_ta": "மட்டன் டால்",
+  "title_en": "Mutton Dal",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 70,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-26T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["curry"],
+  "ingredients": [
+    { "id": "mutton-dal-ingredient-1", "name_ta": "கொத்துக்கறி", "name_en": "Chopped meat", "quantity": "¼", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "mutton-dal-ingredient-2", "name_ta": "கடலைப்பருப்பு", "name_en": "Chana dal", "quantity": "200", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "mutton-dal-ingredient-3", "name_ta": "கறிமசால் பொடி", "name_en": "Curry masala powder", "quantity": "1", "unit_ta": "தேக்கரண்டி", "unit_en": "teaspoon", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "mutton-dal-ingredient-4", "name_ta": "கிராம்பு", "name_en": "Cloves", "quantity": "4", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "mutton-dal-ingredient-5", "name_ta": "இஞ்சி", "name_en": "Ginger", "quantity": "1", "unit_ta": "அங்குலம்", "unit_en": "inch", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "mutton-dal-ingredient-6", "name_ta": "பூண்டு", "name_en": "Garlic", "quantity": "3", "unit_ta": "பல்", "unit_en": "cloves", "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "mutton-dal-ingredient-7", "name_ta": "நல்லெண்ணெய்", "name_en": "Good oil", "quantity": "4", "unit_ta": "கரண்டி", "unit_en": "ladles", "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "mutton-dal-ingredient-8", "name_ta": "புளி", "name_en": "Tamarind", "quantity": "சிறிது", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "mutton-dal-ingredient-9", "name_ta": "வற்றல்", "name_en": "Dried red chili", "quantity": "10", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 9 },
+    { "id": "mutton-dal-ingredient-10", "name_ta": "மல்லி", "name_en": "Coriander seeds", "quantity": "1", "unit_ta": "தேக்கரண்டி", "unit_en": "teaspoon", "notes_ta": null, "notes_en": null, "display_order": 10 },
+    { "id": "mutton-dal-ingredient-11", "name_ta": "சீரகம்", "name_en": "Cumin", "quantity": "1", "unit_ta": "தேக்கரண்டி", "unit_en": "teaspoon", "notes_ta": null, "notes_en": null, "display_order": 11 },
+    { "id": "mutton-dal-ingredient-12", "name_ta": "பெருஞ்சீரகம்", "name_en": "Fennel seeds", "quantity": "½", "unit_ta": "தேக்கரண்டி", "unit_en": "teaspoon", "notes_ta": null, "notes_en": null, "display_order": 12 },
+    { "id": "mutton-dal-ingredient-13", "name_ta": "கசகசா", "name_en": "Poppy seeds", "quantity": "1", "unit_ta": "தேக்கரண்டி", "unit_en": "teaspoon", "notes_ta": null, "notes_en": null, "display_order": 13 },
+    { "id": "mutton-dal-ingredient-14", "name_ta": "தேங்காய்ச்சில்", "name_en": "Coconut slivers", "quantity": "4", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 14 }
+  ],
+  "instructions": [
+    {
+      "id": "mutton-dal-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "குக்கரில் பருப்பையும், கறியையும் வேக வைக்கவும். பாத்திரத்தில் எண்ணெய் ஊற்றி தட்டின இஞ்சி, கிராம்பு, பூண்டு வறுத்து அரைத்த மசாலாக்களையும் போட்டுத் தாளித்து நன்றாக வதக்கவும். மசாலை வாசனை வந்ததும் அரைத்த தேங்காயை ஊற்றி வேக வைத்த கறியையும், பருப்பையும் கலந்த தேவையான உப்பு, மல்லிச்செடி போட்டு புளியைக் கரைத்து ஊற்றி குழம்பு வற்றியதும் இறக்கவும்.",
+      "instruction_en": "Cook the dal and the meat in a pressure cooker. Heat oil in a vessel, add crushed ginger, cloves, and garlic and roast, then add the ground masala and temper, sauteing well. Once the masala's aroma comes through, pour in the ground coconut, mix in the cooked meat and dal along with the required salt and coriander leaves, dissolve the tamarind and pour it in, and remove from heat once the curry has thickened.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

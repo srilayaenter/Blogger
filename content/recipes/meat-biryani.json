@@ -1,0 +1,48 @@
+{
+  "slug": "meat-biryani",
+  "title_ta": "கறி பிரியாணி",
+  "title_en": "Meat Biryani",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 69,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-08-26T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["rice-dish"],
+  "ingredients": [
+    { "id": "meat-biryani-ingredient-1", "name_ta": "பிரியாணி அரிசி", "name_en": "Biryani rice", "quantity": "¼", "unit_ta": "படி", "unit_en": "measure", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "meat-biryani-ingredient-2", "name_ta": "கறி", "name_en": "Meat", "quantity": "250", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "meat-biryani-ingredient-3", "name_ta": "தேங்காய்", "name_en": "Coconut", "quantity": "½", "unit_ta": "முடி", "unit_en": "whole", "notes_ta": "பால் எடுக்கவும்", "notes_en": "extract the milk", "display_order": 3 },
+    { "id": "meat-biryani-ingredient-4", "name_ta": "இஞ்சி", "name_en": "Ginger", "quantity": "3", "unit_ta": "அங்குலம்", "unit_en": "inches", "notes_ta": "அரைப்பதற்கு", "notes_en": "for grinding", "display_order": 4 },
+    { "id": "meat-biryani-ingredient-5", "name_ta": "பூண்டு", "name_en": "Garlic", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "meat-biryani-ingredient-6", "name_ta": "நெய்யில் வறுத்தபட்டை", "name_en": "Cinnamon roasted in ghee", "quantity": "1", "unit_ta": "அங்குலம்", "unit_en": "inch", "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "meat-biryani-ingredient-7", "name_ta": "கிராம்பு", "name_en": "Cloves", "quantity": "6", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "meat-biryani-ingredient-8", "name_ta": "கொத்தமல்லி", "name_en": "Coriander seeds", "quantity": "2", "unit_ta": "டீஸ்பூன்", "unit_en": "teaspoons", "notes_ta": "வறுத்தது", "notes_en": "roasted", "display_order": 8 },
+    { "id": "meat-biryani-ingredient-9", "name_ta": "புதினா, கொத்தமல்லி தழை", "name_en": "Mint, coriander leaves", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 9 },
+    { "id": "meat-biryani-ingredient-10", "name_ta": "பெல்லாரி", "name_en": "Bellary onion", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 10 },
+    { "id": "meat-biryani-ingredient-11", "name_ta": "மிளகாய்", "name_en": "Chili", "quantity": "6", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 11 },
+    { "id": "meat-biryani-ingredient-12", "name_ta": "ஏலக்காய்", "name_en": "Cardamom", "quantity": "6", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 12 },
+    { "id": "meat-biryani-ingredient-13", "name_ta": "பெருஞ்சீரகம்", "name_en": "Fennel seeds", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "teaspoon", "notes_ta": null, "notes_en": null, "display_order": 13 }
+  ],
+  "instructions": [
+    {
+      "id": "meat-biryani-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "அரிசியை கல்நீக்கி சுத்தம் செய்து வடிகட்டி வைக்கவும். பிரஷர் குக்கரில் வெட்டிய காய்கறித்துண்டுகளை உப்பு, மஞ்சள், 1/8 படி நீர் சேர்த்து வேக வைக்கவும். வாணலியில் எண்ணெய் அல்லது நெய் ஊற்றி நீளமாக அரிந்த வெங்காயம், புதினா, மல்லி இலை சேர்த்து வதக்கவும். அரைத்த மசால், அவித்த கறி, அரிசியையும் சேர்த்து 2 நிமிடம் கிளறி இறக்கவும். பிரஷர் குக்கரில் கறி வெந்த தண்ணீர் தேங்காய் பால் சேர்த்து அரை படியாக்கி கொதிக்க வைக்கவும். கொதிக்கும் தேங்காய்ப் பாலில் வதக்கிய மசால் அரிசி, கறி இவற்றையும் உப்பும் சேர்த்துக் கிளறி இளந்தீயில் குக்கரை மூடி வைத்து 10 நிமிடத்தில் இறக்கவும்.",
+      "instruction_en": "Wash the rice, remove any stones, clean, and drain. In a pressure cooker, cook the cut vegetable pieces (as printed in the source -- see note) with salt, turmeric, and 1/8 measure of water. In a pan, heat oil or ghee, add long-sliced onion, mint, and coriander leaves, and saute. Add the ground masala, the cooked meat, and the rice, stir for 2 minutes, and remove from heat. In the pressure cooker, add the water the meat was cooked in along with coconut milk, and bring to a half-boil. Into the boiling coconut milk, add the sauteed masala-rice and meat along with salt, stir, cover the cooker, and cook on low heat for 10 minutes before removing.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}
