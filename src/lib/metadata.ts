@@ -75,11 +75,10 @@ export function fallbackOgImage(locale: Locale) {
 const RASTER_IMAGE_EXTENSIONS = [".png", ".jpg", ".jpeg", ".webp"];
 
 /**
- * Most social crawlers (Facebook, Twitter/X) don't reliably render SVG for og:image -- and every
- * recipe with a featured_image_url today is an SVG placeholder (see the 3 demo recipes). Only use
- * a recipe's own image for OG once it's a real raster photo; otherwise fall back to the shared
- * branded image. The on-page <img> is unaffected -- it keeps using whatever featured_image_url
- * points to, SVG included.
+ * Most social crawlers (Facebook, Twitter/X) don't reliably render SVG for og:image, so a
+ * recipe's own image is only used for OG when it's a real raster photo; otherwise fall back to
+ * the shared branded image. The on-page <img> is unaffected -- it keeps using whatever
+ * featured_image_url points to, SVG included.
  */
 export function isOgSafeImage(url: string): boolean {
   const lower = url.toLowerCase();
