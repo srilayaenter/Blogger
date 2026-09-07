@@ -8,7 +8,7 @@ type Locale = "en" | "ta";
 const LABELS = {
   en: {
     eyebrow: "SriLaYa Recipes",
-    headline: "Preserving Tamil recipes, one dish at a time.",
+    headline: "Tamil Recipes: A Bilingual Collection",
     supporting:
       "A bilingual collection of Tamil recipes, preserved from a printed cookbook and translated for home cooks everywhere.",
     searchLabel: "Search recipes",
@@ -17,7 +17,7 @@ const LABELS = {
   },
   ta: {
     eyebrow: "ஸ்ரீலயா சமையல் குறிப்புகள்",
-    headline: "தமிழ் சமையல் குறிப்புகளைப் பாதுகாக்கிறோம்.",
+    headline: "தமிழர் சமையல் குறிப்புகள் இருமொழித் தொகுப்பு",
     supporting:
       "அச்சிடப்பட்ட சமையல் புத்தகத்திலிருந்து பாதுகாக்கப்பட்ட, இருமொழி தமிழ் சமையல் குறிப்புகளின் தொகுப்பு.",
     searchLabel: "சமையல் குறிப்புகளைத் தேடுங்கள்",
