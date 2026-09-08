@@ -1,0 +1,48 @@
+{
+  "slug": "kerala-fish-kuzhambu",
+  "title_ta": "கேரளா மீன் குழம்பு",
+  "title_en": "Kerala-Style Fish Kuzhambu",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 93,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["kuzhambu"],
+  "ingredients": [
+    { "id": "kerala-fish-kuzhambu-ingredient-1", "name_ta": "வஞ்சிரம் அல்லது சுறா மீன்", "name_en": "Seer fish or shark", "quantity": "500", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "kerala-fish-kuzhambu-ingredient-2", "name_ta": "பெரிய வெங்காயம்", "name_en": "Big onion", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "kerala-fish-kuzhambu-ingredient-3", "name_ta": "தக்காளி", "name_en": "Tomato", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "kerala-fish-kuzhambu-ingredient-4", "name_ta": "பச்சை மிளகாய்", "name_en": "Green chili", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "kerala-fish-kuzhambu-ingredient-5", "name_ta": "நல்லெண்ணெய்", "name_en": "Good oil", "quantity": "2", "unit_ta": "தேக்கரண்டி", "unit_en": "Tablespoons", "notes_ta": "தேவையான அளவு கூடுதலாக", "notes_en": "plus more as needed", "display_order": 5 },
+    { "id": "kerala-fish-kuzhambu-ingredient-6", "name_ta": "தேங்காய் துருவல்", "name_en": "Grated coconut", "quantity": "5", "unit_ta": "மேஜைக்கரண்டி", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "kerala-fish-kuzhambu-ingredient-7", "name_ta": "சோம்பு (பெருஞ்சீரகம்)", "name_en": "Fennel seeds", "quantity": "1", "unit_ta": "தேக்கரண்டி", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "kerala-fish-kuzhambu-ingredient-8", "name_ta": "பூண்டு", "name_en": "Garlic", "quantity": "6", "unit_ta": "பல்", "unit_en": "cloves", "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "kerala-fish-kuzhambu-ingredient-9", "name_ta": "மிளகாய் தூள்", "name_en": "Chili powder", "quantity": "1", "unit_ta": "தேக்கரண்டி", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 9 },
+    { "id": "kerala-fish-kuzhambu-ingredient-10", "name_ta": "தனியா தூள்", "name_en": "Coriander powder", "quantity": "1", "unit_ta": "தேக்கரண்டி", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 10 },
+    { "id": "kerala-fish-kuzhambu-ingredient-11", "name_ta": "மஞ்சள் தூள்", "name_en": "Turmeric powder", "quantity": "சிறிதளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 11 },
+    { "id": "kerala-fish-kuzhambu-ingredient-12", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவையான அளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 12 },
+    { "id": "kerala-fish-kuzhambu-ingredient-13", "name_ta": "கறிவேப்பிலை", "name_en": "Curry leaves", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "வறுத்தது", "notes_en": "roasted, for garnish", "display_order": 13 }
+  ],
+  "instructions": [
+    {
+      "id": "kerala-fish-kuzhambu-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "500 கிராம் வஞ்சிரம் அல்லது சுறா மீன் துண்டுகளை தயாராக வைத்துக் கொள்ளவும். 2 பெரிய வெங்காயம், 1 தக்காளி, 2 பச்சை மிளகாய்களை நறுக்கிக் கொள்ளவும். வாணலியில் 2 தேக்கரண்டி நல்லெண்ணெய் ஊற்றி சூடேறியதும் 5 மேஜைக்கரண்டி துருவல், 1 தேக்கரண்டி சோம்பு வறுத்து எடுத்து வழுவழுப்பாக அரைத்துக் கொள்ளவும். வாணலியில் மீண்டும் எண்ணெய் ஊற்றி, சூடேறியதும் நறுக்கிய வெங்காயம், 6 பல் பூண்டு, பச்சை மிளகாய், தக்காளி போட்டு வதக்கவும். வதங்கியபின் 1 டம்ளர் வெந்நீர் ஊற்றவும். இதில் 1 தேக்கரண்டி மிளகாய் தூள், 1 தேக்கரண்டி தனியா தூள், மஞ்சள் தூள், தேவையான உப்பு போட்டு கொதிக்க விடவும். கொதித்ததும் மீன் துண்டுகளைப் போடவும். மீன் துண்டுகள் வெந்ததும் அரைத்த மசாலாவைப் போட்டு சில நிமிடங்கள் கொதித்ததும் வறுத்த கறிவேப்பிலையைப் போட்டு இறக்கி உபயோகிக்கவும்.",
+      "instruction_en": "Keep ready 500g of seer fish or shark cut into pieces. Chop 2 big onions, 1 tomato, and 2 green chilies. In a pan, pour 2 tablespoons of good oil, and once hot, roast 5 tablespoons of grated coconut and 1 tablespoon of fennel seeds, then grind into a smooth paste. In the pan, pour oil again, and once hot, add the chopped onion, 6 cloves of garlic, green chili, and tomato, and sauté. Once wilted, pour in 1 tumbler of hot water. Add 1 tablespoon chili powder, 1 tablespoon coriander powder, turmeric powder, and the needed salt, and let it boil. Once boiling, add the fish pieces. Once the fish is cooked, add the ground coconut masala, let it boil for a few more minutes, then add roasted curry leaves, and remove for use.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

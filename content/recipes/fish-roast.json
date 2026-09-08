@@ -1,0 +1,44 @@
+{
+  "slug": "fish-roast",
+  "title_ta": "மீன் ரோஸ்ட்",
+  "title_en": "Fish Roast",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 92,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["curry"],
+  "ingredients": [
+    { "id": "fish-roast-ingredient-1", "name_ta": "மீன்", "name_en": "Fish", "quantity": "500", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "fish-roast-ingredient-2", "name_ta": "மிளகுத்தூள்", "name_en": "Pepper powder", "quantity": "1", "unit_ta": "தேக்கரண்டி", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "fish-roast-ingredient-3", "name_ta": "தனியா தூள்", "name_en": "Coriander powder", "quantity": "1", "unit_ta": "தேக்கரண்டி", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "fish-roast-ingredient-4", "name_ta": "சீரகத்தூள்", "name_en": "Cumin powder", "quantity": "1", "unit_ta": "தேக்கரண்டி", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "fish-roast-ingredient-5", "name_ta": "மஞ்சள் தூள்", "name_en": "Turmeric powder", "quantity": "1/2", "unit_ta": "தேக்கரண்டி", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "fish-roast-ingredient-6", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவையான அளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "fish-roast-ingredient-7", "name_ta": "நல்லெண்ணெய்", "name_en": "Good oil", "quantity": "300", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": "பொரிக்க", "notes_en": "for frying", "display_order": 7 },
+    { "id": "fish-roast-ingredient-8", "name_ta": "முட்டை", "name_en": "Egg", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": "விரும்பினால்", "notes_en": "optional", "display_order": 8 },
+    { "id": "fish-roast-ingredient-9", "name_ta": "வெங்காயம், கொத்தமல்லி இலை, எலுமிச்சை சாறு", "name_en": "Onion, coriander leaves, lemon juice", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "பரிமாற விரும்பினால்", "notes_en": "for garnish, optional", "display_order": 9 }
+  ],
+  "instructions": [
+    {
+      "id": "fish-roast-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "500 கிராம் மீனை சுத்தம் செய்து துண்டுகளாக்கிக் கொள்ளவும். 1 தேக்கரண்டி மிளகுத்தூள், 1 தேக்கரண்டி தனியா தூள், 1 தேக்கரண்டி சீரகத்தூள், அரை தேக்கரண்டி மஞ்சள் தூள், தேவையான உப்புத்தூள் இவற்றை சிறிதளவு தண்ணீரில் கலந்து மீன் துண்டுகள் மீது தடவி 30 நிமிடங்கள் ஊறவிடவும். அதன்பின் வாணலியில் 300 கிராம் இதயம் நல்லெண்ணெய் ஊற்றி, சூடேறியதும் மீன் துண்டுகளைப் போட்டு பொறித்து எடுத்து உபயோகிக்கவும். 2 முட்டைகளை அடித்து மீன் துண்டுகளை அதில் நனைத்தும் வறுக்கலாம் (optional). நறுக்கிய வெங்காயம், கொத்தமல்லித் தழைகளை எலுமிச்சை சாறு கலந்து பரிமாறலாம்.",
+      "instruction_en": "Clean 500g of fish and cut into pieces. Mix 1 tablespoon pepper powder, 1 tablespoon coriander powder, 1 tablespoon cumin powder, half a tablespoon turmeric powder, and the needed salt in a little water, rub it onto the fish pieces, and let it marinate for 30 minutes. Then pour 300g of good sesame oil into a pan, and once hot, add the fish pieces, fry, and remove for use. You can also dip the fish pieces in 2 beaten eggs before frying, if you like (optional). Chopped onion and coriander leaves mixed with lemon juice can be served alongside.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

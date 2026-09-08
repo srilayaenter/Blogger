@@ -1,0 +1,41 @@
+{
+  "slug": "pepper-fish-masala",
+  "title_ta": "பெப்பர் மீன் மசாலா",
+  "title_en": "Pepper Fish Masala",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 96,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["curry"],
+  "ingredients": [
+    { "id": "pepper-fish-masala-ingredient-1", "name_ta": "மீன்", "name_en": "Fish", "quantity": "200", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "pepper-fish-masala-ingredient-2", "name_ta": "டால்டா", "name_en": "Dalda", "quantity": "200", "unit_ta": "மி.லி", "unit_en": "ml", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "pepper-fish-masala-ingredient-3", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவைக்கு ஏற்ப", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "pepper-fish-masala-ingredient-4", "name_ta": "கடலை மாவு", "name_en": "Gram flour", "quantity": "100", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": "மூலப்பிரதியில் பட்டியலிடப்பட்டுள்ளது, ஆனால் கீழேயுள்ள முறையில் பயன்படுத்தப்படவில்லை", "notes_en": "listed in the source ingredient list, but not called for in the method below", "display_order": 4 },
+    { "id": "pepper-fish-masala-ingredient-5", "name_ta": "எலுமிச்சைசாறு", "name_en": "Lemon juice", "quantity": "2", "unit_ta": "ஸ்பூன்", "unit_en": "spoons", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "pepper-fish-masala-ingredient-6", "name_ta": "மிளகுத்தூள்", "name_en": "Pepper powder", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "தேவையான அளவு", "notes_en": "as needed", "display_order": 6 }
+  ],
+  "instructions": [
+    {
+      "id": "pepper-fish-masala-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "மீன் நன்றாக கழுவி சுத்தம் செய்து தண்ணீர் இல்லாமல் வைக்கவும். மீன் மேல் எலுமிச்சை சாறு ஊற்றி உப்பு, மிளகுத்தூள் சேர்த்து ½ மணி நேரம் ஊறவைக்கவும். தோசை கல்லை அடுப்பில் வைத்து டால்டா விட்டு காய்ந்ததும் தனித்தனியாக மீனை அறுக்கவும். அதன் மேல் உருக்கிய டால்டா சிறிது விடவும். ஒரு பக்கம் வெந்ததும் மறுபக்கம் திருப்பி போடவும். இரண்டு பக்கமும் பொன்னிறமாக வெந்ததும் எடுத்து ஆற வைத்து பரிமாறவும். அது சுவையாக இருக்கும்.",
+      "instruction_en": "Wash the fish well and clean it, keeping it dry, without water. Pour lemon juice over the fish, add salt and pepper powder, and let it marinate for ½ hour. Heat a dosa griddle on the stove, add dalda, and once hot, place the fish pieces on individually. Drizzle a little melted dalda over the top. Once one side is cooked, flip to the other side. Once both sides are golden brown and cooked, remove, let cool, and serve. It will taste great.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

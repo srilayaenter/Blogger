@@ -1,0 +1,40 @@
+{
+  "slug": "fish-bajji",
+  "title_ta": "மீன் பஜ்ஜி",
+  "title_en": "Fish Bajji",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 95,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["bajji"],
+  "ingredients": [
+    { "id": "fish-bajji-ingredient-1", "name_ta": "பெரிய மீன்", "name_en": "Large fish", "quantity": "5", "unit_ta": "எண்ணம்", "unit_en": "count", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "fish-bajji-ingredient-2", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": "200", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "fish-bajji-ingredient-3", "name_ta": "காக் பஜ்ஜிமாவு", "name_en": "Bajji flour mix", "quantity": "200", "unit_ta": "கிராம்", "unit_en": "Grams packet", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "fish-bajji-ingredient-4", "name_ta": "கறிமசால் பொடி", "name_en": "Curry masala powder", "quantity": "சிறிதளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "fish-bajji-ingredient-5", "name_ta": "உப்பு, பூண்டு", "name_en": "Salt, garlic", "quantity": "சிறிதளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 5 }
+  ],
+  "instructions": [
+    {
+      "id": "fish-bajji-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "மீன்களை சுத்தப்படுத்தி வைத்துக் கொள்ளவும். பஜ்ஜி மாவுடன் பூண்டு, சிறிது உப்பு, கறிமசால் பொடி சேர்த்து கரைத்து வைத்துக் கொள்ளவும். பின்னர் வாணலியில் எண்ணெயை ஊற்றி நன்கு சூடானதும், மீனை எடுத்து ஏற்கனவே கரைத்து வைத்த பஜ்ஜிமாவில் தேய்த்து எண்ணெயில் பொரித்து இருபக்கமும் சிவக்க வெந்ததும் எடுக்கவும். மீன் பஜ்ஜி ரெடி. மிகவும் சுவையாக இருக்கும்.",
+      "instruction_en": "Clean the fish and set aside. Mix garlic, a little salt, and curry masala powder into the bajji flour and stir into a batter. Heat oil in a pan, and once hot, take each fish piece, coat it in the batter, and deep-fry until golden on both sides. Fish bajji is ready — it's delicious.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}

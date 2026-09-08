@@ -1,0 +1,41 @@
+{
+  "slug": "fish-chips",
+  "title_ta": "சாப்ஸ் மீன்",
+  "title_en": "Fish Chips",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 91,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["curry"],
+  "ingredients": [
+    { "id": "fish-chips-ingredient-1", "name_ta": "நல்லெண்ணெய்", "name_en": "Good oil", "quantity": "100", "unit_ta": "மி.லி", "unit_en": "ml", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "fish-chips-ingredient-2", "name_ta": "கடுகு, சீரகம்", "name_en": "Mustard seeds, cumin", "quantity": "2", "unit_ta": "ஸ்பூன்", "unit_en": "spoons", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "fish-chips-ingredient-3", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவைக்கேற்ப", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "fish-chips-ingredient-4", "name_ta": "மீன் துண்டுகள்", "name_en": "Fish pieces", "quantity": "6", "unit_ta": "எண்ணம்", "unit_en": "count", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "fish-chips-ingredient-5", "name_ta": "மிளகுத்தூள்", "name_en": "Pepper powder", "quantity": "2", "unit_ta": "ஸ்பூன்", "unit_en": "spoons", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "fish-chips-ingredient-6", "name_ta": "சோயா சாஸ்", "name_en": "Soy sauce", "quantity": "சிறிதளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 6 }
+  ],
+  "instructions": [
+    {
+      "id": "fish-chips-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "முள் அதிகம் இல்லாத மீன் துண்டுகளை கழுவி சுத்தம் செய்யவும். வாணலியை அடுப்பில் வைத்து எண்ணெய் ஊற்றி காய்ந்ததும் கடுகு, சீரகம் போட்டு வதக்கவும். மீன், உப்பு, மிளகுத்தூள், சிறிது தண்ணீர் சேர்த்து கிளறி குறைந்த தீயில் வேக வைக்கவும். மீன் வெந்து பக்குவமானதும் சோயா சாஸ் சேர்த்து மீனை மெதுவாக பரப்பி எடுத்து இறக்கி மூடி வைக்கவும். ஆறியதும் உண்ணலாம்.",
+      "instruction_en": "Wash and clean fish pieces with minimal bones. Heat a pan with oil, and once hot, add mustard seeds and cumin and temper. Add the fish, salt, pepper powder, and a little water, stir, and cook on low heat. Once the fish is fully cooked, add soy sauce, gently spread out the fish, remove from heat, and cover. Eat once cooled.",
+      "image_url": null,
+      "display_order": 1
+    }
+  ]
+}
