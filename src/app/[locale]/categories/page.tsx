@@ -65,24 +65,26 @@ export default async function CategoriesPage({ params }: { params: Promise<{ loc
             <li key={category.slug}>
               <Link
                 href={`/${locale}/categories/${category.slug}`}
-                className="flex flex-col items-center gap-2 rounded-lg border border-neutral-200 p-4 text-center font-medium transition hover:border-brand hover:text-brand hover:shadow-md"
+                className="group block overflow-hidden rounded-lg border border-neutral-200 bg-white text-center font-medium shadow-sm transition hover:border-brand hover:text-brand hover:shadow-md"
               >
-                {category.image ? (
-                  // eslint-disable-next-line @next/next/no-img-element
-                  <img
-                    src={category.image.url}
-                    alt={imageAlt ?? ""}
-                    className="h-16 w-16 rounded-full border-2 border-white object-cover shadow-sm"
-                  />
-                ) : (
-                  <span
-                    aria-hidden="true"
-                    className="flex h-16 w-16 items-center justify-center rounded-full bg-brand/10 text-xl font-bold text-brand-dark"
-                  >
-                    {name.charAt(0)}
-                  </span>
-                )}
-                {name}
+                <div className="relative aspect-square w-full overflow-hidden bg-gradient-to-br from-brand-light to-white">
+                  {category.image ? (
+                    // eslint-disable-next-line @next/next/no-img-element
+                    <img
+                      src={category.image.url}
+                      alt={imageAlt ?? ""}
+                      className="h-full w-full object-cover transition-transform duration-300 ease-out group-hover:scale-[1.05] motion-reduce:transition-none motion-reduce:group-hover:scale-100"
+                    />
+                  ) : (
+                    <span
+                      aria-hidden="true"
+                      className="flex h-full w-full items-center justify-center text-xl font-bold text-brand-dark"
+                    >
+                      {name.charAt(0)}
+                    </span>
+                  )}
+                </div>
+                <span className="block px-3 py-3">{name}</span>
               </Link>
             </li>
           );
