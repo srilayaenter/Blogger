@@ -1,0 +1,112 @@
+{
+  "slug": "sandwich-roll",
+  "title_ta": "சாண்ட்விட்ச் ரோல்",
+  "title_en": "Sandwich Roll",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 121,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["sandwich"],
+  "ingredients": [
+    { "id": "sandwich-roll-ingredient-1", "name_ta": "முழு ரொட்டி", "name_en": "Whole loaf of bread", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": "வெட்டப்படாதது", "notes_en": "uncut", "display_order": 1 },
+    { "id": "sandwich-roll-ingredient-2", "name_ta": "புதினா சட்னி, தக்காளி சட்னி", "name_en": "Mint chutney, tomato chutney", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "இந்தப் புத்தகத்தின் கடைசி பகுதியை பார்க்கவும்", "notes_en": "see the recipes at the end of this book", "display_order": 2 },
+    { "id": "sandwich-roll-ingredient-3", "name_ta": "வெண்ணெய்", "name_en": "Butter", "quantity": "100", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "sandwich-roll-ingredient-4", "name_ta": "தக்காளி சாஸ்", "name_en": "Tomato sauce", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "தேவைக்கேற்ப", "notes_en": "as needed", "display_order": 4 },
+    { "id": "sandwich-roll-ingredient-5", "name_ta": "நறுக்கிய கொத்தமல்லித் தழை", "name_en": "Chopped coriander leaves", "quantity": "2", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 5 }
+  ],
+  "instructions": [
+    {
+      "id": "sandwich-roll-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "வெட்டப்படாத முழு ரொட்டியை வாங்கி ஒரு பாலிதீன் கவரில் போட்டு நன்றாக மூடி ப்ரிஜ்ஜில் உள்ள ப்ரீசர் (Freezer) உள்ளே 1/2 மணி நேரம் வைக்கவும்.",
+      "instruction_en": "Buy a whole, uncut loaf of bread, put it in a polythene bag, seal well, and place it in the freezer compartment of the fridge for 1/2 hour.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "sandwich-roll-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "1/2 மணி நேரம் கழித்து எடுத்து ஒரு கூரான கத்தியால் நீளவாக்கில் மெல்லிய நீளத் துண்டுகளாக்கவும் (Length wise slice).",
+      "instruction_en": "After 1/2 hour, take it out and slice it lengthwise into thin, long slices with a sharp knife.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "sandwich-roll-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "பிரட் துண்டங்களின் ஓரங்களை வெட்டி எடுத்து விடவும்.",
+      "instruction_en": "Trim the crusts off the bread pieces.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "sandwich-roll-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "முதல் ரொட்டித்துண்டை ஒரு சப்பாத்திக் கல்லின் மேல் வைத்து சப்பாத்திக் குழவியால் லேசாக உருட்டவும்.",
+      "instruction_en": "Place the first bread slice on a chapati board and roll it gently with a chapati rolling pin.",
+      "image_url": null,
+      "display_order": 4
+    },
+    {
+      "id": "sandwich-roll-instruction-5",
+      "step_number": 5,
+      "instruction_ta": "அதன்மேல் சிறிதளவு வெண்ணெயைத் தடவவும்.",
+      "instruction_en": "Spread a little butter on top of it.",
+      "image_url": null,
+      "display_order": 5
+    },
+    {
+      "id": "sandwich-roll-instruction-6",
+      "step_number": 6,
+      "instruction_ta": "வெண்ணெய் தடவிய பாகத்தின் மேல் சிறிதளவு கெட்டியான புதினா சட்னியைத் தடவி அதன்மேல் இன்னொரு துண்டை வைத்து வெண்ணெய் தடவி, சிறிதளவு தக்காளி சட்னி தடவவும்.",
+      "instruction_en": "Spread a little of the thick mint chutney over the buttered part, place another slice on top, butter it, and spread a little tomato chutney.",
+      "image_url": null,
+      "display_order": 6
+    },
+    {
+      "id": "sandwich-roll-instruction-7",
+      "step_number": 7,
+      "instruction_ta": "ஒரு மூலையிலிருந்து (அகலப் பாகத்தின் மூலை) பாய் உருட்டுவது போல இரண்டு துண்டுகளையும் ஒன்றாக, கெட்டியாகச் சுருட்டவும்.",
+      "instruction_en": "Starting from one corner (the corner of the wide side), roll both slices together tightly like rolling up a mat.",
+      "image_url": null,
+      "display_order": 7
+    },
+    {
+      "id": "sandwich-roll-instruction-8",
+      "step_number": 8,
+      "instruction_ta": "எல்லா துண்டுகளையும் இதே போல செய்தவுடன், ஒரு பாலீதீன் கவரில் போட்டு நன்றாக மூடி ப்ரீசரில் 1/2 மணி நேரம் வைக்கவும்.",
+      "instruction_en": "Once all the slices have been done this way, put them in a polythene/plastic cover, seal well, and place in the freezer for 1/2 hour.",
+      "image_url": null,
+      "display_order": 8
+    },
+    {
+      "id": "sandwich-roll-instruction-9",
+      "step_number": 9,
+      "instruction_ta": "சிறிது கெட்டிப்பட்டவுடன் கூர்மையான கத்தியால் வட்ட வடிவமான துண்டுகளாக வெட்டி அழகாக பரிமாறலாம்.",
+      "instruction_en": "Once slightly firmed up, slice into round pieces with a sharp knife and serve attractively.",
+      "image_url": null,
+      "display_order": 9
+    },
+    {
+      "id": "sandwich-roll-instruction-10",
+      "step_number": 10,
+      "instruction_ta": "குறிப்பு: இதையே ரோல் போல செய்யாமல் ஒன்றன் மேல் ஒன்று வைத்து மூன்று கலர் சாண்ட்விட்ச்சாக பரிமாறலாம். பேக்கரி கடைகளில் ரொட்டியை வெட்டுவதற்கு முன்பு நாம் கேட்டால் நமது விருப்பப்படி இந்த மாதிரி நீளவாக்கில் வெட்டிக் கொடுப்பார்கள்.",
+      "instruction_en": "Note: instead of rolling it up, the slices can also be layered one on top of another and served as a three-color sandwich. At bakery shops, if you ask before the bread is sliced, they'll cut it lengthwise like this for you, to your preference.",
+      "image_url": null,
+      "display_order": 10
+    }
+  ]
+}

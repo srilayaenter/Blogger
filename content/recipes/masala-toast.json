@@ -1,0 +1,60 @@
+{
+  "slug": "masala-toast",
+  "title_ta": "மசாலா டோஸ்ட்",
+  "title_en": "Masala Toast",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 119,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["sandwich"],
+  "ingredients": [
+    { "id": "masala-toast-ingredient-1", "name_ta": "ரொட்டி", "name_en": "Bread", "quantity": "10", "unit_ta": "துண்டுகள்", "unit_en": "slices", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "masala-toast-ingredient-2", "name_ta": "வெண்ணெய்", "name_en": "Butter", "quantity": "1", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "masala-toast-ingredient-3", "name_ta": "இஞ்சி", "name_en": "Ginger", "quantity": "1", "unit_ta": "அங்குலத் துண்டு", "unit_en": "inch piece", "notes_ta": "சட்னிக்கு", "notes_en": "for the chutney", "display_order": 3 },
+    { "id": "masala-toast-ingredient-4", "name_ta": "பூண்டு", "name_en": "Garlic", "quantity": "4", "unit_ta": "பல்லு", "unit_en": "cloves", "notes_ta": "சட்னிக்கு", "notes_en": "for the chutney", "display_order": 4 },
+    { "id": "masala-toast-ingredient-5", "name_ta": "சீரகம்", "name_en": "Cumin", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": "சட்னிக்கு", "notes_en": "for the chutney", "display_order": 5 },
+    { "id": "masala-toast-ingredient-6", "name_ta": "மிளகாய்ப்பொடி", "name_en": "Chili powder", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": "சட்னிக்கு", "notes_en": "for the chutney", "display_order": 6 },
+    { "id": "masala-toast-ingredient-7", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவையான அளவு", "unit_ta": null, "unit_en": null, "notes_ta": "சட்னிக்கு", "notes_en": "for the chutney", "display_order": 7 },
+    { "id": "masala-toast-ingredient-8", "name_ta": "பொட்டுக்கடலை", "name_en": "Roasted gram (pottukadalai)", "quantity": "1", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoon", "notes_ta": "சட்னிக்கு", "notes_en": "for the chutney", "display_order": 8 },
+    { "id": "masala-toast-ingredient-9", "name_ta": "புளி", "name_en": "Tamarind", "quantity": "சிறிது", "unit_ta": null, "unit_en": null, "notes_ta": "சட்னிக்கு", "notes_en": "for the chutney", "display_order": 9 }
+  ],
+  "instructions": [
+    {
+      "id": "masala-toast-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "மேலே உள்ள சட்னிப் பொருட்களை சிறிதளவே தண்ணீர் தெளித்து சட்னியாக அரைக்கவும்.",
+      "instruction_en": "Grind the chutney ingredients above with just a little water into a chutney.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "masala-toast-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "ரொட்டித் துண்டுகளின் இருபுறமும் வெண்ணெய் தடவி அதன்மேல் சிறிதளவு அரைத்த சட்னியை தடவவும் (இரு புறமும்).",
+      "instruction_en": "Butter both sides of the bread slices, then spread a little of the ground chutney on both sides.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "masala-toast-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "தோசைக்கல்லை காய வைத்து பிரட் துண்டங்களை சிறிது எண்ணெய் விட்டு இருபுறமும் சிவப்பாக சுடவும்.",
+      "instruction_en": "Heat a griddle and toast the bread slices with a little oil on both sides until browned.",
+      "image_url": null,
+      "display_order": 3
+    }
+  ]
+}

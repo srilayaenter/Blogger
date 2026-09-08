@@ -1,0 +1,87 @@
+{
+  "slug": "crisp-groundnuts",
+  "title_ta": "வறுகடலை",
+  "title_en": "Crisp Groundnuts",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 128,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["snack"],
+  "ingredients": [
+    { "id": "crisp-groundnuts-ingredient-1", "name_ta": "உரித்த காய்ந்த வேர்க்கடலை", "name_en": "Shelled, dried groundnuts", "quantity": "2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "crisp-groundnuts-ingredient-2", "name_ta": "பூண்டு", "name_en": "Garlic", "quantity": "1", "unit_ta": "பல்லு", "unit_en": "clove", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "crisp-groundnuts-ingredient-3", "name_ta": "உப்பு, மிளகாய்ப் பொடி", "name_en": "Salt, chili powder", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "தேவைக்கேற்ப", "notes_en": "as needed", "display_order": 3 },
+    { "id": "crisp-groundnuts-ingredient-4", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "பொரிக்க", "notes_en": "for frying", "display_order": 4 }
+  ],
+  "instructions": [
+    {
+      "id": "crisp-groundnuts-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "ஒரு அகலமான பாத்திரத்தில் பாதியளவு தண்ணீர் விட்டுச் சூடாக்கவும்.",
+      "instruction_en": "Heat half a vessel-full of water in a wide pot.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "crisp-groundnuts-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "தண்ணீர் கொதிவரும் போது பூண்டை நசுக்கி அதில் சேர்த்து காய்ந்த கடலையை அதில் போடவும். மறுபடியும் கொதிவரும்போது அடுப்பை அணைத்து விட்டு 5 நிமிடங்கள் மூடி வைக்கவும்.",
+      "instruction_en": "When the water comes to a boil, crush the garlic and add it in, then add the dried groundnuts. Once it comes to a boil again, turn off the stove and cover for 5 minutes.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "crisp-groundnuts-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "தண்ணீரை வடித்துவிட்டு ஒரு துணியை மடித்துப் போட்டு அதன் மத்தியில் இந்த கடலையைப் போட்டு துணியை மூடி உள்ளங்கையால் தேய்த்தால் தோலெல்லாம் வந்துவிடும்.",
+      "instruction_en": "Drain the water, fold a cloth over, put the groundnuts inside, cover with the cloth, and rub with your palm -- the skins will all come off.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "crisp-groundnuts-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "தோலை எடுத்துவிட்டு கடலையை ஒரு தட்டில் போட்டு 2 நிமிடம் ஆற வைக்கவும்.",
+      "instruction_en": "Remove the skins, put the groundnuts on a plate, and let them cool for 2 minutes.",
+      "image_url": null,
+      "display_order": 4
+    },
+    {
+      "id": "crisp-groundnuts-instruction-5",
+      "step_number": 5,
+      "instruction_ta": "ஒரு வாணலியில் பாதியளவு எண்ணெய் ஊற்றி காய்ந்ததும் ஒரு இரும்பு அல்லது ஸ்டீல் பிடி வைத்துள்ள பொரிக்கும் கிண்ணத்தை அதில் போட்டு அதில் கைப்பிடி அளவு கடலையைப் போட்டு பொன்னிறமாகப் பொரிக்கவும்.",
+      "instruction_en": "Pour oil half full into a pan and once hot, place a wire frying basket with an iron or steel handle into it, add a handful of groundnuts, and fry until golden.",
+      "image_url": null,
+      "display_order": 5
+    },
+    {
+      "id": "crisp-groundnuts-instruction-6",
+      "step_number": 6,
+      "instruction_ta": "எல்லா கடலையையும் பொரித்து வடிகட்டும் கிண்ணத்தில் போட்டு எண்ணெயை வடியவிட்டதும் சூடாக இருக்கும்போதே ஒரு பேப்பரின் மேல் போட்டு உப்பு, மிளகாய்த் தூள் தூவி கலந்து ஆறியதும் பாட்டிலில் எடுத்து வைக்கவும் (ஒரு வாரம் வரை வைத்து உபயோகப்படுத்தலாம்).",
+      "instruction_en": "Fry all the groundnuts and put them in a draining bowl; once the oil has drained and while still hot, spread on a sheet of paper, sprinkle with salt and chili powder, mix, and once cooled, store in a jar (can be kept and used for up to a week).",
+      "image_url": null,
+      "display_order": 6
+    },
+    {
+      "id": "crisp-groundnuts-instruction-7",
+      "step_number": 7,
+      "instruction_ta": "குறிப்பு: இம்முறையில் பொரித்தால் வேர்க்கடலை ருசியாகவும் மேலே பளபளவென்று பார்க்க அழகாகவும் இருக்கும்.",
+      "instruction_en": "Note: frying this way makes the groundnuts tasty, and gives them an attractive glossy sheen.",
+      "image_url": null,
+      "display_order": 7
+    }
+  ]
+}

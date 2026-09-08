@@ -1,0 +1,46 @@
+{
+  "slug": "aamai-vadai",
+  "title_ta": "ஆமை வடை",
+  "title_en": "Aamai Vadai",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 100,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["vadai"],
+  "ingredients": [
+    { "id": "aamai-vadai-ingredient-1", "name_ta": "உளுந்து", "name_en": "Urad dal", "quantity": "1", "unit_ta": "ஆழாக்கு", "unit_en": "measure", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "aamai-vadai-ingredient-2", "name_ta": "துவரம் பருப்பு", "name_en": "Toor dal", "quantity": "1", "unit_ta": "ஆழாக்கு", "unit_en": "measure", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "aamai-vadai-ingredient-3", "name_ta": "கெட்டியான தயிர்", "name_en": "Thick curd", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "ஊற வைக்க", "notes_en": "for soaking", "display_order": 3 }
+  ],
+  "instructions": [
+    {
+      "id": "aamai-vadai-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "1 ஆழாக்கு உளுந்து, 1 ஆழாக்கு துவரம் பருப்பை ஒன்றாக ஊற வைத்து கரகரப்பாக அரைத்து வடை போடவும்.",
+      "instruction_en": "Soak equal measures of urad dal and toor dal together and grind coarsely; shape and fry as vadai.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "aamai-vadai-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "பரிமாறும் போது இரண்டாகப் பிய்த்து தயிரில் ஊறவைத்து (10 நிமிடங்கள்) மேலே அலங்கரித்து பரிமாறவும்.",
+      "instruction_en": "When serving, tear each vadai in half, soak in curd for 10 minutes, garnish on top, and serve.",
+      "image_url": null,
+      "display_order": 2
+    }
+  ]
+}

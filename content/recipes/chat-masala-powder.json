@@ -1,0 +1,60 @@
+{
+  "slug": "chat-masala-powder",
+  "title_ta": "சாட் மசாலா பவுடர்",
+  "title_en": "Chat Masala Powder",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 123,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["chaat"],
+  "ingredients": [
+    { "id": "chat-masala-powder-ingredient-1", "name_ta": "காய்ந்த சிகப்பு மிளகாய்", "name_en": "Dried red chili", "quantity": "1/2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "chat-masala-powder-ingredient-2", "name_ta": "தனியா (கொத்தமல்லி விதை)", "name_en": "Coriander seeds", "quantity": "1/4", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "chat-masala-powder-ingredient-3", "name_ta": "கல் உப்பு", "name_en": "Rock salt", "quantity": "1/4", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": "தனியாக பொடி செய்யவும்", "notes_en": "ground separately", "display_order": 3 },
+    { "id": "chat-masala-powder-ingredient-4", "name_ta": "பொடி செய்த கருப்பு உப்பு", "name_en": "Ground black salt", "quantity": "2", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "chat-masala-powder-ingredient-5", "name_ta": "காயந்த மாங்காய்த் தூள் (அ) காயந்த புளிப்பு மாதுளம்பழ விதைகள்", "name_en": "Dried mango powder or dried sour pomegranate seeds", "quantity": "4", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "chat-masala-powder-ingredient-6", "name_ta": "ஏலக்காய்", "name_en": "Cardamom", "quantity": "15", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "chat-masala-powder-ingredient-7", "name_ta": "பட்டை", "name_en": "Cinnamon", "quantity": "10", "unit_ta": null, "unit_en": null, "notes_ta": "சிறிய துண்டுகள்", "notes_en": "small pieces", "display_order": 7 },
+    { "id": "chat-masala-powder-ingredient-8", "name_ta": "இலவங்கம்", "name_en": "Cloves", "quantity": "15", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "chat-masala-powder-ingredient-9", "name_ta": "மிளகு", "name_en": "Pepper", "quantity": "1", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 9 }
+  ],
+  "instructions": [
+    {
+      "id": "chat-masala-powder-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "சிகப்பு மிளகாய், தனியா மற்றும் மசாலா சாமான்களை வெயிலில் நன்கு காயவைக்கவும்.",
+      "instruction_en": "Sun-dry the dried red chili, coriander seeds, and other spices thoroughly.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "chat-masala-powder-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "காய்ந்த பிறகு எல்லாவற்றையும் ஒன்றாகப் பொடி செய்து பாட்டிலில் வைக்கவும் (தேவைப்படும் போது குறிப்பிடப்பட்டுள்ள செய்முறைக் குறிப்பில் உள்ளபடி உபயோகிக்கவும்).",
+      "instruction_en": "Once dried, grind everything together into a powder and store in a jar (use as directed in whichever recipe calls for it).",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "chat-masala-powder-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "குறிப்பு: காய்ந்த புதினா இலையையும் பொடி செய்து கலந்து உபயோகப்படுத்தலாம்.",
+      "instruction_en": "Note: dried, powdered mint leaves can also be mixed in and used.",
+      "image_url": null,
+      "display_order": 3
+    }
+  ]
+}

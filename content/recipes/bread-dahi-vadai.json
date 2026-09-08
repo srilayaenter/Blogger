@@ -1,0 +1,93 @@
+{
+  "slug": "bread-dahi-vadai",
+  "title_ta": "திடீர் பிரட் தயிர்வடை",
+  "title_en": "Bread Dahi Vadai",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 101,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["vadai"],
+  "ingredients": [
+    { "id": "bread-dahi-vadai-ingredient-1", "name_ta": "ரொட்டி", "name_en": "Bread", "quantity": "12", "unit_ta": "துண்டுகள்", "unit_en": "slices", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "bread-dahi-vadai-ingredient-2", "name_ta": "பால்", "name_en": "Milk", "quantity": "1/4", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "bread-dahi-vadai-ingredient-3", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவைக்கேற்ப", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "bread-dahi-vadai-ingredient-4", "name_ta": "சர்க்கரை", "name_en": "Sugar", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "bread-dahi-vadai-ingredient-5", "name_ta": "கெட்டியான தயிர்", "name_en": "Thick curd", "quantity": "1", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "bread-dahi-vadai-ingredient-6", "name_ta": "மிளகாய்ப் பொடி", "name_en": "Chili powder", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "bread-dahi-vadai-ingredient-7", "name_ta": "இனிப்பு சட்னி", "name_en": "Sweet chutney", "quantity": "2", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": "பானிபூரி செய்முறைக் குறிப்பில் உள்ளது", "notes_en": "given in the Pani Puri recipe's notes", "display_order": 7 },
+    { "id": "bread-dahi-vadai-ingredient-8", "name_ta": "வறுத்த சீரகப் பொடி", "name_en": "Roasted cumin powder", "quantity": "1 1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoons", "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "bread-dahi-vadai-ingredient-9", "name_ta": "நறுக்கிய கொத்தமல்லித் தழை", "name_en": "Chopped coriander leaves", "quantity": "1", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 9 },
+    { "id": "bread-dahi-vadai-ingredient-10", "name_ta": "கருப்பு உப்பு", "name_en": "Black salt (kala namak)", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 10 }
+  ],
+  "instructions": [
+    {
+      "id": "bread-dahi-vadai-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "ரொட்டித் துண்டங்களின் ஓரங்களை கத்தரித்து விடவும்.",
+      "instruction_en": "Trim the crusts off the bread slices.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "bread-dahi-vadai-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "ரொட்டியைப் பிய்த்து சிறிதளவு பால் தெளித்து மிருதுவான மாவாக பிசையவும் (அதிகம் பிசைய வேண்டாம்).",
+      "instruction_en": "Tear the bread, sprinkle in a little milk, and knead into a soft dough (don't overwork it).",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "bread-dahi-vadai-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "இந்த மாவை சிறு எலுமிச்சையளவு உருண்டை செய்து வடை போல தட்டி ஒரு அகலத்தட்டில் மத்தியில் இடமிருக்கும்படி வைக்கவும்.",
+      "instruction_en": "Shape this dough into small, lemon-sized balls, flatten like a vadai, and arrange with space between them in the center of a wide plate.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "bread-dahi-vadai-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "கெட்டியான தயிரை (புளிக்கக் கூடாது) லேசாகக் கடைந்து சிறிது உப்பு, சர்க்கரை சேர்த்துக் கொள்ளவும்.",
+      "instruction_en": "Whisk the thick curd lightly (it should not be sour), and mix in a little salt and sugar.",
+      "image_url": null,
+      "display_order": 4
+    },
+    {
+      "id": "bread-dahi-vadai-instruction-5",
+      "step_number": 5,
+      "instruction_ta": "பரிமாறுவதற்கு முன்பு இந்த தயிரை பிரட் வடையின் மேலே ஊற்றவும்.",
+      "instruction_en": "Just before serving, pour this curd over the bread vadais.",
+      "image_url": null,
+      "display_order": 5
+    },
+    {
+      "id": "bread-dahi-vadai-instruction-6",
+      "step_number": 6,
+      "instruction_ta": "அதற்கு மேலே கருப்பு உப்புத் தூள், உப்பு, சீரகத் தூள், மிளகாய்த் தூள் தூவவும். கொத்தமல்லித் தழை அலங்கரித்து அதற்கும் மேலே சிறிதளவு இனிப்புச் சட்னியை ஊற்றி பரிமாறவும்.",
+      "instruction_en": "Sprinkle black salt powder, salt, cumin powder, and chili powder over it. Garnish with coriander leaves, drizzle a little sweet chutney on top, and serve.",
+      "image_url": null,
+      "display_order": 6
+    },
+    {
+      "id": "bread-dahi-vadai-instruction-7",
+      "step_number": 7,
+      "instruction_ta": "குறிப்பு: திடீர் விருந்தாளிகள் வந்து விட்டால் இந்த வடையை சில நிமிடங்களில் செய்யலாம். மிகவும் சுவையாகவும் இருக்கும்.",
+      "instruction_en": "Note: if guests drop in unexpectedly, this vadai can be put together in just a few minutes -- and it tastes great too.",
+      "image_url": null,
+      "display_order": 7
+    }
+  ]
+}

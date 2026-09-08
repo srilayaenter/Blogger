@@ -1,0 +1,91 @@
+{
+  "slug": "mattar-chat",
+  "title_ta": "பச்சைப் பட்டாணி சாட்",
+  "title_en": "Mattar Chat",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 125,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["chaat"],
+  "ingredients": [
+    { "id": "mattar-chat-ingredient-1", "name_ta": "உரித்த பச்சை பட்டாணி", "name_en": "Shelled fresh green peas", "quantity": "2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "mattar-chat-ingredient-2", "name_ta": "சீரகம்", "name_en": "Cumin", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "mattar-chat-ingredient-3", "name_ta": "பச்சை மிளகாய்", "name_en": "Green chili", "quantity": "3", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "mattar-chat-ingredient-4", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவைக்கேற்ப", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "mattar-chat-ingredient-5", "name_ta": "வறுத்த சீரகப் பொடி", "name_en": "Roasted cumin powder", "quantity": "1/4", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "mattar-chat-ingredient-6", "name_ta": "மிளகுப் பொடி", "name_en": "Pepper powder", "quantity": "1/4", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "mattar-chat-ingredient-7", "name_ta": "கருப்பு உப்புப் பொடி", "name_en": "Black salt powder", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "mattar-chat-ingredient-8", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": "1", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "mattar-chat-ingredient-9", "name_ta": "சாட் மசாலா பொடி", "name_en": "Chat masala powder", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 9 },
+    { "id": "mattar-chat-ingredient-10", "name_ta": "புதினா பொடி", "name_en": "Dried mint powder", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 10 },
+    { "id": "mattar-chat-ingredient-11", "name_ta": "நறுக்கிய கொத்தமல்லித் தழை", "name_en": "Chopped coriander leaves", "quantity": "1", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 11 },
+    { "id": "mattar-chat-ingredient-12", "name_ta": "கெட்டியான புளிப்பில்லாத தயிர்", "name_en": "Thick, non-sour curd", "quantity": "1/2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 12 },
+    { "id": "mattar-chat-ingredient-13", "name_ta": "நொறுக்கிய சிறிய பூரி துண்டுகள்", "name_en": "Crushed small puri pieces (pani puri)", "quantity": "1/4", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 13 },
+    { "id": "mattar-chat-ingredient-14", "name_ta": "பொடியாக நறுக்கிய வெங்காயம்", "name_en": "Finely chopped onion", "quantity": "1/4", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 14 },
+    { "id": "mattar-chat-ingredient-15", "name_ta": "இனிப்பு சட்னி", "name_en": "Sweet chutney", "quantity": "1", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoon", "notes_ta": "பானி பூரியில் உள்ள சட்னி", "notes_en": "the chutney from the Pani Puri recipe", "display_order": 15 },
+    { "id": "mattar-chat-ingredient-16", "name_ta": "ஓமப் பொடி (சேவ்)", "name_en": "Sev (omapodi)", "quantity": "1/4", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 16 }
+  ],
+  "instructions": [
+    {
+      "id": "mattar-chat-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "ஒரு வாணலியில் சிறிது எண்ணெய் விட்டுச் சூடாக்கி சீரகம் தாளித்து நீளவாக்கில் அரிந்த பச்சை மிளகாய் சேர்த்து உரித்த பட்டாணி சேர்த்து ஒரு நிமிடம் கலக்கவும்.",
+      "instruction_en": "Heat a little oil in a pan, temper cumin, add the lengthwise-sliced green chili, then add the shelled peas and mix for one minute.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "mattar-chat-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "சிறிது தண்ணீர் தெளித்து மூடியால் மூடி பட்டாணி நன்கு வேகும்வரை குறைந்த தணலில் வைக்கவும்.",
+      "instruction_en": "Sprinkle in a little water, cover with a lid, and cook on low heat until the peas are well done.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "mattar-chat-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "அவ்வப்போது நன்கு கிளறி விட்டு பட்டாணி வெந்து தண்ணீர் வற்றியதும் பொடி வகைகளைச் சேர்த்து கலக்கவும்.",
+      "instruction_en": "Stir occasionally, and once the peas are cooked and the water has dried up, mix in the powdered spices.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "mattar-chat-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "நன்றாகக் கலந்து அடுப்பிலிருந்து இறக்கி ஒரு பரிமாறும் தட்டில் மாற்றவும்.",
+      "instruction_en": "Mix well, remove from heat, and transfer to a serving plate.",
+      "image_url": null,
+      "display_order": 4
+    },
+    {
+      "id": "mattar-chat-instruction-5",
+      "step_number": 5,
+      "instruction_ta": "பானி பூரி துண்டுகளை அதன் மேல் தூவி, அரிந்த வெங்காயம் அலங்கரித்து கடைந்த தயிரை ஊற்றவும்.",
+      "instruction_en": "Sprinkle the pani puri pieces on top, garnish with chopped onion, and pour the whisked curd over it.",
+      "image_url": null,
+      "display_order": 5
+    },
+    {
+      "id": "mattar-chat-instruction-6",
+      "step_number": 6,
+      "instruction_ta": "அதற்கும் மேலே இனிப்பு சட்னியை ஊற்றி ஓமப் பொடியை மேலே அலங்கரித்து உடனே பரிமாறவும்.",
+      "instruction_en": "Pour the sweet chutney over that too, garnish with sev on top, and serve immediately.",
+      "image_url": null,
+      "display_order": 6
+    }
+  ]
+}

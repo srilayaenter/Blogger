@@ -1,0 +1,67 @@
+{
+  "slug": "cheese-bonda",
+  "title_ta": "சீஸ் போண்டா",
+  "title_en": "Cheese Bonda",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 77,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["bonda"],
+  "ingredients": [
+    { "id": "cheese-bonda-ingredient-1", "name_ta": "மைதா", "name_en": "Maida (all-purpose flour)", "quantity": "1", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "cheese-bonda-ingredient-2", "name_ta": "சீஸ் துருவல்", "name_en": "Grated cheese", "quantity": "1/2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "cheese-bonda-ingredient-3", "name_ta": "நறுக்கிய முந்திரிப் பருப்பு", "name_en": "Chopped cashew nuts", "quantity": "1", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "cheese-bonda-ingredient-4", "name_ta": "பொடியாக நறுக்கிய கொத்தமல்லி, கறிவேப்பிலைத் தழை", "name_en": "Finely chopped coriander and curry leaves", "quantity": "2", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "cheese-bonda-ingredient-5", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவைக்கேற்ப", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "cheese-bonda-ingredient-6", "name_ta": "பொடியாக நறுக்கிய பச்சை மிளகாய்", "name_en": "Finely chopped green chili", "quantity": "1", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "cheese-bonda-ingredient-7", "name_ta": "தண்ணீர்", "name_en": "Water", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "மாவைப் பிசைவதற்குத் தேவையான அளவு", "notes_en": "as needed to knead the batter", "display_order": 7 },
+    { "id": "cheese-bonda-ingredient-8", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "பொரிக்கத் தேவையான அளவு", "notes_en": "as needed, for frying", "display_order": 8 }
+  ],
+  "instructions": [
+    {
+      "id": "cheese-bonda-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "சலித்த மைதா மாவோடு மெலிதாகத் துருவிய சீஸ் மற்றும் கூறப்பட்டுள்ள பொருட்களைக் கலந்து தண்ணீர் சேர்த்து கட்டியில்லாமல் போண்டா மாவு போல பிசையவும் (லேசாக கலக்கவும், அழுத்திப் பிசைய வேண்டாம்).",
+      "instruction_en": "Mix the sifted maida with the finely grated cheese and the rest of the listed ingredients, add water, and knead into a lump-free bonda batter (mix it lightly; don't knead forcefully).",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "cheese-bonda-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "மாவைக் கலந்த உடனேயே சூடான எண்ணெயில் சிறுசிறு உருண்டைகளாக உருட்டிப் போட்டு பொரித்தெடுக்கவும். சூடாக உடனே பரிமாறவும்.",
+      "instruction_en": "As soon as the batter is mixed, roll it into small balls and drop them into hot oil to fry. Serve hot immediately.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "cheese-bonda-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "மாற்று செய்முறை -- பிரட் சீஸ் போண்டா: பிரட் துண்டங்களை பெரிதாகப் பிய்த்து மிக்ஸியில் போட்டு பொடி போல செய்யவும். இதோடு பால், சீஸ், சிறிதளவு மைதா, உப்பு, பேகிங் பவுடர், பொடியாக அரிந்த வெங்காயம், பச்சை மிளகாய், கொத்தமல்லித் தழை கலந்து போண்டா போடலாம்.",
+      "instruction_en": "Alternative method -- Bread Cheese Bonda: tear bread into large pieces and pulse in a mixer into crumbs. Mix this with milk, cheese, a little maida, salt, baking powder, chopped onion, green chili, and coriander leaves, and use it to make the bonda.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "cheese-bonda-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "குறிப்பு: இதற்கு முடிந்தவரை Cheddar Cheese எனப்படும் Cooking Cheese ஐ உபயோகப்படுத்தவும். மாவை அதிக நேரம் வைத்திருந்து போட்டால் நன்றாக வராது, உடனே உபயோகப்படுத்திவிடவும்.",
+      "instruction_en": "Note: use Cheddar-style cooking cheese for this if possible. The batter won't turn out well if left standing too long -- use it right away.",
+      "image_url": null,
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "slug": "lasania",
+  "title_ta": "உருளைகிழங்கு ஸ்டப் பஜ்ஜி",
+  "title_en": "Lasania (Stuffed Potato Bajji)",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 95,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["bajji"],
+  "ingredients": [
+    { "id": "lasania-ingredient-1", "name_ta": "கடலை மாவு", "name_en": "Gram flour (besan)", "quantity": "1", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "lasania-ingredient-2", "name_ta": "மஞ்சள் பொடி", "name_en": "Turmeric powder", "quantity": "1", "unit_ta": "சிட்டிகை", "unit_en": "pinch", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "lasania-ingredient-3", "name_ta": "மிளகாய்ப்பொடி", "name_en": "Chili powder", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "lasania-ingredient-4", "name_ta": "தனியா பொடி", "name_en": "Coriander powder", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "lasania-ingredient-5", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவைக்கேற்ப", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "lasania-ingredient-6", "name_ta": "சமையல் சோடா", "name_en": "Cooking soda", "quantity": "2", "unit_ta": "சிட்டிகை", "unit_en": "pinches", "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "lasania-ingredient-7", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "பொரிக்கத் தேவையான அளவு", "notes_en": "as needed, for frying", "display_order": 7 },
+    { "id": "lasania-ingredient-8", "name_ta": "சிறு உருளைக்கிழங்கு", "name_en": "Small potatoes", "quantity": "1/4", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "lasania-ingredient-9", "name_ta": "பூண்டு", "name_en": "Garlic", "quantity": "4", "unit_ta": "பல்லு", "unit_en": "cloves", "notes_ta": "அரைக்க", "notes_en": "to grind", "display_order": 9 },
+    { "id": "lasania-ingredient-10", "name_ta": "மிளகாய்ப்பொடி", "name_en": "Chili powder", "quantity": "3", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoons", "notes_ta": "அரைக்க", "notes_en": "to grind", "display_order": 10 },
+    { "id": "lasania-ingredient-11", "name_ta": "சீரகம்", "name_en": "Cumin", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": "அரைக்க", "notes_en": "to grind", "display_order": 11 },
+    { "id": "lasania-ingredient-12", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "1 1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoons", "notes_ta": "அரைக்க", "notes_en": "to grind", "display_order": 12 }
+  ],
+  "instructions": [
+    {
+      "id": "lasania-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "உருளைக்கிழங்கை கமாராண அளவுள்ள ஒரே மாதிரி சைசில் வாங்கவும்.",
+      "instruction_en": "Buy potatoes of similar, moderate size.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "lasania-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "குக்கரில் வேக வைத்து தோலுரிக்கவும்.",
+      "instruction_en": "Pressure-cook and peel.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "lasania-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "கூரான கத்தியால் மேலிருந்து முக்கால் பாகம்வரை இறங்கும்படி அறுக்கவும்.",
+      "instruction_en": "Slice from the top down about three-quarters of the way through with a sharp knife.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "lasania-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "அரைத்த விழுதில் சிறிதளவு அதன் மத்தியில் பூசவும்.",
+      "instruction_en": "Smear a little of the ground paste into the middle of the slit.",
+      "image_url": null,
+      "display_order": 4
+    },
+    {
+      "id": "lasania-instruction-5",
+      "step_number": 5,
+      "instruction_ta": "கடலை மாவோடு மஞ்சள் தூள், தனியாப் பொடி, உப்பு, மிளகாய்த் தூள், சமையல் சோடா சேர்த்து தண்ணீர் விட்டுப் பிசைந்து பஜ்ஜி மாவு தயாரிக்கவும்.",
+      "instruction_en": "Mix turmeric powder, coriander powder, salt, chili powder, and cooking soda into the gram flour, add water, and knead into a bajji batter.",
+      "image_url": null,
+      "display_order": 5
+    },
+    {
+      "id": "lasania-instruction-6",
+      "step_number": 6,
+      "instruction_ta": "தயாரித்த உருளைக்கிழங்கை இந்த மாவில் தோய்த்து சூடான எண்ணெயில் பொரிக்கவும்.",
+      "instruction_en": "Dip the prepared potatoes in this batter and deep-fry in hot oil.",
+      "image_url": null,
+      "display_order": 6
+    },
+    {
+      "id": "lasania-instruction-7",
+      "step_number": 7,
+      "instruction_ta": "கவனிக்க: சிறு உருளைக்கிழங்கை வாங்கி உபயோகப்படுத்தினால் இந்த பஜ்ஜி நன்றாக இருக்கும்.",
+      "instruction_en": "Note: this bajji turns out best when made with small potatoes.",
+      "image_url": null,
+      "display_order": 7
+    }
+  ]
+}

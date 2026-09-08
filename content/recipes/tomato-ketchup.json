@@ -1,0 +1,128 @@
+{
+  "slug": "tomato-ketchup",
+  "title_ta": "தக்காளி கெட்ச்அப்",
+  "title_en": "Tomato Ketchup",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 136,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["chutney"],
+  "ingredients": [
+    { "id": "tomato-ketchup-ingredient-1", "name_ta": "தக்காளி", "name_en": "Tomato", "quantity": "1", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "tomato-ketchup-ingredient-2", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "1 1/2", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "tomato-ketchup-ingredient-3", "name_ta": "சர்க்கரை", "name_en": "Sugar", "quantity": "2", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "tomato-ketchup-ingredient-4", "name_ta": "வினிகர்", "name_en": "Vinegar", "quantity": "1/2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": "புளிப்பு காடி", "notes_en": "sour vinegar", "display_order": 4 },
+    { "id": "tomato-ketchup-ingredient-5", "name_ta": "பொட்டாசியம்-மெடா-பை-சல்பைட் (K.M.S.)", "name_en": "Potassium metabisulphite (K.M.S.)", "quantity": "1/4", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "tomato-ketchup-ingredient-6", "name_ta": "பட்டை", "name_en": "Cinnamon", "quantity": "3", "unit_ta": null, "unit_en": null, "notes_ta": "சிறிய துண்டுகள்; கீழேயுள்ளவற்றுடன் கரகரப்பாக பொடி செய்து மெல்லிய துணியில் மூட்டையாக கட்டவும்", "notes_en": "small pieces; ground coarsely with the ingredients below and tied into a muslin bundle", "display_order": 6 },
+    { "id": "tomato-ketchup-ingredient-7", "name_ta": "இலவங்கம்", "name_en": "Cloves", "quantity": "4", "unit_ta": null, "unit_en": null, "notes_ta": "மூட்டைக்கு", "notes_en": "for the spice bundle", "display_order": 7 },
+    { "id": "tomato-ketchup-ingredient-8", "name_ta": "ஏலக்காய்", "name_en": "Cardamom", "quantity": "4", "unit_ta": null, "unit_en": null, "notes_ta": "மூட்டைக்கு", "notes_en": "for the spice bundle", "display_order": 8 },
+    { "id": "tomato-ketchup-ingredient-9", "name_ta": "பூண்டு", "name_en": "Garlic", "quantity": "4", "unit_ta": "பல்லு", "unit_en": "cloves", "notes_ta": "மூட்டைக்கு", "notes_en": "for the spice bundle", "display_order": 9 },
+    { "id": "tomato-ketchup-ingredient-10", "name_ta": "உரித்த சிறிய வெங்காயம் (அ) பெரிய வெங்காயம்", "name_en": "Peeled small onions or big onion", "quantity": "6 (அ) 1/2", "unit_ta": null, "unit_en": null, "notes_ta": "மூட்டைக்கு", "notes_en": "for the spice bundle", "display_order": 10 },
+    { "id": "tomato-ketchup-ingredient-11", "name_ta": "சீரகம்", "name_en": "Cumin", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": "மூட்டைக்கு", "notes_en": "for the spice bundle", "display_order": 11 },
+    { "id": "tomato-ketchup-ingredient-12", "name_ta": "மிளகு", "name_en": "Pepper", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": "மூட்டைக்கு", "notes_en": "for the spice bundle", "display_order": 12 },
+    { "id": "tomato-ketchup-ingredient-13", "name_ta": "பச்சை மிளகாய்", "name_en": "Green chili", "quantity": "3", "unit_ta": null, "unit_en": null, "notes_ta": "மூட்டைக்கு", "notes_en": "for the spice bundle", "display_order": 13 }
+  ],
+  "instructions": [
+    {
+      "id": "tomato-ketchup-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "நன்றாக பழுத்த கெட்டியான சிகப்பு தக்காளியை வாங்கவும்.",
+      "instruction_en": "Buy well-ripened, firm red tomatoes.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "tomato-ketchup-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "காம்பின் பக்கம் பச்சையான பாகம் இருந்தால் அறுத்து எடுத்துவிடவும்.",
+      "instruction_en": "If there's any green part near the stem, cut it off.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "tomato-ketchup-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "ஒரு அகலமான பெரிய பாத்திரத்தில் தண்ணீர் விட்டுச் சூடாக்கவும்.",
+      "instruction_en": "Heat water in a wide, large vessel.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "tomato-ketchup-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "தண்ணீர் கொதிக்க ஆரம்பிக்கும் போது முழு தக்காளிகளையும் அதில் போட்டு ஒரு கொதிவரும் வரை சூடாக்கவும்.",
+      "instruction_en": "When the water starts to boil, add the whole tomatoes and heat until it comes to a boil once.",
+      "image_url": null,
+      "display_order": 4
+    },
+    {
+      "id": "tomato-ketchup-instruction-5",
+      "step_number": 5,
+      "instruction_ta": "அடுப்பை அணைத்துவிட்டு சில நிமிடங்கள் மூடி வைக்கவும்.",
+      "instruction_en": "Turn off the stove and cover for a few minutes.",
+      "image_url": null,
+      "display_order": 5
+    },
+    {
+      "id": "tomato-ketchup-instruction-6",
+      "step_number": 6,
+      "instruction_ta": "தண்ணீரை வடித்துவிட்டு தக்காளியின் தோலை எடுத்துவிட்டு நன்றாக அரைத்து வடிகட்டவும்.",
+      "instruction_en": "Drain the water, peel the tomato skins, grind thoroughly, and strain.",
+      "image_url": null,
+      "display_order": 6
+    },
+    {
+      "id": "tomato-ketchup-instruction-7",
+      "step_number": 7,
+      "instruction_ta": "வடிகட்டிய தக்காளி ஜூஸை பெரிய பாத்திரத்தில் விட்டு மெல்லிய துணி மூட்டையை அதில் போட்டு நன்றாகக் கொதிக்க விடவும்.",
+      "instruction_en": "Pour the strained tomato juice into a large vessel, drop in the thin cloth-wrapped spice bundle, and let it boil well.",
+      "image_url": null,
+      "display_order": 7
+    },
+    {
+      "id": "tomato-ketchup-instruction-8",
+      "step_number": 8,
+      "instruction_ta": "தக்காளி கொதித்து மூன்றில் ஒரு பாகமாக ஆனதும் கெட்டியாக, உப்பு, சர்க்கரை சேர்த்து அடுப்பிலிருந்து இறக்கவும்.",
+      "instruction_en": "Once the tomato has boiled down to a third and thickened, add salt and sugar, and remove from heat.",
+      "image_url": null,
+      "display_order": 8
+    },
+    {
+      "id": "tomato-ketchup-instruction-9",
+      "step_number": 9,
+      "instruction_ta": "இறக்கியதும் வினிகர் மற்றும் பொட்டாசியம்-மெடா-பை-சல்பைட் சேர்த்து கலக்கவும்.",
+      "instruction_en": "Once removed from heat, mix in the vinegar and potassium metabisulphite.",
+      "image_url": null,
+      "display_order": 9
+    },
+    {
+      "id": "tomato-ketchup-instruction-10",
+      "step_number": 10,
+      "instruction_ta": "நன்றாக ஆறியதும் மூட்டை கட்டிப் போட்ட பையை எடுத்து எறிந்து விடவும்.",
+      "instruction_en": "Once fully cooled, take out and discard the tied spice bundle.",
+      "image_url": null,
+      "display_order": 10
+    },
+    {
+      "id": "tomato-ketchup-instruction-11",
+      "step_number": 11,
+      "instruction_ta": "சுத்தமான, ஈரமில்லாத பாட்டிலில் ஊற்றி மூடி வைக்கவும்.",
+      "instruction_en": "Pour into a clean, dry bottle and seal with a lid.",
+      "image_url": null,
+      "display_order": 11
+    }
+  ]
+}

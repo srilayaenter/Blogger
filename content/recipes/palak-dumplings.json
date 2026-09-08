@@ -1,0 +1,82 @@
+{
+  "slug": "palak-dumplings",
+  "title_ta": "பாலக் மெதுபக்கோடா",
+  "title_en": "Palak Dumplings",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 78,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["fried-snack"],
+  "ingredients": [
+    { "id": "palak-dumplings-ingredient-1", "name_ta": "பாசிப் பருப்பு", "name_en": "Moong dal", "quantity": "1", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "palak-dumplings-ingredient-2", "name_ta": "நறுக்கிய பசலைக்கீரை", "name_en": "Chopped spinach (palak)", "quantity": "3/4", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "palak-dumplings-ingredient-3", "name_ta": "பொடியாக நறுக்கிய வெங்காயம்", "name_en": "Finely chopped onion", "quantity": "1/4", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "palak-dumplings-ingredient-4", "name_ta": "பொடியாக நறுக்கிய பச்சை மிளகாய்", "name_en": "Finely chopped green chili", "quantity": "1", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "palak-dumplings-ingredient-5", "name_ta": "பேகிங் பவுடர்", "name_en": "Baking powder", "quantity": "1", "unit_ta": "சிட்டிகை", "unit_en": "pinch", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "palak-dumplings-ingredient-6", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவைக்கேற்ப", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "palak-dumplings-ingredient-7", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "பொரிக்கத் தேவையான அளவு", "notes_en": "as needed, for frying", "display_order": 7 }
+  ],
+  "instructions": [
+    {
+      "id": "palak-dumplings-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "பருப்பைக் கழுவி முழுகும்வரை தண்ணீர் விட்டு 3 மணி நேரம் ஊற வைக்கவும்.",
+      "instruction_en": "Wash the dal, cover with water, and soak for 3 hours.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "palak-dumplings-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "தண்ணீரை முழுவதுமாக வடித்துவிட்டு நுரைக்க வடைமாவு போல அரைத்துக் கொண்டு உப்பைச் சேர்த்து கடைசியில் அரைக்கவும்.",
+      "instruction_en": "Drain the water completely and grind into a frothy, vadai-style batter; add the salt at the very end.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "palak-dumplings-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "இதோடு நறுக்கிய கீரை, மிளகாய், வெங்காயம், பேகிங் பவுடர் சேர்க்கவும். கைகளினால் லேசாகக் கலந்துவிடவும்.",
+      "instruction_en": "Mix in the chopped greens, chili, onion, and baking powder. Fold together lightly by hand.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "palak-dumplings-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "சூடான எண்ணெயில் ஈரக் கைகளால் அல்லது ஒரு ஸ்பூன் உதவியால் சிறிய உருண்டைகளாகப் போடவும்.",
+      "instruction_en": "With wet hands or the help of a spoon, drop small portions into hot oil.",
+      "image_url": null,
+      "display_order": 4
+    },
+    {
+      "id": "palak-dumplings-instruction-5",
+      "step_number": 5,
+      "instruction_ta": "பொன்னிறமானதும் எடுத்து நன்றாக எண்ணெயை வடியவிட்டு சூடாகப் பரிமாறவும்.",
+      "instruction_en": "Once golden, remove, drain the oil well, and serve hot.",
+      "image_url": null,
+      "display_order": 5
+    },
+    {
+      "id": "palak-dumplings-instruction-6",
+      "step_number": 6,
+      "instruction_ta": "மாற்று செய்முறை: (1) வேறு எந்த கீரையும் உபயோகப்படுத்தி இதே போல பக்கோடா செய்யலாம். (2) இஞ்சி, பச்சை மிளகாய் விழுதாக அரைத்து மாவில் கீரையோடு சேர்த்துக் கொள்ளலாம்.",
+      "instruction_en": "Alternative method: (1) any other greens can be used to make these pakodas the same way. (2) Ginger and green chili can also be ground into a paste and mixed into the batter with the greens.",
+      "image_url": null,
+      "display_order": 6
+    }
+  ]
+}

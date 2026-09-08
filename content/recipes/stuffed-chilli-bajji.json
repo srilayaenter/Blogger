@@ -1,0 +1,98 @@
+{
+  "slug": "stuffed-chilli-bajji",
+  "title_ta": "மிளகாய் பஜ்ஜி",
+  "title_en": "Stuffed Chilli Bajji",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 93,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["bajji"],
+  "ingredients": [
+    { "id": "stuffed-chilli-bajji-ingredient-1", "name_ta": "பச்சை மிளகாய்", "name_en": "Green chili", "quantity": "1/4", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": "நீள பஜ்ஜி மிளகாய்", "notes_en": "long bajji chilies", "display_order": 1 },
+    { "id": "stuffed-chilli-bajji-ingredient-2", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "பொரிக்கத் தேவையான அளவு", "notes_en": "as needed, for frying", "display_order": 2 },
+    { "id": "stuffed-chilli-bajji-ingredient-3", "name_ta": "கொப்பரைத் துருவல்", "name_en": "Grated dry coconut (copra)", "quantity": "2", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": "பூரணத்திற்கு", "notes_en": "for the filling", "display_order": 3 },
+    { "id": "stuffed-chilli-bajji-ingredient-4", "name_ta": "பொட்டுக் கடலை", "name_en": "Roasted gram (pottukadalai)", "quantity": "1 1/2", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": "பூரணத்திற்கு", "notes_en": "for the filling", "display_order": 4 },
+    { "id": "stuffed-chilli-bajji-ingredient-5", "name_ta": "புளி", "name_en": "Tamarind", "quantity": "சிறிது", "unit_ta": null, "unit_en": null, "notes_ta": "பூரணத்திற்கு", "notes_en": "for the filling", "display_order": 5 },
+    { "id": "stuffed-chilli-bajji-ingredient-6", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவைக்கேற்ப", "unit_ta": null, "unit_en": null, "notes_ta": "பூரணத்திற்கு", "notes_en": "for the filling", "display_order": 6 },
+    { "id": "stuffed-chilli-bajji-ingredient-7", "name_ta": "ஓமம் (அ) சீரகம்", "name_en": "Carom seeds or cumin", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": "பூரணத்திற்கு", "notes_en": "for the filling", "display_order": 7 },
+    { "id": "stuffed-chilli-bajji-ingredient-8", "name_ta": "பொடியாக நறுக்கிய வெங்காயம்", "name_en": "Finely chopped onion", "quantity": "1/2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": "மேலே அலங்கரிக்க, பூரணத்திற்கும்", "notes_en": "for garnish and mixed into the filling", "display_order": 8 },
+    { "id": "stuffed-chilli-bajji-ingredient-9", "name_ta": "எலுமிச்சம்பழம்", "name_en": "Lemon", "quantity": "1 (அ) 2", "unit_ta": null, "unit_en": null, "notes_ta": "மேலே அலங்கரிக்க", "notes_en": "for garnish", "display_order": 9 },
+    { "id": "stuffed-chilli-bajji-ingredient-10", "name_ta": "இனிப்பு சட்னி", "name_en": "Sweet chutney", "quantity": "1/4", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": "மேலே அலங்கரிக்க", "notes_en": "for garnish", "display_order": 10 },
+    { "id": "stuffed-chilli-bajji-ingredient-11", "name_ta": "கடலை மாவு", "name_en": "Gram flour (besan)", "quantity": "2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": "பஜ்ஜி மாவிற்கு", "notes_en": "for the bajji batter", "display_order": 11 },
+    { "id": "stuffed-chilli-bajji-ingredient-12", "name_ta": "அரிசி மாவு", "name_en": "Rice flour", "quantity": "1/4", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": "பஜ்ஜி மாவிற்கு", "notes_en": "for the bajji batter", "display_order": 12 },
+    { "id": "stuffed-chilli-bajji-ingredient-13", "name_ta": "மைதா", "name_en": "Maida (all-purpose flour)", "quantity": "1", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoon", "notes_ta": "பஜ்ஜி மாவிற்கு", "notes_en": "for the bajji batter", "display_order": 13 },
+    { "id": "stuffed-chilli-bajji-ingredient-14", "name_ta": "உப்பு & மிளகாய்ப் பொடி", "name_en": "Salt and chili powder", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "பஜ்ஜி மாவிற்கு, தேவைக்கேற்ப", "notes_en": "for the bajji batter, as needed", "display_order": 14 },
+    { "id": "stuffed-chilli-bajji-ingredient-15", "name_ta": "சமையல் சோடா", "name_en": "Cooking soda", "quantity": "3", "unit_ta": "சிட்டிகை", "unit_en": "pinches", "notes_ta": "பஜ்ஜி மாவிற்கு", "notes_en": "for the bajji batter", "display_order": 15 }
+  ],
+  "instructions": [
+    {
+      "id": "stuffed-chilli-bajji-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "பச்சை மிளகாயைக் கழுவி துடைத்து ஒரு கூர்மையான கத்தியால் கீறி உள்ளே உள்ள விதைகளை எடுத்துவிடவும்.",
+      "instruction_en": "Wash and wipe the green chilies, slit them open with a sharp knife, and remove the seeds inside.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "stuffed-chilli-bajji-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "ஒவ்வொரு மிளகாயின் உள்ளும் பொடித்த கலவையை சிறிதளவு திணிக்கவும்.",
+      "instruction_en": "Stuff each chili with a little of the ground filling.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "stuffed-chilli-bajji-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "பஜ்ஜி மாவை எப்பொழுதையும்விட சிறிது கெட்டியாகக் கலக்கவும். மிளகாய்ப் பொடியை கொஞ்சமாகச் சேர்க்கவும்.",
+      "instruction_en": "Mix the bajji batter a little thicker than usual. Add the chili powder sparingly.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "stuffed-chilli-bajji-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "ஸ்டப் செய்த மிளகாயை பஜ்ஜி மாவில் தோய்த்து சூடான எண்ணெயில் பொரித்தெடுக்கவும்.",
+      "instruction_en": "Dip the stuffed chilies in the bajji batter and deep-fry in hot oil.",
+      "image_url": null,
+      "display_order": 4
+    },
+    {
+      "id": "stuffed-chilli-bajji-instruction-5",
+      "step_number": 5,
+      "instruction_ta": "பரிமாறுவதற்கு முன்பு கூரான கத்தியால் பஜ்ஜியின் மேல் பாகத்தைக் கீறிப் பிளந்து பொடியாக நறுக்கிய வெங்காயம் சிறிதளவு வைத்து எலுமிச்சை ரசம் சிறிதளவே பிழிந்துவிட்டு இனிப்பு சட்னியை சிறிதளவு மேலே விட்டு பரிமாறவும்.",
+      "instruction_en": "Before serving, slit the top of each bajji with a sharp knife, tuck in a little chopped onion, squeeze in just a little lemon juice, drizzle a little sweet chutney on top, and serve.",
+      "image_url": null,
+      "display_order": 5
+    },
+    {
+      "id": "stuffed-chilli-bajji-instruction-6",
+      "step_number": 6,
+      "instruction_ta": "கவனிக்க: கொஞ்சம் கனமாக, நீளமாக பஜ்ஜி மிளகாய் என்று கிடைக்கும் மிளகாயையே இதற்கு உபயோகப்படுத்தவும். கிடைக்காதவர்கள் காரமான பச்சைமிளகாயைக் கீறி சிறிது உப்பு போட்டு பிசறி வைத்து, பிழிந்தெடுத்து எண்ணெயில் முதலில் காரம் போக பொரித்துவிட்டு பிறகு பஜ்ஜி போடலாம். மாவைக் கெட்டியாகக் கலப்பதால் பஜ்ஜியின் மேல் சிறிது கனமாக பிடித்துக் கொள்ளும், அதனால் மிளகாயின் காரம் தெரியாது. மிளகாயை சிறிது நேரம் எலுமிச்சம்பழ ரசத்தில் ஊறவைத்து பிறகும் பஜ்ஜி போடலாம்.",
+      "instruction_en": "Note: use chilies sold specifically as thick, long 'bajji chilies' for this if you can. If unavailable, slit hot green chilies, rub in a little salt, let them sit, then squeeze them out, fry them briefly in oil first to take the edge off the heat, and then use them for the bajji. Mixing the batter thick lets a slightly heavier coat form on the bajji, which masks the chili's heat. The chilies can also be soaked briefly in lemon juice before being made into bajji.",
+      "image_url": null,
+      "display_order": 6
+    },
+    {
+      "id": "stuffed-chilli-bajji-instruction-7",
+      "step_number": 7,
+      "instruction_ta": "மாற்று செய்முறை: (1) மிளகாய் மிகவும் நீளமாக இருந்தால் குறுக்கில் இரண்டாக வெட்டி பிறகு மசாலாவை உள்ளே நிரப்பி பொரிக்கவும். (2) மிளகாயை நீளவாக்கில் இரண்டாக அரிந்து விதையை முழுவதுமாக எடுத்துவிடவும். சிறிதளவு புளி, பொரிகடலை, உப்பு, வெல்லம், பூண்டு, இஞ்சி இவற்றோடு 2 சிகப்பு மிளகாய் சேர்த்து கெட்டியாகச் சட்னி அரைக்கவும். பிளந்த மிளகாயின் உள்பாகத்தில் இந்த சட்னியை சிறிதளவு பூசி அதற்குப் பிறகு பஜ்ஜி மாவில் தோய்த்துப் போடவும்.",
+      "instruction_en": "Alternative method: (1) if the chilies are very long, cut them in half crosswise, then fill the masala inside and fry. (2) Slice the chili in half lengthwise and remove the seeds entirely. Grind a thick chutney with a little tamarind, roasted gram, salt, jaggery, garlic, ginger, and 2 dried red chilies. Spread a little of this chutney inside the split chili, then dip in the bajji batter and fry.",
+      "image_url": null,
+      "display_order": 7
+    }
+  ]
+}

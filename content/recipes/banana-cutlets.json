@@ -1,0 +1,114 @@
+{
+  "slug": "banana-cutlets",
+  "title_ta": "வாழைக்காய் கட்லெட்",
+  "title_en": "Banana Cutlets",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 67,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["cutlet"],
+  "ingredients": [
+    { "id": "banana-cutlets-ingredient-1", "name_ta": "வாழைக்காய்", "name_en": "Raw banana", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": "பெரியது", "notes_en": "large", "display_order": 1 },
+    { "id": "banana-cutlets-ingredient-2", "name_ta": "உருளைக்கிழங்கு", "name_en": "Potato", "quantity": "1/4", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "banana-cutlets-ingredient-3", "name_ta": "வெங்காயம்", "name_en": "Onion", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "banana-cutlets-ingredient-4", "name_ta": "கொத்தமல்லித் தழை", "name_en": "Coriander leaves", "quantity": "1", "unit_ta": "கட்டு", "unit_en": "bunch", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "banana-cutlets-ingredient-5", "name_ta": "இஞ்சி", "name_en": "Ginger", "quantity": "1", "unit_ta": "அங்குலத் துண்டு", "unit_en": "inch piece", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "banana-cutlets-ingredient-6", "name_ta": "பச்சை மிளகாய்", "name_en": "Green chili", "quantity": "4", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "banana-cutlets-ingredient-7", "name_ta": "மிளகாய்த் தூள்", "name_en": "Chili powder", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "banana-cutlets-ingredient-8", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவைக்கேற்ப", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "banana-cutlets-ingredient-9", "name_ta": "கரம்மசாலாப் பொடி", "name_en": "Garam masala powder", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 9 },
+    { "id": "banana-cutlets-ingredient-10", "name_ta": "உலர்ந்த மாங்காய்த் தூள்", "name_en": "Dried mango powder", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 10 },
+    { "id": "banana-cutlets-ingredient-11", "name_ta": "மிளகுப் பொடி", "name_en": "Pepper powder", "quantity": "1/4", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 11 },
+    { "id": "banana-cutlets-ingredient-12", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "சுடுவதற்குத் தேவையான அளவு", "notes_en": "as needed, for cooking", "display_order": 12 },
+    { "id": "banana-cutlets-ingredient-13", "name_ta": "காய்ந்த ரொட்டித் தூள்", "name_en": "Dried bread crumbs", "quantity": "3", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 13 },
+    { "id": "banana-cutlets-ingredient-14", "name_ta": "மைதா", "name_en": "Maida (all-purpose flour)", "quantity": "1", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 14 },
+    { "id": "banana-cutlets-ingredient-15", "name_ta": "மக்காச்சோள மாவு", "name_en": "Corn flour", "quantity": "2", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 15 }
+  ],
+  "instructions": [
+    {
+      "id": "banana-cutlets-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "பிரஷர் குக்கரில் அடிப் பாத்திரத்தில் உருளைக்கிழங்கில் தண்ணீர் விட்டும் மேல் பாத்திரத்தில் முழு வாழைக்காயைத் தோலோடு அப்படியே வைத்தும் வேக வைக்கவும்.",
+      "instruction_en": "In a pressure cooker, cook the potato with water in the bottom container, and the whole banana with its skin on in the container above.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "banana-cutlets-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "வெந்த உருளைக்கிழங்கை தோலுரித்து மசிக்கவும். வாழைக்காயின் தோலை எடுத்துவிட்டு ஸ்டீல் துருவியால் துருவவும்.",
+      "instruction_en": "Peel and mash the cooked potato. Peel the banana and grate it on a steel grater.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "banana-cutlets-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "வெங்காயத்தை துருவிக் கொள்ளவும். இஞ்சி, பச்சைமிளகாயை இடித்துக் கொள்ளவும்.",
+      "instruction_en": "Grate the onion. Crush the ginger and green chilies.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "banana-cutlets-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "வாணலியில் எண்ணெய்விட்டு சீரகம் தாளித்து இஞ்சி மிளகாய் விழுது சேர்த்து கலந்து அரிந்த வெங்காயம் சேர்க்கவும்.",
+      "instruction_en": "Heat oil in a pan, temper cumin, add the crushed ginger-chili, mix, and add the grated onion.",
+      "image_url": null,
+      "display_order": 4
+    },
+    {
+      "id": "banana-cutlets-instruction-5",
+      "step_number": 5,
+      "instruction_ta": "வெங்காயம் வதங்கியதும் துருவிய வாழைக்காய் சேர்த்து நன்கு சிகப்பாகும்வரை கலக்கவும்.",
+      "instruction_en": "Once the onion has wilted, add the grated banana and stir until it turns a good reddish color.",
+      "image_url": null,
+      "display_order": 5
+    },
+    {
+      "id": "banana-cutlets-instruction-6",
+      "step_number": 6,
+      "instruction_ta": "மசித்த உருளைக்கிழங்கு, உப்பு, மிளகாய்த் தூள், மிளகுத் தூள், கரம்மசாலாத் தூள், அரிந்த கொத்தமல்லித் தழை சேர்த்து நன்கு கலந்து இறக்கவும்.",
+      "instruction_en": "Add the mashed potato, salt, chili powder, pepper powder, garam masala powder, and chopped coriander leaves, mix well, and remove from heat.",
+      "image_url": null,
+      "display_order": 6
+    },
+    {
+      "id": "banana-cutlets-instruction-7",
+      "step_number": 7,
+      "instruction_ta": "அடுப்பிலிருந்து இறக்கி ஆறியதும் மாங்காய்த் தூள், மைதா மாவு, பாதி ரொட்டித் தூள் சேர்த்து பிசையவும்.",
+      "instruction_en": "Once removed from heat and cooled, mix in the mango powder, maida, and half the bread crumbs.",
+      "image_url": null,
+      "display_order": 7
+    },
+    {
+      "id": "banana-cutlets-instruction-8",
+      "step_number": 8,
+      "instruction_ta": "உருண்டைகளாக உருட்டி மக்காச்சோள மாவு, மற்ற பாதி ரொட்டித் தூள் கலந்து வைத்துள்ள கலவையில் புரட்டி, கட்லெட் போல தட்டி தோசைக்கல்லில் எண்ணெய் விட்டு பொன்னிறமாகச் சுடவும். சூடாக சாஸுடன் பரிமாறவும்.",
+      "instruction_en": "Shape into balls, roll in a mixture of corn flour and the remaining bread crumbs, flatten into cutlets, and cook on a griddle with oil until golden. Serve hot with sauce.",
+      "image_url": null,
+      "display_order": 8
+    },
+    {
+      "id": "banana-cutlets-instruction-9",
+      "step_number": 9,
+      "instruction_ta": "குறிப்பு -- இதேபோல் பலவிதமான கட்லெட் செய்யலாம். (1) கத்திரிக்காய் கட்லெட்: பெரிய கத்திரிக்காயின் மேல் எண்ணெய் பூசி நேரடி அனலில் மேல்தோல் கருப்பாகும்வரை திருப்பிவிட்டு சுடவும் (அல்லது குக்கரில் ஆவியில் தண்ணீர் சேர்க்காமல் 15 நிமிடம் வேக வைக்கவும்). வாழைக்காய்க்குப் பதில் இந்த சுட்ட கத்திரிக்காயை மசித்துச் சேர்த்து அதே முறையில் செய்யவும்; மாங்காய்த் தூளுக்குப் பதில் சிறிதளவு கெட்டியான புளிக்கரைசல் சேர்க்கலாம். (2) பனீர் கட்லெட்: திரித்த பாலிலிருந்து தயாரித்த பனீரை கைகளால் உதிர்த்து, சிறிது அரிசி மாவு, மைதா மாவு, வேகவைத்து மசித்த உருளைக்கிழங்கு, வதக்கிய வெங்காயம், மிளகாய் விழுது அல்லது மிளகாய்த் தூள், மசாலாத் தூள் சேர்த்து மற்ற கட்லெட் போல செய்யவும். (3) மக்காச்சோள டிக்கிஸ்: வேகவைத்து உரித்த மக்காச்சோளத்தை பச்சைமிளகாய், கொத்தமல்லியுடன் கரகரப்பாகக் கரைத்து, வதக்கிய வெங்காயம்-கோஸுடன் கலந்து, வேகவைத்து மசித்த உருளைக்கிழங்கு சேர்த்து விருப்பப்படி காரம்-உப்பு-மசாலா சேர்த்துச் செய்யவும். (4) ரவை, கீரை கட்லெட்: வறுத்த ரவையுடன் மசித்த உருளைக்கிழங்கு, வதக்கிய வெங்காயம்-கீரை, உப்பு-காரம்-மசாலா சேர்த்துச் செய்யவும். (5) முளைபயறு கட்லெட்: ஆவியில் வேகவைத்த முளைப் பாசிப்பயற்றுடன் வதக்கிய வெங்காயம்-தக்காளி-இஞ்சிப்பூண்டு-மிளகாய் விழுது, மசித்த உருளைக்கிழங்கு, பிரட் சேர்த்துச் செய்யவும். (6) சேமியா கட்லெட்: வெஜிடபிள் கட்லெட் தயாரித்து, நெய்யில் லேசாக வறுத்து சுடுநீரில் ஊற்றி வடித்த சேமியாவில் புரட்டி தோசைக்கல்லில் எண்ணெய் விட்டு சுடவும்.",
+      "instruction_en": "Note -- several other kinds of cutlets can be made the same way. (1) Brinjal Cutlet: brush a large brinjal with oil and roast over a direct flame, turning until the skin blackens all over (or pressure-steam it whole, without water, for 15 minutes). In place of the banana in this recipe, mash in the roasted brinjal and proceed the same way; in place of the mango powder, a little thick tamarind extract can be added. (2) Paneer Cutlet: crumble fresh paneer by hand and mix in a little rice flour, maida, boiled mashed potato, sauteed onion, chili paste or chili powder, and masala powder, then shape as with the other cutlets. (3) Corn Tikkis: coarsely blend boiled, shelled corn with green chili and coriander leaves, mix with sauteed onion and grated cabbage, add boiled mashed potato, and season with chili, salt, and masala to taste. (4) Semolina-Greens Cutlet: mix roasted semolina with mashed potato and sauteed onion and greens, seasoned with salt, chili, and masala to taste. (5) Sprouted Moong Cutlet: mix steamed sprouted moong beans with sauteed onion, tomato, ginger-garlic, and green chili paste, plus mashed potato and bread. (6) Vermicelli Cutlet: shape a batch of Vegetable Cutlet, lightly roast broken vermicelli in ghee, blanch it in hot water and drain, then roll the cutlets in it before cooking on an oiled griddle.",
+      "image_url": null,
+      "display_order": 9
+    }
+  ]
+}

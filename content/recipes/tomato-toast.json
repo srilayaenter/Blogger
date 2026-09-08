@@ -1,0 +1,93 @@
+{
+  "slug": "tomato-toast",
+  "title_ta": "தக்காளி டோஸ்ட்",
+  "title_en": "Tomato Toast",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 118,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["sandwich"],
+  "ingredients": [
+    { "id": "tomato-toast-ingredient-1", "name_ta": "ரொட்டி", "name_en": "Bread", "quantity": "12", "unit_ta": "துண்டுகள்", "unit_en": "slices", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "tomato-toast-ingredient-2", "name_ta": "தக்காளி", "name_en": "Tomato", "quantity": "1/4", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "tomato-toast-ingredient-3", "name_ta": "பொடியாக நறுக்கிய வெங்காயம்", "name_en": "Finely chopped onion", "quantity": "1/4", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "tomato-toast-ingredient-4", "name_ta": "பொடியாக நறுக்கிய கொத்தமல்லித் தழை", "name_en": "Finely chopped coriander leaves", "quantity": "2", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "tomato-toast-ingredient-5", "name_ta": "சர்க்கரை", "name_en": "Sugar", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "tomato-toast-ingredient-6", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "3/4", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "tomato-toast-ingredient-7", "name_ta": "மிளகாய்ப் பொடி", "name_en": "Chili powder", "quantity": "3/4", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "tomato-toast-ingredient-8", "name_ta": "கரம்மசாலா பொடி", "name_en": "Garam masala powder", "quantity": "1/4", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "tomato-toast-ingredient-9", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "தேவையான அளவு", "notes_en": "as needed", "display_order": 9 },
+    { "id": "tomato-toast-ingredient-10", "name_ta": "நெய்", "name_en": "Ghee", "quantity": "1", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 10 }
+  ],
+  "instructions": [
+    {
+      "id": "tomato-toast-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "ரொட்டித் துண்டின் இரு பக்கமும் நெய் தடவவும்.",
+      "instruction_en": "Butter both sides of the bread slices with ghee.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "tomato-toast-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "தக்காளியை பெரிய துண்டுகளாக நறுக்கி தண்ணீர் விடாமல் அரைத்து வடிகட்டி விதைகளை நீக்கவும்.",
+      "instruction_en": "Cut the tomatoes into large pieces, grind without adding water, strain, and discard the seeds.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "tomato-toast-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "இதோடு வெங்காயம், கொத்தமல்லி, சர்க்கரை, உப்பு, மிளகாய்த் தூள், கரம்மசாலாத் தூள் சேர்த்து கலக்கவும்.",
+      "instruction_en": "Mix in the onion, coriander, sugar, salt, chili powder, and garam masala powder.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "tomato-toast-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "ஒரு மெல்லிய தோசைக் கல்லைக் காய வைத்து ஒரு ரொட்டித் துண்டை அதன் மேல் போடவும்.",
+      "instruction_en": "Heat a thin griddle and place a bread slice on it.",
+      "image_url": null,
+      "display_order": 4
+    },
+    {
+      "id": "tomato-toast-instruction-5",
+      "step_number": 5,
+      "instruction_ta": "கீழ்ப்பாகம் லேசாகச் சுட்டவுடன் திருப்பிப் போட்டு மேலே ஒரு டேபிள் ஸ்பூன் தக்காளிக் கலவையை பரப்பவும்.",
+      "instruction_en": "Once the bottom is lightly toasted, flip and spread a tablespoon of the tomato mixture on top.",
+      "image_url": null,
+      "display_order": 5
+    },
+    {
+      "id": "tomato-toast-instruction-6",
+      "step_number": 6,
+      "instruction_ta": "சுற்றிலும் சிறிது எண்ணெய் விட்டுச் சுடவும்.",
+      "instruction_en": "Drizzle a little oil around the edges and toast.",
+      "image_url": null,
+      "display_order": 6
+    },
+    {
+      "id": "tomato-toast-instruction-7",
+      "step_number": 7,
+      "instruction_ta": "திருப்பிப் போட்டு மேலும் சிறிது எண்ணெய்விட்டு ஒரு நிமிடம் சுட்டு உடனே பரிமாறவும்.",
+      "instruction_en": "Flip again, add a little more oil, toast for a minute, and serve right away.",
+      "image_url": null,
+      "display_order": 7
+    }
+  ]
+}

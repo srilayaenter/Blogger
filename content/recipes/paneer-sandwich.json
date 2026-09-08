@@ -1,0 +1,70 @@
+{
+  "slug": "paneer-sandwich",
+  "title_ta": "பாலாடைக்கட்டி சாண்ட்விச்",
+  "title_en": "Paneer Sandwich",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 115,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["sandwich"],
+  "ingredients": [
+    { "id": "paneer-sandwich-ingredient-1", "name_ta": "ரொட்டி", "name_en": "Bread", "quantity": "16", "unit_ta": "துண்டுகள்", "unit_en": "slices", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "paneer-sandwich-ingredient-2", "name_ta": "பனீர்", "name_en": "Paneer", "quantity": "1", "unit_ta": "லிட்டர்", "unit_en": "litre", "notes_ta": "பாலிலிருந்து தயாரித்தது", "notes_en": "of milk, curdled into paneer", "display_order": 2 },
+    { "id": "paneer-sandwich-ingredient-3", "name_ta": "மைதா", "name_en": "Maida (all-purpose flour)", "quantity": "1", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "paneer-sandwich-ingredient-4", "name_ta": "முளைகட்டிய பாசிப்பயறு", "name_en": "Sprouted moong beans", "quantity": "1/2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "paneer-sandwich-ingredient-5", "name_ta": "தக்காளி சாஸ்", "name_en": "Tomato sauce", "quantity": "1 1/2", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "paneer-sandwich-ingredient-6", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவைக்கேற்ப", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "paneer-sandwich-ingredient-7", "name_ta": "மிளகாய்ப்பொடி", "name_en": "Chili powder", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "paneer-sandwich-ingredient-8", "name_ta": "கரம்மசாலா பொடி", "name_en": "Garam masala powder", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "paneer-sandwich-ingredient-9", "name_ta": "வோர்செஸ்டர்ஷயர் சாஸ்", "name_en": "Worcestershire sauce", "quantity": "2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoons", "notes_ta": null, "notes_en": null, "display_order": 9 },
+    { "id": "paneer-sandwich-ingredient-10", "name_ta": "மிளகுப்பொடி", "name_en": "Pepper powder", "quantity": "1/4", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 10 },
+    { "id": "paneer-sandwich-ingredient-11", "name_ta": "எண்ணெய் (அ) வெண்ணெய்", "name_en": "Oil or butter", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "ரொட்டியின் மீது தடவ", "notes_en": "to spread on the bread", "display_order": 11 }
+  ],
+  "instructions": [
+    {
+      "id": "paneer-sandwich-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "பாலாடைக்கட்டியை (பனீர்) நன்றாக உதிர்த்துவிட்டு அதோடு மைதா, முளைப்பயறு, சாஸ் வகைகள், பொடி வகைகள் சேர்த்து கலக்கவும்.",
+      "instruction_en": "Crumble the paneer thoroughly and mix in the maida, sprouted moong, the sauces, and the powdered spices.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "paneer-sandwich-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "ரொட்டித் துண்டுகளின மேல் வெண்ணெய் தடவவும்.",
+      "instruction_en": "Butter the bread slices.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "paneer-sandwich-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "பாலாடைக்கட்டி கலவையை இரண்டு ரொட்டித் துண்டுகள் மத்தியில் வைத்து சாண்ட்விட்ச் டோஸ்டரில் வைத்து சுடவும்.",
+      "instruction_en": "Place the paneer mixture between two bread slices and toast in a sandwich toaster.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "paneer-sandwich-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "குறிப்பு: இதே கலவையை ஒரு ஸ்லைஸ் மீது சிறிது வைத்து மேலே மெலிதாக சீவப்பட்ட குடமிளகாய் வைத்து துருவிய சீஸ் தூவி ஓவனில் வைத்து (Grill) பேக் செய்யலாம்.",
+      "instruction_en": "Note: the same mixture can be spread on one slice, topped with thinly sliced capsicum and grated cheese, and grilled in the oven instead.",
+      "image_url": null,
+      "display_order": 4
+    }
+  ]
+}

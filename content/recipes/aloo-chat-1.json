@@ -1,0 +1,102 @@
+{
+  "slug": "aloo-chat-1",
+  "title_ta": "ஆலு சாட் - 1",
+  "title_en": "Aloo Chat 1",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 122,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["chaat"],
+  "ingredients": [
+    { "id": "aloo-chat-1-ingredient-1", "name_ta": "வேகவைத்த உருளைக்கிழங்கு", "name_en": "Boiled potato", "quantity": "1/2", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": "சிறியது, ஒரே அளவானது", "notes_en": "small, similar in size", "display_order": 1 },
+    { "id": "aloo-chat-1-ingredient-2", "name_ta": "கெட்டியான தயிர்", "name_en": "Thick curd", "quantity": "1", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "aloo-chat-1-ingredient-3", "name_ta": "சாட் மசாலா பொடி", "name_en": "Chat masala powder", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "தேவைக்கேற்ப", "notes_en": "as needed", "display_order": 3 },
+    { "id": "aloo-chat-1-ingredient-4", "name_ta": "பச்சை மிளகாய்", "name_en": "Green chili", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": "கொத்தமல்லி சட்னிக்கு, அரைக்க", "notes_en": "for the coriander chutney, to grind", "display_order": 4 },
+    { "id": "aloo-chat-1-ingredient-5", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": "கொத்தமல்லி சட்னிக்கு, அரைக்க", "notes_en": "for the coriander chutney, to grind", "display_order": 5 },
+    { "id": "aloo-chat-1-ingredient-6", "name_ta": "கொத்தமல்லித் தழை", "name_en": "Coriander leaves", "quantity": "1", "unit_ta": "கட்டு", "unit_en": "bunch", "notes_ta": "கொத்தமல்லி சட்னிக்கு, அரைக்க", "notes_en": "for the coriander chutney, to grind", "display_order": 6 },
+    { "id": "aloo-chat-1-ingredient-7", "name_ta": "நீர்த்த புளிக்கரைசல்", "name_en": "Thin tamarind extract", "quantity": "1/2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": "இனிப்பு-புளிப்பு சாஸிற்கு", "notes_en": "for the sweet-and-tangy sauce", "display_order": 7 },
+    { "id": "aloo-chat-1-ingredient-8", "name_ta": "தனியா பொடி", "name_en": "Coriander powder", "quantity": "1", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoon", "notes_ta": "இனிப்பு-புளிப்பு சாஸிற்கு", "notes_en": "for the sweet-and-tangy sauce", "display_order": 8 },
+    { "id": "aloo-chat-1-ingredient-9", "name_ta": "சர்க்கரை (அ) வெல்லம்", "name_en": "Sugar or jaggery", "quantity": "1/4", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": "இனிப்பு-புளிப்பு சாஸிற்கு", "notes_en": "for the sweet-and-tangy sauce", "display_order": 9 },
+    { "id": "aloo-chat-1-ingredient-10", "name_ta": "உப்பு, மிளகாய்ப்பொடி", "name_en": "Salt, chili powder", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "இனிப்பு-புளிப்பு சாஸிற்கு, தேவைக்கேற்ப", "notes_en": "for the sweet-and-tangy sauce, as needed", "display_order": 10 },
+    { "id": "aloo-chat-1-ingredient-11", "name_ta": "வறுத்த சீரகப்பொடி", "name_en": "Roasted cumin powder", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": "இனிப்பு-புளிப்பு சாஸிற்கு", "notes_en": "for the sweet-and-tangy sauce", "display_order": 11 }
+  ],
+  "instructions": [
+    {
+      "id": "aloo-chat-1-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "ஒரே அளவிலான சிறிய உருளைக்கிழங்கை வாங்கவும்.",
+      "instruction_en": "Buy small potatoes, all similar in size.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "aloo-chat-1-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "இதை வேக வைத்து, தோலெடுத்து மத்தியில் இரண்டாக வெட்டவும்.",
+      "instruction_en": "Boil, peel, and cut them in half through the middle.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "aloo-chat-1-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "வெட்டிய பாகத்தில் சிறிதளவு கொத்தமல்லி சட்னியைத் தடவி இரண்டு பாகத்தையும் ஒட்டி விடவும்.",
+      "instruction_en": "Spread a little coriander chutney on the cut side and press the two halves back together.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "aloo-chat-1-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "புளிப்பில்லாத தயிரைக் கடைந்து சிறிது உப்பு, சர்க்கரை சேர்த்துக் கொள்ளவும்.",
+      "instruction_en": "Whisk fresh, non-sour curd and mix in a little salt and sugar.",
+      "image_url": null,
+      "display_order": 4
+    },
+    {
+      "id": "aloo-chat-1-instruction-5",
+      "step_number": 5,
+      "instruction_ta": "புளிக் கரைசலை சிறிது நேரம் நன்றாக கொதிக்க வைத்து பச்சை வாசனை போனதும் உப்பு, மிளகாய்த் தூள், துருவிய வெல்லம் சேர்த்துக் கலக்கவும். அடுப்பிலிருந்து இறக்குவதற்கு முன்பு தனியா, சீரகத் தூள் கலந்து இறக்கவும்.",
+      "instruction_en": "Boil the tamarind extract well for a while until the raw smell is gone, then mix in salt, chili powder, and grated jaggery. Just before removing from heat, mix in the coriander and cumin powder.",
+      "image_url": null,
+      "display_order": 5
+    },
+    {
+      "id": "aloo-chat-1-instruction-6",
+      "step_number": 6,
+      "instruction_ta": "உருளைக்கிழங்கை ஒரு தட்டில் அலங்காரமாக வைக்கவும்.",
+      "instruction_en": "Arrange the potatoes decoratively on a plate.",
+      "image_url": null,
+      "display_order": 6
+    },
+    {
+      "id": "aloo-chat-1-instruction-7",
+      "step_number": 7,
+      "instruction_ta": "அதன்மேல் இனிப்பு, புளிப்பு சாஸை ஊற்றி, அதன் மேல் கடைந்த தயிரை ஊற்றவும்.",
+      "instruction_en": "Pour the sweet-and-tangy sauce over them, then pour the whisked curd on top.",
+      "image_url": null,
+      "display_order": 7
+    },
+    {
+      "id": "aloo-chat-1-instruction-8",
+      "step_number": 8,
+      "instruction_ta": "சிறிதளவு மேலே சாட் மசாலாத் தூளைத் தூவி உடனே பரிமாறவும்.",
+      "instruction_en": "Sprinkle a little chat masala powder on top and serve immediately.",
+      "image_url": null,
+      "display_order": 8
+    }
+  ]
+}

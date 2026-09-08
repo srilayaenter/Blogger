@@ -1,0 +1,82 @@
+{
+  "slug": "aloo-bonda",
+  "title_ta": "உருளைக்கிழங்கு போண்டா",
+  "title_en": "Aloo Bonda",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 73,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["bonda"],
+  "ingredients": [
+    { "id": "aloo-bonda-ingredient-1", "name_ta": "வேகவைத்த உருளைக்கிழங்கு", "name_en": "Boiled potato", "quantity": "1/2", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": "பூரணத்திற்கு", "notes_en": "for the filling", "display_order": 1 },
+    { "id": "aloo-bonda-ingredient-2", "name_ta": "பொடியாக நறுக்கிய வெங்காயம்", "name_en": "Finely chopped onion", "quantity": "1/2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "aloo-bonda-ingredient-3", "name_ta": "நறுக்கிய பச்சை மிளகாய்", "name_en": "Chopped green chili", "quantity": "2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoons", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "aloo-bonda-ingredient-4", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவைக்கேற்ப", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "aloo-bonda-ingredient-5", "name_ta": "பொடியாக நறுக்கிய கொத்தமல்லித் தழை", "name_en": "Finely chopped coriander leaves", "quantity": "3", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "aloo-bonda-ingredient-6", "name_ta": "எலுமிச்சம்பழம்", "name_en": "Lemon", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "aloo-bonda-ingredient-7", "name_ta": "மேல்மாவு", "name_en": "Outer batter", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "வெஜிடபிள் போண்டா செய்முறையில் கொடுக்கப்பட்டுள்ளபடி தயாரிக்கவும்", "notes_en": "prepared as in the Vegetable Bonda recipe", "display_order": 7 }
+  ],
+  "instructions": [
+    {
+      "id": "aloo-bonda-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "வேக வைத்த உருளைக்கிழங்கின் தோலை எடுத்துவிட்டு சூடாக இருக்கும்போதே மசித்துக் கொள்ளவும்.",
+      "instruction_en": "Peel the boiled potato and mash it while still hot.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "aloo-bonda-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "மிகப் பொடியாக அரிந்த வெங்காயம், பச்சை மிளகாய், உப்பு சேர்த்துக் கலந்து எலுமிச்சம்பழம் பிழியவும்.",
+      "instruction_en": "Mix in the very finely chopped onion, green chili, and salt, and squeeze in the lemon juice.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "aloo-bonda-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "கொத்தமல்லியையும் சேர்த்துப் பிசைந்து உருண்டைகள் செய்யவும்.",
+      "instruction_en": "Mix in the coriander leaves too and shape into balls.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "aloo-bonda-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "வெஜிடபிள் போண்டாவில் கூறியபடி கடலை மாவு கலவை கலந்து உருண்டைகளை அதில் முக்கி எடுத்து சூடான எண்ணெயில் பொரித்து எடுக்கவும்.",
+      "instruction_en": "Mix a gram-flour batter as described in the Vegetable Bonda recipe, dip the balls in it, and deep-fry in hot oil.",
+      "image_url": null,
+      "display_order": 4
+    },
+    {
+      "id": "aloo-bonda-instruction-5",
+      "step_number": 5,
+      "instruction_ta": "கவனிக்க: இந்த போண்டாவிற்கு, வெங்காயத்தை வதக்காமல் அப்படியே பச்சையாகவே கலந்து போட வேண்டும்.",
+      "instruction_en": "Note: for this bonda, the onion should be mixed in raw, without sauteing.",
+      "image_url": null,
+      "display_order": 5
+    },
+    {
+      "id": "aloo-bonda-instruction-6",
+      "step_number": 6,
+      "instruction_ta": "மாற்று செய்முறை: வெங்காயத்தை வதக்கி உருளைக்கிழங்கு, பட்டாணி சேர்த்து மசாலா தயாரித்து போண்டா செய்யவும்.",
+      "instruction_en": "Alternative method: saute the onion, mix in potato and peas to make a masala, and use it to make the bonda instead.",
+      "image_url": null,
+      "display_order": 6
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "special-curd-vadai-1",
+  "title_ta": "ஸ்பெஷல் தயிர் வடை (1)",
+  "title_en": "Special Curd Vadai 1",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 99,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["vadai"],
+  "ingredients": [
+    { "id": "special-curd-vadai-1-ingredient-1", "name_ta": "தயிர் வடை மாவு", "name_en": "Curd vadai batter", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "தயிர் வடை செய்முறையில் கொடுக்கப்பட்டுள்ளபடி தயாரிக்கவும்", "notes_en": "prepared as in the Thair Vadai recipe", "display_order": 1 },
+    { "id": "special-curd-vadai-1-ingredient-2", "name_ta": "தேங்காய்த் துருவல்", "name_en": "Grated coconut", "quantity": "சிறிதளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "special-curd-vadai-1-ingredient-3", "name_ta": "முந்திரி", "name_en": "Cashew nuts", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "பொடியாக நறுக்கியது", "notes_en": "chopped", "display_order": 3 },
+    { "id": "special-curd-vadai-1-ingredient-4", "name_ta": "பாதாமி", "name_en": "Almonds", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "பொடியாக நறுக்கியது", "notes_en": "chopped", "display_order": 4 },
+    { "id": "special-curd-vadai-1-ingredient-5", "name_ta": "கிஸ்மிஸ் திராட்சை", "name_en": "Raisins", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "special-curd-vadai-1-ingredient-6", "name_ta": "ட்யூட்டி ப்ரூட்டி துண்டுகள்", "name_en": "Tutti-frutti pieces", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "special-curd-vadai-1-ingredient-7", "name_ta": "கெட்டியான தயிர்", "name_en": "Thick curd", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "ஊற வைக்க", "notes_en": "for soaking", "display_order": 7 }
+  ],
+  "instructions": [
+    {
+      "id": "special-curd-vadai-1-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "சிறிதளவு தேங்காயத் துருவல், பொடியாக நறுக்கிய முந்திரி, பாதாமி, கிஸ்மிஸ் திராட்சை, ட்யூட்டி ப்ரூட்டி துண்டங்களை கலந்து கொள்ளவும்.",
+      "instruction_en": "Mix a little grated coconut with chopped cashew, almond, raisins, and tutti-frutti pieces.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "special-curd-vadai-1-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "வடை மாவை தட்டுவதற்கு முன் உருண்டை செய்யும்போது மத்தியில் குழி செய்து சிறிதளவு இந்த கலவையை மத்தியில் வைத்து மூடி பிறகு வடை தட்டி பொரிக்கவும்.",
+      "instruction_en": "Before shaping the vadai, make a well in the center of the ball, place a little of this mixture inside, seal it, then flatten and fry as a vadai.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "special-curd-vadai-1-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "முன்பு கூறியபடி தயிரில் ஊற வைத்து பரிமாறவும்.",
+      "instruction_en": "Soak in curd as described earlier and serve.",
+      "image_url": null,
+      "display_order": 3
+    }
+  ]
+}

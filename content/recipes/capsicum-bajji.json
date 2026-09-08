@@ -1,0 +1,68 @@
+{
+  "slug": "capsicum-bajji",
+  "title_ta": "குடமிளகாய் பஜ்ஜி",
+  "title_en": "Capsicum Bajji",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 92,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["bajji"],
+  "ingredients": [
+    { "id": "capsicum-bajji-ingredient-1", "name_ta": "சிறிய குடமிளகாய்", "name_en": "Small capsicum", "quantity": "1/2", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "capsicum-bajji-ingredient-2", "name_ta": "கடலை மாவு", "name_en": "Gram flour (besan)", "quantity": "1 1/2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "capsicum-bajji-ingredient-3", "name_ta": "அரிசி மாவு", "name_en": "Rice flour", "quantity": "1/2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "capsicum-bajji-ingredient-4", "name_ta": "பொடி உப்பு", "name_en": "Fine salt", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "capsicum-bajji-ingredient-5", "name_ta": "மிளகாய்த் தூள்", "name_en": "Chili powder", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "capsicum-bajji-ingredient-6", "name_ta": "சமையல் சோடா", "name_en": "Cooking soda", "quantity": "2", "unit_ta": "சிட்டிகை", "unit_en": "pinches", "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "capsicum-bajji-ingredient-7", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "பொரிக்கத் தேவையான அளவு", "notes_en": "as needed, for frying", "display_order": 7 },
+    { "id": "capsicum-bajji-ingredient-8", "name_ta": "மிகப் பொடியாக அரிந்த வெங்காயம்", "name_en": "Very finely chopped onion", "quantity": "1/2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": "மேலே அலங்கரிக்க", "notes_en": "for garnish", "display_order": 8 },
+    { "id": "capsicum-bajji-ingredient-9", "name_ta": "எலுமிச்சம் பழம்", "name_en": "Lemon", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": "மேலே அலங்கரிக்க", "notes_en": "for garnish", "display_order": 9 }
+  ],
+  "instructions": [
+    {
+      "id": "capsicum-bajji-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "மாவு வகைகளோடு உப்பு, மிளகாய்த் தூள், சமையல் சோடா சேர்த்து தண்ணீர் விட்டு பஜ்ஜி மாவை விட சிறிது கெட்டியாக கரைக்கவும்.",
+      "instruction_en": "Mix the flours with salt, chili powder, and cooking soda, and thin with water into a batter slightly thicker than regular bajji batter.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "capsicum-bajji-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "முழு குடமிளகாயை இந்த மாவில் முக்கி எடுத்து சூடான எண்ணெயில் பஜ்ஜி போல பொரித்தெடுக்கவும்.",
+      "instruction_en": "Dip the whole capsicums in this batter and deep-fry like bajji in hot oil.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "capsicum-bajji-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "பொரித்த பிறகு மத்தியில் கூரான கத்தியால் பாதி அளவிற்கு லேசாகப் பிளந்து அரிந்த வெங்காயம் சிறிது வைத்து சிறிதளவு எலுமிச்சை ரசம் பிழிந்து உடனே பரிமாறவும்.",
+      "instruction_en": "After frying, slit each one halfway through the middle with a sharp knife, tuck in a little chopped onion, squeeze a little lemon juice over it, and serve immediately.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "capsicum-bajji-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "பானிபூரியில் குறிப்பிட்டுள்ள இனிப்புச் சட்னியோடு பரிமாறவும்.",
+      "instruction_en": "Serve alongside the sweet chutney given in the Pani Puri recipe.",
+      "image_url": null,
+      "display_order": 4
+    }
+  ]
+}

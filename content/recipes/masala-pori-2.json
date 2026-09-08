@@ -1,0 +1,72 @@
+{
+  "slug": "masala-pori-2",
+  "title_ta": "மசாலா பொரி - 2",
+  "title_en": "Masala Pori 2 (Instant Bhel)",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 131,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["chaat"],
+  "ingredients": [
+    { "id": "masala-pori-2-ingredient-1", "name_ta": "அரிசிப் பொரி", "name_en": "Puffed rice", "quantity": "4", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "masala-pori-2-ingredient-2", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": "1", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "masala-pori-2-ingredient-3", "name_ta": "பொட்டுக்கடலை", "name_en": "Roasted gram (pottukadalai)", "quantity": "1", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "masala-pori-2-ingredient-4", "name_ta": "வறுத்த வேர்க்கடலை", "name_en": "Roasted groundnuts", "quantity": "1", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoon", "notes_ta": "தோலுரித்து பொடியாக அரிந்தது", "notes_en": "skinned and roughly chopped", "display_order": 4 },
+    { "id": "masala-pori-2-ingredient-5", "name_ta": "சிறிய வெங்காயம்", "name_en": "Small onions (shallots)", "quantity": "1/4", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": "பொடியாக அரிந்தது", "notes_en": "finely chopped", "display_order": 5 },
+    { "id": "masala-pori-2-ingredient-6", "name_ta": "எலுமிச்சம்பழம்", "name_en": "Lemon", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "masala-pori-2-ingredient-7", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவைக்கேற்ப", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "masala-pori-2-ingredient-8", "name_ta": "மிளகாய்த்தூள்", "name_en": "Chili powder", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "masala-pori-2-ingredient-9", "name_ta": "துருவிய தேங்காய்", "name_en": "Grated coconut", "quantity": "1/4", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": "பச்சை சட்னிக்கு", "notes_en": "for the green chutney", "display_order": 9 },
+    { "id": "masala-pori-2-ingredient-10", "name_ta": "பச்சை மிளகாய்", "name_en": "Green chili", "quantity": "3", "unit_ta": null, "unit_en": null, "notes_ta": "பச்சை சட்னிக்கு", "notes_en": "for the green chutney", "display_order": 10 },
+    { "id": "masala-pori-2-ingredient-11", "name_ta": "கொத்தமல்லித் தழை", "name_en": "Coriander leaves", "quantity": "1/2", "unit_ta": "கட்டு", "unit_en": "bunch", "notes_ta": "பச்சை சட்னிக்கு", "notes_en": "for the green chutney", "display_order": 11 },
+    { "id": "masala-pori-2-ingredient-12", "name_ta": "பொட்டுக்கடலை", "name_en": "Roasted gram (pottukadalai)", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": "பச்சை சட்னிக்கு", "notes_en": "for the green chutney", "display_order": 12 },
+    { "id": "masala-pori-2-ingredient-13", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவைக்கேற்ப", "unit_ta": null, "unit_en": null, "notes_ta": "பச்சை சட்னிக்கு", "notes_en": "for the green chutney", "display_order": 13 }
+  ],
+  "instructions": [
+    {
+      "id": "masala-pori-2-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "அரிந்த சிறிய வெங்காயத்தோடு உப்பு, மிளகாய்த் தூள் சேர்த்து எலுமிச்சம் பழம் பிழிந்து 1 மணி நேரம் ஊற வைக்கவும்.",
+      "instruction_en": "Mix the chopped shallots with salt and chili powder, squeeze in the lemon juice, and let it sit for 1 hour.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "masala-pori-2-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "சட்னியை சிறிதளவே தண்ணீர் சேர்த்து கெட்டியாக அரைத்து 1/2 மணி நேரம் ப்ரிஜ்ஜில் வைக்கவும்.",
+      "instruction_en": "Grind the chutney with just a little water into a thick paste and refrigerate for 1/2 hour.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "masala-pori-2-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "பொட்டுக்கடலையையும், வேர்க்கடலையையும் பொரியோடு சேர்த்து ஒரு டேபிள் ஸ்பூன் எண்ணெய் விட்டு கைகளால் நன்கு கலந்துவிடவும்.",
+      "instruction_en": "Mix the roasted gram and groundnuts with the puffed rice, add one tablespoon of oil, and mix well by hand.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "masala-pori-2-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "தேவைப்படும் அளவு சட்னியையும், ஊறவைத்த வெங்காயம், எலுமிச்சை ரசத்தோடு இதில் சேர்த்துக் கலந்து உப்பு, மிளகாய்த் தூள் பற்றாவிடில் தூவி கலந்து உடனே பரிமாறவும்.",
+      "instruction_en": "Mix in as much of the chutney as needed, along with the marinated onion and its lemon juice, add more salt and chili powder if it's not enough, mix, and serve immediately.",
+      "image_url": null,
+      "display_order": 4
+    }
+  ]
+}

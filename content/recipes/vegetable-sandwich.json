@@ -1,0 +1,118 @@
+{
+  "slug": "vegetable-sandwich",
+  "title_ta": "காய்கறி சாண்ட்விச்",
+  "title_en": "Vegetable Sandwich",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 112,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["sandwich"],
+  "ingredients": [
+    { "id": "vegetable-sandwich-ingredient-1", "name_ta": "ரொட்டி", "name_en": "Bread", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": "முழு ரொட்டி, ஸ்லைஸ் செய்தது", "notes_en": "a whole loaf, sliced", "display_order": 1 },
+    { "id": "vegetable-sandwich-ingredient-2", "name_ta": "வெண்ணெய்", "name_en": "Butter", "quantity": "100", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "vegetable-sandwich-ingredient-3", "name_ta": "புதினா சட்னி", "name_en": "Mint chutney", "quantity": "3", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": "இப் புத்தகத்தின் கடைசியில் உள்ள செய்முறையில் கொடுக்கப்பட்டுள்ளது; மிகக் குறைந்த தண்ணீர் தெளித்து கெட்டியாக அரைக்கவும்", "notes_en": "see the recipe at the end of this book; grind with very little water into a thick paste", "display_order": 3 },
+    { "id": "vegetable-sandwich-ingredient-4", "name_ta": "வெள்ளரிக்காய்", "name_en": "Cucumber", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "vegetable-sandwich-ingredient-5", "name_ta": "கேரட்", "name_en": "Carrot", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "vegetable-sandwich-ingredient-6", "name_ta": "தக்காளி", "name_en": "Tomato", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "vegetable-sandwich-ingredient-7", "name_ta": "பச்சை மிளகாய்", "name_en": "Green chili", "quantity": "6", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "vegetable-sandwich-ingredient-8", "name_ta": "வெங்காயம்", "name_en": "Onion", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "vegetable-sandwich-ingredient-9", "name_ta": "நறுக்கிய கொத்தமல்லித் தழை", "name_en": "Chopped coriander leaves", "quantity": "2", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 9 },
+    { "id": "vegetable-sandwich-ingredient-10", "name_ta": "உப்பு, மிளகுப்பொடி", "name_en": "Salt, pepper powder", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "தேவைக்கேற்ப", "notes_en": "as needed", "display_order": 10 },
+    { "id": "vegetable-sandwich-ingredient-11", "name_ta": "எலுமிச்சம்பழம்", "name_en": "Lemon", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 11 }
+  ],
+  "instructions": [
+    {
+      "id": "vegetable-sandwich-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "காய்கறிகளை தோல் சீவி மெல்லிய வட்டத் துண்டுகளாக அரியவும்.",
+      "instruction_en": "Peel the vegetables and cut into thin rounds.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "vegetable-sandwich-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "பச்சைமிளகாயை விதை எடுத்துவிட்டு மெல்லிய துண்டங்களாக அரியவும். கொத்தமல்லித் தழையையும் மிகப் பொடியாக அரியவும்.",
+      "instruction_en": "Deseed the green chilies and cut into thin pieces. Finely chop the coriander leaves too.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "vegetable-sandwich-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "பிரட் துண்டங்களின் ஓரங்களை வெட்டிவிட்டு ஒவ்வொரு துண்டின் ஒரு பக்கம் மட்டும் வெண்ணெய் தடவவும்.",
+      "instruction_en": "Trim the crusts off the bread pieces and butter just one side of each piece.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "vegetable-sandwich-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "ஒரு ஸ்லைசை எடுத்து வெண்ணெய் தடவிய பக்கத்தின் மேல் சட்னி தடவவும்.",
+      "instruction_en": "Take one slice and spread chutney on the buttered side.",
+      "image_url": null,
+      "display_order": 4
+    },
+    {
+      "id": "vegetable-sandwich-instruction-5",
+      "step_number": 5,
+      "instruction_ta": "அதன் மேல் வெள்ளரிக்காய், மற்றும் கேரட் துண்டங்களை அடுக்கவும்.",
+      "instruction_en": "Arrange the cucumber and carrot slices on top.",
+      "image_url": null,
+      "display_order": 5
+    },
+    {
+      "id": "vegetable-sandwich-instruction-6",
+      "step_number": 6,
+      "instruction_ta": "அதன் மேல் இன்னுமொரு ஸ்லைஸ் வைக்கவும்.",
+      "instruction_en": "Place another slice on top.",
+      "image_url": null,
+      "display_order": 6
+    },
+    {
+      "id": "vegetable-sandwich-instruction-7",
+      "step_number": 7,
+      "instruction_ta": "அதன் மேல் சட்னி தடவி மேலே வெங்காயம் தக்காளி பரப்பவும். மத்தியில் மிளகாய் மற்றும் கொத்தமல்லித் தழையை வைக்கவும்.",
+      "instruction_en": "Spread chutney on it, scatter onion and tomato over the top, and place the chili and coriander leaves in the center.",
+      "image_url": null,
+      "display_order": 7
+    },
+    {
+      "id": "vegetable-sandwich-instruction-8",
+      "step_number": 8,
+      "instruction_ta": "மேலே சிறிது உப்பு, மிளகுத்தூள் தூவி, எலுமிச்சை ரசம் சில சொட்டுக்கள் விடவும்.",
+      "instruction_en": "Sprinkle a little salt and pepper powder on top, and add a few drops of lemon juice.",
+      "image_url": null,
+      "display_order": 8
+    },
+    {
+      "id": "vegetable-sandwich-instruction-9",
+      "step_number": 9,
+      "instruction_ta": "அதற்கும் மேலே மூன்றாவது ரொட்டித் துண்டை வெண்ணெய் பூசிய பாகம் காய்கறியின் மேல் படுமாறு மூடவும்.",
+      "instruction_en": "Cover with a third bread slice, buttered-side down onto the vegetables.",
+      "image_url": null,
+      "display_order": 9
+    },
+    {
+      "id": "vegetable-sandwich-instruction-10",
+      "step_number": 10,
+      "instruction_ta": "நன்றாக அமுக்கி ஒரு கூரிய கத்தியின் உதவியால் நான்கு சதுரத் துண்டங்களாக கீழ்அடுக்குவரை அரியவும். மேலே தக்காளி சாஸ் தெளித்து உடனே பரிமாறவும்.",
+      "instruction_en": "Press down firmly and slice through to the bottom layer with a sharp knife into four squares. Drizzle tomato sauce on top and serve immediately.",
+      "image_url": null,
+      "display_order": 10
+    }
+  ]
+}

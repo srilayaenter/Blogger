@@ -1,0 +1,108 @@
+{
+  "slug": "vegetable-burgers",
+  "title_ta": "வெஜிடபிள் பர்கர்ஸ்",
+  "title_en": "Vegetable Burgers",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 70,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["fusion"],
+  "ingredients": [
+    { "id": "vegetable-burgers-ingredient-1", "name_ta": "தயாரித்து வைத்த கட்லெட்", "name_en": "Ready-made cutlets", "quantity": "6", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "vegetable-burgers-ingredient-2", "name_ta": "வட்டமான பன்", "name_en": "Round buns", "quantity": "6", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "vegetable-burgers-ingredient-3", "name_ta": "முட்டைக்கோஸ்", "name_en": "Cabbage", "quantity": "150", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "vegetable-burgers-ingredient-4", "name_ta": "வெங்காயம்", "name_en": "Onion", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "vegetable-burgers-ingredient-5", "name_ta": "தக்காளி", "name_en": "Tomato", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "vegetable-burgers-ingredient-6", "name_ta": "பீட்ரூட்", "name_en": "Beetroot", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "vegetable-burgers-ingredient-7", "name_ta": "தக்காளி சாஸ்", "name_en": "Tomato sauce", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "தேவைக்கேற்ப", "notes_en": "as needed", "display_order": 7 },
+    { "id": "vegetable-burgers-ingredient-8", "name_ta": "துருவிய சீஸ்", "name_en": "Grated cheese", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "விருப்பமானால்", "notes_en": "optional", "display_order": 8 },
+    { "id": "vegetable-burgers-ingredient-9", "name_ta": "வெண்ணெய்", "name_en": "Butter", "quantity": "50", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 9 }
+  ],
+  "instructions": [
+    {
+      "id": "vegetable-burgers-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "கட்லெட்டை வட்டவடிவில் மெலிதாகச் செய்து பொரித்தெடுக்கவும்.",
+      "instruction_en": "Shape the cutlets thin and round, and deep-fry them.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "vegetable-burgers-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "பன்னை மத்தியில் இரண்டாக வெட்டி வெண்ணெய் தடவி லேசாக தோசைக்கல்லில் இருபுறமும் சூடாக்கி எடுக்கவும்.",
+      "instruction_en": "Slice the bun in half through the middle, butter it, and warm both cut sides lightly on a griddle.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "vegetable-burgers-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "முட்டைக்கோஸ் இலைகளை தனித்தனியாகப் பிரித்தெடுத்து சூடான தண்ணீரில் சிறிது மஞ்சள் தூள் சேர்த்து அதில் போட்டு வைக்கவும். 5 நிமிடம் கழித்து தண்ணீரை வடித்துவிட்டு இலைகளை ஈரம் வற்றுவதற்கான ஒரு துணியின் மேல் வைக்கவும்.",
+      "instruction_en": "Separate the cabbage leaves and drop them into hot water with a little turmeric powder. After 5 minutes, drain and spread the leaves on a cloth to dry.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "vegetable-burgers-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "வெங்காயம், தக்காளியை மெல்லிய வட்டங்களாக அரியவும். முழு பீட்ரூட்டை வேகவைத்து தோலெடுத்து மெலிதாக சிப்ஸ் போல அரியவும்.",
+      "instruction_en": "Slice the onion and tomato into thin rounds. Boil the whole beetroot, peel, and slice thin like chips.",
+      "image_url": null,
+      "display_order": 4
+    },
+    {
+      "id": "vegetable-burgers-instruction-5",
+      "step_number": 5,
+      "instruction_ta": "சுட்ட பன்னின் கீழ்ப்பாகத்தின் மேல் ஒரு கோஸ் இலை, அதன் மேல் வெங்காயம், கட்லெட், பீட்ரூட், தக்காளி போன்றவைகளை அலங்காரமாக அடுக்கவும்.",
+      "instruction_en": "On the toasted bottom half of the bun, layer a cabbage leaf, then arrange the onion, cutlet, beetroot, and tomato decoratively on top.",
+      "image_url": null,
+      "display_order": 5
+    },
+    {
+      "id": "vegetable-burgers-instruction-6",
+      "step_number": 6,
+      "instruction_ta": "பன்னின் மேல்பாகத்தை அதன்மேல் வைத்து அதற்கென கிடைக்கும் பிளாஸ்டிக் குச்சி அல்லது பிளாஸ்டிக் முள்கரண்டியால் மேலே குத்தவும். அப்போதுதான் காய்கறிகள் கீழே விழாமல் இருக்கும்.",
+      "instruction_en": "Place the top half of the bun over it and skewer it with the special plastic pick or plastic fork made for this -- only then will the vegetables stay in place without falling out.",
+      "image_url": null,
+      "display_order": 6
+    },
+    {
+      "id": "vegetable-burgers-instruction-7",
+      "step_number": 7,
+      "instruction_ta": "பரிமாறும் போது தட்டில் ஒரு சாலட் இலை, பொரித்த ஃபிங்கர் சிப்ஸ், தக்காளி சாஸ் இவற்றை அலங்காரமாக பக்கத்தில் வைத்து பரிமாறவும்.",
+      "instruction_en": "When serving, arrange a lettuce leaf, fried finger chips, and tomato sauce decoratively on the plate alongside.",
+      "image_url": null,
+      "display_order": 7
+    },
+    {
+      "id": "vegetable-burgers-instruction-8",
+      "step_number": 8,
+      "instruction_ta": "சீஸ் பர்கர் செய்ய விருப்பப்பட்டால் பன்னின் மேல் வெண்ணெய் பூசி, மெலிதாக அரிந்த சீஸை அதன் மேல் வைத்த பிறகு மற்ற காய்கறிகள், கட்லெட் அடுக்கவும், சூடாக்கிய ஓவனில் 10 நிமிடம் வைத்து சூடாகப் பரிமாறவும்.",
+      "instruction_en": "To make a cheese burger, butter the bun, place thinly sliced cheese on top, then layer the other vegetables and cutlet, and heat in a preheated oven for 10 minutes before serving hot.",
+      "image_url": null,
+      "display_order": 8
+    },
+    {
+      "id": "vegetable-burgers-instruction-9",
+      "step_number": 9,
+      "instruction_ta": "குறிப்பு: உப்பு காரம் அதிகம் தேவைப்படுபவர்கள் அரிந்த வெங்காயம், தக்காளி, பீட்ரூட்டின் மேல் சிறிது உப்பு, மிளகுத் தூள், எலுமிச்சை சாறு பிழிந்து சிறிது நேரம் வைத்திருந்து பிறகு பர்கரின் மேல் அடுக்கலாம்.",
+      "instruction_en": "Note: those who like extra salt and spice can toss the sliced onion, tomato, and beetroot with a little salt, pepper powder, and lemon juice, let it sit for a while, then layer it onto the burger.",
+      "image_url": null,
+      "display_order": 9
+    }
+  ]
+}

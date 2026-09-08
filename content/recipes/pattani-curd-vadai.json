@@ -1,0 +1,68 @@
+{
+  "slug": "pattani-curd-vadai",
+  "title_ta": "பட்டாணி தயிர் வடை",
+  "title_en": "Pattani Curd Vadai",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 99,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["vadai"],
+  "ingredients": [
+    { "id": "pattani-curd-vadai-ingredient-1", "name_ta": "தயிர் வடை மாவு", "name_en": "Curd vadai batter", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "தயிர் வடை செய்முறையில் கொடுக்கப்பட்டுள்ளபடி தயாரிக்கவும்", "notes_en": "prepared as in the Thair Vadai recipe", "display_order": 1 },
+    { "id": "pattani-curd-vadai-ingredient-2", "name_ta": "உரித்த பச்சைப் பட்டாணி", "name_en": "Shelled fresh green peas", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "pattani-curd-vadai-ingredient-3", "name_ta": "பச்சைமிளகாய் விழுது", "name_en": "Green chili paste", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "pattani-curd-vadai-ingredient-4", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவைக்கேற்ப", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "pattani-curd-vadai-ingredient-5", "name_ta": "கரம்மசாலாத் தூள்", "name_en": "Garam masala powder", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "pattani-curd-vadai-ingredient-6", "name_ta": "தனியாத் தூள்", "name_en": "Coriander powder", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "pattani-curd-vadai-ingredient-7", "name_ta": "துருவிய தேங்காய்", "name_en": "Grated coconut", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "pattani-curd-vadai-ingredient-8", "name_ta": "எலுமிச்சை ரசம்", "name_en": "Lemon juice", "quantity": "சிறிது", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "pattani-curd-vadai-ingredient-9", "name_ta": "கெட்டியான தயிர்", "name_en": "Thick curd", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "ஊற வைக்க", "notes_en": "for soaking", "display_order": 9 }
+  ],
+  "instructions": [
+    {
+      "id": "pattani-curd-vadai-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "உரித்த பச்சைப் பட்டாணியைக் கழுவி மத்தினால் லேசாக மசிக்கவும் (மிக்ஸியிலும் ஒரு தடவை அடிக்கலாம்).",
+      "instruction_en": "Wash the shelled fresh peas and mash lightly with a masher (a mixer can also be pulsed once).",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "pattani-curd-vadai-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "வாணலியில் சிறிது எண்ணெய் விட்டுச் சூடாக்கி மசித்த பட்டாணியைப் போட்டு சில நிமிடங்கள் பச்சை வாசனை போகும்வரை வதக்கவும்.",
+      "instruction_en": "Heat a little oil in a pan, add the mashed peas, and saute for a few minutes until the raw smell goes.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "pattani-curd-vadai-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "இதோடு பச்சைமிளகாய் விழுது, உப்பு, கரம்மசாலாத் தூள், தனியாத் தூள், துருவிய தேங்காய் சேர்த்து கலந்து இறக்கவும். சிறிது எலுமிச்சை ரசம் சேர்த்து கலக்கவும்.",
+      "instruction_en": "Add green chili paste, salt, garam masala powder, coriander powder, and grated coconut, mix, and remove from heat. Stir in a little lemon juice.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "pattani-curd-vadai-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "இக்கலவையை வடையின் மத்தியில் ஸ்டப் செய்து பொரிக்கவும். மற்ற தயிர் வடைகளைப் போல தயிரில் ஊறவைக்கவும்.",
+      "instruction_en": "Stuff this mixture into the center of the vadai and fry. Soak in curd like the other curd vadais.",
+      "image_url": null,
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "slug": "vermicelli-pakodas",
+  "title_ta": "சேமியா பக்கோடா",
+  "title_en": "Vermicelli Pakodas",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 86,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["bajji"],
+  "ingredients": [
+    { "id": "vermicelli-pakodas-ingredient-1", "name_ta": "பெரிய வெங்காயம்", "name_en": "Big onion", "quantity": "3", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "vermicelli-pakodas-ingredient-2", "name_ta": "சேமியா", "name_en": "Vermicelli", "quantity": "1", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "vermicelli-pakodas-ingredient-3", "name_ta": "வேகவைத்த உருளைக்கிழங்கு", "name_en": "Boiled potato", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": "பெரியது", "notes_en": "large", "display_order": 3 },
+    { "id": "vermicelli-pakodas-ingredient-4", "name_ta": "இஞ்சி, பூண்டு விழுது", "name_en": "Ginger-garlic paste", "quantity": "1", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "vermicelli-pakodas-ingredient-5", "name_ta": "பச்சை மிளகாய்", "name_en": "Green chili", "quantity": "6", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "vermicelli-pakodas-ingredient-6", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவைக்கேற்ப", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "vermicelli-pakodas-ingredient-7", "name_ta": "கடலை மாவு", "name_en": "Gram flour (besan)", "quantity": "1/4", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "vermicelli-pakodas-ingredient-8", "name_ta": "அரிசி மாவு", "name_en": "Rice flour", "quantity": "1", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "vermicelli-pakodas-ingredient-9", "name_ta": "நறுக்கிய கொத்தமல்லித் தழை", "name_en": "Chopped coriander leaves", "quantity": "1", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 9 },
+    { "id": "vermicelli-pakodas-ingredient-10", "name_ta": "மிளகாய்ப் பொடி", "name_en": "Chili powder", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 10 },
+    { "id": "vermicelli-pakodas-ingredient-11", "name_ta": "புதினாத் தழை, முந்திரி", "name_en": "Mint leaves, cashew nuts", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "விருப்பப்படி", "notes_en": "optional, to taste", "display_order": 11 },
+    { "id": "vermicelli-pakodas-ingredient-12", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "பொரிக்கத் தேவையான அளவு", "notes_en": "as needed, for frying", "display_order": 12 }
+  ],
+  "instructions": [
+    {
+      "id": "vermicelli-pakodas-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "வெங்காயத்தையும், பச்சை மிளகாயையும் மெலிதாக நீளவாக்கில் அரியவும்.",
+      "instruction_en": "Slice the onion and green chili thin, lengthwise.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "vermicelli-pakodas-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "சேமியாவை சிறிது நெய் பூசி பொன்னிறமாக வறுக்கவும்.",
+      "instruction_en": "Brush the vermicelli lightly with ghee and roast until golden.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "vermicelli-pakodas-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "வறுத்த சேமியாவின் மேல் கொதிக்கும் தண்ணீர் ஊற்றி உடனே வடித்துவிடவும். மேலும் கொஞ்சம் பச்சை தண்ணீரை ஊற்றி வடிதட்டின் உதவியால் வடிகட்டவும்.",
+      "instruction_en": "Pour boiling water over the roasted vermicelli and drain it immediately. Rinse with a little more cold water and drain again on a rack.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "vermicelli-pakodas-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "உருளைக்கிழங்கை நன்றாக மசித்துக்கொண்டு அதோடு சேமியாவையும் மற்ற குறிப்பிடப்பட்ட பொருட்களையும் சேர்த்து கலந்து கொள்ளவும். இதோடு ஒரு டேபிள் ஸ்பூன் சூடான எண்ணெய் விட்டுக் கலக்கவும்.",
+      "instruction_en": "Mash the potato well, then mix in the vermicelli and the rest of the listed ingredients. Add a tablespoon of hot oil and mix in.",
+      "image_url": null,
+      "display_order": 4
+    },
+    {
+      "id": "vermicelli-pakodas-instruction-5",
+      "step_number": 5,
+      "instruction_ta": "மற்ற பக்கோடாக்களைப் போல சூடான எண்ணெயில் பொரித்து சூடாகப் பரிமாறவும்.",
+      "instruction_en": "Deep-fry in hot oil like the other pakodas and serve hot.",
+      "image_url": null,
+      "display_order": 5
+    }
+  ]
+}

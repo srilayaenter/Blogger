@@ -1,0 +1,82 @@
+{
+  "slug": "mullangi-vadai",
+  "title_ta": "முள்ளங்கி வடை",
+  "title_en": "Mullangi Vadai",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 107,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["vadai"],
+  "ingredients": [
+    { "id": "mullangi-vadai-ingredient-1", "name_ta": "வெள்ளை முள்ளங்கி", "name_en": "White radish", "quantity": "1/4", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "mullangi-vadai-ingredient-2", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவைக்கேற்ப", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "mullangi-vadai-ingredient-3", "name_ta": "அரிசி மாவு", "name_en": "Rice flour", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "பிடிக்குமளவு", "notes_en": "as needed to bind", "display_order": 3 },
+    { "id": "mullangi-vadai-ingredient-4", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "பொரிக்கத் தேவையான அளவு", "notes_en": "as needed, for frying", "display_order": 4 },
+    { "id": "mullangi-vadai-ingredient-5", "name_ta": "பச்சை மிளகாய்", "name_en": "Green chili", "quantity": "7", "unit_ta": null, "unit_en": null, "notes_ta": "அரைக்க", "notes_en": "to grind", "display_order": 5 },
+    { "id": "mullangi-vadai-ingredient-6", "name_ta": "நறுக்கிய கொத்தமல்லித் தழை", "name_en": "Chopped coriander leaves", "quantity": "2", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": "அரைக்க", "notes_en": "to grind", "display_order": 6 },
+    { "id": "mullangi-vadai-ingredient-7", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "1", "unit_ta": "சிட்டிகை", "unit_en": "pinch", "notes_ta": "அரைக்க; தண்ணீர் அதிகம் சேர்க்காமல் அரைக்கவும்", "notes_en": "to grind; grind without adding much water", "display_order": 7 }
+  ],
+  "instructions": [
+    {
+      "id": "mullangi-vadai-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "முள்ளங்கியை நன்றாக கழுவி மெல்லிய துருவியின் உதவியால் துருவிக் கொள்ளவும்.",
+      "instruction_en": "Wash the radish well and grate it on a fine grater.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "mullangi-vadai-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "இதோடு அரைத்த விழுது, உப்பு மற்றும் உருண்டை பிடிக்குமளவிற்கு பச்சரிசி மாவைச் சேர்த்துக் கொள்ளவும்.",
+      "instruction_en": "Mix in the ground paste, salt, and enough rice flour to form a ball.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "mullangi-vadai-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "சிறு உருண்டைகள் செய்து ஈரத்துணியின் மேல் மெல்லிய வடையாகத் தட்டி எண்ணெயில் பொரிக்கவும்.",
+      "instruction_en": "Shape small balls, flatten thin on a damp cloth, and deep-fry in oil.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "mullangi-vadai-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "பொரிக்கும் போது 3 அல்லது 4க்கு மேல் எண்ணெயில் ஒரே நேரம் போட வேண்டாம்.",
+      "instruction_en": "Don't fry more than 3 or 4 at a time.",
+      "image_url": null,
+      "display_order": 4
+    },
+    {
+      "id": "mullangi-vadai-instruction-5",
+      "step_number": 5,
+      "instruction_ta": "அடிப்பாகம் வெந்ததும் திருப்பிப் போட்டு நன்று கரகரப்பாக ஆனதும் எடுத்து எண்ணெயை நன்றாக வடியவிட்டு சூடாகப் பரிமாறவும்.",
+      "instruction_en": "Once the bottom is cooked, flip and once it's crisp all over, remove, drain the oil well, and serve hot.",
+      "image_url": null,
+      "display_order": 5
+    },
+    {
+      "id": "mullangi-vadai-instruction-6",
+      "step_number": 6,
+      "instruction_ta": "குறிப்பு: இந்த மாவை கலந்த உடனே பொரித்து விட வேண்டும். அதிக நேரம் வைக்கக் கூடாது.",
+      "instruction_en": "Note: fry this batter as soon as it's mixed. Don't let it sit for long.",
+      "image_url": null,
+      "display_order": 6
+    }
+  ]
+}

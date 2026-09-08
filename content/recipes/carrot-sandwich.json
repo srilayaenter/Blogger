@@ -1,0 +1,99 @@
+{
+  "slug": "carrot-sandwich",
+  "title_ta": "கேரட் சாண்ட்விச்",
+  "title_en": "Carrot Sandwich",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 114,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["sandwich"],
+  "ingredients": [
+    { "id": "carrot-sandwich-ingredient-1", "name_ta": "கேரட்", "name_en": "Carrot", "quantity": "1/4", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "carrot-sandwich-ingredient-2", "name_ta": "வெங்காயம்", "name_en": "Onion", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "carrot-sandwich-ingredient-3", "name_ta": "இஞ்சி, பச்சை மிளகாய் விழுது", "name_en": "Ginger-green chili paste", "quantity": "2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoons", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "carrot-sandwich-ingredient-4", "name_ta": "தக்காளி", "name_en": "Tomato", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "carrot-sandwich-ingredient-5", "name_ta": "நறுக்கிய புதினா, கொத்தமல்லி, கறிவேப்பிலைத் தழை", "name_en": "Chopped mint, coriander, and curry leaves", "quantity": "2", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "carrot-sandwich-ingredient-6", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவைக்கேற்ப", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "carrot-sandwich-ingredient-7", "name_ta": "வெண்ணெய்", "name_en": "Butter", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "தேவையதற்கு", "notes_en": "as needed", "display_order": 7 },
+    { "id": "carrot-sandwich-ingredient-8", "name_ta": "ரொட்டி", "name_en": "Bread", "quantity": "10", "unit_ta": "துண்டுகள்", "unit_en": "slices", "notes_ta": null, "notes_en": null, "display_order": 8 }
+  ],
+  "instructions": [
+    {
+      "id": "carrot-sandwich-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "ஒரு கேரட்டை குக்கரில் ஆவியில் வேகவைத்து துருவிக் கொள்ளவும்.",
+      "instruction_en": "Steam a carrot in a pressure cooker and grate it.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "carrot-sandwich-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "வெங்காயம், தக்காளியை பொடியாக அரியவும்.",
+      "instruction_en": "Finely chop the onion and tomato.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "carrot-sandwich-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "வாணலியில் சிறிது எண்ணெய் விட்டு சூடாக்கி சிறிது கடுகு தாளித்ததும் இஞ்சி மிளகாய் விழுது சேர்க்கவும்.",
+      "instruction_en": "Heat a little oil in a pan, temper a little mustard, then add the ginger-chili paste.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "carrot-sandwich-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "ஒரு நிமிடம் வதங்கியதும் வெங்காயத்தை சேர்த்து சிவக்க வதக்கவும்.",
+      "instruction_en": "Once sauteed for a minute, add the onion and saute until reddish.",
+      "image_url": null,
+      "display_order": 4
+    },
+    {
+      "id": "carrot-sandwich-instruction-5",
+      "step_number": 5,
+      "instruction_ta": "வதங்கியதும் தக்காளி சேர்த்து விழுதாகும் வரை வதக்கவும்.",
+      "instruction_en": "Once wilted, add the tomato and saute until it turns to a paste.",
+      "image_url": null,
+      "display_order": 5
+    },
+    {
+      "id": "carrot-sandwich-instruction-6",
+      "step_number": 6,
+      "instruction_ta": "சாறு வற்றியதும் துருவிய கேரட், உப்பு, அரிந்த கொத்தமல்லி, கறிவேப்பிலை, புதினா சேர்த்து நன்றாக வதக்கவும்.",
+      "instruction_en": "Once the moisture dries up, add the grated carrot, salt, chopped coriander, curry leaves, and mint, and saute well.",
+      "image_url": null,
+      "display_order": 6
+    },
+    {
+      "id": "carrot-sandwich-instruction-7",
+      "step_number": 7,
+      "instruction_ta": "ஆறியதும் இந்த மசாலாவை வெண்ணெய் தடவிய ரொட்டித் துண்டுகளின் மத்தியில் வைத்து மூடி சாண்ட்விட்ச் போல அழுத்திக் கத்தரித்து தக்காளி சாஸுடன் பரிமாறவும்.",
+      "instruction_en": "Once cooled, place this masala between buttered bread slices, close it up, press and cut like a sandwich, and serve with tomato sauce.",
+      "image_url": null,
+      "display_order": 7
+    },
+    {
+      "id": "carrot-sandwich-instruction-8",
+      "step_number": 8,
+      "instruction_ta": "குறிப்பு: காய்ந்த வதங்கி மசாலா தயாராகும்போது, அதையே அரைத்து சட்னி போலாக்கி ரொட்டியின் மத்தியில் வைத்து கட்டிக் கொடுக்கலாம்.",
+      "instruction_en": "Note: once the sauteed masala is ready, it can also be ground into a chutney-like paste and spread in the middle of the bread to make the sandwich.",
+      "image_url": null,
+      "display_order": 8
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "slug": "mint-chutney-cutlets",
+  "title_ta": "புதினா சட்னி (கட்லெட்டிற்கு)",
+  "title_en": "Mint Chutney (for Cutlets)",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 132,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["chutney"],
+  "ingredients": [
+    { "id": "mint-chutney-cutlets-ingredient-1", "name_ta": "உருவிய புதினா இலை", "name_en": "Picked mint leaves", "quantity": "1 1/2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "mint-chutney-cutlets-ingredient-2", "name_ta": "பெரிய வெங்காயம்", "name_en": "Big onion", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": "சதுரமாக அரியவும்", "notes_en": "cut into cubes", "display_order": 2 },
+    { "id": "mint-chutney-cutlets-ingredient-3", "name_ta": "பச்சை மிளகாய்", "name_en": "Green chili", "quantity": "6", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "mint-chutney-cutlets-ingredient-4", "name_ta": "இஞ்சி", "name_en": "Ginger", "quantity": "1", "unit_ta": "அங்குலத் துண்டு", "unit_en": "inch piece", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "mint-chutney-cutlets-ingredient-5", "name_ta": "புளி", "name_en": "Tamarind", "quantity": "சிறிதளவு", "unit_ta": null, "unit_en": null, "notes_ta": "தண்ணீரில் ஊற வைக்கவும்", "notes_en": "soaked in water", "display_order": 5 },
+    { "id": "mint-chutney-cutlets-ingredient-6", "name_ta": "காய்ந்த புளிப்பு மாதுளம்பழ விதை", "name_en": "Dried sour pomegranate seeds", "quantity": "2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoons", "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "mint-chutney-cutlets-ingredient-7", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவைக்கேற்ப", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "mint-chutney-cutlets-ingredient-8", "name_ta": "எண்ணெய், கடுகு", "name_en": "Oil, mustard seeds", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "தாளிக்க", "notes_en": "for tempering", "display_order": 8 }
+  ],
+  "instructions": [
+    {
+      "id": "mint-chutney-cutlets-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "கூறப்பட்டுள்ள பொருட்கள் எல்லாவற்றையும் ஒன்றாக, கெட்டியான சட்னியாக அரைத்துக் கொள்ளவும்.",
+      "instruction_en": "Grind all the listed ingredients together into a thick chutney.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "mint-chutney-cutlets-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "சிறிது எண்ணெயில் கடுகு தாளித்துக் கொட்டி கலக்கவும்.",
+      "instruction_en": "Temper mustard seeds in a little oil and pour it in, mixing well.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "mint-chutney-cutlets-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "ரொட்டியின் மேல் பூசுவதற்கு உபயோகப்படுத்தவும்.",
+      "instruction_en": "Use to spread on bread.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "mint-chutney-cutlets-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "குறிப்பு: இதே சட்னியில் புதினாவோடு சம அளவு கொத்தமல்லித் தழையும் சேர்த்து அரைக்கலாம்.",
+      "instruction_en": "Note: the same chutney can also be made with equal parts mint and coriander leaves ground in.",
+      "image_url": null,
+      "display_order": 4
+    }
+  ]
+}

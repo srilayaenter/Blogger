@@ -1,0 +1,61 @@
+{
+  "slug": "mor-kuzhambu-vadai",
+  "title_ta": "மோர்க்குழம்பு வடை",
+  "title_en": "Mor Kuzhambu Vadai",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 100,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["vadai"],
+  "ingredients": [
+    { "id": "mor-kuzhambu-vadai-ingredient-1", "name_ta": "தயிர் வடை மாவு", "name_en": "Curd vadai batter", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "தயிர் வடை செய்முறையில் கொடுக்கப்பட்டுள்ளபடி தயாரிக்கவும்", "notes_en": "prepared as in the Thair Vadai recipe", "display_order": 1 },
+    { "id": "mor-kuzhambu-vadai-ingredient-2", "name_ta": "புளித்த தயிர்", "name_en": "Sour curd", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "கடையவும்", "notes_en": "whisked", "display_order": 2 },
+    { "id": "mor-kuzhambu-vadai-ingredient-3", "name_ta": "துருவிய தேங்காய்", "name_en": "Grated coconut", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "அரைக்க", "notes_en": "to grind", "display_order": 3 },
+    { "id": "mor-kuzhambu-vadai-ingredient-4", "name_ta": "பச்சைமிளகாய்", "name_en": "Green chili", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "அரைக்க", "notes_en": "to grind", "display_order": 4 },
+    { "id": "mor-kuzhambu-vadai-ingredient-5", "name_ta": "பொரிகடலை", "name_en": "Roasted gram (pottukadalai)", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "அரைக்க", "notes_en": "to grind", "display_order": 5 },
+    { "id": "mor-kuzhambu-vadai-ingredient-6", "name_ta": "முந்திரி", "name_en": "Cashew nuts", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "அரைக்க", "notes_en": "to grind", "display_order": 6 },
+    { "id": "mor-kuzhambu-vadai-ingredient-7", "name_ta": "சீரகம்", "name_en": "Cumin", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "அரைக்க", "notes_en": "to grind", "display_order": 7 },
+    { "id": "mor-kuzhambu-vadai-ingredient-8", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவைக்கேற்ப", "unit_ta": null, "unit_en": null, "notes_ta": "அரைக்க", "notes_en": "to grind", "display_order": 8 },
+    { "id": "mor-kuzhambu-vadai-ingredient-9", "name_ta": "மஞ்சள் தூள்", "name_en": "Turmeric powder", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "அரைக்க", "notes_en": "to grind", "display_order": 9 },
+    { "id": "mor-kuzhambu-vadai-ingredient-10", "name_ta": "கொத்தமல்லித் தழை", "name_en": "Coriander leaves", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "மேலே அலங்கரிக்க", "notes_en": "for garnish", "display_order": 10 }
+  ],
+  "instructions": [
+    {
+      "id": "mor-kuzhambu-vadai-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "புளித்த தயிரைக் கடையவும். துருவிய தேங்காய், பச்சைமிளகாய், பொரிகடலை, முந்திரி, சீரகம், உப்பு, மஞ்சள் தூள் ஒன்றாக அரைத்து கடைந்த தயிரில் கலக்கவும்.",
+      "instruction_en": "Whisk the sour curd. Grind together the grated coconut, green chili, roasted gram, cashews, cumin, salt, and turmeric powder, and mix into the whisked curd.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "mor-kuzhambu-vadai-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "விருப்பப்பட்டால் சிறிது தண்ணீர் சேர்த்து ஒரு சில நிமிடங்கள் கொதிக்க வைக்கவும்.",
+      "instruction_en": "If you like, add a little water and bring to a boil for a few minutes.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "mor-kuzhambu-vadai-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "வடைகளைப் பொரித்ததும் சூடான தண்ணீரில் முக்கி எடுத்து இந்த மோர்க் குழம்பில் போட்டு ஊற வைக்கவும். 2 மணி நேரம் கழித்து கொத்தமல்லித் தழை தூவி அலங்கரித்து பரிமாறவும்.",
+      "instruction_en": "Once the vadais are fried, dip them in hot water, then drop them into this buttermilk kuzhambu to soak. After 2 hours, garnish with coriander leaves and serve.",
+      "image_url": null,
+      "display_order": 3
+    }
+  ]
+}

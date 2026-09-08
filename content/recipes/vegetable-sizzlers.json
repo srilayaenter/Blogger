@@ -1,0 +1,115 @@
+{
+  "slug": "vegetable-sizzlers",
+  "title_ta": "வெஜிடபிள் சிஸ்லர்ஸ்",
+  "title_en": "Vegetable Sizzlers",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 69,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["fusion"],
+  "ingredients": [
+    { "id": "vegetable-sizzlers-ingredient-1", "name_ta": "வெங்காயம், கேரட்", "name_en": "Onion, carrot", "quantity": "2, 2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "vegetable-sizzlers-ingredient-2", "name_ta": "தக்காளி", "name_en": "Tomato", "quantity": "2 (அ) 3", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "vegetable-sizzlers-ingredient-3", "name_ta": "வெள்ளரிக்காய்", "name_en": "Cucumber", "quantity": "150", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "vegetable-sizzlers-ingredient-4", "name_ta": "முட்டைக்கோஸ்", "name_en": "Cabbage", "quantity": "150", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "vegetable-sizzlers-ingredient-5", "name_ta": "உரித்த பட்டாணி", "name_en": "Shelled green peas", "quantity": "100", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "vegetable-sizzlers-ingredient-6", "name_ta": "குடமிளகாய்", "name_en": "Capsicum", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "vegetable-sizzlers-ingredient-7", "name_ta": "வெங்காயத் தாள்", "name_en": "Spring onion greens", "quantity": "1 (அ) 2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "vegetable-sizzlers-ingredient-8", "name_ta": "உருளைக்கிழங்கு", "name_en": "Potato", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": "வேக வைத்தது", "notes_en": "boiled", "display_order": 8 },
+    { "id": "vegetable-sizzlers-ingredient-9", "name_ta": "வோர்செஸ்டர்ஷயர் சாஸ், தக்காளி சாஸ், மிளகாய் சாஸ்", "name_en": "Worcestershire sauce, tomato sauce, chili sauce", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "தேவைக்கேற்ப", "notes_en": "as needed", "display_order": 9 },
+    { "id": "vegetable-sizzlers-ingredient-10", "name_ta": "சுட்ட கட்லெட்", "name_en": "Ready-made cutlets", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 10 },
+    { "id": "vegetable-sizzlers-ingredient-11", "name_ta": "வினிகர்", "name_en": "Vinegar", "quantity": "2", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 11 },
+    { "id": "vegetable-sizzlers-ingredient-12", "name_ta": "வெண்ணெய்", "name_en": "Butter", "quantity": "100", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 12 },
+    { "id": "vegetable-sizzlers-ingredient-13", "name_ta": "காய்ந்த மிளகாய்", "name_en": "Dried red chili", "quantity": "6", "unit_ta": null, "unit_en": null, "notes_ta": "அரைக்க", "notes_en": "to grind", "display_order": 13 },
+    { "id": "vegetable-sizzlers-ingredient-14", "name_ta": "பூண்டு", "name_en": "Garlic", "quantity": "3", "unit_ta": "பல்லு", "unit_en": "cloves", "notes_ta": "அரைக்க", "notes_en": "to grind", "display_order": 14 },
+    { "id": "vegetable-sizzlers-ingredient-15", "name_ta": "கடுகு", "name_en": "Mustard seeds", "quantity": "1/4", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": "அரைக்க", "notes_en": "to grind", "display_order": 15 },
+    { "id": "vegetable-sizzlers-ingredient-16", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "1/4", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": "அரைக்க", "notes_en": "to grind", "display_order": 16 }
+  ],
+  "instructions": [
+    {
+      "id": "vegetable-sizzlers-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "பட்டாணியை வேக வைக்கவும். முழு கேரட் மற்றும் 3 அங்குல சதுரத் துண்டங்களாக அரிந்த கோஸ் இரண்டையும் மிகச் சூடான தண்ணீரில் போட்டு 2 நிமிடம் வைக்கவும். பிறகு தண்ணீரை வடிக்கவும்.",
+      "instruction_en": "Boil the peas. Blanch the whole carrot and the cabbage (cut into 3-inch squares) together in very hot water for 2 minutes, then drain.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "vegetable-sizzlers-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "வெங்காயம், குடமிளகாய், தக்காளி மற்றும் வெள்ளரிக்காயை மெல்லிய வட்டத் துண்டங்களாக்கவும்.",
+      "instruction_en": "Cut the onion, capsicum, tomato, and cucumber into thin rounds.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "vegetable-sizzlers-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "சுடுதண்ணீரில் போட்டெடுத்த கேரட்டை மெல்லிய வட்டத் துண்டங்களாக அரியவும். உருளைக்கிழங்கை தோலெடுத்து வட்டமாக அரியவும்.",
+      "instruction_en": "Slice the blanched carrot into thin rounds. Peel the potato and slice into rounds.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "vegetable-sizzlers-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "எல்லா காய்கறிகளையும் முள்கரண்டி (Fork) உதவியால் குத்தி அரைத்த விழுதை அதில் பூசவும்.",
+      "instruction_en": "Prick all the vegetables with a fork and coat them with the ground paste.",
+      "image_url": null,
+      "display_order": 4
+    },
+    {
+      "id": "vegetable-sizzlers-instruction-5",
+      "step_number": 5,
+      "instruction_ta": "ஒரு தோசைக்கல்லில் பாதி வெண்ணெயை உருக்கி அதில் இந்த காய்கறிகளை அடுக்கவும். லேசாக சுட்டதும் திருப்பிவிட்டு கட்டு எடுக்கவும்.",
+      "instruction_en": "Melt half the butter on a griddle and arrange the vegetables on it. Once lightly cooked, flip and remove.",
+      "image_url": null,
+      "display_order": 5
+    },
+    {
+      "id": "vegetable-sizzlers-instruction-6",
+      "step_number": 6,
+      "instruction_ta": "சிஸ்லர் செய்யும் தோசைக்கல்லை நன்றாகச் சூடாக்கி மத்தியில் சுட்ட கட்லெட்டையும் மற்ற காய்கறிகளையும் அலங்காரமாக அடுக்கவும்.",
+      "instruction_en": "Heat the sizzler griddle well and arrange the cooked cutlet in the center with the other vegetables decoratively around it.",
+      "image_url": null,
+      "display_order": 6
+    },
+    {
+      "id": "vegetable-sizzlers-instruction-7",
+      "step_number": 7,
+      "instruction_ta": "எல்லா சாஸ் வகைகளிலும் 1½ டேபிள் ஸ்பூன் எடுத்துக் கலந்து மேலே தெளித்து பாதி வெண்ணெயை காய்கறிகளைச் சுற்றி விடவும்.",
+      "instruction_en": "Mix 1½ tablespoons each of all the sauces, drizzle over the top, and pour the remaining butter around the vegetables.",
+      "image_url": null,
+      "display_order": 7
+    },
+    {
+      "id": "vegetable-sizzlers-instruction-8",
+      "step_number": 8,
+      "instruction_ta": "நன்றாகச் சூடானதும் வினிகரை மேலே தெளிக்கவும். தெளித்த உடனே அதிலிருந்து சப்தம் வரும். அந்த சப்தத்தோடு சூடான கல்லை அப்படியே அதற்கென உள்ள மர ஸ்டாண்டில் வைத்து பரிமாறவும்.",
+      "instruction_en": "Once thoroughly hot, drizzle the vinegar over the top -- it will sizzle audibly the moment it's poured. Serve the griddle straight away, sizzling, set on its wooden stand.",
+      "image_url": null,
+      "display_order": 8
+    },
+    {
+      "id": "vegetable-sizzlers-instruction-9",
+      "step_number": 9,
+      "instruction_ta": "குறிப்பு: வெண்ணெய் மற்றும் வினிகர் சூடான கல்லின் மேல் சேரும்போது படபடவென்று சப்தம் வருகிறது. அதனாலேயே இதற்கு 'சிஸ்லர்ஸ்' (Sizzlers) என்ற பெயர். சிஸ்லர் பான் (Sizzler Pan) என்று கேட்டால் கடைகளில் கிடைக்கும்.",
+      "instruction_en": "Note: when the butter and vinegar hit the hot griddle, they crackle and sizzle loudly -- that's where the name 'Sizzlers' comes from. Ask for a 'sizzler pan' at cookware shops.",
+      "image_url": null,
+      "display_order": 9
+    }
+  ]
+}

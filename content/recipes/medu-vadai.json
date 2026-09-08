@@ -1,0 +1,119 @@
+{
+  "slug": "medu-vadai",
+  "title_ta": "மெதுவடை",
+  "title_en": "Medu Vadai",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 96,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["vadai"],
+  "ingredients": [
+    { "id": "medu-vadai-ingredient-1", "name_ta": "முழுவெள்ளை உளுந்து", "name_en": "Whole white urad dal", "quantity": "1", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "medu-vadai-ingredient-2", "name_ta": "கல் உப்பு", "name_en": "Rock salt", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": "குவித்து", "notes_en": "heaped", "display_order": 2 },
+    { "id": "medu-vadai-ingredient-3", "name_ta": "அரிசி மாவு", "name_en": "Rice flour", "quantity": "2", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "medu-vadai-ingredient-4", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "தேவைக்கேற்ப", "notes_en": "as needed", "display_order": 4 }
+  ],
+  "instructions": [
+    {
+      "id": "medu-vadai-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "உளுந்தைக் கழுவி முழுகும்வரை தண்ணீர்விட்டு 1½ அல்லது 2 மணி நேரம் ஊறவைக்கவும்.",
+      "instruction_en": "Wash the urad dal, cover with water, and soak for 1½ to 2 hours.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "medu-vadai-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "ஊறியபின் தண்ணீரை வடித்து விட்டு நன்றாக நுரைக்க, கெட்டியாக அரைக்கவும். அரைக்கும்போது சிறிதளவே தண்ணீர் தெளிக்கவும். (கிரைண்டரில் அரைக்கும் மாவில் வடை நன்றாக வரும். மிக்ஸியில் அரைத்தால் அரைத்தபின் கைகளால் நன்கு காற்று உள்ளேபோய் மாவு நல்ல பதத்திற்கு வரும்படி கலந்துவிடவும்.)",
+      "instruction_en": "Once soaked, drain the water and grind into a thick, well-frothed batter, sprinkling in only a little water while grinding. (Batter ground in a stone grinder makes better vadais. If ground in a mixer, whip air into it thoroughly by hand afterward until it reaches a good consistency.)",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "medu-vadai-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "கடைசியில் மாவைக் கல்லில் இருந்து எடுப்பதற்கு முன் உப்பு போட்டு 1 நிமிடம் அரைக்கவும். (முன்பே உப்பு சேர்த்தால் வடை கெட்டியாக இருக்கும்.)",
+      "instruction_en": "Finally, before removing the batter from the grinder, add salt and grind for 1 more minute. (Adding salt earlier will make the vadai dense.)",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "medu-vadai-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "வாணலியில் முக்கால் பாகம் எண்ணெய் விட்டுச் சூடாக்கவும். (சிறிதளவே மாவை எண்ணெயில் போட்டால் உடனே எழும்பி மேலே வந்தால் எண்ணெய்க் காய்ச்சல் சரியான பதம் என்று கொள்ளவும்.)",
+      "instruction_en": "Heat oil three-quarters full in a pan. (Drop a little batter in -- if it rises to the surface immediately, the oil is at the right temperature.)",
+      "image_url": null,
+      "display_order": 4
+    },
+    {
+      "id": "medu-vadai-instruction-5",
+      "step_number": 5,
+      "instruction_ta": "கைகளை தண்ணீரில் நனைத்து சிறிதளவு மாவு எடுத்து ஒரு ஈரத்துணி அல்லது பாலிதீன் கவரின் மேல்பாகத்தில் தட்டி மத்தியில் ஒரு ஓட்டை போடவும்.",
+      "instruction_en": "Dip your hands in water, take a little batter, pat it out on a damp cloth or the surface of a plastic sheet, and make a hole in the middle.",
+      "image_url": null,
+      "display_order": 5
+    },
+    {
+      "id": "medu-vadai-instruction-6",
+      "step_number": 6,
+      "instruction_ta": "இடது கையால் கீழுள்ள துணியைத் தூக்கி வலது கையால் தட்டிய வடையை கைகளில் சாய்த்து எண்ணெயில் போடவும்.",
+      "instruction_en": "Lift the cloth from underneath with your left hand and slide the shaped vadai off your hand into the oil with your right.",
+      "image_url": null,
+      "display_order": 6
+    },
+    {
+      "id": "medu-vadai-instruction-7",
+      "step_number": 7,
+      "instruction_ta": "வாணலியில் உள்ள எண்ணெய் கொள்ளுமளவிற்கு வடைகளை தட்டிப் போடவும்.",
+      "instruction_en": "Shape and drop in as many vadais as the oil in the pan can hold.",
+      "image_url": null,
+      "display_order": 7
+    },
+    {
+      "id": "medu-vadai-instruction-8",
+      "step_number": 8,
+      "instruction_ta": "கீழ்ப்பாகம் வெந்தவுடன் திருப்பிப் போட்டு பொன்னிறமாக வெந்ததும் எடுத்து வடிதட்டில் ஒரு நிமிடம் வடியவிட்டு சூடாகப் பரிமாறவும்.",
+      "instruction_en": "Once the underside is cooked, flip and cook the other side; once golden, remove and drain on a rack for a minute before serving hot.",
+      "image_url": null,
+      "display_order": 8
+    },
+    {
+      "id": "medu-vadai-instruction-9",
+      "step_number": 9,
+      "instruction_ta": "இந்த வடையை இட்லி, சாம்பார், சட்னியோடு பரிமாறவும்.",
+      "instruction_en": "Serve this vadai with idli, sambar, and chutney.",
+      "image_url": null,
+      "display_order": 9
+    },
+    {
+      "id": "medu-vadai-instruction-10",
+      "step_number": 10,
+      "instruction_ta": "கவனிக்க: மாவை அரைத்த உடனேயே வடை சுட வேண்டும், புளிக்கவிடக் கூடாது. ப்ரிஜ்ஜில் வைத்தால் 5 அல்லது 6 மணி நேரம் வரை மாவை வைக்கலாம். வடை எண்ணெய் குடிக்காமலிருக்க பொரிக்கும்போது சிறிதளவே அரிசிமாவு சேர்த்துக் கொள்ளலாம். ஒரு ஆழாக்குக்கு 1 பிடி துவரம் பருப்பு சேர்த்து ஊறவைத்து அரைத்தால் அவ்வளவாக எண்ணெய் குடிக்காது.",
+      "instruction_en": "Note: fry the vadai right after grinding the batter -- it shouldn't be allowed to ferment. Refrigerated, the batter can keep for 5 to 6 hours. To keep the vadai from soaking up too much oil, a little rice flour can be added while frying. Soaking and grinding in a handful of toor dal per measure of urad dal also keeps the vadai from absorbing as much oil.",
+      "image_url": null,
+      "display_order": 10
+    },
+    {
+      "id": "medu-vadai-instruction-11",
+      "step_number": 11,
+      "instruction_ta": "மாற்று செய்முறை -- இதே வடைமாவை உபயோகப்படுத்தி பலவிதமாக வடை தட்டலாம்: (1) கார வடை: ஒரு சிறிய துண்டு இஞ்சி, பச்சை மிளகாய், சிறிய துண்டு பெருங்காயம் இவற்றை நைசாக அரைத்து மாவில் சேர்த்துக் கலந்து வடை போடவும். (2) வெங்காய வடை: மிகுதியான வடை மாவில் பொடியாக அரிந்த வெங்காயம், பச்சைமிளகாய் சேர்த்துக் கலந்து வடை போடவும். (3) வெஜிடபிள் வடை: வெங்காயத்தோடு மிகப் பொடியாக அரிந்த கேரட், முட்டைக்கோஸ், பீன்ஸ், கொத்தமல்லித் தழை, சிறிதளவு உப்பு, அரைத்த பச்சை மிளகாய் விழுது சேர்த்து கலந்து வடை சுடலாம். (4) கீரை வடை: பொடியாக அரிந்த வெங்காயம், பச்சை மிளகாய் விழுதோடு அரைக்கீரை அல்லது முளைக்கீரை கலந்து வடை சுடவும். (5) ரச வடை: பருப்பு ரசத்தைச் சூடாக்கி அதில் பொரித்த உளுந்து வடையைப் போட்டு 2 மணி நேரம் ஊற வைத்து, பரிமாறும்போது சிறிது பொடியாக அரிந்த வெங்காயம், கொத்தமல்லி தூவவும். (6) சாம்பார் வடை: வெங்காய சாம்பார் செய்து கொள்ளவும். வடையைப் பொரித்ததும் ஒரு வினாடி சூடான தண்ணீரில் முக்கி எடுத்து உடனே சூடான சாம்பாரில் போட்டு ஊற வைக்கவும். பரிமாறும்போது பொடியாக அரிந்த வெங்காயம் மேலே தூவி பரிமாறவும்.",
+      "instruction_en": "Alternative method -- this same vadai batter can be shaped into several other kinds: (1) Spicy Vadai: grind a small piece of ginger, green chili, and a small piece of asafoetida into a smooth paste, mix into the batter, and fry. (2) Onion Vadai: mix chopped onion and green chili into a generous amount of vadai batter and fry. (3) Vegetable Vadai: mix finely chopped carrot, cabbage, and beans with onion, coriander leaves, a little salt, and ground green chili paste, and fry. (4) Greens Vadai: mix chopped amaranth or sprouted greens with chopped onion and green chili paste, and fry. (5) Rasam Vadai: heat dal rasam, drop the fried vadai into it, and let it soak for 2 hours; sprinkle chopped onion and coriander on top when serving. (6) Sambar Vadai: make an onion sambar; once the vadai is fried, dip it briefly in hot water and immediately drop it into the hot sambar to soak, then sprinkle chopped onion on top when serving.",
+      "image_url": null,
+      "display_order": 11
+    }
+  ]
+}
