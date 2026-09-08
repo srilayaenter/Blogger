@@ -1,6 +1,6 @@
 import Link from "next/link";
 import type { Metadata } from "next";
-import { getAllCategories, getPublishedRecipes } from "@/lib/content/loader";
+import { getCategoriesWithImages, getPublishedRecipes } from "@/lib/content/loader";
 import { RecipeList } from "@/components/recipes/RecipeList";
 import { Hero } from "@/components/home/Hero";
 import { CategoryGrid } from "@/components/home/CategoryGrid";
@@ -68,7 +68,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: L
   const { locale } = await params;
   const t = LABELS[locale];
   const recipes = await getPublishedRecipes();
-  const categories = await getAllCategories();
+  const categories = await getCategoriesWithImages();
   // Preserves existing order from content/categories.json and content/recipes/*.json --
   // no sorting or reordering is applied, just a slice of the first 6.
   const featuredCategories = categories.slice(0, 6);

@@ -14,7 +14,7 @@
 
 import { readFileSync, readdirSync } from "node:fs";
 import path from "node:path";
-import type { Category } from "@/types/category";
+import type { Category, CategoryWithImage } from "@/types/category";
 import type { RecipeContent, RecipeWithDetails } from "@/types/recipe";
 import { getVegNonVegCategory } from "@/lib/dietary";
 
@@ -59,23 +59,25 @@ export async function getPublishedRecipeBySlug(slug: string): Promise<RecipeWith
   return recipes.find((recipe) => recipe.slug === slug) ?? null;
 }
 
+// "veg" and "non-veg" are virtual categories: no recipe file lists them in its own
+// `categories` array (that field is reserved for dish-type categories like "kuzhambu").
+// Membership is instead derived live from the same dietary classifier used everywhere
+// else, so this never drifts out of sync with the tag shown on cards/detail pages and
+// never requires editing any of the recipe content files. Shared by both
+// getPublishedRecipesByCategorySlug and getCategoriesWithImages so category membership is
+// defined in exactly one place.
+function recipeMatchesCategory(recipe: RecipeWithDetails, categorySlug: string): boolean {
+  if (categorySlug === "veg" || categorySlug === "non-veg") {
+    return getVegNonVegCategory(recipe) === categorySlug;
+  }
+  return recipe.categories.some((category) => category.slug === categorySlug);
+}
+
 export async function getPublishedRecipesByCategorySlug(
   categorySlug: string,
 ): Promise<RecipeWithDetails[]> {
   const recipes = await getPublishedRecipes();
-
-  // "veg" and "non-veg" are virtual categories: no recipe file lists them in its own
-  // `categories` array (that field is reserved for dish-type categories like "kuzhambu").
-  // Membership is instead derived live from the same dietary classifier used everywhere
-  // else, so this never drifts out of sync with the tag shown on cards/detail pages and
-  // never requires editing any of the recipe content files.
-  if (categorySlug === "veg" || categorySlug === "non-veg") {
-    return recipes.filter((recipe) => getVegNonVegCategory(recipe) === categorySlug);
-  }
-
-  return recipes.filter((recipe) =>
-    recipe.categories.some((category) => category.slug === categorySlug),
-  );
+  return recipes.filter((recipe) => recipeMatchesCategory(recipe, categorySlug));
 }
 
 export async function getAllCategories(): Promise<Category[]> {
@@ -85,4 +87,34 @@ export async function getAllCategories(): Promise<Category[]> {
 export async function getCategoryBySlug(slug: string): Promise<Category | null> {
   const categories = loadAllCategories();
   return categories.find((category) => category.slug === slug) ?? null;
+}
+
+/**
+ * Attaches one representative recipe photo to each category -- there's no separate category
+ * artwork; every category tile borrows an existing recipe's featured_image_url. Picking is
+ * deterministic (recipes sorted by slug, first match with an image wins) so the same category
+ * always shows the same photo across builds. A category with recipes but none of them
+ * photographed yet gets `image: null`, which callers must handle rather than guessing an image.
+ */
+export async function getCategoriesWithImages(): Promise<CategoryWithImage[]> {
+  const categories = loadAllCategories();
+  const recipes = (await getPublishedRecipes()).sort((a, b) => a.slug.localeCompare(b.slug));
+
+  return categories.map((category) => {
+    const representative = recipes.find(
+      (recipe) => recipe.featured_image_url && recipeMatchesCategory(recipe, category.slug),
+    );
+
+    return {
+      ...category,
+      image: representative
+        ? {
+            url: representative.featured_image_url!,
+            alt_ta: representative.featured_image_alt_ta ?? representative.title_ta,
+            alt_en: representative.featured_image_alt_en ?? representative.title_en,
+            recipeSlug: representative.slug,
+          }
+        : null,
+    };
+  });
 }

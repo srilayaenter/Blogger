@@ -10,3 +10,15 @@ export type Category = {
   description_ta: string | null;
   description_en: string | null;
 };
+
+/** A representative photo borrowed from one recipe in the category -- see getCategoriesWithImages. */
+export type CategoryImage = {
+  url: string;
+  alt_ta: string;
+  alt_en: string;
+  recipeSlug: string;
+};
+
+export type CategoryWithImage = Category & {
+  image: CategoryImage | null;
+};

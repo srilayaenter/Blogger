@@ -1,6 +1,6 @@
 import Link from "next/link";
 import type { Metadata } from "next";
-import { getAllCategories } from "@/lib/content/loader";
+import { getCategoriesWithImages } from "@/lib/content/loader";
 import {
   absoluteUrl,
   baseOpenGraph,
@@ -48,22 +48,45 @@ export async function generateMetadata({
 
 export default async function CategoriesPage({ params }: { params: Promise<{ locale: Locale }> }) {
   const { locale } = await params;
-  const categories = await getAllCategories();
+  const categories = await getCategoriesWithImages();
 
   return (
     <div>
       <h1 className="mb-4 text-2xl font-bold">{LABELS[locale].title}</h1>
       <ul className="grid grid-cols-2 gap-3 sm:grid-cols-3">
-        {categories.map((category) => (
-          <li key={category.slug}>
-            <Link
-              href={`/${locale}/categories/${category.slug}`}
-              className="block rounded-lg border border-neutral-200 p-4 text-center font-medium transition hover:border-brand hover:text-brand hover:shadow-md"
-            >
-              {locale === "ta" ? category.name_ta : category.name_en}
-            </Link>
-          </li>
-        ))}
+        {categories.map((category) => {
+          const name = locale === "ta" ? category.name_ta : category.name_en;
+          const imageAlt = category.image
+            ? locale === "ta"
+              ? category.image.alt_ta
+              : category.image.alt_en
+            : null;
+          return (
+            <li key={category.slug}>
+              <Link
+                href={`/${locale}/categories/${category.slug}`}
+                className="flex flex-col items-center gap-2 rounded-lg border border-neutral-200 p-4 text-center font-medium transition hover:border-brand hover:text-brand hover:shadow-md"
+              >
+                {category.image ? (
+                  // eslint-disable-next-line @next/next/no-img-element
+                  <img
+                    src={category.image.url}
+                    alt={imageAlt ?? ""}
+                    className="h-16 w-16 rounded-full border-2 border-white object-cover shadow-sm"
+                  />
+                ) : (
+                  <span
+                    aria-hidden="true"
+                    className="flex h-16 w-16 items-center justify-center rounded-full bg-brand/10 text-xl font-bold text-brand-dark"
+                  >
+                    {name.charAt(0)}
+                  </span>
+                )}
+                {name}
+              </Link>
+            </li>
+          );
+        })}
       </ul>
     </div>
   );
