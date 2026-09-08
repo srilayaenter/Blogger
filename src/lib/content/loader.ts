@@ -59,6 +59,31 @@ export async function getPublishedRecipeBySlug(slug: string): Promise<RecipeWith
   return recipes.find((recipe) => recipe.slug === slug) ?? null;
 }
 
+export type AdjacentRecipe = Pick<RecipeWithDetails, "slug" | "title_ta" | "title_en">;
+
+/**
+ * Previous/next recipe for detail-page navigation. Ordered by slug -- the same deterministic
+ * ordering getCategoriesWithImages() uses -- rather than filesystem read order, which isn't
+ * guaranteed stable across environments and would make "previous"/"next" shuffle between builds.
+ */
+export async function getAdjacentRecipes(
+  slug: string,
+): Promise<{ previous: AdjacentRecipe | null; next: AdjacentRecipe | null }> {
+  const recipes = (await getPublishedRecipes()).sort((a, b) => a.slug.localeCompare(b.slug));
+  const index = recipes.findIndex((recipe) => recipe.slug === slug);
+  if (index === -1) {
+    return { previous: null, next: null };
+  }
+
+  const toAdjacent = (recipe: RecipeWithDetails | undefined): AdjacentRecipe | null =>
+    recipe ? { slug: recipe.slug, title_ta: recipe.title_ta, title_en: recipe.title_en } : null;
+
+  return {
+    previous: toAdjacent(recipes[index - 1]),
+    next: toAdjacent(recipes[index + 1]),
+  };
+}
+
 // "veg" and "non-veg" are virtual categories: no recipe file lists them in its own
 // `categories` array (that field is reserved for dish-type categories like "kuzhambu").
 // Membership is instead derived live from the same dietary classifier used everywhere

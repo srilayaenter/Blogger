@@ -1,6 +1,6 @@
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
-import { getPublishedRecipeBySlug, getPublishedRecipes } from "@/lib/content/loader";
+import { getAdjacentRecipes, getPublishedRecipeBySlug, getPublishedRecipes } from "@/lib/content/loader";
 import { RecipeDetail } from "@/components/recipes/RecipeDetail";
 import {
   absoluteUrl,
@@ -74,5 +74,7 @@ export default async function RecipeDetailPage({
     notFound();
   }
 
-  return <RecipeDetail recipe={recipe} locale={locale} />;
+  const { previous, next } = await getAdjacentRecipes(slug);
+
+  return <RecipeDetail recipe={recipe} locale={locale} previous={previous} next={next} />;
 }
