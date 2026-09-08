@@ -51,6 +51,20 @@ const QUANTITY_TRANSLATIONS: Record<string, string> = {
   "ஒரு": "1",
   "ஒரு சிறு துண்டு": "a small piece",
   "சிறு துண்டு": "a small piece",
+  "சிறிய துண்டு": "a small piece",
+  "சிறுதுண்டு": "a small piece",
+  "பாதி": "half",
+  "பொரிக்க": "for frying",
+  "தாளிக்க": "for tempering",
+  "சுவைக்கு ஏற்ப": "to taste",
+  "சுவைக்கேற்ப": "to taste",
+  "தேவைக்கு ஏற்ப": "as needed",
+  "தேவைக்கேற்றவை": "as needed",
+  "எலுமிச்சையளவு": "lemon-sized",
+  "1 கொட்டையளவு": "1 ball-sized piece",
+  "6 அல்லது 7": "6 or 7",
+  "1 அல்லது 4": "1 to 4",
+  "சிறியது": "small",
 };
 
 function displayQuantity(quantity: string | null, locale: Locale): string | null {

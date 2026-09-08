@@ -27,7 +27,7 @@
     { "id": "vegetable-pratal-ingredient-4", "name_ta": "தேங்காய் துருவல்", "name_en": "Grated coconut", "quantity": "1/4", "unit_ta": "மூடி", "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 4 },
     { "id": "vegetable-pratal-ingredient-5", "name_ta": "பொட்டுக்கடலை", "name_en": "Roasted chana dal", "quantity": "2", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 5 },
     { "id": "vegetable-pratal-ingredient-6", "name_ta": "மிளகாய்த் தூள்", "name_en": "Chili powder", "quantity": "1", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 6 },
-    { "id": "vegetable-pratal-ingredient-7", "name_ta": "இஞ்சி", "name_en": "Ginger", "quantity": "சிறிய துண்டு", "unit_ta": null, "unit_en": "small piece", "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "vegetable-pratal-ingredient-7", "name_ta": "இஞ்சி", "name_en": "Ginger", "quantity": "சிறிய துண்டு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 7 },
     { "id": "vegetable-pratal-ingredient-8", "name_ta": "பட்டை இலவங்க இலை", "name_en": "Bay leaf", "quantity": "5", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 8 },
     { "id": "vegetable-pratal-ingredient-9", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவையான அளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 9 },
     { "id": "vegetable-pratal-ingredient-10", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": "தேவையான அளவு", "unit_ta": null, "unit_en": "for tempering", "notes_ta": null, "notes_en": null, "display_order": 10 }

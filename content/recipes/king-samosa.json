@@ -29,7 +29,7 @@
     { "id": "king-samosa-ingredient-6", "name_ta": "மல்லி இலை", "name_en": "Coriander leaves", "quantity": "25", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 6 },
     { "id": "king-samosa-ingredient-7", "name_ta": "கடலை எண்ணெய்", "name_en": "Groundnut oil", "quantity": "1/4", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": "for the dough and deep frying", "display_order": 7 },
     { "id": "king-samosa-ingredient-8", "name_ta": "சிட்ரிக் ஆசிட்", "name_en": "Citric acid", "quantity": "1/2", "unit_ta": "தேக்கரண்டி", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 8 },
-    { "id": "king-samosa-ingredient-9", "name_ta": "இஞ்சி", "name_en": "Ginger", "quantity": "சிறுதுண்டு", "unit_ta": null, "unit_en": "small piece", "notes_ta": null, "notes_en": null, "display_order": 9 },
+    { "id": "king-samosa-ingredient-9", "name_ta": "இஞ்சி", "name_en": "Ginger", "quantity": "சிறுதுண்டு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 9 },
     { "id": "king-samosa-ingredient-10", "name_ta": "சீரகம்", "name_en": "Cumin seeds", "quantity": "1/2", "unit_ta": "தேக்கரண்டி", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 10 },
     { "id": "king-samosa-ingredient-11", "name_ta": "கரம் மசாலா", "name_en": "Garam masala", "quantity": "1", "unit_ta": "தேக்கரண்டி", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 11 },
     { "id": "king-samosa-ingredient-12", "name_ta": "முந்திரிப்பருப்பு", "name_en": "Cashew nuts", "quantity": "1", "unit_ta": "தேக்கரண்டி", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 12 },
