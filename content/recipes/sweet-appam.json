@@ -1,0 +1,75 @@
+{
+  "slug": "sweet-appam",
+  "title_ta": "இனிப்பு ஆப்பம்",
+  "title_en": "Sweet Appam",
+  "description_ta": "வெல்லம், ஏலக்காய் சேர்த்து அரைத்த அரிசி-உளுந்து மாவை ஊற வைத்து ஆப்பச்சட்டியில் சுடப்படும் இனிப்பு ஆப்பம்.",
+  "description_en": "Rice and urad dal ground with jaggery and cardamom, fermented, and cooked into a naturally sweet appam.",
+  "source_page_number": 12,
+  "prep_time_minutes": 6,
+  "cook_time_minutes": 30,
+  "total_time_minutes": 390,
+  "servings": 6,
+  "difficulty": "medium",
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["steamed-tiffin", "sweet"],
+  "ingredients": [
+    { "id": "sweet-appam-ingredient-1", "name_ta": "பச்சரிசி", "name_en": "Raw rice", "quantity": "1½", "unit_ta": "ஆழாக்கு", "unit_en": "azhakku", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "sweet-appam-ingredient-2", "name_ta": "புழுங்கல் அரிசி", "name_en": "Parboiled rice", "quantity": "1", "unit_ta": "ஆழாக்கு", "unit_en": "azhakku", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "sweet-appam-ingredient-3", "name_ta": "உளுந்து", "name_en": "Urad dal", "quantity": "50", "unit_ta": "கிராம்", "unit_en": "grams", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "sweet-appam-ingredient-4", "name_ta": "வெந்தயம்", "name_en": "Fenugreek seeds", "quantity": "2", "unit_ta": "ஸ்பூன்", "unit_en": "spoons", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "sweet-appam-ingredient-5", "name_ta": "வெல்லம்", "name_en": "Jaggery", "quantity": "4", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "sweet-appam-ingredient-6", "name_ta": "சோடா உப்பு", "name_en": "Baking soda", "quantity": "தேவையான அளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "sweet-appam-ingredient-7", "name_ta": "ஏலக்காய்", "name_en": "Cardamom", "quantity": "தேவைக்கேற்ப", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "sweet-appam-ingredient-8", "name_ta": "இளநீர்", "name_en": "Tender coconut water", "quantity": "அரை டம்ளர்", "unit_ta": null, "unit_en": null, "notes_ta": "விரும்பினால்", "notes_en": "optional", "display_order": 8 }
+  ],
+  "instructions": [
+    {
+      "id": "sweet-appam-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "அரிசி, உளுந்து, வெந்தயம் முதலியவற்றை 5 மணி நேரம் ஊற வைத்து நைசாக அரைத்துக் கொள்ளவும்.",
+      "instruction_en": "Soak the rice, urad dal, and fenugreek seeds for 5 hours and grind to a smooth batter.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "sweet-appam-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "மாவை அள்ளுவதற்கு முன்பு வெல்லம், ஏலக்காய் சேர்த்து அரைத்து எடுக்கவும்.",
+      "instruction_en": "Before finishing the grinding, add the jaggery and cardamom and grind them in.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "sweet-appam-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "மாவை சில மணி நேரம் ஊற வைக்கவும். இதில் அரை டம்ளர் இளநீர் சேர்த்தால் சுவை கூடும்.",
+      "instruction_en": "Let the batter ferment for a few hours. Adding half a glass of tender coconut water improves the flavour.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "sweet-appam-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "ஆப்பம் சுடப் போகும் சமயத்தில் மாவில், ஒரு சிட்டிகை சோடா உப்பு சேர்க்கலாம். ஆப்பசட்டியை எண்ணெய் தடவி அடுப்பில் வைக்கவும்.",
+      "instruction_en": "Just before cooking, mix a pinch of baking soda into the batter. Grease the appam pan with oil and set it on the stove.",
+      "image_url": null,
+      "display_order": 4
+    },
+    {
+      "id": "sweet-appam-instruction-5",
+      "step_number": 5,
+      "instruction_ta": "தோசை மாவு பதத்தைவிட சற்று தண்ணீரியமாக மாவைக் கரைத்து, சட்டியில் ஊற்றி, சட்டியை இரண்டு கையால் பிடித்து சுழற்றவும். சட்டியின் உட்பக்கத்தில் மாவு பரவியதும் சட்டியை மூடவும். மிதமான வெப்பத்தில் ஆப்பம் வெந்து எழும்பி வரும்.",
+      "instruction_en": "Thin the batter to be slightly more watery than dosa batter, pour it into the pan, hold the pan with both hands, and swirl it around. Once the batter has coated the inside of the pan, cover it. On moderate heat, the appam will cook through and puff up.",
+      "image_url": null,
+      "display_order": 5
+    }
+  ]
+}

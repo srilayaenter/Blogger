@@ -1,0 +1,56 @@
+{
+  "slug": "egg-dosai",
+  "title_ta": "முட்டைத் தோசை",
+  "title_en": "Egg Dosai",
+  "description_ta": "தோசை மாவின் மீது அடித்த முட்டையை பரப்பி, வெங்காயம் தூவி சுடப்படும் புரதம் நிறைந்த தோசை.",
+  "description_en": "Regular dosa batter spread on the griddle with a beaten egg poured over it and onion sprinkled on top, for a protein-rich twist on dosa.",
+  "source_page_number": 4,
+  "prep_time_minutes": 10,
+  "cook_time_minutes": 15,
+  "total_time_minutes": 25,
+  "servings": 3,
+  "difficulty": "easy",
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["dosa"],
+  "ingredients": [
+    { "id": "egg-dosai-ingredient-1", "name_ta": "தோசை மாவு", "name_en": "Dosa batter", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "3 தோசைக்கு தேவையான அளவு", "notes_en": "enough for 3 dosas", "display_order": 1 },
+    { "id": "egg-dosai-ingredient-2", "name_ta": "முட்டை", "name_en": "Egg", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": "நன்றாக நுரை பொங்க அடித்தது", "notes_en": "well beaten until frothy", "display_order": 2 },
+    { "id": "egg-dosai-ingredient-3", "name_ta": "வெங்காயம்", "name_en": "Onion", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "துருவியது, விரும்பினால்", "notes_en": "grated, optional", "display_order": 3 },
+    { "id": "egg-dosai-ingredient-4", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவைக்கேற்ப", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "egg-dosai-ingredient-5", "name_ta": "மிளகுத்தூள்", "name_en": "Pepper powder", "quantity": "தேவைக்கேற்ப", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 5 }
+  ],
+  "instructions": [
+    {
+      "id": "egg-dosai-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "3 தோசைக்கு உரிய மாவுடன் ஒரு முட்டையை நன்றாக நுரை பொங்க அடித்து சேர்த்து தோசை சுடலாம். இத்துடன் வெங்காயம் தூவி வெங்காய முட்டை தோசை சுடலாம்.",
+      "instruction_en": "For batter enough for 3 dosas, beat an egg until frothy, mix it into the batter, and cook as dosa. You can also sprinkle in onion to make an onion-egg dosa.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "egg-dosai-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "அல்லது, தோசை மாவை நன்றாக விரித்து அதன் மீது கலக்கி அடித்த முட்டை ஒன்றை தோசை மீது சுற்றி வர பரப்பிவிட்டு வெந்தவுடன் எடுத்து பரிமாறவும்.",
+      "instruction_en": "Alternatively, spread the dosa batter thin on the griddle, then pour a beaten egg over it, spreading it around the surface of the dosa, and remove once cooked.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "egg-dosai-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "ரவை தோசை மாவை விரித்து ஊற்றி அதன் மீது உப்பு, மிளகுத்தூள் கலந்து அடித்த முட்டையை பரவலாக ஊற்றி இட்லிப்பானை மூடியால் மூடி, வேக வைத்து திருப்பிப் போடாமல் மடித்து எடுக்கவும்.",
+      "instruction_en": "For rava dosa batter, spread it on the griddle, pour over it a beaten egg mixed with salt and pepper powder, cover with an idli-pan lid to let it cook through, and fold it over without flipping before removing.",
+      "image_url": null,
+      "display_order": 3
+    }
+  ]
+}

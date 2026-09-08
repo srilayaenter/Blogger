@@ -1,0 +1,62 @@
+{
+  "slug": "idiyappam",
+  "title_ta": "இடியாப்பம்",
+  "title_en": "Idiyappam (String Hoppers)",
+  "description_ta": "வறுத்து இடித்த அரிசி மாவை பிசைந்து இடியாப்பக் குழலில் பிழிந்து இழைகளாக்கி இட்லிப்பானையில் ஆவியில் வேகவைக்கப்படும் தமிழக டிபன்.",
+  "description_en": "Roasted, pounded rice flour kneaded into a dough, pressed through an idiyappam press into fine strands, and steamed in an idli pan.",
+  "source_page_number": 12,
+  "prep_time_minutes": 30,
+  "cook_time_minutes": 15,
+  "total_time_minutes": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["steamed-tiffin"],
+  "ingredients": [
+    { "id": "idiyappam-ingredient-1", "name_ta": "பச்சரிசி", "name_en": "Raw rice", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "இடித்து மாவு தயார் செய்யவும்", "notes_en": "pounded into flour", "display_order": 1 },
+    { "id": "idiyappam-ingredient-2", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவைக்கேற்ப", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "idiyappam-ingredient-3", "name_ta": "தண்ணீர்", "name_en": "Water", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "கொதிக்க வைத்தது", "notes_en": "boiled", "display_order": 3 }
+  ],
+  "instructions": [
+    {
+      "id": "idiyappam-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "இடித்த மாவை வறுத்தும் இடியாப்பம் செய்யலாம். மாவை, மாவு இலேசாகி பறக்கும் வரையில் வறுத்துச் சலித்துக் கொள்ளவும்.",
+      "instruction_en": "You can roast the pounded rice flour before making idiyappam. Roast the flour until it turns light and starts flying up, then sift it.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "idiyappam-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "மாவை இட்லிச்சட்டியில் ஒரு துணியில் வைத்து விரலினால் உருட்டினால் உருளும் வரை அவித்து, (உடனே கட்டியை எடுத்துவிட்டு) ரவை சல்லடையினால் சலித்து, கட்டியை மீண்டும் இடித்து சலித்து கடைசியில் பொடிக்கண் சல்லடையில் சலித்து விரிந்த தட்டில் உலர வைக்கவும்.",
+      "instruction_en": "Steam the flour in an idli vessel, placed on a cloth, until it can be rolled into a ball with your finger (immediately remove the lump), sieve it through a rava sieve, pound the lump again and sieve, and finally sieve through a fine sieve and spread it out on a plate to dry.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "idiyappam-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "இவ்விரண்டு முறையிலும் மாவு தயார் செய்து பல நாட்கள் கெடாமல் டின்களில் வைக்கலாம்.",
+      "instruction_en": "Flour prepared either way keeps well for many days when stored in tins.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "idiyappam-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "தண்ணீரைக் கொதிக்க வைத்து மாவில் ஊற்றி உப்புப்போட்டு பிசைந்து சூடாக இடியாப்பக் குழலில் பிழிந்து இட்லிப்பானையில் அவித்து எடுக்கவும்.",
+      "instruction_en": "Boil water, pour it into the flour, add salt, knead while hot, press it through the idiyappam press into strands, and steam in the idli pan.",
+      "image_url": null,
+      "display_order": 4
+    }
+  ]
+}
