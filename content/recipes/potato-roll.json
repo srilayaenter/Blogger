@@ -1,0 +1,83 @@
+{
+  "slug": "potato-roll",
+  "title_ta": "உருளைகிழங்கு ரோல்",
+  "title_en": "Potato Roll",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 15,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["roll"],
+  "ingredients": [
+    { "id": "potato-roll-ingredient-1", "name_ta": "மைதா", "name_en": "Maida (all-purpose flour)", "quantity": "1", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": "குவித்து", "notes_en": "heaped", "display_order": 1 },
+    { "id": "potato-roll-ingredient-2", "name_ta": "மெல்லிய ரவை", "name_en": "Fine semolina (rava)", "quantity": "1/2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "potato-roll-ingredient-3", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": "4", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoons", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "potato-roll-ingredient-4", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "potato-roll-ingredient-5", "name_ta": "உருளைக்கிழங்கு", "name_en": "Potato", "quantity": "1/2", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "potato-roll-ingredient-6", "name_ta": "நறுக்கிய வெங்காயம்", "name_en": "Chopped onion", "quantity": "3", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "potato-roll-ingredient-7", "name_ta": "பொடியாக நறுக்கிய கொத்தமல்லித் தழை", "name_en": "Finely chopped coriander leaves", "quantity": "2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoons", "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "potato-roll-ingredient-8", "name_ta": "இஞ்சி பச்சை மிளகாய் விழுது", "name_en": "Ginger-green chili paste", "quantity": "2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoons", "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "potato-roll-ingredient-9", "name_ta": "உலர்ந்த மாங்காய்த் தூள்", "name_en": "Dried mango powder", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 9 },
+    { "id": "potato-roll-ingredient-10", "name_ta": "மஞ்சள் தூள்", "name_en": "Turmeric powder", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 10 },
+    { "id": "potato-roll-ingredient-11", "name_ta": "மிளகாய்ப் பொடி", "name_en": "Chili powder", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 11 },
+    { "id": "potato-roll-ingredient-12", "name_ta": "கரம்மசாலா பொடி", "name_en": "Garam masala powder", "quantity": "3/4", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 12 },
+    { "id": "potato-roll-ingredient-13", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவைக்கேற்ப", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 13 },
+    { "id": "potato-roll-ingredient-14", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "தேவையான அளவு, பொரிக்க", "notes_en": "as needed, for frying", "display_order": 14 },
+    { "id": "potato-roll-ingredient-15", "name_ta": "மைதா", "name_en": "Maida (all-purpose flour)", "quantity": "2", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": "பசைக்கு", "notes_en": "for the sealing paste", "display_order": 15 },
+    { "id": "potato-roll-ingredient-16", "name_ta": "தண்ணீர்", "name_en": "Water", "quantity": "3", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": "பசைக்கு", "notes_en": "for the sealing paste", "display_order": 16 }
+  ],
+  "instructions": [
+    {
+      "id": "potato-roll-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "மைதா, ரவை, எண்ணெய், உப்பு ஒன்றாகக் கலந்து ஒரு அகலக் கிண்ணத்தில் வைக்கவும். தேவைப்பட்ட தண்ணீர் சேர்த்து சப்பாத்தி மாவு போல கெட்டியாகப் பிசையவும். ஈரத்துணி கொண்டு மூடி வைக்கவும்.",
+      "instruction_en": "Mix the maida, rava, oil, and salt together in a wide bowl. Add water as needed and knead into a stiff chapati-like dough. Cover with a damp cloth.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "potato-roll-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "உருளைக்கிழங்கை வேக வைத்து, தோலுரித்து உதிர்த்துக் கொள்ளவும். இதோடு மற்ற குறிப்பிடப்பட்ட பொருட்களைச் சேர்த்து கலந்து வைக்கவும் (வதக்க வேண்டாம்).",
+      "instruction_en": "Boil the potato, peel, and crumble it. Mix in the remaining listed ingredients (no need to saute).",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "potato-roll-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "இக் கலவையை எலுமிச்சையளவு உருண்டைகளாகச் செய்து பிறகு நீளவாக்கில் உருட்டவும் (நீள ஜாமூன் போல).",
+      "instruction_en": "Shape the mixture into lemon-sized balls, then roll each into a long log (like an oblong gulab jamun).",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "potato-roll-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "பிசைந்த சப்பாத்தி மாவிலிருந்து சிறிய உருண்டைகள் செய்து சப்பாத்தி போல இடவும். இதில் ஒரு மூலையில் மசாலா உருட்டியதை வைத்து பாய் போல சுருட்டவும். குழல் போல சுருட்டியதும் ஓரங்களை உள்ளே மடித்து மைதா பசை கொண்டு ஒட்டவும். பிரிந்து வராமல் எல்லா பக்கங்களையும் சரியாக ஒட்டவும்.",
+      "instruction_en": "Make small balls from the kneaded dough and roll each out like a chapati. Place a potato log at one edge and roll it up like a mat into a tube. Fold in the open ends and seal with the maida paste, sealing all sides securely so nothing leaks out.",
+      "image_url": null,
+      "display_order": 4
+    },
+    {
+      "id": "potato-roll-instruction-5",
+      "step_number": 5,
+      "instruction_ta": "இதே போல மாவு முழுவதையும் செய்துகொண்டு ஈரத்துணி கொண்டு மூடி வைக்கவும். ஒரு தடவைக்கு 4 அல்லது 5 சுருள்களை மிதமான சூட்டில் எண்ணெயில் பொன்னிறமாகப் பொரித்தெடுக்கவும். மூன்று (அ) நான்கு துண்டங்களாக, கூரான கத்தி கொண்டு வெட்டி தக்காளி சாஸுடன் பரிமாறவும்.",
+      "instruction_en": "Shape all the dough this way and cover with a damp cloth. Deep-fry 4-5 rolls at a time in moderately hot oil until golden. Slice each into 3 or 4 pieces with a sharp knife and serve with tomato sauce.",
+      "image_url": null,
+      "display_order": 5
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "potato-baskets",
+  "title_ta": "உருளைக்கிழங்கு கூடைகள்",
+  "title_en": "Potato Baskets",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 32,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["fried-snack"],
+  "ingredients": [
+    { "id": "potato-baskets-ingredient-1", "name_ta": "உருளைக்கிழங்கு", "name_en": "Potato", "quantity": "1/2", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "potato-baskets-ingredient-2", "name_ta": "மக்காச்சோள மாவு (அ) மைதா மாவு", "name_en": "Corn flour or maida", "quantity": "2", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "potato-baskets-ingredient-3", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவையான அளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "potato-baskets-ingredient-4", "name_ta": "எலுமிச்சை ரசம்", "name_en": "Lemon juice", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 4 }
+  ],
+  "instructions": [
+    {
+      "id": "potato-baskets-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "உருளைக்கிழங்கை தோல் சீவி பெரிய கண்ணுடைய ஸ்டீல் துருவியில் துருவிக் கொள்ளவும் (தண்ணீரில் போட வேண்டாம்).",
+      "instruction_en": "Peel the potatoes and grate them on a large-holed steel grater (do not put them in water).",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "potato-baskets-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "விரித்த துணியில் இரண்டு அடுக்காக மடித்து உருளைக்கிழங்கு துருவலைப் போட்டு நன்றாக சுற்றி அதிக ஈரத்தை ஒற்றி எடுத்துவிடவும்.",
+      "instruction_en": "Fold a cloth into two layers, place the grated potato inside, wrap it up, and press firmly to blot out excess moisture.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "potato-baskets-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "இந்த துருவலில் சிறிது எலுமிச்சை ரசம், உப்பு, சோளமாவு சேர்த்து கலக்கவும்.",
+      "instruction_en": "Mix a little lemon juice, salt, and corn flour into the grated potato.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "potato-baskets-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "ஸ்டெயின்லெஸ் ஸ்டீல் வலை போட்ட சிறிய வடிகட்டியின் உள்ளே சிறிது துருவலை பரவலாகப் பரப்பவும். அதற்குள்ளே சரியாகப் பொருந்தும்படி இன்னொரு கரண்டியை வைத்து சூடான எண்ணெயில் வைக்கவும்.",
+      "instruction_en": "Spread a little of the grated potato evenly inside a small stainless steel mesh strainer. Place a second ladle that fits snugly inside it, and lower both into hot oil.",
+      "image_url": null,
+      "display_order": 4
+    },
+    {
+      "id": "potato-baskets-instruction-5",
+      "step_number": 5,
+      "instruction_ta": "சிறிது நேரம் கழித்து மேல்கரண்டியை எடுத்துவிட்டு ஒரு ஸ்பூன் உதவியால் சுற்றிலும் தளர்த்தி, உருளைக்கிழங்கு கூடையை நேரடியாக எண்ணெயில் போடவும். திருப்பிப் போட்டு பொன்னிறமாகப் பொரித்தெடுக்கவும்.",
+      "instruction_en": "After a little while, remove the inner ladle, loosen the edges of the potato basket with a spoon, and drop it directly into the oil. Flip and fry until golden brown.",
+      "image_url": null,
+      "display_order": 5
+    },
+    {
+      "id": "potato-baskets-instruction-6",
+      "step_number": 6,
+      "instruction_ta": "இதே போல எல்லா துருவலையும் கூடைகளாகப் பொரிக்கவும் (சில நாட்கள் வரை டப்பியில் வைத்திருந்து உபயோகப்படுத்தலாம்). இதற்குள்ளே காய்கறி சாலட் அல்லது சுண்டல் வைத்து பரிமாறலாம்.",
+      "instruction_en": "Fry the rest of the grated potato into baskets the same way (these keep for a few days in an airtight container). Fill with vegetable salad or sundal to serve.",
+      "image_url": null,
+      "display_order": 6
+    },
+    {
+      "id": "potato-baskets-instruction-7",
+      "step_number": 7,
+      "instruction_ta": "குறிப்பு: உப்பு சேர்க்காமல் பொரித்தால், பால் கோவா போன்ற ஏதாவது ஒரு இனிப்பை வைத்து பரிமாறலாம்.",
+      "instruction_en": "Note: if fried without salt, the baskets can instead be filled with a sweet such as milk khoya and served that way.",
+      "image_url": null,
+      "display_order": 7
+    }
+  ]
+}

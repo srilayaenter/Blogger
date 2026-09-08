@@ -1,0 +1,70 @@
+{
+  "slug": "curd-puri",
+  "title_ta": "தயிர் பூரி",
+  "title_en": "Curd Puri",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 11,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["chaat"],
+  "ingredients": [
+    { "id": "curd-puri-ingredient-1", "name_ta": "பூரிகள்", "name_en": "Puris", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "பானி பூரி செய்முறையில் கொடுக்கப்பட்டுள்ளபடி தயாரிக்கவும்", "notes_en": "prepared as in the Pani Puri recipe", "display_order": 1 },
+    { "id": "curd-puri-ingredient-2", "name_ta": "கட்டித் தயிர்", "name_en": "Thick, set curd", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "curd-puri-ingredient-3", "name_ta": "உப்பு, சர்க்கரை", "name_en": "Salt, sugar", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "தயிரைக் கடையச் சிறிதளவு", "notes_en": "a little, to beat into the curd", "display_order": 3 },
+    { "id": "curd-puri-ingredient-4", "name_ta": "உருளைக்கிழங்கு", "name_en": "Potato", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "வேகவைத்து கட்டிகளாக உதிர்த்தது", "notes_en": "boiled and crumbled into chunks", "display_order": 4 },
+    { "id": "curd-puri-ingredient-5", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "curd-puri-ingredient-6", "name_ta": "சீரகம்", "name_en": "Cumin", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "curd-puri-ingredient-7", "name_ta": "உப்பு, மஞ்சள் தூள், மிளகாய்த் தூள், கரம்மசாலாத் தூள்", "name_en": "Salt, turmeric powder, chili powder, garam masala powder", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "curd-puri-ingredient-8", "name_ta": "வேகவைத்த பட்டாணி (அ) வெள்ளை கொண்டைக்கடலை", "name_en": "Boiled green peas or white chickpeas", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "curd-puri-ingredient-9", "name_ta": "இனிப்பு சட்னி", "name_en": "Sweet chutney", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": "பானி பூரி செய்முறையில் கொடுக்கப்பட்டுள்ளது", "notes_en": "given in the Pani Puri recipe", "display_order": 9 },
+    { "id": "curd-puri-ingredient-10", "name_ta": "கருப்பு உப்புத் தூள், வறுத்த சீரகத்தூள், மிளகாய்த்தூள், உப்புத்தூள்", "name_en": "Black salt powder, roasted cumin powder, chili powder, salt", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "தூவ", "notes_en": "to sprinkle on top", "display_order": 10 },
+    { "id": "curd-puri-ingredient-11", "name_ta": "ஓமப்பொடி", "name_en": "Fine omam (carom) powder", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "மேலே தூவ", "notes_en": "to sprinkle on top", "display_order": 11 }
+  ],
+  "instructions": [
+    {
+      "id": "curd-puri-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "பானி பூரி செய்முறையில் குறிப்பிடப்பட்ட முறையில் பூரிகள் செய்யவும். கட்டித் தயிரை சிறிது உப்பு, சர்க்கரை சேர்த்துக் கடையவும்.",
+      "instruction_en": "Make the puris as described in the Pani Puri recipe. Beat the thick curd with a little salt and sugar.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "curd-puri-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "வேக வைத்து கட்டிகளாக உதிர்த்த உருளைக்கிழங்கை எண்ணெயில் சீரகம், உப்பு, மஞ்சள் தூள், மிளகாய்த் தூள், கரம்மசாலாத் தூள் சேர்த்து வதக்கவும்.",
+      "instruction_en": "Saute the boiled, crumbled potato in oil with cumin, salt, turmeric powder, chili powder, and garam masala powder.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "curd-puri-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "பூரியை மேலே ஓட்டை போட்டு சிறிது வதக்கிய உருளைக்கிழங்கு, வேகவைத்த பயறு அல்லது பட்டாணி (அ) வெள்ளை கொண்டைக் கடலை போடவும். பூரியின் உள்ளே ஒரு டீஸ்பூன் இனிப்பு சட்னி விடவும்.",
+      "instruction_en": "Make a hole in the top of the puri and put in a little of the sauteed potato, along with the boiled peas or white chickpeas. Add a teaspoon of sweet chutney inside the puri.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "curd-puri-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "கடைந்த தயிரை உள்ளே நிரப்பவும். சிறிது கருப்பு உப்புத்தூள், வறுத்த சீரகத்தூள், மிளகாய்த்தூள், உப்புத்தூள் தூவி மேலே மெல்லிய ஓமப்பொடி தூவி உடனே பரிமாறவும்.",
+      "instruction_en": "Fill the rest with the beaten curd. Sprinkle over a little black salt powder, roasted cumin powder, chili powder, and salt, then dust with fine omam powder on top and serve immediately.",
+      "image_url": null,
+      "display_order": 4
+    }
+  ]
+}

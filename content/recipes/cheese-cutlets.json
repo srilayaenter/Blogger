@@ -1,0 +1,87 @@
+{
+  "slug": "cheese-cutlets",
+  "title_ta": "சீஸ் கட்லெட்",
+  "title_en": "Cheese Cutlets",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 64,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["cutlet"],
+  "ingredients": [
+    { "id": "cheese-cutlets-ingredient-1", "name_ta": "உருளைக்கிழங்கு", "name_en": "Potato", "quantity": "1/2", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "cheese-cutlets-ingredient-2", "name_ta": "வெங்காயம்", "name_en": "Onion", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "cheese-cutlets-ingredient-3", "name_ta": "குடமிளகாய்", "name_en": "Capsicum", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "cheese-cutlets-ingredient-4", "name_ta": "முட்டைக்கோஸ்", "name_en": "Cabbage", "quantity": "150", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "cheese-cutlets-ingredient-5", "name_ta": "பச்சை மிளகாய்", "name_en": "Green chili", "quantity": "7", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "cheese-cutlets-ingredient-6", "name_ta": "இஞ்சி, பூண்டு விழுது", "name_en": "Ginger-garlic paste", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "cheese-cutlets-ingredient-7", "name_ta": "துருவிய சீஸ்", "name_en": "Grated cheese", "quantity": "1/2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": "3 க்யூப்கள்", "notes_en": "3 cubes", "display_order": 7 },
+    { "id": "cheese-cutlets-ingredient-8", "name_ta": "பொடி உப்பு", "name_en": "Fine salt", "quantity": "தேவைக்கேற்ப", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "cheese-cutlets-ingredient-9", "name_ta": "கரம்மசாலா பொடி", "name_en": "Garam masala powder", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 9 },
+    { "id": "cheese-cutlets-ingredient-10", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "சுடுவதற்கு", "notes_en": "for cooking", "display_order": 10 },
+    { "id": "cheese-cutlets-ingredient-11", "name_ta": "காய்ந்த ரொட்டித்தூள் (அ) ரஸ்க் தூள்", "name_en": "Dried bread crumbs or rusk powder", "quantity": "1/2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 11 },
+    { "id": "cheese-cutlets-ingredient-12", "name_ta": "மைதா", "name_en": "Maida (all-purpose flour)", "quantity": "3", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 12 }
+  ],
+  "instructions": [
+    {
+      "id": "cheese-cutlets-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "உருளைக்கிழங்கை வேக வைத்து, தோலுரித்து மசிக்கவும். வெங்காயத்தையும், முட்டைக் கோஸையும் துருவவும். பச்சை மிளகாயை விழுதாக அரைக்கவும். குடமிளகாயை பொடியாக அரியவும்.",
+      "instruction_en": "Boil the potatoes, peel, and mash. Grate the onion and cabbage. Grind the green chili into a paste. Finely chop the capsicum.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "cheese-cutlets-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "வாணலியில் எண்ணெய் விட்டு சோம்பு அல்லது சீரகம் தாளித்து இஞ்சி பூண்டு விழுது, மிளகாய் விழுது சேர்த்து கடைசியில் வெங்காயம் சேர்க்கவும். வெங்காயம் லேசான பிங்க் நிறமாக மாறியதும் துருவிய கோஸ், அரிந்த குடமிளகாய் சேர்த்து சில நிமிடங்கள் கிளறவும்.",
+      "instruction_en": "Heat oil in a pan, temper fennel or cumin seeds, add the ginger-garlic paste and green chili paste, then finally add the onion. Once the onion turns light pink, add the grated cabbage and chopped capsicum and stir for a few minutes.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "cheese-cutlets-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "காய்கறிகள் வதங்கியதும் மசித்த உருளைக்கிழங்கு, உப்பு, கரம்மசாலாத் தூள் சேர்த்து வதக்கவும். அடுப்பிலிருந்து இறக்கி நன்றாக ஆறவிடவும்.",
+      "instruction_en": "Once the vegetables wilt, add the mashed potato, salt, and garam masala powder, and saute. Remove from heat and let cool completely.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "cheese-cutlets-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "ஆறிய பிறகு மெலிதாகத் துருவிய சீஸ் மற்றும் பாதி ரொட்டித் தூள் சேர்க்கவும். நன்றாகக் கலந்து எலுமிச்சையளவு உருண்டைகள் செய்யவும்.",
+      "instruction_en": "Once cooled, mix in the finely grated cheese and half the bread crumbs. Mix well and shape into lemon-sized balls.",
+      "image_url": null,
+      "display_order": 4
+    },
+    {
+      "id": "cheese-cutlets-instruction-5",
+      "step_number": 5,
+      "instruction_ta": "மைதாவில் சிறிது தண்ணீர் சேர்த்து கூழ் போலாக்கி அதில் இந்த உருண்டைகளை முக்கி, பிரட் தூளில் புரட்டி எடுத்து கைகளினால் தட்டி வட்ட வடிவமாக்கவும். விருப்பப்பட்டால் பிஸ்கட் கட்டர் உபயோகப்படுத்தி பலவித ஷேப்புகளில் சிறிய சிறிய கட்லெட் செய்யவும்.",
+      "instruction_en": "Mix maida with a little water into a thin batter, dip the balls in it, roll in bread crumbs, and flatten by hand into rounds. If you like, use a biscuit cutter to shape small cutlets in different forms.",
+      "image_url": null,
+      "display_order": 5
+    },
+    {
+      "id": "cheese-cutlets-instruction-6",
+      "step_number": 6,
+      "instruction_ta": "1/2 மணி நேரம் குளிர்சாதனப் பெட்டியில் வைத்திருந்து தோசைக்கல்லில் அதிக எண்ணெய் விட்டு இருபுறமும் பொன்னிறமாகும் வரை சுடவும். தக்காளி சாஸுடன் பரிமாறவும்.",
+      "instruction_en": "Refrigerate for 1/2 hour, then cook on a griddle with plenty of oil on both sides until golden. Serve with tomato sauce.",
+      "image_url": null,
+      "display_order": 6
+    }
+  ]
+}

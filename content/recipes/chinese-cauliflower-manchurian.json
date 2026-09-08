@@ -1,0 +1,78 @@
+{
+  "slug": "chinese-cauliflower-manchurian",
+  "title_ta": "சீன காலிப்ளவர் மஞ்சூரியன்",
+  "title_en": "Chinese Cauliflower Manchurian",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 27,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["fusion"],
+  "ingredients": [
+    { "id": "chinese-cauliflower-manchurian-ingredient-1", "name_ta": "காலிப்ளவர்", "name_en": "Cauliflower", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": "பெரியது", "notes_en": "large", "display_order": 1 },
+    { "id": "chinese-cauliflower-manchurian-ingredient-2", "name_ta": "மக்காச்சோள மாவு", "name_en": "Corn flour", "quantity": "3", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": "குவித்து", "notes_en": "heaped", "display_order": 2 },
+    { "id": "chinese-cauliflower-manchurian-ingredient-3", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவையான அளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "chinese-cauliflower-manchurian-ingredient-4", "name_ta": "சோயா சாஸ்", "name_en": "Soy sauce", "quantity": "1", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "chinese-cauliflower-manchurian-ingredient-5", "name_ta": "வோர்செஸ்டர்ஷயர் சாஸ்", "name_en": "Worcestershire sauce", "quantity": "1", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "chinese-cauliflower-manchurian-ingredient-6", "name_ta": "அஜி-நோ-மோட்டோ", "name_en": "Ajinomoto (MSG)", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "chinese-cauliflower-manchurian-ingredient-7", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "தேவையான அளவு", "notes_en": "as needed", "display_order": 7 },
+    { "id": "chinese-cauliflower-manchurian-ingredient-8", "name_ta": "வெள்ளை மிளகுத் தூள்", "name_en": "White pepper powder", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "chinese-cauliflower-manchurian-ingredient-9", "name_ta": "இஞ்சி", "name_en": "Ginger", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": "சிறிய துண்டு, அரைக்க", "notes_en": "small piece, to grind", "display_order": 9 },
+    { "id": "chinese-cauliflower-manchurian-ingredient-10", "name_ta": "பூண்டு", "name_en": "Garlic", "quantity": "4", "unit_ta": "பல்லு", "unit_en": "cloves", "notes_ta": "அரைக்க", "notes_en": "to grind", "display_order": 10 },
+    { "id": "chinese-cauliflower-manchurian-ingredient-11", "name_ta": "பச்சை மிளகாய்", "name_en": "Green chili", "quantity": "7", "unit_ta": null, "unit_en": null, "notes_ta": "அரைக்க", "notes_en": "to grind", "display_order": 11 }
+  ],
+  "instructions": [
+    {
+      "id": "chinese-cauliflower-manchurian-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "காலிப்ளவரை சிறிய பூக்களாகப் பிரித்தெடுக்கவும். கொதிக்கும் சூடு உள்ள தண்ணீரில் உப்பு சேர்த்து கழுவிய காலிப்ளவர் துண்டங்களை இரண்டு நிமிடம் போட்டு மூடி வைக்கவும்.",
+      "instruction_en": "Break the cauliflower into small florets. Add salt to boiling water, drop in the washed florets, and cover for two minutes.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "chinese-cauliflower-manchurian-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "தண்ணீரை நன்கு வடித்துவிட்டு துணியின் மேல்பரப்பி மீதி தண்ணீரை உறிஞ்சும்படி வைக்கவும்.",
+      "instruction_en": "Drain thoroughly and spread on a cloth to blot up the remaining water.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "chinese-cauliflower-manchurian-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "அரைத்த விழுதோடு உப்பு, வெள்ளை மிளகுத் தூள், சாஸ் வகைகளைக் கலந்து இதை காலிப்ளவர் துண்டங்களின் மேல் நன்றாகப் பூசி 1/2 மணி நேரம் ஊற வைக்கவும்.",
+      "instruction_en": "Mix the ground paste with salt, white pepper powder, and the sauces, coat the cauliflower florets well with this, and let marinate for 1/2 hour.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "chinese-cauliflower-manchurian-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "பொரிப்பதற்கு முன் இதில் மக்காச்சோளமாவைத் தூவி சூடான எண்ணெயில் பொரித்து சூடாகப் பரிமாறவும்.",
+      "instruction_en": "Just before frying, dust with corn flour and deep-fry in hot oil. Serve hot.",
+      "image_url": null,
+      "display_order": 4
+    },
+    {
+      "id": "chinese-cauliflower-manchurian-instruction-5",
+      "step_number": 5,
+      "instruction_ta": "மாற்று செய்முறை: இதே போல பலவித காய்கறிகளைக் கலந்தும் செய்யலாம் (கேரட், உருளைக்கிழங்கு, குடமிளகாய், கோஸ் போன்ற காய்கறிகளை உபயோகப்படுத்தவும்).",
+      "instruction_en": "Alternative method: this can also be made with a mix of other vegetables -- carrot, potato, capsicum, and cabbage all work well.",
+      "image_url": null,
+      "display_order": 5
+    }
+  ]
+}

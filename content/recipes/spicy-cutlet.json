@@ -1,0 +1,80 @@
+{
+  "slug": "spicy-cutlet",
+  "title_ta": "காரக் கட்லெட்",
+  "title_en": "Spicy Cutlet",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 60,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["cutlet"],
+  "ingredients": [
+    { "id": "spicy-cutlet-ingredient-1", "name_ta": "உருளைக்கிழங்கு", "name_en": "Potato", "quantity": "1/2", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "spicy-cutlet-ingredient-2", "name_ta": "பட்டாணி", "name_en": "Green peas", "quantity": "1/2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "spicy-cutlet-ingredient-3", "name_ta": "பீன்ஸ்", "name_en": "Beans", "quantity": "100", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "spicy-cutlet-ingredient-4", "name_ta": "கேரட்", "name_en": "Carrot", "quantity": "1/4", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "spicy-cutlet-ingredient-5", "name_ta": "முட்டைக்கோஸ்", "name_en": "Cabbage", "quantity": "200", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "spicy-cutlet-ingredient-6", "name_ta": "ரொட்டி", "name_en": "Bread", "quantity": "6", "unit_ta": "துண்டுகள்", "unit_en": "slices", "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "spicy-cutlet-ingredient-7", "name_ta": "காய்ந்த ரொட்டித் தூள்", "name_en": "Dried bread crumbs", "quantity": "1/2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "spicy-cutlet-ingredient-8", "name_ta": "வெங்காயம்", "name_en": "Onion", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "spicy-cutlet-ingredient-9", "name_ta": "இஞ்சி, பச்சை மிளகாய் விழுது", "name_en": "Ginger-green chili paste", "quantity": "2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoons", "notes_ta": null, "notes_en": null, "display_order": 9 },
+    { "id": "spicy-cutlet-ingredient-10", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவைக்கேற்ப", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 10 },
+    { "id": "spicy-cutlet-ingredient-11", "name_ta": "கரம்மசாலா பொடி", "name_en": "Garam masala powder", "quantity": "3/4", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 11 },
+    { "id": "spicy-cutlet-ingredient-12", "name_ta": "மக்காச்சோள மாவு", "name_en": "Corn flour", "quantity": "1", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 12 },
+    { "id": "spicy-cutlet-ingredient-13", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "சுடுவதற்கு", "notes_en": "for cooking", "display_order": 13 }
+  ],
+  "instructions": [
+    {
+      "id": "spicy-cutlet-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "வெங்காயம், கேரட், கோஸ், பீன்ஸ் போன்ற காய்கறிகளை பொடியாக அரியவும். உருளைக்கிழங்கை குக்கரில் தண்ணீர் விட்டு வேக வைக்கவும். மேல் பாத்திரத்தில் மற்ற காய்களை ஆவியில் (தண்ணீர் விடாமல்) வேக வைக்கவும்.",
+      "instruction_en": "Finely chop the onion, carrot, cabbage, and beans. Boil the potatoes in water in the pressure cooker. Steam the other vegetables (no water) in a container on top.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "spicy-cutlet-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "உருளைக்கிழங்கை தோல் எடுத்து கட்டியில்லாமல் நன்றாக மசிக்கவும். மற்ற வெந்த காய்கறிகளை சிறிதுகூட தண்ணீர் இல்லாமல் பிழிந்து வைக்கவும்.",
+      "instruction_en": "Peel the potatoes and mash smooth, with no lumps. Squeeze the other cooked vegetables completely dry.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "spicy-cutlet-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "வாணலியில் எண்ணெய் விட்டுச் சூடாக்கி இஞ்சி மிளகாய் விழுது, வெங்காயம் சேர்த்து சிவக்க வதக்கவும். பிறகு அதில் பிழிந்து வைத்துள்ள காய்கறிகள், மசித்த உருளைக்கிழங்கு சேர்த்து வதக்கவும். கடைசியில் உப்பு, கரம்மசாலாத் தூள் சேர்த்து கலந்து இறக்கவும்.",
+      "instruction_en": "Heat oil in a pan and saute the ginger-chili paste and onion until reddish. Add the squeezed vegetables and mashed potato and saute. Finally add salt and garam masala powder, mix, and remove from heat.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "spicy-cutlet-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "பிரட் துண்டங்களை ஒவ்வொன்றாக தண்ணீரில் முக்கி எடுத்து கெட்டியாய் பிழிந்து மசாலாவில் சேர்க்கவும். மக்காச்சோள மாவு, பாதி காய்ந்த ரொட்டித் தூள் ஆகியவற்றையும் காய்கறிக் கலவையோடு கலந்து கெட்டியான சப்பாத்தி மாவு போலாக்கவும்.",
+      "instruction_en": "Dip each bread slice in water, squeeze out firmly, and add to the masala. Mix in the corn flour and half the dried bread crumbs, forming a mixture as firm as chapati dough.",
+      "image_url": null,
+      "display_order": 4
+    },
+    {
+      "id": "spicy-cutlet-instruction-5",
+      "step_number": 5,
+      "instruction_ta": "கைகளால் உருண்டை செய்து விருப்பமான வடிவில் தட்டி மீதி உள்ள பிரட் தூளில் புரட்டி எடுக்கவும். சூடான எண்ணெயில் பொரித்து சூடாகப் பரிமாறவும் அல்லது தோசைக்கல்லில் அதிக எண்ணெய் விட்டு பொன்னிறமாகச் சுட்டும் பரிமாறலாம்.",
+      "instruction_en": "Shape into balls by hand, flatten into any shape you like, and roll in the remaining bread crumbs. Deep-fry in hot oil and serve hot, or shallow-fry on a griddle with plenty of oil until golden.",
+      "image_url": null,
+      "display_order": 5
+    }
+  ]
+}

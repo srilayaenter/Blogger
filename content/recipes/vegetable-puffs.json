@@ -1,0 +1,117 @@
+{
+  "slug": "vegetable-puffs",
+  "title_ta": "வெஜிடபிள் பஃப்",
+  "title_en": "Vegetable Puffs",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 33,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["snack"],
+  "ingredients": [
+    { "id": "vegetable-puffs-ingredient-1", "name_ta": "மைதா மாவு", "name_en": "Maida (all-purpose flour)", "quantity": "1 1/2", "unit_ta": "ஆழாக்கு", "unit_en": "measures", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "vegetable-puffs-ingredient-2", "name_ta": "வனஸ்பதி", "name_en": "Vanaspati (vegetable shortening)", "quantity": "3", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": "குவித்து", "notes_en": "heaped", "display_order": 2 },
+    { "id": "vegetable-puffs-ingredient-3", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "vegetable-puffs-ingredient-4", "name_ta": "ஐஸ் தண்ணீர்", "name_en": "Ice water", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "மாவு பிசையத் தேவையான அளவு", "notes_en": "as needed to knead the dough", "display_order": 4 },
+    { "id": "vegetable-puffs-ingredient-5", "name_ta": "பொடியாக நறுக்கிய வெங்காயம்", "name_en": "Finely chopped onion", "quantity": "2", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "vegetable-puffs-ingredient-6", "name_ta": "உருளைக்கிழங்கு", "name_en": "Potato", "quantity": "3 அல்லது 4", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "vegetable-puffs-ingredient-7", "name_ta": "மஞ்சள் தூள்", "name_en": "Turmeric powder", "quantity": "1/4", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "vegetable-puffs-ingredient-8", "name_ta": "உரித்த பட்டாணி", "name_en": "Shelled green peas", "quantity": "2", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "vegetable-puffs-ingredient-9", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவையான அளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 9 },
+    { "id": "vegetable-puffs-ingredient-10", "name_ta": "காரட்", "name_en": "Carrot", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 10 },
+    { "id": "vegetable-puffs-ingredient-11", "name_ta": "பீன்ஸ்", "name_en": "Beans", "quantity": "5", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 11 },
+    { "id": "vegetable-puffs-ingredient-12", "name_ta": "கரம்மசாலா பொடி", "name_en": "Garam masala powder", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 12 },
+    { "id": "vegetable-puffs-ingredient-13", "name_ta": "எலுமிச்சம் பழம்", "name_en": "Lemon", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 13 },
+    { "id": "vegetable-puffs-ingredient-14", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "தேவைக்கேற்ப", "notes_en": "as needed", "display_order": 14 },
+    { "id": "vegetable-puffs-ingredient-15", "name_ta": "இஞ்சி", "name_en": "Ginger", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "1/2 அங்குலத் துண்டு, அரைக்க", "notes_en": "1/2-inch piece, to grind", "display_order": 15 },
+    { "id": "vegetable-puffs-ingredient-16", "name_ta": "பூண்டு", "name_en": "Garlic", "quantity": "3", "unit_ta": "பல்லு", "unit_en": "cloves", "notes_ta": "அரைக்க", "notes_en": "to grind", "display_order": 16 },
+    { "id": "vegetable-puffs-ingredient-17", "name_ta": "பச்சை மிளகாய்", "name_en": "Green chili", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": "அரைக்க", "notes_en": "to grind", "display_order": 17 },
+    { "id": "vegetable-puffs-ingredient-18", "name_ta": "பால் அல்லது முட்டையின் வெள்ளைக் கரு", "name_en": "Milk or egg white", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "மேலே தடவ", "notes_en": "to brush on top before baking", "display_order": 18 }
+  ],
+  "instructions": [
+    {
+      "id": "vegetable-puffs-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "மைதா மாவோடு உப்பு சேர்த்து ஐஸ் தண்ணீர் விட்டு மிருதுவாகப் பிசையவும். கல்லிற்கு எண்ணெய் தடவி, மாவை நன்றாக பலமுறை அடித்து எலாஸ்டிக் தன்மை பெறும்வரை பிசையவும். பிசைந்த மாவை ஈரத்துணி கொண்டு மூடி அதன் மேல் தட்டு வைத்து 1/2 மணி நேரம் வைக்கவும்.",
+      "instruction_en": "Mix the maida with salt and knead into a soft dough using ice water. Oil your kneading surface and beat and knead the dough repeatedly until elastic. Cover with a damp cloth, weigh down with a plate, and rest for 1/2 hour.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "vegetable-puffs-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "மசாலா செய்முறை: கேரட், பீன்ஸ் இரண்டையும் பொடியாக அரியவும். உருளைக்கிழங்கு, பட்டாணி மற்றும் அரிந்த காய்கறிகளை குக்கரில் வேகவைக்கவும். வேக வைத்த உருளைக்கிழங்கை தோல் எடுத்து மசிக்கவும்.",
+      "instruction_en": "Masala method: Finely chop the carrot and beans. Pressure-cook the potato, peas, and chopped vegetables. Peel and mash the cooked potato.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "vegetable-puffs-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "வாணலியில் எண்ணெய் விட்டுச் சூடாக்கி சீரகம் தாளித்து இஞ்சி, பூண்டு, பச்சை மிளகாய் அரைத்த விழுதைச் சேர்க்கவும். இதோடு அரிந்த வெங்காயம் சேர்த்து சிவக்க வதக்கவும். கரம்மசாலா பொடி, மிளகாய்த் தூள், மஞ்சள் தூள், உப்பு சேர்த்து ஒரு நிமிடம் கலந்து வேக வைத்து வடித்த காய்கறிகளைச் சேர்க்கவும். நல்ல வாசனை வரும்வரை சில நிமிடங்கள் வதக்கவும். எலுமிச்சம் பழம் பிழிந்து கொத்தமல்லி தழை தூவி அடுப்பிலிருந்து இறக்கவும்.",
+      "instruction_en": "Heat oil in a pan, temper cumin, and add the ground ginger-garlic-green chili paste. Add the chopped onion and saute until reddish. Add garam masala powder, chili powder, turmeric powder, and salt, mix for a minute, then add the cooked, drained vegetables. Saute for a few minutes until fragrant. Squeeze in the lemon and scatter coriander leaves before removing from heat.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "vegetable-puffs-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "பஃப் செய்யும் முறை: பிசைந்து வைத்த மாவை மறுபடி ஒருமுறை பிசையவும். வனஸ்பதியை அடுப்பில் வைத்து உருக்கி மறுபடி ஃப்ரிஜ்ஜில் 10 நிமிடம் வைக்கவும். உறைந்தவுடன் கைகளால் நன்றாகக் குழைத்து மெத்தென்று வெண்ணெய் போல வரும்படி செய்து ஒரு கிண்ணத்தில் வைக்கவும். இதை மூன்று சரி சமமான பாகங்களாகப் பிரித்து வைக்கவும்.",
+      "instruction_en": "Puff-making method: Knead the rested dough once more. Melt the vanaspati on the stove, then refrigerate it again for 10 minutes. Once set, beat it well by hand until it turns soft and butter-like, and place it in a bowl. Divide it into three equal portions.",
+      "image_url": null,
+      "display_order": 4
+    },
+    {
+      "id": "vegetable-puffs-instruction-5",
+      "step_number": 5,
+      "instruction_ta": "சமையல் ரூம் மேடை மேல் சிறிது எண்ணெய் தடவி பிசைந்த மைதா மாவை அதன்மேல் மிக மெல்லிய செவ்வகமாக உருட்டவும் (rectangle). உருட்டுவதற்கு மேல் மாவாக மைதாவையே உபயோகப்படுத்தவும். செவ்வக மைதா சப்பாத்தியை மனதிற்குள் மூன்று சரிசமமான பாகமாக பிரித்துக் கொள்ளவும். குழைத்த வனஸ்பதியில் ஒரு பாகத்தை எடுத்து உருட்டிய செவ்வகத்தில் 2/3 பாகத்தின் மேல் சுற்றிலும் 1/2 அங்குலம் இடம்விட்டு பூசவும்.",
+      "instruction_en": "Oil the work surface lightly and roll the dough out into a very thin rectangle, using maida as the dusting flour. Mentally divide the rectangle into three equal sections. Take one portion of the whipped vanaspati and spread it over two-thirds of the rectangle, leaving a 1/2-inch border all around.",
+      "image_url": null,
+      "display_order": 5
+    },
+    {
+      "id": "vegetable-puffs-instruction-6",
+      "step_number": 6,
+      "instruction_ta": "வனஸ்பதி பூசாத காலி பாகத்தை முதலில் உள்பக்கம் நோக்கி மடிக்கவும். அதற்குப் பிறகு பூசியுள்ள பாகத்தில் 1/3 பாகத்தை அதன் மேல் மடிக்கவும். லேசாக குழவியால் உருட்டவும். மறுபடியும் ஒரு செவ்வகம் கிடைக்கும். இதையும் அதே போல வனஸ்பதி பூசி மடிக்கவும். மூன்றாவதாக ஒரு முறை அதே போல செய்யவும். (உருட்ட கடினமாக இருந்தால் முதல் தடவை மடித்ததும் ஒரு ஈரத்துணியால் மூடி 10 நிமிடம் ப்ரிஜ்ஜில் வைத்து எடுத்து அதன் பிறகு செய்யவும்)",
+      "instruction_en": "Fold the unspread third of the rectangle inward first. Then fold the spread portion's remaining third over the top. Roll it out gently with a rolling pin -- you'll get a rectangle again. Spread vanaspati and fold this the same way, and repeat a third time. (If it's hard to roll, cover it with a damp cloth and refrigerate for 10 minutes after the first fold, then continue.)",
+      "image_url": null,
+      "display_order": 6
+    },
+    {
+      "id": "vegetable-puffs-instruction-7",
+      "step_number": 7,
+      "instruction_ta": "இப்போது கிடைத்துள்ள செவ்வகத்திற்கு ஒன்பது அடுக்குகள் இருக்கும். இதை 3\" x 4\" அங்குலத்திற்கு சிறிய செவ்வகங்களாக கத்தியால் வெட்டி மத்தியில் சிறிதளவு மசாலா வைத்து குறுக்கில் மத்தியில் மடிக்கவும் (மடித்ததும் பஃப் முக்கோணமாக இருக்கும்). சிறிதளவு ஈரம் தடவி ஒட்டவும். ஈரத்துணி கொண்டு மூடி 1/2 மணி நேரம் ப்ரிஜ்ஜில் வைக்கவும்.",
+      "instruction_en": "The rectangle you now have will have nine layers. Cut it into smaller 3\" x 4\" rectangles with a knife, place a little masala in the center of each, and fold diagonally across the middle (once folded, the puff will be triangular). Dab a little water and press the edges to seal. Cover with a damp cloth and refrigerate for 1/2 hour.",
+      "image_url": null,
+      "display_order": 7
+    },
+    {
+      "id": "vegetable-puffs-instruction-8",
+      "step_number": 8,
+      "instruction_ta": "ஓவனை 250°C வைத்து சிறிது நேரம் சூடாக்கவும். பேக் செய்யும் டிரேயில் சிறிது தண்ணீர் தடவி செய்த பஃப் முக்கோணங்களை அதில் சிறிதளவு இடைவெளி விட்டு அடுக்கவும். பஃபின் மேல் சிறிதளவு பால் அல்லது முட்டையின் வெள்ளைக் கருவை தடவி மேல் பாகம் பொன்னிறமாகும் வரை ஓவனில் வைக்கவும் (40 லிருந்து 50 நிமிடம் ஆகலாம்). சூடாக தக்காளி சாஸுடன் பரிமாறவும்.",
+      "instruction_en": "Preheat the oven to 250°C. Dampen the baking tray lightly with water and arrange the puff triangles on it with a little space between each. Brush the tops with a little milk or egg white and bake until golden on top (this can take 40 to 50 minutes). Serve hot with tomato sauce.",
+      "image_url": null,
+      "display_order": 8
+    },
+    {
+      "id": "vegetable-puffs-instruction-9",
+      "step_number": 9,
+      "instruction_ta": "குறிப்பு: மாவை கலக்கும் போது சப்பாத்திமாவு போல கலக்கவும். பிறகு நன்றாக அடித்துப் பிசைந்து தளர்த்தியாக்கவும். அப்போதுதான் மெலிதாக இட வரும். ஓவன் இல்லாதவர்கள் 50/50 சாண்ட்விட்ச் டோஸ்டரில் வைத்து கூட பஃப் செய்யலாம். வனஸ்பதியோடு வெண்ணெய் மற்றும் மார்ஜரின் சேர்த்து கலந்தும் பஃப் செய்யலாம். பஃபை நீள சதுரமாகவும் செய்யலாம். சதுர வடிவில் வெட்டி இரண்டாக மத்தியில் மடித்தால் நீள சதுரம் கிடைக்கும். சிறிதளவு தண்ணீர் பூசி ஒட்டாவிடில் பேக் செய்யும்போது அடுக்குகள் பிரிந்து மசாலா வெளியில் தெரியும்.",
+      "instruction_en": "Note: mix the dough the way you would chapati dough, then beat and knead it well to loosen it up -- that's what lets it roll out thin. If you don't have an oven, you can make these in a 50/50 sandwich toaster instead. You can also mix butter and margarine in with the vanaspati. The puffs can also be made square: cut a square, fold it in half through the middle, and you get an oblong shape. If you don't dab on enough water to seal it, the layers will separate during baking and the masala will show through.",
+      "image_url": null,
+      "display_order": 9
+    }
+  ]
+}

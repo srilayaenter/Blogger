@@ -194,5 +194,47 @@
     "name_en": "Puttu",
     "description_ta": null,
     "description_en": null
+  },
+  {
+    "slug": "roll",
+    "name_ta": "ரோல் வகைகள்",
+    "name_en": "Rolls",
+    "description_ta": null,
+    "description_en": null
+  },
+  {
+    "slug": "kabab",
+    "name_ta": "கபாப் வகைகள்",
+    "name_en": "Kabab",
+    "description_ta": null,
+    "description_en": null
+  },
+  {
+    "slug": "cutlet",
+    "name_ta": "கட்லெட் வகைகள்",
+    "name_en": "Cutlet",
+    "description_ta": null,
+    "description_en": null
+  },
+  {
+    "slug": "bonda",
+    "name_ta": "பொண்டா வகைகள்",
+    "name_en": "Bonda",
+    "description_ta": null,
+    "description_en": null
+  },
+  {
+    "slug": "chaat",
+    "name_ta": "சாட் வகைகள்",
+    "name_en": "Chaat",
+    "description_ta": null,
+    "description_en": null
+  },
+  {
+    "slug": "sandwich",
+    "name_ta": "சாண்ட்விட்ச் வகைகள்",
+    "name_en": "Sandwich",
+    "description_ta": null,
+    "description_en": null
   }
 ]

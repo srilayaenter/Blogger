@@ -1,0 +1,71 @@
+{
+  "slug": "stuffed-tomatoes",
+  "title_ta": "ஸ்டப் செய்த தக்காளி",
+  "title_en": "Stuffed Tomatoes",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 40,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["snack"],
+  "ingredients": [
+    { "id": "stuffed-tomatoes-ingredient-1", "name_ta": "ஒரே அளவான தக்காளி", "name_en": "Tomatoes, similar in size", "quantity": "8", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "stuffed-tomatoes-ingredient-2", "name_ta": "நறுக்கிய வெங்காயம்", "name_en": "Chopped onion", "quantity": "1/4", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "stuffed-tomatoes-ingredient-3", "name_ta": "பொடியாக நறுக்கிய வெங்காயத் தாள்", "name_en": "Finely chopped spring onion greens", "quantity": "1/4", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "stuffed-tomatoes-ingredient-4", "name_ta": "வேகவைத்த பட்டாணி", "name_en": "Boiled green peas", "quantity": "1/2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "stuffed-tomatoes-ingredient-5", "name_ta": "பொடியாக அரிந்து வேகவைத்த கேரட், காலிப்ளவர்", "name_en": "Finely chopped, boiled carrot and cauliflower", "quantity": "1/2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "stuffed-tomatoes-ingredient-6", "name_ta": "வோர்செஸ்டர்ஷயர் சாஸ்", "name_en": "Worcestershire sauce", "quantity": "2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoons", "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "stuffed-tomatoes-ingredient-7", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவையான அளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "stuffed-tomatoes-ingredient-8", "name_ta": "மிளகுத்தூள்", "name_en": "Pepper powder", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "stuffed-tomatoes-ingredient-9", "name_ta": "மிளகாய்ப் பொடி", "name_en": "Chili powder", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 9 },
+    { "id": "stuffed-tomatoes-ingredient-10", "name_ta": "துருவிய சீஸ்", "name_en": "Grated cheese", "quantity": "2", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 10 },
+    { "id": "stuffed-tomatoes-ingredient-11", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "சூடுவதற்கு", "notes_en": "for sauteing", "display_order": 11 },
+    { "id": "stuffed-tomatoes-ingredient-12", "name_ta": "மிளகாய் சாஸ் (அ) குடமிளகாய் சாஸ்", "name_en": "Chili sauce or capsicum sauce", "quantity": "2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoons", "notes_ta": null, "notes_en": null, "display_order": 12 }
+  ],
+  "instructions": [
+    {
+      "id": "stuffed-tomatoes-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "பழுத்த, கெட்டியான ஒரே அளவுள்ள தக்காளியை வாங்கவும். கூம்பான பகுதியில் மெல்லிய மூடி போல கூரான கத்தி கொண்டு வெட்டவும். உள்ளே சதைப் பாகத்தையும் விதைகளையும் ஸ்பூன் உதவியால் பத்திரமாக எடுக்கவும். தலைகீழாக ஒரு தட்டில் கவிழ்த்து வைக்கவும்.",
+      "instruction_en": "Choose ripe, firm tomatoes of similar size. Slice off a thin lid from the stem end with a sharp knife. Carefully scoop out the pulp and seeds with a spoon. Turn upside down on a plate to drain.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "stuffed-tomatoes-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "வாணலியில் எண்ணெயைச் சூடாக்கி வெங்காயத்தை சிவக்க வதக்கவும். தக்காளியின் உள்ளே இருந்து எடுத்த விழுதைச் சேர்த்து நன்கு கிளறவும். தண்ணீர் வற்றியதும் காய்கறி சேர்த்து வதக்கவும்.",
+      "instruction_en": "Heat oil in a pan and saute the onion until reddish. Add the scooped-out tomato pulp and stir well. Once the water has dried up, add the vegetables and saute.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "stuffed-tomatoes-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "கடைசியில் உப்பு, மிளகுத்தூள், மிளகாய்த்தூள், சாஸ் வகைகள் சேர்த்து மெல்லிய அனலில் மேலும் சில நிமிடங்கள் கெட்டியாகும் வரை கிளறவும்.",
+      "instruction_en": "Finally add salt, pepper powder, chili powder, and the sauces, and stir on low heat for a few more minutes until thickened.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "stuffed-tomatoes-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "ஆறியதும், தக்காளியின் உள்ளே இந்த மசாலாவை நிரப்பி மேலே துருவிய சீஸ் தூவி, சூடாக்கிய ஓவனில் (Oven - 180°C) பேக் செய்யவும். மேலே உள்ள சீஸ் உருகி சிறிது நிறம் மாறத் தொடங்கியதும் ஓவனில் இருந்து எடுத்து அலங்காரமாகத் தட்டில் வைத்து பரிமாறவும்.",
+      "instruction_en": "Once cooled, fill the tomato shells with this masala, top with grated cheese, and bake in a preheated oven (180°C). Once the cheese melts and just starts to change color, remove from the oven and arrange on a plate to serve.",
+      "image_url": null,
+      "display_order": 4
+    }
+  ]
+}

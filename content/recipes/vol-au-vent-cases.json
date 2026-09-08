@@ -1,0 +1,62 @@
+{
+  "slug": "vol-au-vent-cases",
+  "title_ta": "பஃப் டப்பிகள்",
+  "title_en": "Vol-au-vent Cases",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 36,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["snack"],
+  "ingredients": [
+    { "id": "vol-au-vent-cases-ingredient-1", "name_ta": "மைதா மாவு", "name_en": "Maida (all-purpose flour)", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "வெஜிடபிள் பஃப் செய்முறையில் கொடுக்கப்பட்டுள்ளபடி மாவும் அடுக்குகளும் தயாரிக்கவும் (இங்கே வழக்கத்தை விட அடுக்குகள் அதிகமாக இருக்க வேண்டும்)", "notes_en": "prepare the laminated dough as in the Vegetable Puffs recipe, with more layers than usual", "display_order": 1 },
+    { "id": "vol-au-vent-cases-ingredient-2", "name_ta": "மசாலா", "name_en": "Masala filling", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "வெஜிடபிள் பஃப் செய்முறையில் கொடுக்கப்பட்டுள்ளபடி தயாரிக்கவும்", "notes_en": "prepared as in the Vegetable Puffs recipe", "display_order": 2 },
+    { "id": "vol-au-vent-cases-ingredient-3", "name_ta": "துருவிய சீஸ்", "name_en": "Grated cooking cheese", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "விருப்பப்பட்டால், மேலே தூவ", "notes_en": "optional, to sprinkle on top", "display_order": 3 }
+  ],
+  "instructions": [
+    {
+      "id": "vol-au-vent-cases-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "குறிப்பு 25-ல் கூறியுள்ளபடி பஃப் மாவு பிசைந்து அடுக்குகள் தயாரித்ததும் 1/2 மணி நேரம் குளிர்சாதனப் பெட்டியில் ஈரத்துணியால் மூடி வைக்கவும். பஃப் செய்வதை விட அடுக்குகள் அதிகமாக இருக்க வேண்டும்.",
+      "instruction_en": "Prepare and laminate the puff dough as described in recipe 25 (Vegetable Puffs), then cover with a damp cloth and refrigerate for 1/2 hour. This dough needs more layers than a regular puff.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "vol-au-vent-cases-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "வட்ட வடிவமான இரண்டு பிஸ்கட் கட்டர் 4 அங்குல விட்டத்திலும், 3 அங்குல விட்டத்தில் இருக்கும்படியும் எடுத்துக் கொள்ளவும். முதலில் 4 அங்குல விட்டத்தில் உள்ளதை உபயோகப்படுத்தி பஃப் பேஸ்ட்ரியை கட் செய்து கொள்ளவும். அடுத்ததை அதன் மேலே முக்கால் பாகம் மட்டும் உள்ளே போகும்படி அழுத்தி அவனில் 10 நிமிடம் பேக் செய்யவும்.",
+      "instruction_en": "Take two round biscuit cutters, one 4 inches and one 3 inches in diameter. First cut the puff pastry using the 4-inch cutter. Then press the 3-inch cutter into the center of each round to about three-quarters of the depth, and bake for 10 minutes.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "vol-au-vent-cases-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "கத்தியின் உதவியால் அந்த அடுக்குகளை பத்திரமாக மேலே தூக்கி எடுக்கவும் (மூடி போல உபயோகப்படுத்த வேண்டும்). மறுபடியும் பொன்னிறமாக வரும்வரை பேக் செய்யவும். பேக் செய்த பிறகு உள்ளே மசாலாவை நிரப்பி தனியாக எடுத்துவைத்த அடுக்கு மூடியை மேலே வைத்து டப்பிகள் போல பரிமாறவும்.",
+      "instruction_en": "Carefully lift out the inner circle of layers with a knife, keeping it aside to use as a lid. Bake again until golden. Once baked, fill the case with the masala, place the reserved lid on top, and serve as little boxes.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "vol-au-vent-cases-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "குறிப்பு: வனஸ்பதி அல்லது மார்ஜரின் மட்டும் உபயோகப்படுத்தாமல் இரண்டும் கலந்தோ அல்லது சிறிது வெண்ணெயும் அதோடு கலந்தோ பஃப் தயாரிக்கலாம். மாற்று செய்முறை: விருப்பப்பட்டால் மசாலாவின் மேல் சிறிதளவு துருவிய சீஸ் (Cooking Cheese) தூவி சில நிமிடங்கள் பேக் செய்து பரிமாறலாம்.",
+      "instruction_en": "Note: instead of using only vanaspati or only margarine, you can mix the two together, or mix in a little butter as well. Alternative: if you like, sprinkle a little grated cooking cheese over the masala and bake for a few more minutes before serving.",
+      "image_url": null,
+      "display_order": 4
+    }
+  ]
+}

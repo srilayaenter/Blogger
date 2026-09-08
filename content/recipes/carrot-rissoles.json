@@ -1,0 +1,81 @@
+{
+  "slug": "carrot-rissoles",
+  "title_ta": "கேரட் ரிசோல்ஸ்",
+  "title_en": "Carrot Rissoles",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 18,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["cutlet"],
+  "ingredients": [
+    { "id": "carrot-rissoles-ingredient-1", "name_ta": "அரிசி சாதம்", "name_en": "Cooked rice", "quantity": "1", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "carrot-rissoles-ingredient-2", "name_ta": "கேரட்", "name_en": "Carrot", "quantity": "200", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "carrot-rissoles-ingredient-3", "name_ta": "வெங்காயம்", "name_en": "Onion", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": "பெரியது", "notes_en": "large", "display_order": 3 },
+    { "id": "carrot-rissoles-ingredient-4", "name_ta": "குடமிளகாய்", "name_en": "Capsicum", "quantity": "1 அல்லது 2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "carrot-rissoles-ingredient-5", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவையான அளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "carrot-rissoles-ingredient-6", "name_ta": "மிளகாய்ப் பொடி", "name_en": "Chili powder", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "carrot-rissoles-ingredient-7", "name_ta": "கரம்மசாலா பொடி", "name_en": "Garam masala powder", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "carrot-rissoles-ingredient-8", "name_ta": "ரொட்டித் தூள்", "name_en": "Bread crumbs", "quantity": "1/4", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "carrot-rissoles-ingredient-9", "name_ta": "மக்காச்சோளமாவு", "name_en": "Corn flour", "quantity": "1", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 9 },
+    { "id": "carrot-rissoles-ingredient-10", "name_ta": "அரிசி மாவு", "name_en": "Rice flour", "quantity": "3", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 10 },
+    { "id": "carrot-rissoles-ingredient-11", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "வேண்டிய அளவு", "notes_en": "as needed", "display_order": 11 },
+    { "id": "carrot-rissoles-ingredient-12", "name_ta": "மைதா", "name_en": "Maida (all-purpose flour)", "quantity": "2", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": "பசைக்கு", "notes_en": "for the coating paste", "display_order": 12 },
+    { "id": "carrot-rissoles-ingredient-13", "name_ta": "மக்காச்சோளமாவு", "name_en": "Corn flour", "quantity": "1", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoon", "notes_ta": "பசைக்கு", "notes_en": "for the coating paste", "display_order": 13 },
+    { "id": "carrot-rissoles-ingredient-14", "name_ta": "தண்ணீர்", "name_en": "Water", "quantity": "6", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": "பசைக்கு", "notes_en": "for the coating paste", "display_order": 14 }
+  ],
+  "instructions": [
+    {
+      "id": "carrot-rissoles-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "முழு கேரட்டை ஆவியில் வேகவைத்து மசித்துக் கொள்ளவும். வெங்காயம், குடமிளகாயை மிகப் பொடியாக அரியவும்.",
+      "instruction_en": "Steam the whole carrot and mash it. Finely chop the onion and capsicum.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "carrot-rissoles-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "வாணலியில் சிறிது எண்ணெய் விட்டுச் சூடாக்கி வெங்காயம், குடமிளகாயை சில நிமிடங்கள் வதக்கவும். அடுப்பிலிருந்து இறக்கி, நன்றாகப் பிசைந்த சாதத்துடன் கலந்து, மசித்த கேரட், பாதி பிரட் தூள், மற்ற பொடி வகைகளைச் சேர்க்கவும்.",
+      "instruction_en": "Heat a little oil in a pan and saute the onion and capsicum for a few minutes. Remove from heat, mix with well-mashed rice, the mashed carrot, half the bread crumbs, and the remaining powdered spices.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "carrot-rissoles-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "கைகளால் சப்பாத்தி மாவு போல கெட்டியாக கலக்கவும். எலுமிச்சை அளவு உருண்டைகளாக உருட்டவும்.",
+      "instruction_en": "Mix by hand into a firm consistency, like chapati dough. Shape into lemon-sized balls.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "carrot-rissoles-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "பிரட் தூளில் புரட்டி, மைதா குழைத்த கலவையில் முக்கி எடுத்து, மற்றொரு முறை பிரட் தூளில் புரட்டி எடுக்கவும். விருப்பப்பட்டால் நீளவாக்கில் உருட்டவும். ஒரு தட்டில் அடுக்கி 1 மணி நேரம் ஃப்ரிஜ்ஜில் வைக்கவும்.",
+      "instruction_en": "Roll in bread crumbs, dip in the maida-cornflour paste, then roll in bread crumbs once more. Shape into an oval if you like. Arrange on a plate and refrigerate for 1 hour.",
+      "image_url": null,
+      "display_order": 4
+    },
+    {
+      "id": "carrot-rissoles-instruction-5",
+      "step_number": 5,
+      "instruction_ta": "பொரிப்பதற்கு முன்னெடுத்து சூடான எண்ணெயில் பொன்னிறமாகப் பொரிக்கவும். சூடாக தக்காளி சாஸுடன் பரிமாறவும்.",
+      "instruction_en": "Take out just before frying and deep-fry in hot oil until golden brown. Serve hot with tomato sauce.",
+      "image_url": null,
+      "display_order": 5
+    }
+  ]
+}

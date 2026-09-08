@@ -1,0 +1,77 @@
+{
+  "slug": "potato-fritters",
+  "title_ta": "உருளை வறுவல்",
+  "title_en": "Potato Fritters",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 28,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["fried-snack"],
+  "ingredients": [
+    { "id": "potato-fritters-ingredient-1", "name_ta": "உருளைக் கிழங்கு", "name_en": "Potato", "quantity": "1/4", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "potato-fritters-ingredient-2", "name_ta": "மைதா", "name_en": "Maida (all-purpose flour)", "quantity": "2", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "potato-fritters-ingredient-3", "name_ta": "அரிசி மாவு", "name_en": "Rice flour", "quantity": "2", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "potato-fritters-ingredient-4", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "பொரிக்கத் தேவையான அளவு", "notes_en": "as needed, for frying", "display_order": 4 },
+    { "id": "potato-fritters-ingredient-5", "name_ta": "சோம்பு", "name_en": "Fennel seeds", "quantity": "1/4", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": "அரைக்க", "notes_en": "to grind", "display_order": 5 },
+    { "id": "potato-fritters-ingredient-6", "name_ta": "பூண்டு", "name_en": "Garlic", "quantity": "6", "unit_ta": "பல்லு", "unit_en": "cloves", "notes_ta": "அரைக்க", "notes_en": "to grind", "display_order": 6 },
+    { "id": "potato-fritters-ingredient-7", "name_ta": "இஞ்சி", "name_en": "Ginger", "quantity": "1", "unit_ta": "அங்குலத் துண்டு", "unit_en": "inch piece", "notes_ta": "அரைக்க", "notes_en": "to grind", "display_order": 7 },
+    { "id": "potato-fritters-ingredient-8", "name_ta": "சிகப்பு மிளகாய்", "name_en": "Dried red chili", "quantity": "8", "unit_ta": null, "unit_en": null, "notes_ta": "அரைக்க", "notes_en": "to grind", "display_order": 8 },
+    { "id": "potato-fritters-ingredient-9", "name_ta": "பொட்டுக்கடலை", "name_en": "Roasted gram (pottukadalai)", "quantity": "1 1/2", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": "அரைக்க", "notes_en": "to grind", "display_order": 9 },
+    { "id": "potato-fritters-ingredient-10", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவைக்கேற்ப", "unit_ta": null, "unit_en": null, "notes_ta": "அரைக்க", "notes_en": "to grind", "display_order": 10 }
+  ],
+  "instructions": [
+    {
+      "id": "potato-fritters-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "ஒரே அளவு உள்ளதாக பொறுக்கி உருளைக் கிழங்கை எடுத்துக் கொண்டு முழுதாக குக்கரில் வேக வைக்கவும். ஆறிய பிறகு தோலுரித்து 1/4 அங்குல வட்ட வடிவ துண்டங்களாக்கவும்.",
+      "instruction_en": "Pick potatoes of similar size and pressure-cook them whole. Once cooled, peel and slice into 1/4-inch-thick rounds.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "potato-fritters-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "சோம்பு, பூண்டு, இஞ்சி, சிகப்பு மிளகாய், பொட்டுக்கடலை, உப்பு ஆகியவற்றை சிறிதளவே தண்ணீர் சேர்த்து மைய அரைத்துக் கொள்ளவும். இந்த விழுதோடு மைதா மாவு, அரிசி மாவு சேர்த்துக் கொள்ளவும்.",
+      "instruction_en": "Grind the fennel, garlic, ginger, dried red chili, roasted gram, and salt with very little water into a smooth paste. Mix the maida and rice flour into this paste.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "potato-fritters-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "இந்த விழுதை உருளைக்கிழங்கு துண்டங்களின் இருபுறமும் மெலிதாகப் பூசி 1/2 மணி நேரம் வைக்கவும்.",
+      "instruction_en": "Coat both sides of each potato round thinly with this paste and let sit for 1/2 hour.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "potato-fritters-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "சூடான எண்ணெயில் பொரித்து சூடாகப் பரிமாறவும். (இதையே தோசைக்கல்லில் இருபுறமும் எண்ணெய் விட்டு சுட்டும் பரிமாறலாம்.)",
+      "instruction_en": "Deep-fry in hot oil and serve hot. (This can also be shallow-fried on both sides on a griddle with a little oil.)",
+      "image_url": null,
+      "display_order": 4
+    },
+    {
+      "id": "potato-fritters-instruction-5",
+      "step_number": 5,
+      "instruction_ta": "மாற்று செய்முறை: ஒரே அளவுள்ள கத்திரிக்காயை வட்ட வடிவத் துண்டங்களாக நறுக்கி குறிப்பிட்ட மசாலாவை பூசி பொரித்து பரிமாறவும்.",
+      "instruction_en": "Alternative method: slice similarly sized brinjal into rounds, coat with the same masala, and fry the same way.",
+      "image_url": null,
+      "display_order": 5
+    }
+  ]
+}

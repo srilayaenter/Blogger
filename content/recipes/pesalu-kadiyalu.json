@@ -1,0 +1,81 @@
+{
+  "slug": "pesalu-kadiyalu",
+  "title_ta": "பெசலு கடியாலு",
+  "title_en": "Pesalu Kadiyalu",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 22,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["fried-snack"],
+  "ingredients": [
+    { "id": "pesalu-kadiyalu-ingredient-1", "name_ta": "பாசிப் பருப்பு", "name_en": "Moong dal", "quantity": "3", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "pesalu-kadiyalu-ingredient-2", "name_ta": "பழுத்த வாழைப்பழம்", "name_en": "Ripe banana", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "pesalu-kadiyalu-ingredient-3", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவையான அளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "pesalu-kadiyalu-ingredient-4", "name_ta": "கழுவி காய வைத்த அரிசி மாவு", "name_en": "Washed and sun-dried rice flour", "quantity": "3/4", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": "தயாரிப்பு முறை குறிப்பில்", "notes_en": "see preparation note", "display_order": 4 },
+    { "id": "pesalu-kadiyalu-ingredient-5", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "வேண்டிய அளவு", "notes_en": "as needed", "display_order": 5 },
+    { "id": "pesalu-kadiyalu-ingredient-6", "name_ta": "உளுத்தம் பருப்பு", "name_en": "Urad dal", "quantity": "1/4", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 6 }
+  ],
+  "instructions": [
+    {
+      "id": "pesalu-kadiyalu-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "அரிசிமாவு தயாரிப்பு: பச்சரிசியை 1/2 மணி நேரம் ஊற வைத்து, வடித்து நிழலில் துணி விரித்து காய வைக்கவும். மிஷினில் கொடுத்து மாவாகத் திரித்த பின் 2 நாள் நிழலில் காயவைத்து சலித்து எடுத்து வைக்கவும். தேவைப்பட்ட போது உபயோகப்படுத்தலாம்.",
+      "instruction_en": "To prepare the rice flour: soak raw rice for 1/2 hour, drain, and spread on a cloth to dry in the shade. Have it ground into flour at a mill, then dry it in the shade for 2 more days and sift. Use as needed.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "pesalu-kadiyalu-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "பாசிப் பருப்பை கழுவி உளுத்தம் பருப்போடு சேர்த்து 3 மணி நேரம் தண்ணீரில் ஊற வைக்கவும். அரிசி மாவை சிறிது தண்ணீர் விட்டு கரைத்து வைக்கவும்.",
+      "instruction_en": "Wash the moong dal, combine with the urad dal, and soak in water for 3 hours. Dissolve the rice flour in a little water and set aside.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "pesalu-kadiyalu-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "ஊறிய பருப்பு வகைகளை கெட்டியாக அரைக்கவும். கடைசியில் அரிசி மாவு, உப்பு, மசித்த வாழைப்பழம் சேர்த்து அரைத்தெடுக்கவும்.",
+      "instruction_en": "Grind the soaked dals into a thick batter. Finally add the rice flour mixture, salt, and mashed banana, and grind together.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "pesalu-kadiyalu-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "ஒரு சிறிய வாணலியில் முக்கால் பாகம் எண்ணெய் விட்டுச் சூடாக்கவும். மாவை பாலாடை போல மூக்கு உள்ள ஒரு கிண்ணத்தில் முக்கி எடுத்து எண்ணெயில் சுற்றி வட்ட வடிவத்தில் ஊற்றவும் (ring shape). முனைகள் சரியாக ஒன்று சேர்வது போல ஊற்றவும்.",
+      "instruction_en": "Heat oil three-quarters full in a small pan. Pour the batter from a spouted bowl in a circular motion into the oil to form a ring shape, making sure the ends meet neatly.",
+      "image_url": null,
+      "display_order": 4
+    },
+    {
+      "id": "pesalu-kadiyalu-instruction-5",
+      "step_number": 5,
+      "instruction_ta": "கீழ்ப்பாகம் வெந்ததும் ஒரு குச்சியின் உதவி கொண்டு மெதுவாகத் திருப்பிப் போடவும். பொன்னிறமானதும் குச்சியின் உதவியால் எடுத்து எண்ணெயை வடியவிட்டு பரிமாறவும்.",
+      "instruction_en": "Once the underside is cooked, flip it gently with a stick. Once golden, lift it out with the stick, drain the oil, and serve.",
+      "image_url": null,
+      "display_order": 5
+    },
+    {
+      "id": "pesalu-kadiyalu-instruction-6",
+      "step_number": 6,
+      "instruction_ta": "இதற்குத் தொட்டுக் கொள்ள பாசிப்பருப்பு பாயசம், தேங்காய் சட்னியுடன் பரிமாற வேண்டும். பாயசம்: பாசிப்பருப்பை லேசாக வறுத்து தண்ணீர் விட்டு வேக வைக்கவும். பருப்பு பதமாக வெந்ததும் சம அளவு துருவிய வெல்லம் சேர்த்து சிறிது நேரம் கழித்து இறக்கவும். நெய்யில் முந்திரி, திராட்சை வறுத்து சேர்க்கவும்.",
+      "instruction_en": "Serve alongside moong dal payasam and coconut chutney. Payasam: lightly roast moong dal, add water, and cook. Once just tender, add an equal quantity of grated jaggery, cook a little longer, then remove from heat. Roast cashews and raisins in ghee and stir in.",
+      "image_url": null,
+      "display_order": 6
+    }
+  ]
+}

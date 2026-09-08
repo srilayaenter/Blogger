@@ -1,0 +1,102 @@
+{
+  "slug": "aloo-tikki",
+  "title_ta": "ஆலூ டிக்கி",
+  "title_en": "Aloo Tikki",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 62,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["cutlet"],
+  "ingredients": [
+    { "id": "aloo-tikki-ingredient-1", "name_ta": "உருளைக்கிழங்கு", "name_en": "Potato", "quantity": "1", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "aloo-tikki-ingredient-2", "name_ta": "பட்டாணி", "name_en": "Green peas", "quantity": "1/4", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": "அல்லது காலிப்ளவர்-1", "notes_en": "or 1 cauliflower", "display_order": 2 },
+    { "id": "aloo-tikki-ingredient-3", "name_ta": "தக்காளி", "name_en": "Tomato", "quantity": "3", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "aloo-tikki-ingredient-4", "name_ta": "பொடியாக நறுக்கிய வெங்காயம்", "name_en": "Finely chopped onion", "quantity": "1/4", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "aloo-tikki-ingredient-5", "name_ta": "ரொட்டி", "name_en": "Bread", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": "முழு ரொட்டி", "notes_en": "a whole loaf", "display_order": 5 },
+    { "id": "aloo-tikki-ingredient-6", "name_ta": "புதினா தழை", "name_en": "Mint leaves", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": "சிறிய கட்டு", "notes_en": "small bunch", "display_order": 6 },
+    { "id": "aloo-tikki-ingredient-7", "name_ta": "கொத்தமல்லித் தழை", "name_en": "Coriander leaves", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": "சிறிய கட்டு", "notes_en": "small bunch", "display_order": 7 },
+    { "id": "aloo-tikki-ingredient-8", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவைக்கேற்ப", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "aloo-tikki-ingredient-9", "name_ta": "மிளகாய்ப் பொடி", "name_en": "Chili powder", "quantity": "2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoons", "notes_ta": null, "notes_en": null, "display_order": 9 },
+    { "id": "aloo-tikki-ingredient-10", "name_ta": "கரம்மசாலா பொடி", "name_en": "Garam masala powder", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 10 },
+    { "id": "aloo-tikki-ingredient-11", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "சுடுவதற்கு", "notes_en": "for cooking", "display_order": 11 }
+  ],
+  "instructions": [
+    {
+      "id": "aloo-tikki-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "உருளைக்கிழங்கையும், உரித்த பட்டாணியையும் வேக வைக்கவும். வெந்த கிழங்கை தோலுரித்து கட்டியில்லாமல் மசிக்கவும்.",
+      "instruction_en": "Boil the potatoes and shelled peas. Peel the cooked potatoes and mash smooth, with no lumps.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "aloo-tikki-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "ரொட்டித் துண்டங்களை ஒவ்வொன்றாகத் தண்ணீரில் முக்கி எடுத்து நன்கு பிழிந்து உருளைக்கிழங்குடன் சேர்க்கவும். இதோடு உப்பு, மிளகாய்த் தூள், கரம்மசாலாத் தூள், பொடியாக அரிந்த புதினா, கொத்தமல்லித் தழை சேர்த்து நன்றாகப் பிசையவும்.",
+      "instruction_en": "Dip each bread slice in water, squeeze out well, and mix into the potato. Add salt, chili powder, garam masala powder, and chopped mint and coriander leaves, and knead thoroughly.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "aloo-tikki-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "தக்காளியை கொதிநீரில் போட்டு சில நிமிடம் கழித்து எடுத்து, தோலுரித்து அரைத்து வடிகட்டவும்.",
+      "instruction_en": "Blanch the tomatoes in boiling water for a few minutes, then peel, grind, and strain.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "aloo-tikki-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "வாணலியில் ஒரு ஸ்பூன் எண்ணெய்விட்டு சீரகம் மற்றும் பொடியாக அரிந்த வெங்காயம் சேர்க்கவும். வெங்காயம் பொன்னிறமானதும் தக்காளி விழுது, உப்பு, சிறிது மிளகாய்த் தூள், கரம்மசாலாத் தூள், வெந்த பட்டாணி சேர்க்கவும். ஈரம் முழுவதும் வற்றியதும் கீழே இறக்கவும்.",
+      "instruction_en": "Heat a spoon of oil in a pan and add cumin and chopped onion. Once the onion turns golden, add the tomato puree, salt, a little chili powder, garam masala powder, and the cooked peas. Once the moisture has fully dried up, remove from heat.",
+      "image_url": null,
+      "display_order": 4
+    },
+    {
+      "id": "aloo-tikki-instruction-5",
+      "step_number": 5,
+      "instruction_ta": "தயாரித்த உருளைக்கிழங்கு மாவிலிருந்து ஆரஞ்சு அளவு உருண்டைகள் தயாரிக்கவும். குழி செய்து மத்தியில் சிறிதளவு பட்டாணி மசாலா வைத்து மூடி மறுபடியும் உருண்டை செய்யவும்.",
+      "instruction_en": "Shape the potato dough into orange-sized balls. Make a well in each, place a little of the pea masala inside, and reshape into a ball, sealing the filling in.",
+      "image_url": null,
+      "display_order": 5
+    },
+    {
+      "id": "aloo-tikki-instruction-6",
+      "step_number": 6,
+      "instruction_ta": "கையால் உருண்டையைத் தட்டையாக்கி கட்லெட் போல தயாரிக்கவும். சூடான எண்ணெயில் பொன்னிறமாகப் பொரித்து எடுக்கவும் (தோசைக் கல்லில் எண்ணெய் விட்டும் சுடலாம்).",
+      "instruction_en": "Flatten each ball by hand into a cutlet shape. Deep-fry in hot oil until golden (this can also be shallow-fried on a griddle with oil).",
+      "image_url": null,
+      "display_order": 6
+    },
+    {
+      "id": "aloo-tikki-instruction-7",
+      "step_number": 7,
+      "instruction_ta": "பரிமாறும் போது தக்காளி சாஸ் அல்லது இனிப்பு சட்னி, புதினா சட்னியோடு பொடியாக நறுக்கிய வெங்காயத்தை மேலே தூவி சூடாகப் பரிமாறவும். (இனிப்பு சட்னி: பானிபூரி செய்முறையில் காண்க. புதினா சட்னி: இப் புத்தகத்தின் கடைசி பக்கங்களில் காண்க.)",
+      "instruction_en": "Serve hot, topped with chopped onion, alongside tomato sauce or sweet chutney and mint chutney. (Sweet chutney: see the Pani Puri recipe. Mint chutney: see the closing pages of this book.)",
+      "image_url": null,
+      "display_order": 7
+    },
+    {
+      "id": "aloo-tikki-instruction-8",
+      "step_number": 8,
+      "instruction_ta": "மாற்று செய்முறை: பட்டாணிக்குப் பதில் காலிப்ளவர் அல்லது முழு பச்சைப் பயறு உபயோகப்படுத்தியும் உள்ளே வைக்கும் பூரணம் செய்யலாம். மிளகாய்த் தூளுக்குப் பதில் இஞ்சி பச்சை மிளகாய் விழுது சேர்த்து உருளைக்கிழங்குடன் பிசைந்து டிக்கி செய்யலாம். உள்ளே பூரணம் வைக்காமலும் செய்யலாம்.",
+      "instruction_en": "Alternative method: cauliflower or whole moong beans can be used instead of peas for the filling. Instead of chili powder, ginger-green chili paste can be kneaded into the potato dough directly. The tikki can also be made without any filling at all.",
+      "image_url": null,
+      "display_order": 8
+    }
+  ]
+}

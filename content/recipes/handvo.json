@@ -1,0 +1,83 @@
+{
+  "slug": "handvo",
+  "title_ta": "ஹண்ட்வோ",
+  "title_en": "Handvo",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 44,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["fusion"],
+  "ingredients": [
+    { "id": "handvo-ingredient-1", "name_ta": "கடலை மாவு", "name_en": "Gram flour (besan)", "quantity": "1", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "handvo-ingredient-2", "name_ta": "அரிசி மாவு", "name_en": "Rice flour", "quantity": "1", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "handvo-ingredient-3", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "1 1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoons", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "handvo-ingredient-4", "name_ta": "நறுக்கிய கொத்தமல்லித் தழை", "name_en": "Chopped coriander leaves", "quantity": "1/2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "handvo-ingredient-5", "name_ta": "எள்ளு", "name_en": "Sesame seeds", "quantity": "3/4", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "handvo-ingredient-6", "name_ta": "பொட்டுக்கடலை", "name_en": "Roasted gram (pottukadalai)", "quantity": "1", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoon", "notes_ta": "பொடித்தது", "notes_en": "ground", "display_order": 6 },
+    { "id": "handvo-ingredient-7", "name_ta": "தனியா", "name_en": "Coriander seeds", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "handvo-ingredient-8", "name_ta": "புளித்த மோர்", "name_en": "Sour buttermilk", "quantity": "2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "handvo-ingredient-9", "name_ta": "பெருங்காயம்", "name_en": "Asafoetida", "quantity": "2", "unit_ta": "சிட்டிகை", "unit_en": "pinches", "notes_ta": null, "notes_en": null, "display_order": 9 },
+    { "id": "handvo-ingredient-10", "name_ta": "சமையல் சோடா", "name_en": "Cooking soda", "quantity": "1/4", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 10 },
+    { "id": "handvo-ingredient-11", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": "1", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoon", "notes_ta": "தாளிக்க", "notes_en": "for tempering", "display_order": 11 },
+    { "id": "handvo-ingredient-12", "name_ta": "கடுகு", "name_en": "Mustard seeds", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": "தாளிக்க", "notes_en": "for tempering", "display_order": 12 },
+    { "id": "handvo-ingredient-13", "name_ta": "கறிவேப்பிலை", "name_en": "Curry leaves", "quantity": "1", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoon", "notes_ta": "தாளிக்க", "notes_en": "for tempering", "display_order": 13 },
+    { "id": "handvo-ingredient-14", "name_ta": "பச்சை மிளகாய்", "name_en": "Green chili", "quantity": "10", "unit_ta": null, "unit_en": null, "notes_ta": "அரைக்க", "notes_en": "to grind", "display_order": 14 },
+    { "id": "handvo-ingredient-15", "name_ta": "இஞ்சி", "name_en": "Ginger", "quantity": "1", "unit_ta": "அங்குலத்துண்டு", "unit_en": "inch piece", "notes_ta": "அரைக்க", "notes_en": "to grind", "display_order": 15 },
+    { "id": "handvo-ingredient-16", "name_ta": "பூண்டு", "name_en": "Garlic", "quantity": "1", "unit_ta": "பல்லு", "unit_en": "clove", "notes_ta": "அரைக்க", "notes_en": "to grind", "display_order": 16 }
+  ],
+  "instructions": [
+    {
+      "id": "handvo-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "அரிசி மாவு, கடலைமாவோடு பொடித்த பொட்டுக்கடலை, எள்ளு, தனியா, உப்பு சேர்த்து மோரில் கலந்து 10 மணி நேரம் மூடி வைக்கவும்.",
+      "instruction_en": "Mix the rice flour and gram flour with the ground roasted gram, sesame seeds, coriander seeds, and salt into the buttermilk, and cover and rest for 10 hours.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "handvo-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "சுடுவதற்கு முன் அரைத்த விழுது, சோடா, கொத்தமல்லி, பெருங்காயம் சேர்த்து எண்ணெயில் கடுகு, கறிவேப்பிலை தாளித்துக் கொட்டி நன்றாகக் கலக்கவும்.",
+      "instruction_en": "Just before cooking, mix in the ground paste, soda, coriander leaves, and asafoetida, and pour in a mustard-and-curry-leaf tempering, mixing well.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "handvo-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "ஒரு அகலமான வாணலியை எடுத்துக் கொண்டு 1½ டேபிள் ஸ்பூன் எண்ணெய் விட்டுச் சூடாக்கவும். வாணலிக்குத் தகுந்தபடி 1/4 அங்குல கனத்திற்கு கலந்த மாவை ஊற்றி மூடியால் மூடி குறைந்த அனலில் வைக்கவும்.",
+      "instruction_en": "Heat 1½ tablespoons of oil in a wide pan. Pour in the batter to a thickness of 1/4 inch, filling the pan, cover with a lid, and cook on low heat.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "handvo-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "மேல் பாகம் பச்சைமாவு இல்லாமல் வெந்து இருக்கும்போது மெதுவாகத் திருப்பிப் போட்டு மேலும் எண்ணெய் விடவும். இருபுறமும் நன்கு சிவந்து உள்ளே உள்ள மாவு நன்கு வெந்ததும் எடுக்கவும்.",
+      "instruction_en": "Once the top is no longer raw, flip gently and add a little more oil. Once both sides are well browned and the inside is fully cooked, remove from the pan.",
+      "image_url": null,
+      "display_order": 4
+    },
+    {
+      "id": "handvo-instruction-5",
+      "step_number": 5,
+      "instruction_ta": "சதுரத் துண்டங்களாக அரிந்து பரிமாறவும். குறிப்பு: இதையே ஓவனிலும் பேக் செய்யலாம்.",
+      "instruction_en": "Cut into squares and serve. Note: this can also be baked in an oven.",
+      "image_url": null,
+      "display_order": 5
+    }
+  ]
+}

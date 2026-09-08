@@ -1,0 +1,65 @@
+{
+  "slug": "vegetable-cones",
+  "title_ta": "வெஜிடபிள் கோன்ஸ்",
+  "title_en": "Vegetable Cones",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 35,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["snack"],
+  "ingredients": [
+    { "id": "vegetable-cones-ingredient-1", "name_ta": "மைதா மாவு", "name_en": "Maida (all-purpose flour)", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "வெஜிடபிள் பஃப் செய்முறையில் கொடுக்கப்பட்டுள்ளபடி மாவும் அடுக்குகளும் தயாரிக்கவும்", "notes_en": "prepare the laminated dough exactly as in the Vegetable Puffs recipe", "display_order": 1 },
+    { "id": "vegetable-cones-ingredient-2", "name_ta": "வெண்ணெய்", "name_en": "Butter", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "கூம்பு அச்சின் மேல் தடவ", "notes_en": "to grease the cone moulds", "display_order": 2 },
+    { "id": "vegetable-cones-ingredient-3", "name_ta": "மசாலா", "name_en": "Masala filling", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "வெஜிடபிள் பஃப் செய்முறையில் கொடுக்கப்பட்டுள்ளபடி தயாரிக்கவும்", "notes_en": "prepared as in the Vegetable Puffs recipe", "display_order": 3 },
+    { "id": "vegetable-cones-ingredient-4", "name_ta": "மைதா மாவு", "name_en": "Maida (all-purpose flour)", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "பொரித்த கூம்பு மாற்றுமுறைக்கு", "notes_en": "for the fried-cone alternative method", "display_order": 4 },
+    { "id": "vegetable-cones-ingredient-5", "name_ta": "ரவை, பேகிங் பவுடர், உப்பு, வெண்ணெய்", "name_en": "Semolina, baking powder, salt, butter", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "சிறிதளவு, பொரித்த கூம்பு மாற்றுமுறைக்கு", "notes_en": "a little of each, for the fried-cone alternative method", "display_order": 5 },
+    { "id": "vegetable-cones-ingredient-6", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "பொரித்த கூம்பு மாற்றுமுறைக்கு", "notes_en": "for the fried-cone alternative method", "display_order": 6 }
+  ],
+  "instructions": [
+    {
+      "id": "vegetable-cones-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "முன்கூறிய பஃப் குறிப்பினபடி மைதா மாவு தயாரிக்கவும். மெல்லிய சப்பாத்தி போல இட்டு 1/2 அங்குல அகலத்தில் ரிப்பன் போல கத்தரிக்கவும்.",
+      "instruction_en": "Prepare the laminated maida dough exactly as described in the Vegetable Puffs recipe. Roll it out thin like a chapati and cut into 1/2-inch-wide ribbons.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "vegetable-cones-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "தகரம் அல்லது ஏதாவது உலோகத்தில் செய்துள்ள கோன்ஸ் (கூம்பு வடிவில் உள்ளவை) எடுத்துக் கொண்டு மேலே சிறிது வெண்ணெய் தடவி அதன் மேல் இந்த ரிப்பன்களை பக்கமாக லேசாக ஒன்றன் மேல் ஒன்று ஒட்டியிருக்கும்படி சுற்றவும்.",
+      "instruction_en": "Take metal cone-shaped moulds, grease them lightly with butter, and wind the dough ribbons around each one, overlapping slightly so they hold together.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "vegetable-cones-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "ஓவனில் (Oven) வைத்து மேலே கலர் மாறும்வரை பேக் செய்யவும். மேலே சிறிது உருக்கிய வெண்ணெய் தடவவும். தயாரித்த மசாலாவை உள்ளே நிரப்பி பரிமாறவும்.",
+      "instruction_en": "Bake in the oven until golden on top. Brush a little melted butter on top, unmould, fill with the prepared masala, and serve.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "vegetable-cones-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "மாற்று முறை -- பொரித்த கூம்புகள்: மைதா மாவோடு சிறிது ரவை, பேகிங் பவுடர், உப்பு, சிறிது வெண்ணெய் சேர்த்து கலந்து, சிறிது சிறிதாகத் தண்ணீர் தெளித்து கெட்டியான மாவாகப் பிசையவும். நன்றாகப் பிசைந்து மெல்லிய சப்பாத்தியாக இட்டு முன்பு கூறியபடி கத்தரித்து கூம்பின் மேல் சுற்றி சூடான எண்ணெயில் பொரிக்கவும். பொரிக்கும் போதே கூம்புகள் எண்ணெயில் பிரிந்து வந்துவிடும். பொன்னிறத்தில் பொரித்து மசாலாவை உள்ளே நிரப்பி பரிமாறவும்.",
+      "instruction_en": "Alternative method -- Fried Cones: Mix the maida with a little semolina, baking powder, salt, and butter, then sprinkle in water little by little and knead into a stiff dough. Knead well, roll out thin like a chapati, cut into ribbons as described above, wind around the cone moulds, and deep-fry in hot oil. The cones will slip off the moulds naturally while frying. Fry until golden, fill with the masala, and serve.",
+      "image_url": null,
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "slug": "rice-flour-rings",
+  "title_ta": "அரிசிமாவு கோடிபேடலு",
+  "title_en": "Rice Flour Rings",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 23,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["fried-snack"],
+  "ingredients": [
+    { "id": "rice-flour-rings-ingredient-1", "name_ta": "அரிசி மாவு", "name_en": "Rice flour", "quantity": "2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": "குவித்து; தயாரிப்பு முறை பெசலு கடியாலு செய்முறையில் கொடுக்கப்பட்டுள்ளது", "notes_en": "heaped; preparation method given in the Pesalu Kadiyalu recipe", "display_order": 1 },
+    { "id": "rice-flour-rings-ingredient-2", "name_ta": "தண்ணீர்", "name_en": "Water", "quantity": "3", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "rice-flour-rings-ingredient-3", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoons", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "rice-flour-rings-ingredient-4", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "வேண்டிய அளவு", "notes_en": "as needed", "display_order": 4 },
+    { "id": "rice-flour-rings-ingredient-5", "name_ta": "தேங்காய்த் துருவல்", "name_en": "Grated coconut", "quantity": "1 1/2", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "rice-flour-rings-ingredient-6", "name_ta": "மிளகு", "name_en": "Pepper", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": "கரகரப்பாகப் பொடி செய்யவும்", "notes_en": "coarsely ground", "display_order": 6 },
+    { "id": "rice-flour-rings-ingredient-7", "name_ta": "சீரகம்", "name_en": "Cumin", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": "கரகரப்பாகப் பொடி செய்யவும்", "notes_en": "coarsely ground", "display_order": 7 }
+  ],
+  "instructions": [
+    {
+      "id": "rice-flour-rings-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "ஒரு அகலமான வெண்கலம் அல்லது ஈயம் பூசிய பித்தளைப் பாத்திரத்தில் தண்ணீர் விட்டு அதில் உப்பு, ஒரு ஸ்பூன் எண்ணெய், தேங்காய்த் துருவல் சேர்த்து சூடாக்கவும்.",
+      "instruction_en": "Pour water into a wide bronze or tinned brass vessel and heat it with salt, a spoon of oil, and the grated coconut.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "rice-flour-rings-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "தண்ணீர் கொதி வரும்போது தீயை குறைத்து மாவை மத்தியில் கோபுரம் போல கொட்டி ஒரு கரண்டிக் காம்பால் குத்தி வைத்து அகலத் தட்டால் மூடவும்.",
+      "instruction_en": "Once the water comes to a boil, lower the heat, pour the flour into the center in a mound, poke a hole through it with a ladle handle, and cover with a wide plate.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "rice-flour-rings-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "2 நிமிடம் கழித்து அடுப்பை அணைத்து கீழே இறக்கி வேகமாக கட்டி தட்டாதபடி கலக்கவும். அதோடு சீரகம், மிளகுத் தூள் சேர்க்கவும். சிறிது நேரம் கழித்து கை பொறுக்கும் சூடு வந்தவுடன் மாவை நன்கு பிசையவும்.",
+      "instruction_en": "After 2 minutes, turn off the heat, remove the pot, and mix quickly so no lumps form. Add the cumin and pepper. Once it's cool enough to handle, knead the dough thoroughly.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "rice-flour-rings-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "தேவைப்பட்டால் தண்ணீர் தெளித்து சப்பாத்தி மாவு போல பிசையவும். கைக்கு ஒட்டாதிருக்க சிறிது எண்ணெய் தடவிக் கொண்டு பிசையவும்.",
+      "instruction_en": "Sprinkle in water if needed and knead into a chapati-like dough. Oil your hands lightly so it doesn't stick while kneading.",
+      "image_url": null,
+      "display_order": 4
+    },
+    {
+      "id": "rice-flour-rings-instruction-5",
+      "step_number": 5,
+      "instruction_ta": "எலுமிச்சையளவு உருண்டைகளாக்கி விரல்களைப் போல நீளமாக உருட்டவும் (எண்ணெய் தடவிய சப்பாத்திக் கல்லின் மேல் செய்யவும்). இரு முனைகளையும் ஒன்று சேர்த்து வட்ட வடிவ சங்கிலி போல செய்யவும். எல்லா உருண்டைகளையும் இதே போல செய்து கொள்ளவும்.",
+      "instruction_en": "Shape into lemon-sized balls and roll each into a finger-length rope (do this on an oiled surface). Join the two ends together into a ring, like a small chain-link. Shape all the dough this way.",
+      "image_url": null,
+      "display_order": 5
+    },
+    {
+      "id": "rice-flour-rings-instruction-6",
+      "step_number": 6,
+      "instruction_ta": "சூடான எண்ணெயில் இளம்மஞ்சள் நிறத்தில் பொரித்து எடுக்கவும். சூடாக தேங்காய் சட்னியுடன் பரிமாறவும்.",
+      "instruction_en": "Deep-fry in hot oil until pale golden. Serve hot with coconut chutney.",
+      "image_url": null,
+      "display_order": 6
+    }
+  ]
+}

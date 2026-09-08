@@ -1,0 +1,80 @@
+{
+  "slug": "bel-puri",
+  "title_ta": "பேல் பூரி",
+  "title_en": "Bhel Puri",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 12,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["chaat"],
+  "ingredients": [
+    { "id": "bel-puri-ingredient-1", "name_ta": "நொறுக்கிய பானி பூரிகள்", "name_en": "Crushed pani puris", "quantity": "1", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "bel-puri-ingredient-2", "name_ta": "உருளைக்கிழங்கு சிப்ஸ்", "name_en": "Potato chips", "quantity": "1/2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "bel-puri-ingredient-3", "name_ta": "பொரி", "name_en": "Puffed rice", "quantity": "2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "bel-puri-ingredient-4", "name_ta": "கேரட் துருவல்", "name_en": "Grated carrot", "quantity": "2", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "bel-puri-ingredient-5", "name_ta": "பொடியாக அரிந்த வெங்காயம்", "name_en": "Finely chopped onion", "quantity": "1 1/2", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "bel-puri-ingredient-6", "name_ta": "துருவிய மாங்காய், வெள்ளரிப் பிஞ்சு", "name_en": "Grated raw mango, young cucumber", "quantity": "1 1/2", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "bel-puri-ingredient-7", "name_ta": "பொடியாக அரிந்த கொத்தமல்லித் தழை", "name_en": "Finely chopped coriander leaves", "quantity": "1", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "bel-puri-ingredient-8", "name_ta": "நறுக்கிய தக்காளி", "name_en": "Chopped tomato", "quantity": "1", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "bel-puri-ingredient-9", "name_ta": "மெல்லிய ஓமப்பொடி", "name_en": "Fine sev (omapodi)", "quantity": "1/2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 9 },
+    { "id": "bel-puri-ingredient-10", "name_ta": "பொடி உப்பு", "name_en": "Fine salt", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 10 },
+    { "id": "bel-puri-ingredient-11", "name_ta": "மிளகாய் பொடி", "name_en": "Chili powder", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 11 },
+    { "id": "bel-puri-ingredient-12", "name_ta": "வேகவைத்த பட்டாணி, வேகவைத்து நறுக்கிய உருளைக்கிழங்கு", "name_en": "Boiled green peas, boiled and diced potato", "quantity": "1 1/2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 12 },
+    { "id": "bel-puri-ingredient-13", "name_ta": "இனிப்பு சட்னி", "name_en": "Sweet chutney", "quantity": "3", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoons", "notes_ta": null, "notes_en": null, "display_order": 13 },
+    { "id": "bel-puri-ingredient-14", "name_ta": "புதினா சட்னி", "name_en": "Mint chutney", "quantity": "3", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoons", "notes_ta": null, "notes_en": null, "display_order": 14 },
+    { "id": "bel-puri-ingredient-15", "name_ta": "பூண்டு சட்னி", "name_en": "Garlic chutney", "quantity": "3", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoons", "notes_ta": null, "notes_en": null, "display_order": 15 },
+    { "id": "bel-puri-ingredient-16", "name_ta": "உலர்ந்த மாங்காய் பொடி", "name_en": "Dried mango powder", "quantity": "1/4", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 16 },
+    { "id": "bel-puri-ingredient-17", "name_ta": "பூண்டு", "name_en": "Garlic", "quantity": "15", "unit_ta": "பல்லு", "unit_en": "cloves", "notes_ta": "பூண்டு சட்னிக்கு", "notes_en": "for the garlic chutney", "display_order": 17 },
+    { "id": "bel-puri-ingredient-18", "name_ta": "புளி", "name_en": "Tamarind", "quantity": "சிறிதளவு", "unit_ta": null, "unit_en": null, "notes_ta": "ஊற வைத்தது, பூண்டு சட்னிக்கு", "notes_en": "soaked, for the garlic chutney", "display_order": 18 },
+    { "id": "bel-puri-ingredient-19", "name_ta": "சீரகம்", "name_en": "Cumin", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": "பூண்டு சட்னிக்கு", "notes_en": "for the garlic chutney", "display_order": 19 },
+    { "id": "bel-puri-ingredient-20", "name_ta": "மிளகாய்ப் பொடி", "name_en": "Chili powder", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": "பூண்டு சட்னிக்கு", "notes_en": "for the garlic chutney", "display_order": 20 },
+    { "id": "bel-puri-ingredient-21", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": "பூண்டு சட்னிக்கு", "notes_en": "for the garlic chutney", "display_order": 21 }
+  ],
+  "instructions": [
+    {
+      "id": "bel-puri-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "பூண்டு சட்னி: பூண்டு, ஊற வைத்த புளி, சீரகம், மிளகாய்ப் பொடி, உப்பு ஆகியவற்றை நன்றாக அரைத்துக் கொள்ளவும்.",
+      "instruction_en": "Garlic chutney: Grind the garlic, soaked tamarind, cumin, chili powder, and salt together into a smooth chutney.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "bel-puri-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "ஒரு அகலமான பேசினில் நொறுக்கிய பூரிகள், சிப்ஸ், பொரி, பாதி ஓமப்பொடி சேர்த்து கலக்கவும்.",
+      "instruction_en": "In a wide basin, mix the crushed puris, potato chips, puffed rice, and half of the sev.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "bel-puri-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "குறிப்பிடப்பட்ட அரிந்த காய்கறிகளை சேர்த்து பொடி வகைகளைத் தூவவும்.",
+      "instruction_en": "Add the chopped vegetables listed above and dust in the powdered spices.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "bel-puri-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "கடைசியில் சட்னி வகைகளை, விருப்பத்திற்கேற்ப சேர்த்து வேகமாக கலந்து உடனே பரிமாறவும். பரிமாறும் போது மேலே பொடியாக நறுக்கிய வெங்காயம், கொத்தமல்லித் தழை, ஓமப்பொடி தூவி பரிமாறவும். (குறிப்பு: மெல்லிய பாம்பே ஓமப்பொடியை உபயோகப்படுத்தினால் தான் ருசி நன்றாக இருக்கும்.)",
+      "instruction_en": "Finally, add the chutneys to taste, toss quickly, and serve immediately. When serving, sprinkle finely chopped onion, coriander leaves, and sev on top. (Note: it tastes best made with fine Bombay-style sev.)",
+      "image_url": null,
+      "display_order": 4
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "pani-puri",
+  "title_ta": "பானி பூரி",
+  "title_en": "Pani Puri",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 9,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["chaat"],
+  "ingredients": [
+    { "id": "pani-puri-ingredient-1", "name_ta": "மெல்லிய ரவை", "name_en": "Fine semolina (rava)", "quantity": "3/4", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "pani-puri-ingredient-2", "name_ta": "மைதா", "name_en": "Maida (all-purpose flour)", "quantity": "1/2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "pani-puri-ingredient-3", "name_ta": "உளுத்தம் பருப்பு மாவு", "name_en": "Urad dal flour", "quantity": "2", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "pani-puri-ingredient-4", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "1/4", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "pani-puri-ingredient-5", "name_ta": "பேக்கிங் பவுடர்", "name_en": "Baking powder", "quantity": "2", "unit_ta": "சிட்டிகை", "unit_en": "pinches", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "pani-puri-ingredient-6", "name_ta": "ஐஸ் தண்ணீர் (அ) குடிக்கும் சோடா", "name_en": "Ice water or drinking soda", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "மாவை பிசைவதற்கு", "notes_en": "to knead the dough", "display_order": 6 },
+    { "id": "pani-puri-ingredient-7", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "தேவையான அளவு, பொரிக்க", "notes_en": "as needed, for frying", "display_order": 7 },
+    { "id": "pani-puri-ingredient-8", "name_ta": "முற்றிய புதினா இலை", "name_en": "Mature mint leaves", "quantity": "1", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": "நன்கு", "notes_en": null, "display_order": 8 },
+    { "id": "pani-puri-ingredient-9", "name_ta": "கொத்தமல்லித் தழை", "name_en": "Coriander leaves", "quantity": "1/3", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 9 },
+    { "id": "pani-puri-ingredient-10", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "1", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoon", "notes_ta": "தலை தட்டி", "notes_en": "level", "display_order": 10 },
+    { "id": "pani-puri-ingredient-11", "name_ta": "பச்சை மிளகாய்", "name_en": "Green chili", "quantity": "4", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 11 },
+    { "id": "pani-puri-ingredient-12", "name_ta": "புளி", "name_en": "Tamarind", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "கோழியளவு, நீரில் ஊற வைக்கவும்", "notes_en": "egg-sized, soaked in water", "display_order": 12 },
+    { "id": "pani-puri-ingredient-13", "name_ta": "சீரகம்", "name_en": "Cumin", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 13 },
+    { "id": "pani-puri-ingredient-14", "name_ta": "துருவிய வெல்லம்", "name_en": "Grated jaggery", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 14 },
+    { "id": "pani-puri-ingredient-15", "name_ta": "கருப்பு உப்பு", "name_en": "Black salt (kala namak)", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": "கடைகளில் கட்டியாகக் கிடைக்கும்; வாங்கி பொடித்துக் கொள்ளவும்", "notes_en": "sold as a block; buy and grind it yourself", "display_order": 15 },
+    { "id": "pani-puri-ingredient-16", "name_ta": "புளி", "name_en": "Tamarind", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "பெரிய எலுமிச்சை அளவு", "notes_en": "large-lemon-sized, for the sweet chutney", "display_order": 16 },
+    { "id": "pani-puri-ingredient-17", "name_ta": "துருவிய வெல்லம்", "name_en": "Grated jaggery", "quantity": "1/4", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": "இனிப்பு சட்னிக்கு", "notes_en": "for the sweet chutney", "display_order": 17 },
+    { "id": "pani-puri-ingredient-18", "name_ta": "பேரீச்சம்பழம்", "name_en": "Dates", "quantity": "5", "unit_ta": null, "unit_en": null, "notes_ta": "கொட்டை நீக்கியது", "notes_en": "pitted", "display_order": 18 },
+    { "id": "pani-puri-ingredient-19", "name_ta": "உலர்ந்த திராட்சை (கிஸ்மிஸ்)", "name_en": "Dried raisins", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 19 },
+    { "id": "pani-puri-ingredient-20", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": "இனிப்பு சட்னிக்கு", "notes_en": "for the sweet chutney", "display_order": 20 },
+    { "id": "pani-puri-ingredient-21", "name_ta": "மிளகாய்த் தூள்", "name_en": "Chili powder", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": "இனிப்பு சட்னிக்கு", "notes_en": "for the sweet chutney", "display_order": 21 },
+    { "id": "pani-puri-ingredient-22", "name_ta": "உருளைக்கிழங்கு", "name_en": "Potato", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "வேகவைத்து சிறு துண்டுகளாக்கியது, பரிமாறுவதற்கு", "notes_en": "boiled and diced small, for serving", "display_order": 22 },
+    { "id": "pani-puri-ingredient-23", "name_ta": "முழு பாசிப்பயறு", "name_en": "Whole moong beans", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "வேகவைத்தது, பரிமாறுவதற்கு", "notes_en": "boiled, for serving", "display_order": 23 }
+  ],
+  "instructions": [
+    {
+      "id": "pani-puri-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "உளுந்தை வாணலியில் இளஞ் சிவப்பாக வறுக்கவும். மிக்ஸியில் பொடி செய்து சலித்துக் கொள்ளவும். இதை மைதா, ரவை, உப்பு, பேகிங் பவுடரோடு சேர்த்து கலந்து ஒரு பேசினில் எடுத்துக் கொள்ளவும். சோடா பாட்டில் மூடியைத் திறந்து கொஞ்சம் கொஞ்சமாகத் தெளித்து கெட்டியான சப்பாத்தி மாவு போல பிசையவும். ஈரத்துணி கொண்டு 10 நிமிடம் மூடி வைக்கவும். நன்றாக அடித்துப் பிசைந்து மாவு எலாஸ்டிக் தன்மை பெறும்படி செய்யவும்.",
+      "instruction_en": "Roast the urad dal in a pan until light pink. Grind to a powder in a mixer and sift it. Combine this with the maida, rava, salt, and baking powder in a basin. Open a bottle of soda and sprinkle it in little by little, kneading into a stiff chapati-like dough. Cover with a damp cloth and rest for 10 minutes. Beat and knead the dough well until it becomes elastic.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "pani-puri-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "சிறுசிறு கோலி போன்ற உருண்டைகளாக்கி சிறிய பூரிகளாக இடவும். பூரி இட இட ஆறாமல் உடனே எண்ணெயில் பொரிக்கவும். குறைந்த அனலில் சிறிது நேரம் பொரித்து எடுத்தால் தான் மொறுமொறுப்பாக இருக்கும். (மிக மெல்லியதாகவும் இல்லாமல் மிகக் கனமாகவும் இல்லாமல் பூரி இடவும். அப்போதுதான் பூரி பொங்கி வரும்.)",
+      "instruction_en": "Shape small marble-sized balls of dough and roll them into tiny puris. Fry each puri in oil as soon as it's rolled, without letting it sit and dry out. Frying gently for a while over low heat is what makes them crisp. (Roll the puris neither too thin nor too thick -- that's what makes them puff up properly.)",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "pani-puri-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "புதினா சட்னி: புதினா இலை, கொத்தமல்லித் தழை, உப்பு, பச்சை மிளகாய், ஊற வைத்த புளி ஆகியவற்றை நன்றாக அரைத்துக் கொள்ளவும். இதோடு ஒரு லிட்டர் தண்ணீர் சேர்த்து கரைத்து வடிகட்டவும். சிறிது காய்ந்த மாங்காய்த் தூள் சேர்த்துக் கலந்து, ஒரு எலுமிச்சம் பழத்தின் ரசத்தை சேர்க்கவும். சிறிது நேரம் கழித்து துருவிய வெல்லம், உப்பு, மிளகாய்த் தூள் சேர்த்து மிக்ஸியில் அரைத்து பெரிய கண் வலை உள்ள வடிகட்டியில் வடிகட்டவும்.",
+      "instruction_en": "Mint chutney: Grind the mint leaves, coriander leaves, salt, green chilies, and soaked tamarind into a smooth paste. Mix in a litre of water and strain. Stir in a little dried mango powder, then squeeze in the juice of one lemon.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "pani-puri-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "இனிப்பு சட்னி: புளியை தண்ணீரில் ஊற வைக்கவும். அதிலேயே திராட்சை, அரிந்த பேரீச்சம் பழம் சேர்த்து மூடி வைக்கவும். சிறிது நேரம் கழித்து துருவிய வெல்லம், உப்பு, மிளகாய்த் தூள் சேர்த்து மிக்ஸியில் அரைத்து பெரிய கண் வலை உள்ள வடிகட்டியில் வடி கட்டவும். சட்னி சிறிது கெட்டிப்படும் வரை கொதிக்க வைத்து இறக்கவும்.",
+      "instruction_en": "Sweet chutney: Soak the tamarind in water. Add the raisins and chopped dates to the same water and cover. After a while, add the grated jaggery, salt, and chili powder, grind in a mixer, and strain through a coarse-mesh strainer. Bring the chutney to a boil until it thickens slightly, then remove from heat.",
+      "image_url": null,
+      "display_order": 4
+    },
+    {
+      "id": "pani-puri-instruction-5",
+      "step_number": 5,
+      "instruction_ta": "பரிமாறும் முறை: உருளைக்கிழங்கையும், முழு பாசிப் பயறையும் வேக வைத்துக் கொள்ளவும். கிழங்கை தோலுரித்து சிறிய துண்டுகளாக்கவும், உப்பு, மிளகாய்த் தூள் தூவவும். வேக வைத்த பயறை வடிகட்டி தண்ணீர் வடிந்தும் உப்பு, மிளகாய்த்தூள் தெளித்து தனியாக வைக்கவும். ஒரு பூரியை எடுத்து மேல்பகுதியில் மத்தியில் சிறிய ஓட்டை செய்யவும், அதற்குள் சிறிது பயறு, உருளைக் கிழங்கு துண்டுகள் போடவும். ஒரு டீஸ்பூன் இனிப்பு சட்னி போட்டு, பானி (நீர்க்கக் கரைத்த புதினா சட்னி) ஊற்றி உடனே சாப்பிடவும்.",
+      "instruction_en": "To serve: Boil the potatoes and the whole moong beans. Peel the potatoes and cut into small pieces, sprinkle with salt and chili powder. Drain the boiled moong beans, season with salt and chili powder, and set aside. Take a puri, make a small hole in the top center, and put in a little of the moong and potato pieces. Add a teaspoon of the sweet chutney, then pour in the pani (mint chutney thinned with water) and eat immediately.",
+      "image_url": null,
+      "display_order": 5
+    }
+  ]
+}

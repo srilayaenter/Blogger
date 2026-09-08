@@ -1,0 +1,112 @@
+{
+  "slug": "pizza",
+  "title_ta": "பிஸ்ஸா",
+  "title_en": "Pizza",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 41,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["fusion"],
+  "ingredients": [
+    { "id": "pizza-ingredient-1", "name_ta": "மைதா", "name_en": "Maida (all-purpose flour)", "quantity": "2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": "குவித்து", "notes_en": "heaped", "display_order": 1 },
+    { "id": "pizza-ingredient-2", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": "4", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoons", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "pizza-ingredient-3", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "pizza-ingredient-4", "name_ta": "உலர்ந்த ஈஸ்ட்", "name_en": "Dried yeast", "quantity": "3/4", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "pizza-ingredient-5", "name_ta": "பால்", "name_en": "Milk", "quantity": "1/2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "pizza-ingredient-6", "name_ta": "தண்ணீர்", "name_en": "Water", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "தேவையான அளவு", "notes_en": "as needed", "display_order": 6 },
+    { "id": "pizza-ingredient-7", "name_ta": "வெங்காயம்", "name_en": "Onion", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": "மேலே வைக்க", "notes_en": "for topping", "display_order": 7 },
+    { "id": "pizza-ingredient-8", "name_ta": "குடமிளகாய்", "name_en": "Capsicum", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": "மேலே வைக்க", "notes_en": "for topping", "display_order": 8 },
+    { "id": "pizza-ingredient-9", "name_ta": "தக்காளி", "name_en": "Tomato", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": "மேலே வைக்க", "notes_en": "for topping", "display_order": 9 },
+    { "id": "pizza-ingredient-10", "name_ta": "சீஸ் (Cooking Cheese)", "name_en": "Cooking cheese", "quantity": "150", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 10 },
+    { "id": "pizza-ingredient-11", "name_ta": "தக்காளி சாஸ்", "name_en": "Tomato sauce", "quantity": "3", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 11 },
+    { "id": "pizza-ingredient-12", "name_ta": "உப்பு, மிளகுத்தூள்", "name_en": "Salt, pepper powder", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "தேவைக்கேற்ப", "notes_en": "as needed", "display_order": 12 },
+    { "id": "pizza-ingredient-13", "name_ta": "வெண்ணெய்", "name_en": "Butter", "quantity": "1", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 13 }
+  ],
+  "instructions": [
+    {
+      "id": "pizza-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "இளஞ்சூடான பாலில் சர்க்கரை, ஈஸ்ட் சேர்த்து 15 நிமிடங்கள் மூடி வைக்கவும். மைதா மாவை சலித்து உப்பு, எண்ணெய் சேர்த்து நன்றாக ஒரு அகலக் கிண்ணத்தில் கலக்கவும்.",
+      "instruction_en": "Add sugar and yeast to lukewarm milk and cover for 15 minutes. Sift the maida, add salt and oil, and mix well in a wide bowl.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "pizza-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "மாவின் மத்தியில் ஒரு குழி செய்து பால், ஈஸ்ட் கலவையை சேர்த்து விரல் நுனிகளால் கொஞ்சம் கொஞ்சமாக மாவை லேசாகப் பிசையவும். தேவையான இளஞ்சூடான தண்ணீர் தெளித்து மிருதுவான மாவாகப் பிசையவும் (சப்பாத்தி மாவை போல), அழுத்திப் பிசைய வேண்டாம்.",
+      "instruction_en": "Make a well in the center of the flour, pour in the milk-yeast mixture, and knead the flour lightly with your fingertips, a little at a time. Sprinkle in lukewarm water as needed and knead into a soft dough (like chapati dough) -- don't knead it forcefully.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "pizza-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "ஒரு அகலமான பாத்திரத்தின் உள்ளே எண்ணெய் தடவி பிசைந்த மாவை அதில் வைத்து மேலே மாவு பொங்கி வர இடம் இருக்கும்படி வைத்து மூடியால் மூடவும். 5 அல்லது 6 மணி நேரம் கழித்துப் பார்த்தால் மாவு இரண்டு மடங்காகப் பொங்கி வந்திருக்கும்.",
+      "instruction_en": "Oil the inside of a wide vessel, place the dough in it leaving room for it to rise, and cover with a lid. After 5 or 6 hours, the dough will have doubled in size.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "pizza-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "பொங்கிய மாவை பெரிய ஆரஞ்சுப் பழ அளவு உருண்டையாக்கி (மாவை மறுபடியும் பிசையாமல் அப்படியே பிரித்து எடுக்கவும்). மைதா மாவை தொட்டுக் கொண்டு 1/4 அங்குல கனத்திற்கு சப்பாத்தி போல உருட்டவும்.",
+      "instruction_en": "Divide the risen dough into large-orange-sized portions without re-kneading it. Dust with maida and roll each into a 1/4-inch-thick disc, like a chapati.",
+      "image_url": null,
+      "display_order": 4
+    },
+    {
+      "id": "pizza-instruction-5",
+      "step_number": 5,
+      "instruction_ta": "மேலே முள்கரண்டியின் உதவியால் குத்திவிட்டு பேக்கிங் டிரேயில் வைத்து கூடு செய்த ஓவனில் 5 அல்லது 7 நிமிடம் பேக் (275°C) செய்யவும். மேலே சிவப்பாக ஆவதற்கு முன்பே வெளியில் எடுக்கவும்.",
+      "instruction_en": "Prick the surface with a fork, place on a baking tray, and bake in a preheated oven for 5 to 7 minutes at 275°C. Remove before the top starts to brown.",
+      "image_url": null,
+      "display_order": 5
+    },
+    {
+      "id": "pizza-instruction-6",
+      "step_number": 6,
+      "instruction_ta": "சிறிது வெண்ணெய் தடவி அதன் மேல் தக்காளி சாஸை மெலிதாகப் பரப்பவும். வெங்காயம், தக்காளி, குடமிளகாயை மெல்லிய வட்டங்களாக நறுக்கி அதன் மேலே அலங்கரிக்கவும்.",
+      "instruction_en": "Spread a little butter and a thin layer of tomato sauce over the base. Slice the onion, tomato, and capsicum into thin rounds and arrange them on top.",
+      "image_url": null,
+      "display_order": 6
+    },
+    {
+      "id": "pizza-instruction-7",
+      "step_number": 7,
+      "instruction_ta": "அதற்கும் மேலே உப்பு, மிளகுத்தூள் தூவி, துருவிய சீஸைப் பரப்பவும். சூடான ஓவனில் (Grill or Toast) வைத்து சீஸ் உருகும் வரை வைக்கவும். உடனே பரிமாறவும்.",
+      "instruction_en": "Sprinkle salt and pepper powder over the toppings, then scatter grated cheese on top. Grill or toast in a hot oven until the cheese melts. Serve immediately.",
+      "image_url": null,
+      "display_order": 7
+    },
+    {
+      "id": "pizza-instruction-8",
+      "step_number": 8,
+      "instruction_ta": "மாற்று முறை (ஆறு தொப்பிங் யோசனைகள்): 1.தக்காளி சாஸோடு மிளகாய் சாஸ், '8 to 8' சாஸ், வோர்செஸ்டர் ஷயர் சாஸ் கலந்து பூசலாம். 2.சிறிது எண்ணெயில் சோம்பு, நறுக்கிய வெங்காயம், தக்காளி சேர்த்து நன்றாக வதக்கி உப்பு, மிளகாய்த்தூள், கரம்மசாலாத் தூள் கலந்து பிஸ்ஸாவின் மேலே பரப்ப சட்னியாக உபயோகப்படுத்தலாம். 3.சிகப்பு ராஜ்மா பீன்சை 8 மணி நேரம் ஊற வைத்து குக்கரில் 20 நிமிடம் வேகவைத்து தண்ணீரை வடித்துவிடவும். வெங்காயத்தை எண்ணெயில் வதக்கி கரம்மசாலா பவுடர், தனியா பவுடர், மிளகாய்த் தூள், உப்பு, தக்காளி சாஸ் சேர்த்து கலந்து கடைசியில் பீன்ஸ் சேர்த்து கலந்து இறக்கவும். இதை பிஸ்ஸாவின் மேல் பரப்பி சீஸ் தூவி பேக் செய்யவும். 4.பாலக் கீரையை எண்ணெயில் வதக்கி அரைக்கவும். உப்பு, மிளகுத்தூள், மசாலாத் தூள் சேர்த்து கொதிக்க வைக்கவும். பிஸ்ஸாவின் மேல் தக்காளி சாஸ் பரப்பி அதன் மேல் இந்த சட்னியை பரப்பி, துருவிய பனீர் (பாலாடைக்கட்டி) அதன் மேல் துருவிய சீஸ் தூவி ஓவனில் பேக் செய்யவும். 5.வெங்காயம், குடமிளகாய், வெங்காயத்தாள், கேரட், கோஸ் போன்ற காய்கறிகளை மெல்லிய நீளத்துண்டங்களாக நறுக்கி எண்ணெயில் அஜி-நோ-மோட்டோ சேர்த்து வதக்கி, உப்பு, வெள்ளை மிளகுத்தூள், சோயா சாஸ் சேர்த்து இறக்கவும். இதை பிஸ்ஸாவின் மேல் பரப்பி, சீஸ் தூவி பேக் செய்யவும். 6.பிஸ்ஸா நானை இருபுறமும் வெண்ணெய் தடவி தோசைக் கல்லில் சப்பாத்தி போல சுட்டு காய்கறி மசாலாவோடு பரிமாறலாம்.",
+      "instruction_en": "Alternative method (six topping ideas): (1) Mix tomato sauce with chili sauce, '8 to 8' sauce, and Worcestershire sauce as a spread. (2) Saute fennel, chopped onion, and tomato in a little oil, mix in salt, chili powder, and garam masala powder, and use this as a chutney-style topping. (3) Soak red rajma (kidney beans) for 8 hours, pressure-cook for 20 minutes, and drain. Saute onion in oil, add garam masala powder, coriander powder, chili powder, salt, and tomato sauce, then finally mix in the beans and remove from heat -- spread this over the pizza, top with cheese, and bake. (4) Saute and grind spinach; add salt, pepper powder, and masala powder, and bring to a boil. Spread tomato sauce on the pizza base, spread this spinach mixture over it, sprinkle crumbled paneer, top with grated cheese, and bake. (5) Cut onion, capsicum, spring onion, carrot, and cabbage into thin strips, saute in oil with ajinomoto, then add salt, white pepper powder, and soy sauce and remove from heat -- spread this over the pizza, top with cheese, and bake. (6) A ready-made pizza naan can also be buttered on both sides and toasted like a chapati on a griddle, then served alongside a vegetable masala.",
+      "image_url": null,
+      "display_order": 8
+    },
+    {
+      "id": "pizza-instruction-9",
+      "step_number": 9,
+      "instruction_ta": "குறிப்பு: பாதி அளவு பேக் செய்த பிஸ்ஸா நான் கடைகளில் கிடைக்கிறது. அதை வாங்கி மேலே விதவிதமான முறையில் காய்கறிகளை மாற்றி வைத்து பேக் செய்யலாம். வீட்டிலும் மேல்குறிப்பில் கூறப்பட்டபடி பிஸ்ஸா நான் செய்து ஒரு பாலிதீன் கவரில் நன்றாக மூடி ஃப்ரிஜ்ஜில் 5 நாட்கள் வரை வைத்திருந்து தேவைப்படும்போது உபயோகிக்கலாம்.",
+      "instruction_en": "Note: half-baked pizza bases are available ready-made in stores -- these can be bought and topped with different vegetables as you like before baking. You can also make the pizza base at home as described above, wrap it well in a plastic bag, and keep it refrigerated for up to 5 days, using it whenever needed.",
+      "image_url": null,
+      "display_order": 9
+    }
+  ]
+}

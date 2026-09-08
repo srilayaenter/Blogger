@@ -1,0 +1,86 @@
+{
+  "slug": "mini-vegetable-samosa",
+  "title_ta": "சிறிய சமோசா",
+  "title_en": "Mini Vegetable Samosa",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 1,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["fried-snack"],
+  "ingredients": [
+    { "id": "mini-vegetable-samosa-ingredient-1", "name_ta": "மைதா", "name_en": "Maida (all-purpose flour)", "quantity": "2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "mini-vegetable-samosa-ingredient-2", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": "4", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "mini-vegetable-samosa-ingredient-3", "name_ta": "பொடி உப்பு", "name_en": "Fine salt", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "mini-vegetable-samosa-ingredient-4", "name_ta": "பேக்கிங் பவுடர்", "name_en": "Baking powder", "quantity": "2", "unit_ta": "சிட்டிகை", "unit_en": "pinches", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "mini-vegetable-samosa-ingredient-5", "name_ta": "ஐஸ் தண்ணீர்", "name_en": "Ice water", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "மாவைப் பிசைவதற்குத் தேவையான அளவு", "notes_en": "as needed to knead the dough", "display_order": 5 },
+    { "id": "mini-vegetable-samosa-ingredient-6", "name_ta": "வெங்காயம்", "name_en": "Onion", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "mini-vegetable-samosa-ingredient-7", "name_ta": "உருளைக்கிழங்கு", "name_en": "Potato", "quantity": "1/4", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "mini-vegetable-samosa-ingredient-8", "name_ta": "கேரட்", "name_en": "Carrot", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "mini-vegetable-samosa-ingredient-9", "name_ta": "பட்டாணி", "name_en": "Green peas", "quantity": "100", "unit_ta": "கிராம்", "unit_en": "Grams", "notes_ta": null, "notes_en": null, "display_order": 9 },
+    { "id": "mini-vegetable-samosa-ingredient-10", "name_ta": "பீட்ரூட்", "name_en": "Beetroot", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 10 },
+    { "id": "mini-vegetable-samosa-ingredient-11", "name_ta": "பீன்ஸ்", "name_en": "Beans", "quantity": "7", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 11 },
+    { "id": "mini-vegetable-samosa-ingredient-12", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவைக்கேற்ப", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 12 },
+    { "id": "mini-vegetable-samosa-ingredient-13", "name_ta": "கரம்மசாலா பொடி", "name_en": "Garam masala powder", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 13 },
+    { "id": "mini-vegetable-samosa-ingredient-14", "name_ta": "காய்ந்த மாங்காய் பொடி", "name_en": "Dried mango powder (amchur)", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 14 },
+    { "id": "mini-vegetable-samosa-ingredient-15", "name_ta": "பச்சை மிளகாய்", "name_en": "Green chili", "quantity": "4", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 15 },
+    { "id": "mini-vegetable-samosa-ingredient-16", "name_ta": "சீரகப் பொடி", "name_en": "Cumin powder", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 16 },
+    { "id": "mini-vegetable-samosa-ingredient-17", "name_ta": "மஞ்சள் பொடி", "name_en": "Turmeric powder", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 17 },
+    { "id": "mini-vegetable-samosa-ingredient-18", "name_ta": "மிளகாய் பொடி", "name_en": "Chili powder", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 18 },
+    { "id": "mini-vegetable-samosa-ingredient-19", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "தேவையான அளவு", "notes_en": "as needed, for frying", "display_order": 19 }
+  ],
+  "instructions": [
+    {
+      "id": "mini-vegetable-samosa-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "மாவு பிசைய: மைதா மாவோடு உப்பு சேர்த்து இருமுறை சலிக்கவும். இதை ஒரு பேசினில் கொட்டி எண்ணெய் சேர்த்து கைகளால் நன்கு பிசறி விடவும். ஐஸ் தண்ணீர் தெளித்து கெட்டியான சப்பாத்தி மாவு போல பிசையவும். பல நிமிடங்கள் நன்கு அடித்து மாவிற்கு எலாஸ்டிக் தன்மை வருமளவிற்கு பிசையவும். ஒரு ஈரத்துணி கொண்டு மூடி 1/2 மணி நேரம் வைக்கவும்.",
+      "instruction_en": "Knead the dough: Sift the maida and salt together twice. Tip into a basin, add the oil, and rub in well with your hands. Sprinkle in ice water and knead into a stiff chapati-like dough. Knead vigorously for several minutes until the dough becomes elastic. Cover with a damp cloth and rest for 1/2 hour.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "mini-vegetable-samosa-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "மசாலா செய்முறை: வெங்காயம் மற்றும் காய்கறிகளையும் தோல்சீவி சிறு துண்டுகளாக்கவும். உருளைக் கிழங்கை முழுதாகக் குக்கரில் வேகவைத்து, தோல்நீக்கி மசிக்கவும். மற்ற அரிந்த காய்கறிகளையும், பட்டாணியையும் ஆவியில் வேக வைக்கவும். பச்சை மிளகாயை விழுதாக்கவும். ஒரு வாணலியில் சிறிது எண்ணெய் விட்டு, சீரகம், மிளகாய் தாளித்து, வெங்காயம் சேர்க்கவும். வெங்காயம் சிவந்ததும் சீரகத்தூள், மிளகாய்த் தூள் சேர்க்கவும். வேகவைத்த காய்கறிகளைச் சேர்த்து வதக்கவும். மஞ்சள் தூள், உப்பு சேர்த்து நன்கு வாசனை வரும்படி வதக்கவும். கடைசியில் மாங்காய்த் தூள், கரம்மசாலாத் தூள் சேர்த்து கலந்து இறக்கவும்.",
+      "instruction_en": "Masala method: Peel and finely chop the onion and vegetables. Pressure-cook the potato whole, then peel and mash it. Steam the other chopped vegetables and the peas. Mince the green chilies. In a pan, heat a little oil, temper cumin and chili, then add the onion. Once the onion turns red, add the cumin powder and chili powder. Add the steamed vegetables and saute. Add turmeric powder and salt, and saute until fragrant. Finally add the dried mango powder and garam masala powder, mix, and remove from heat.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "mini-vegetable-samosa-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "சமோசா செய்முறை: பிசைந்த மைதா மாவை 8 உருண்டைகளாக்கவும். ஒவ்வொன்றையும் மெல்லிய சப்பாத்தியாக இடவும். ஒரு சப்பாத்தியின் மேல் 1 டீஸ்பூன் எண்ணெய் தடவி சிறிது மைதா மாவு தூவவும். அதன் மேல் இன்னொரு சப்பாத்தி வைக்கவும், அதன் மேலும் இதேபோல் பூசி, 3, 4ம் சப்பாத்திக்கும் இதே போல் செய்து நான்கு சப்பாத்திகளையும் ஒன்றாக ஒரு அடுக்காக வைக்கவும். முதல் அடுக்கை சூடான சப்பாத்திக் கல்லின் மேல் போடவும். 1/2 நிமிடம் வெந்ததும் அடுக்கு முழுவதையும் தலைகீழாகக் கல்லில் திருப்பி விட்டு மேலாக வரும் சப்பாத்தியை எடுத்து விடவும். மறுபடியும் திருப்பிப் போட்டு மேலே வரும் சப்பாத்தியை எடுத்து விடவும். இதே போல் மொத்த அடுக்குகளையும் செய்து ஒவ்வொரு சப்பாத்தியும் ஒரு பக்கம் மட்டும் கருப்பாகாமல் லேசாக சுட்டவுடனே பிரித்து எடுக்கவும். எல்லா சப்பாத்தியையும் சுட்டபின் ஈரத்துணி கொண்டு மூடி வைக்கவும்.",
+      "instruction_en": "Samosa method: Divide the kneaded maida dough into 8 balls. Roll each into a thin chapati. Brush one chapati with 1 teaspoon of oil and dust with a little maida. Place another chapati on top, brush the same way, and repeat for the 3rd and 4th chapatis, stacking four together into one layered stack. Place the first stack on a hot griddle. Once cooked for 1/2 a minute, flip the whole stack over on the griddle and peel off the top chapati. Flip again and peel off the next one. Do this for all the stacks, lightly cooking each chapati on one side only (without browning) before peeling it apart. Cover all the cooked chapatis with a damp cloth.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "mini-vegetable-samosa-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "ஒவ்வொரு சப்பாத்தியையும் நீள வாக்கில் 3 அல்லது 4 ரிப்பன் போல (3 அங்குல அகலத்தில்) அறுக்கவும். 2 டேபிள் ஸ்பூன் மைதாவோடு சிறிது தண்ணீர் சேர்த்து பசை போல குழைக்கவும். ஒரு மைதா ரிப்பனை எடுத்து ஒரு மூலையில் முக்கோணமாக மடிக்கவும். இரு முனைகளும் சந்திக்கும் மூலையில் சிறிது மைதா பசையைத் தடவவும். அந்த முக்கோண மூலைப் பாக்கெட்டின் உள்ளே சிறிது மசாலா வைக்கவும். குறுக்கில் முக்கோணமாகவே மடித்து கடைசியில் மூடியும் இடத்தில் சிறிது மைதாப் பசை கொண்டு தடவி ஒட்டவும். எல்லா சமோசாக்களையும் இதே போல செய்து ஒரு ஈரத்துணி கொண்டு மூடி வைக்கவும். இளஞ் சூடான எண்ணெயில் நன்கு சிவக்கப் பொரித்து சூடாக தக்காளி சாஸுடன் பரிமாறவும்.",
+      "instruction_en": "Cut each chapati lengthwise into 3 or 4 ribbons, about 3 inches wide. Mix 2 tablespoons of maida with a little water into a paste. Take a maida ribbon and fold one corner into a triangle. Dab a little of the maida paste at the corner where the two ends meet. Place a little masala inside that triangular pocket. Continue folding in a triangle all the way along, and seal the final open edge with a little of the maida paste. Shape all the samosas this way and cover with a damp cloth. Deep-fry in moderately hot oil until well browned, and serve hot with tomato sauce.",
+      "image_url": null,
+      "display_order": 4
+    },
+    {
+      "id": "mini-vegetable-samosa-instruction-5",
+      "step_number": 5,
+      "instruction_ta": "குறிப்பு: இந்த அதே மைதா மாவு மற்றும் மடிப்பு முறையைப் பயன்படுத்தி வெவ்வேறு மசாலாக்களால் சமோசா நிரப்பலாம் என்று மூலப்பிரதி விவரிக்கிறது -- பனீர் சமோசா, முளைபயறு சமோசா, இனிப்பு சமோசா, உலர்ந்த பழவகை சமோசா ஆகிய இன்னும் 4 நிரப்புதல் மாறுபாடுகளையும் தருகிறது. இந்த பதிப்பில் மேலே கொடுக்கப்பட்ட காய்கறி நிரப்புதலை மட்டும் பிரதானமாகக் கொள்ளப்பட்டுள்ளது.",
+      "instruction_en": "Note: the source gives this same dough and folding method with several alternative fillings -- Paneer Samosa, Sprouted Moong Samosa, Sweet Samosa, and Dried Fruit Samosa are all described as variations on this recipe. This entry transcribes only the vegetable filling given above, which matches the recipe's own title.",
+      "image_url": null,
+      "display_order": 5
+    }
+  ]
+}

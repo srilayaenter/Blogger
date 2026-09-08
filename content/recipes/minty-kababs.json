@@ -1,0 +1,91 @@
+{
+  "slug": "minty-kababs",
+  "title_ta": "புதினா கபாப்",
+  "title_en": "Minty Kababs",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 55,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["kabab"],
+  "ingredients": [
+    { "id": "minty-kababs-ingredient-1", "name_ta": "உருளைக்கிழங்கு", "name_en": "Potato", "quantity": "1/2", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "minty-kababs-ingredient-2", "name_ta": "முளைவிட்ட பாசிப்பயறு", "name_en": "Sprouted moong beans", "quantity": "1/2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "minty-kababs-ingredient-3", "name_ta": "பொடியாக நறுக்கிய வெங்காயம்", "name_en": "Finely chopped onion", "quantity": "1/4", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "minty-kababs-ingredient-4", "name_ta": "கேரட்", "name_en": "Carrot", "quantity": "3", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "minty-kababs-ingredient-5", "name_ta": "ரொட்டித் துண்டுகள்", "name_en": "Bread slices", "quantity": "8", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "minty-kababs-ingredient-6", "name_ta": "காய்ந்த ரொட்டித் தூள் (அ) ரஸ்க் தூள்", "name_en": "Dried bread crumbs or rusk powder", "quantity": "3", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "minty-kababs-ingredient-7", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவைக்கேற்ப", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "minty-kababs-ingredient-8", "name_ta": "கடலை மாவு", "name_en": "Gram flour (besan)", "quantity": "5", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "minty-kababs-ingredient-9", "name_ta": "கரம்மசாலா பொடி", "name_en": "Garam masala powder", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 9 },
+    { "id": "minty-kababs-ingredient-10", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "பொரிக்கத் தேவையான அளவு", "notes_en": "as needed, for frying", "display_order": 10 },
+    { "id": "minty-kababs-ingredient-11", "name_ta": "பச்சை மிளகாய்", "name_en": "Green chili", "quantity": "6", "unit_ta": null, "unit_en": null, "notes_ta": "அரைக்க", "notes_en": "to grind", "display_order": 11 },
+    { "id": "minty-kababs-ingredient-12", "name_ta": "காய்ந்த மிளகாய்", "name_en": "Dried red chili", "quantity": "4", "unit_ta": null, "unit_en": null, "notes_ta": "அரைக்க", "notes_en": "to grind", "display_order": 12 },
+    { "id": "minty-kababs-ingredient-13", "name_ta": "பூண்டு", "name_en": "Garlic", "quantity": "3", "unit_ta": "பல்லு", "unit_en": "cloves", "notes_ta": "அரைக்க", "notes_en": "to grind", "display_order": 13 },
+    { "id": "minty-kababs-ingredient-14", "name_ta": "இஞ்சி", "name_en": "Ginger", "quantity": "1", "unit_ta": "அங்குலத் துண்டு", "unit_en": "inch piece", "notes_ta": "அரைக்க", "notes_en": "to grind", "display_order": 14 },
+    { "id": "minty-kababs-ingredient-15", "name_ta": "புதினா இலை", "name_en": "Mint leaves", "quantity": "1/4", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": "அரைக்க", "notes_en": "to grind", "display_order": 15 },
+    { "id": "minty-kababs-ingredient-16", "name_ta": "பொட்டுக்கடலை", "name_en": "Roasted gram (pottukadalai)", "quantity": "1", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoon", "notes_ta": "அரைக்க", "notes_en": "to grind", "display_order": 16 }
+  ],
+  "instructions": [
+    {
+      "id": "minty-kababs-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "கேரட், உருளைக்கிழங்கை நன்றாகக் கழுவி முழுதாகவே குக்கரில் வேக வைக்கவும். நன்கு வெந்ததும், உருளைக்கிழங்கின் தோலை எடுத்துவிட்டு, கேரட்டோடு சேர்த்து சூடாக இருக்கும் போதே நன்றாக மசித்துக் கொள்ளவும்.",
+      "instruction_en": "Wash the carrots and potatoes well and pressure-cook them whole. Once fully cooked, peel the potatoes and mash them together with the carrots while still hot.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "minty-kababs-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "முளைபயறை, குக்கரில் ஆவியில் 3 நிமிடம் வேக வைக்கவும்.",
+      "instruction_en": "Steam the sprouted moong beans in a pressure cooker for 3 minutes.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "minty-kababs-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "வாணலியில் எண்ணெய் விட்டுச் சூடாக்கி, பொடியாக அரிந்த வெங்காயத்தை பொன்னிறமாகும் வரை வதக்கி வெந்த பயறைச் சேர்த்து கலந்து ஈரம் வற்றியதும் அரைத்த விழுதைச் சேர்த்து பச்சை வாசனை போகும் வரை கிளறவும்.",
+      "instruction_en": "Heat oil in a pan and saute the chopped onion until golden. Add the cooked sprouts and mix; once the moisture dries up, add the ground paste and stir until the raw smell is gone.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "minty-kababs-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "மசாலா வாசனை நன்கு வரும்போது கடலை மாவைச் சேர்த்து 2 நிமிடம் குறைந்த அனலில் வதக்கவும். கடைசியில் மசித்த உருளைக்கிழங்கு கேரட் கலவையைச் சேர்த்து உப்பு, கரம்மசாலா பொடி சேர்த்து மேலும் சில நிமிடங்கள் வதக்கவும்.",
+      "instruction_en": "Once fragrant, add the gram flour and saute on low heat for 2 minutes. Finally add the mashed potato-carrot mixture, salt, and garam masala powder, and saute for a few more minutes.",
+      "image_url": null,
+      "display_order": 4
+    },
+    {
+      "id": "minty-kababs-instruction-5",
+      "step_number": 5,
+      "instruction_ta": "அடுப்பிலிருந்து இறக்கி நன்கு ஆற வைக்கவும். பிரட் துண்டங்களை ஒவ்வொன்றாகத் தண்ணீரில் முக்கி எடுத்து அதைக் கெட்டியாகப் பிழிந்து வேந்த கலவையில் சேர்க்கவும்.",
+      "instruction_en": "Remove from heat and let cool completely. Dip each bread slice in water, squeeze out firmly, and mix into the cooled mixture.",
+      "image_url": null,
+      "display_order": 5
+    },
+    {
+      "id": "minty-kababs-instruction-6",
+      "step_number": 6,
+      "instruction_ta": "இதை எலுமிச்சையளவு உருண்டைகளாக்கி காய்ந்த ரொட்டித் தூளில் புரட்டி எடுத்து நீளவாக்கில் ஜாமூனைப் போல உருட்டி, சூடான எண்ணெயில் பொன்னிறமாகப் பொரிக்கவும்.",
+      "instruction_en": "Shape into lemon-sized balls, roll in dried bread crumbs, and shape each into an oblong log like a gulab jamun. Deep-fry in hot oil until golden.",
+      "image_url": null,
+      "display_order": 6
+    }
+  ]
+}

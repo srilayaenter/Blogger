@@ -1,0 +1,68 @@
+{
+  "slug": "double-beans-rissoles",
+  "title_ta": "டபுள் பீன்ஸ் ரிசோல்ஸ்",
+  "title_en": "Double Bean Rissoles",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 20,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["cutlet"],
+  "ingredients": [
+    { "id": "double-beans-rissoles-ingredient-1", "name_ta": "அகலமான வெள்ளை பீன்ஸ் (Double Beans)", "name_en": "Broad white beans (double beans)", "quantity": "1", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "double-beans-rissoles-ingredient-2", "name_ta": "நறுக்கிய வெங்காயத்தாள் மற்றும் வெங்காயம்", "name_en": "Chopped spring onion greens and onion", "quantity": "1/2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "double-beans-rissoles-ingredient-3", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவையான அளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "double-beans-rissoles-ingredient-4", "name_ta": "நறுக்கிய கொத்தமல்லித் தழை", "name_en": "Chopped coriander leaves", "quantity": "1 1/2", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "double-beans-rissoles-ingredient-5", "name_ta": "தனியா சீரகப் பொடி", "name_en": "Coriander-cumin powder", "quantity": "1/4", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "double-beans-rissoles-ingredient-6", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "தேவையான அளவு", "notes_en": "as needed", "display_order": 6 },
+    { "id": "double-beans-rissoles-ingredient-7", "name_ta": "பச்சை மிளகாய்", "name_en": "Green chili", "quantity": "6", "unit_ta": null, "unit_en": null, "notes_ta": "அரைக்க", "notes_en": "to grind", "display_order": 7 },
+    { "id": "double-beans-rissoles-ingredient-8", "name_ta": "பூண்டு", "name_en": "Garlic", "quantity": "1", "unit_ta": "பல்லு", "unit_en": "clove", "notes_ta": "அரைக்க", "notes_en": "to grind", "display_order": 8 },
+    { "id": "double-beans-rissoles-ingredient-9", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "சிறிதளவு", "unit_ta": null, "unit_en": null, "notes_ta": "அரைக்க", "notes_en": "to grind", "display_order": 9 }
+  ],
+  "instructions": [
+    {
+      "id": "double-beans-rissoles-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "டபுள் பீன்ஸ் விதைகளை தண்ணீரில் முதல் நாளே ஊற வைக்கவும் (20 லிருந்து 24 மணி நேரம்). தண்ணீரை வடித்துவிட்டு, பிதுக்கி மேல் தோலை எடுக்கவும்.",
+      "instruction_en": "Soak the double beans in water the day before, for 20 to 24 hours. Drain, then squeeze off and discard the outer skins.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "double-beans-rissoles-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "தண்ணீர் சேர்க்காமல் கெட்டியாக உளுந்து மாவு போல அரைக்கவும். கடைசியில் உப்பு, அரைத்த மிளகாய் விழுது சேர்க்கவும்.",
+      "instruction_en": "Grind without adding water into a thick paste, like urad dal batter. Add salt and the ground chili paste at the end.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "double-beans-rissoles-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "இதோடு நறுக்கிய வெங்காயம், வெங்காயத் தாள், தனியா சீரகப் பொடி சேர்த்து கலக்கவும். சிறு சிறு உருண்டைகளாக உருட்டி எண்ணெயில் பொரித்து சூடாகப் பரிமாறவும்.",
+      "instruction_en": "Mix in the chopped onion, spring onion greens, and coriander-cumin powder. Shape into small balls and deep-fry in oil, then serve hot.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "double-beans-rissoles-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "குறிப்பு: இதை சுண்டலுக்காக உபயோகப்படுத்தும் காய்ந்த பீன்சை உபயோகப்படுத்தி செய்யவும்.",
+      "instruction_en": "Note: use the same dried double beans normally used for making sundal to prepare this.",
+      "image_url": null,
+      "display_order": 4
+    }
+  ]
+}

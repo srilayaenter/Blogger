@@ -1,0 +1,100 @@
+{
+  "slug": "cauliflower-kababs",
+  "title_ta": "காலிப்ளவர் கபாப்",
+  "title_en": "Cauliflower Kababs",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 56,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["kabab"],
+  "ingredients": [
+    { "id": "cauliflower-kababs-ingredient-1", "name_ta": "கடலைப் பருப்பு", "name_en": "Chana dal", "quantity": "1", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "cauliflower-kababs-ingredient-2", "name_ta": "காலிப்ளவர்", "name_en": "Cauliflower", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "cauliflower-kababs-ingredient-3", "name_ta": "ரொட்டி", "name_en": "Bread", "quantity": "6", "unit_ta": "துண்டுகள்", "unit_en": "slices", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "cauliflower-kababs-ingredient-4", "name_ta": "பொடியாக நறுக்கிய வெங்காயம்", "name_en": "Finely chopped onion", "quantity": "1/4", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "cauliflower-kababs-ingredient-5", "name_ta": "பொடியாக நறுக்கிய கொத்தமல்லித் தழை", "name_en": "Finely chopped coriander leaves", "quantity": "1", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "cauliflower-kababs-ingredient-6", "name_ta": "கடலை மாவு", "name_en": "Gram flour (besan)", "quantity": "2", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "cauliflower-kababs-ingredient-7", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவைக்கேற்ப", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "cauliflower-kababs-ingredient-8", "name_ta": "ரொட்டித் தூள்", "name_en": "Bread crumbs", "quantity": "2", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "cauliflower-kababs-ingredient-9", "name_ta": "சீரகம்", "name_en": "Cumin", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 9 },
+    { "id": "cauliflower-kababs-ingredient-10", "name_ta": "கசகசா", "name_en": "Poppy seeds", "quantity": "1", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoon", "notes_ta": null, "notes_en": null, "display_order": 10 },
+    { "id": "cauliflower-kababs-ingredient-11", "name_ta": "ஏலக்காய்", "name_en": "Cardamom", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 11 },
+    { "id": "cauliflower-kababs-ingredient-12", "name_ta": "பூண்டு", "name_en": "Garlic", "quantity": "2", "unit_ta": "பல்லு", "unit_en": "cloves", "notes_ta": null, "notes_en": null, "display_order": 12 },
+    { "id": "cauliflower-kababs-ingredient-13", "name_ta": "இலவங்கம்", "name_en": "Cloves", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 13 },
+    { "id": "cauliflower-kababs-ingredient-14", "name_ta": "காய்ந்த மிளகாய்", "name_en": "Dried red chili", "quantity": "7", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 14 },
+    { "id": "cauliflower-kababs-ingredient-15", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "பொரிப்பதற்கு", "notes_en": "for frying", "display_order": 15 },
+    { "id": "cauliflower-kababs-ingredient-16", "name_ta": "வெள்ளை வெங்காயம்", "name_en": "White onion", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "வினிகர் வெங்காயத்திற்கு", "notes_en": "for the vinegar onion accompaniment", "display_order": 16 },
+    { "id": "cauliflower-kababs-ingredient-17", "name_ta": "உப்பு, வெள்ளை மிளகுத் தூள், சர்க்கரை, அஜி-நோ-மோட்டோ, மால்ட் வினிகர்", "name_en": "Salt, white pepper powder, sugar, ajinomoto, malt vinegar", "quantity": "சிறிது", "unit_ta": null, "unit_en": null, "notes_ta": "வினிகர் வெங்காயத்திற்கு", "notes_en": "for the vinegar onion accompaniment", "display_order": 17 }
+  ],
+  "instructions": [
+    {
+      "id": "cauliflower-kababs-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "காலிப்ளவரை நன்றாகக் கழுவி பெரிய பூக்களாகப் பிரித்தெடுக்கவும். சல்லடை போன்ற கிண்ணத்தில் போட்டு குக்கரில் ஆவியில், மேல் தட்டில் 3 நிமிடங்கள் வேக வைக்கவும் (வெயிட் போடவேண்டாம்).",
+      "instruction_en": "Wash the cauliflower well and break into large florets. Steam in a perforated bowl on the top rack of a pressure cooker for 3 minutes (no weight on).",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "cauliflower-kababs-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "பருப்பைக் கழுவி தண்ணீர் விட்டு குக்கரில் ஒரு விசில் சத்தம் வரும்வரை வெயிட் வைத்து வேக வைக்கவும் (அதிகம் வேகக் கூடாது). வெந்த பருப்பின் தண்ணீரை நன்கு வடித்துவிடவும்.",
+      "instruction_en": "Wash the chana dal, add water, and pressure-cook with the weight on for one whistle (don't overcook). Drain the cooked dal thoroughly.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "cauliflower-kababs-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "கசகசாவையும், சீரகத்தையும் தனித்தனியாக வேறு வாணலியில் வறுத்துக் கொள்ளவும். அதோடு சிகப்பு மிளகாய், பூண்டு, ஏலக்காய், இலவங்கம் சேர்த்து மிக்ஸியில் பொடி செய்து கொள்ளவும் (பொடி சரியாக வராவிடில் சிறிதளவே தண்ணீர் விட்டு அரைக்கவும்).",
+      "instruction_en": "Dry-roast the poppy seeds and cumin separately in a pan. Grind them with the dried red chili, garlic, cardamom, and cloves in a mixer (add a little water if it doesn't grind smoothly).",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "cauliflower-kababs-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "கடைசியில் வெந்த காலிப்ளவர், பருப்பைச் சேர்த்து கரகரப்பாக அரைக்கவும். வாணலியில் எண்ணெய் விட்டு வெங்காயத்தை சிவக்க வதக்கி, அரைத்த விழுதைக் கொட்டி சில நிமிடங்கள் கிளறவும் (ஈரம் நன்கு வற்றும் வரை).",
+      "instruction_en": "Finally add the steamed cauliflower and cooked dal and grind coarsely. Heat oil in a pan, saute the onion until reddish, add the ground paste, and stir for a few minutes until the moisture dries up well.",
+      "image_url": null,
+      "display_order": 4
+    },
+    {
+      "id": "cauliflower-kababs-instruction-5",
+      "step_number": 5,
+      "instruction_ta": "பிரட்டை ஒவ்வொன்றாகத் தண்ணீரில் முக்கி நன்கு பிழிந்துவிட்டு இக் கலவையில் சேர்க்கவும். உப்பு, கொத்தமல்லித் தழை, சிறிது கடலைமாவு சேர்த்து நன்றாகப் பிசையவும் (சப்பாத்தி மாவு போல கெட்டியாக இருக்க வேண்டும்).",
+      "instruction_en": "Dip each bread slice in water, squeeze out well, and add to the mixture. Mix in salt, coriander leaves, and a little gram flour, and knead thoroughly (it should be as firm as chapati dough).",
+      "image_url": null,
+      "display_order": 5
+    },
+    {
+      "id": "cauliflower-kababs-instruction-6",
+      "step_number": 6,
+      "instruction_ta": "முன்பு கூறியது போல நீளவாக்கில் உருட்டி எண்ணெயில் பொரிக்கவும் அல்லது ஓவனில் 'Skewers' உபயோகப்படுத்தி பேக் செய்யவும். பரிமாறும் முன் இரண்டு அல்லது மூன்று துண்டங்களாக வெட்டி வினிகர் வெங்காயத்துடன் பரிமாறவும்.",
+      "instruction_en": "Shape into oblong logs as described in the earlier kabab recipes and deep-fry in oil, or bake on skewers in the oven. Before serving, cut into two or three pieces and serve with vinegar onion.",
+      "image_url": null,
+      "display_order": 6
+    },
+    {
+      "id": "cauliflower-kababs-instruction-7",
+      "step_number": 7,
+      "instruction_ta": "வினிகர் வெங்காயம்: வெள்ளை வெங்காயத்தை வட்ட வடிவமாக மெலிதாக நறுக்கவும் (rings) அல்லது மெல்லிய நீளத் துண்டங்களாக அரிந்து அதோடு உப்பு, வெள்ளை மிளகுத் தூள், சிறிது சர்க்கரை, அஜி-நோ-மோட்டோ மற்றும் மால்ட் வினிகர் சேர்த்து கலக்கவும். 1/2 மணி நேரம் ஊறியதும் பரிமாறவும்.",
+      "instruction_en": "Vinegar onion: thinly slice white onion into rings or long strips, and toss with salt, white pepper powder, a little sugar, ajinomoto, and malt vinegar. Let it sit for 1/2 hour before serving.",
+      "image_url": null,
+      "display_order": 7
+    }
+  ]
+}

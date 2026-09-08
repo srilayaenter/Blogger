@@ -1,0 +1,80 @@
+{
+  "slug": "beetroot-cutlets",
+  "title_ta": "பீட்ரூட் கட்லெட்",
+  "title_en": "Beetroot Cutlets",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 61,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["cutlet"],
+  "ingredients": [
+    { "id": "beetroot-cutlets-ingredient-1", "name_ta": "உருளைக்கிழங்கு", "name_en": "Potato", "quantity": "1/2", "unit_ta": "கிலோ", "unit_en": "kg", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "beetroot-cutlets-ingredient-2", "name_ta": "பீட்ரூட்", "name_en": "Beetroot", "quantity": "3", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "beetroot-cutlets-ingredient-3", "name_ta": "பெரிய வெங்காயம்", "name_en": "Big onion", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": "பொடியாக அரியவும்", "notes_en": "finely chopped", "display_order": 3 },
+    { "id": "beetroot-cutlets-ingredient-4", "name_ta": "இஞ்சி பூண்டு விழுது", "name_en": "Ginger-garlic paste", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "beetroot-cutlets-ingredient-5", "name_ta": "பொடியாக நறுக்கிய பச்சை மிளகாய்", "name_en": "Finely chopped green chili", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "beetroot-cutlets-ingredient-6", "name_ta": "சோம்பு", "name_en": "Fennel seeds", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "beetroot-cutlets-ingredient-7", "name_ta": "மிளகாய்த் தூள்", "name_en": "Chili powder", "quantity": "1 1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoons", "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "beetroot-cutlets-ingredient-8", "name_ta": "கரம்மசாலா தூள்", "name_en": "Garam masala powder", "quantity": "3/4", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "beetroot-cutlets-ingredient-9", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவைக்கேற்ப", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 9 },
+    { "id": "beetroot-cutlets-ingredient-10", "name_ta": "தனியா பொடி", "name_en": "Coriander powder", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 10 },
+    { "id": "beetroot-cutlets-ingredient-11", "name_ta": "காய்ந்த மாங்காய் பொடி", "name_en": "Dried mango powder", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 11 },
+    { "id": "beetroot-cutlets-ingredient-12", "name_ta": "காய்ந்த ரொட்டித் தூள்", "name_en": "Dried bread crumbs", "quantity": "1/2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 12 },
+    { "id": "beetroot-cutlets-ingredient-13", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "சுடுவதற்கு", "notes_en": "for cooking", "display_order": 13 }
+  ],
+  "instructions": [
+    {
+      "id": "beetroot-cutlets-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "குக்கரின் அடிப்பாத்திரத்தில் உருளைக்கிழங்கில் தண்ணீர் விட்டு, மேல் பாத்திரத்தில் தோல் சீவிய முழு பீட்ரூட்டையும் அப்படியே வைத்து 7 நிமிடம் (வெயிட் வைத்தபிறகு) வேக வைக்கவும். பீட்ரூட்டை வெந்தபின் துருவிக் கொள்ளவும். உருளைக்கிழங்கை தோல்சீவி மசிக்கவும்.",
+      "instruction_en": "Cook the potatoes in water in the bottom of a pressure cooker, and steam the whole peeled beetroot in a container on top for 7 minutes (with the weight on). Once cooked, grate the beetroot. Peel and mash the potatoes.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "beetroot-cutlets-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "வாணலியில் எண்ணெய் விட்டுச் சூடானதும் சோம்பு, இஞ்சி, பூண்டு விழுது, பச்சை மிளகாய் சேர்த்து கடைசியில் வெங்காயம் சேர்த்து பொன்னிறமாகும் வரை வதக்கவும்.",
+      "instruction_en": "Heat oil in a pan, add fennel seeds, ginger-garlic paste, and green chili, then finally add the onion and saute until golden.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "beetroot-cutlets-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "வதங்கியதும், தனியாத் தூள், கரம்மசாலாத் தூள், மிளகாய்த் தூள் சேர்த்து கலக்கவும். ஒரு நிமிடம் வதக்கியதும், துருவிய பீட்ரூட் சேர்த்து ஈரம் வற்றும் வரை கலக்கவும்.",
+      "instruction_en": "Once wilted, mix in coriander powder, garam masala powder, and chili powder. Saute for a minute, then add the grated beetroot and cook until the moisture dries up.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "beetroot-cutlets-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "வெந்த உருளைக்கிழங்கு, உப்பு, மாங்காய்த் தூள் சேர்த்து 2 நிமிடங்கள் கலந்து இறக்கவும். பாதி பிரட் தூளை இதில் சேர்த்துக் கலக்கவும். விருப்பப்பட்ட வடிவத்தில் கட்லெட்டை மெலிதாக செய்து கொள்ளவும். மேலே புரட்டுவதற்கு மீதியுள்ள பிரட் தூளை உபயோகப்படுத்தவும்.",
+      "instruction_en": "Add the mashed potato, salt, and mango powder, mix for 2 minutes, and remove from heat. Mix in half the bread crumbs. Shape thin cutlets in whatever pattern you like, and use the remaining bread crumbs to coat them.",
+      "image_url": null,
+      "display_order": 4
+    },
+    {
+      "id": "beetroot-cutlets-instruction-5",
+      "step_number": 5,
+      "instruction_ta": "எண்ணெய் அதிகமாக விட்டு தோசைக் கல்லில் இருபுறமும் பொன்னிறமாகச் சுட்டுச் சூடாகப் பரிமாறவும்.",
+      "instruction_en": "Cook on both sides on a griddle with plenty of oil until golden. Serve hot.",
+      "image_url": null,
+      "display_order": 5
+    }
+  ]
+}

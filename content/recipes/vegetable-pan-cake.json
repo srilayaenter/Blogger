@@ -1,0 +1,85 @@
+{
+  "slug": "vegetable-pan-cake",
+  "title_ta": "காய்கறி பான் கேக்",
+  "title_en": "Vegetable Pan Cake",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 50,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["snack"],
+  "ingredients": [
+    { "id": "vegetable-pan-cake-ingredient-1", "name_ta": "மைதா", "name_en": "Maida (all-purpose flour)", "quantity": "3", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": "குவித்து", "notes_en": "heaped", "display_order": 1 },
+    { "id": "vegetable-pan-cake-ingredient-2", "name_ta": "பொடி உப்பு", "name_en": "Fine salt", "quantity": "1 1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoons", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "vegetable-pan-cake-ingredient-3", "name_ta": "தண்ணீர்", "name_en": "Water", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "மாவைப் பிசைவதற்குத் தேவையான அளவு", "notes_en": "as needed to knead the dough", "display_order": 3 },
+    { "id": "vegetable-pan-cake-ingredient-4", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "பொரிக்கத் தேவையான அளவு", "notes_en": "as needed, for frying", "display_order": 4 },
+    { "id": "vegetable-pan-cake-ingredient-5", "name_ta": "பொடியாக நறுக்கிய வெங்காயத் தாள்", "name_en": "Finely chopped spring onion greens", "quantity": "1/2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "vegetable-pan-cake-ingredient-6", "name_ta": "துருவிய கேரட்", "name_en": "Grated carrot", "quantity": "1/4", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "vegetable-pan-cake-ingredient-7", "name_ta": "துருவிய முட்டைக்கோஸ்", "name_en": "Grated cabbage", "quantity": "1/4", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "vegetable-pan-cake-ingredient-8", "name_ta": "பொடியாக நறுக்கிய வெள்ளை வெங்காயம்", "name_en": "Finely chopped white onion", "quantity": "1/4", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "vegetable-pan-cake-ingredient-9", "name_ta": "மெலிதாக நறுக்கிய பச்சை மிளகாய்", "name_en": "Thinly sliced green chili", "quantity": "1 1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoons", "notes_ta": "விதைகளை எடுத்துவிடவும்", "notes_en": "seeds removed", "display_order": 9 },
+    { "id": "vegetable-pan-cake-ingredient-10", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "சிறிது", "unit_ta": null, "unit_en": null, "notes_ta": "பூரணத்திற்கு", "notes_en": "for the filling", "display_order": 10 }
+  ],
+  "instructions": [
+    {
+      "id": "vegetable-pan-cake-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "மைதா மாவில் உப்பு சேர்த்து தண்ணீர் விட்டு தளர்த்தியான மாவாகப் பிசையவும் (போளிக்குப் பிசைவதைப் போல). நன்றாக 5 அல்லது 10 நிமிடங்களுக்கு அடித்துப் பிசையவும் (எண்ணெய் எதுவும் சேர்க்க வேண்டாம்). ஈரத்துணி கொண்டு 1/2 மணி நேரம் மூடி வைக்கவும்.",
+      "instruction_en": "Mix salt into the maida and knead with water into a loose, soft dough (the way you would for poli). Beat and knead well for 5 to 10 minutes (no oil needed). Cover with a damp cloth and rest for 1/2 hour.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "vegetable-pan-cake-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "பூரணம் செய்யும் முறை: பொடியாக நறுக்கிய வெங்காயத் தாள், துருவிய கேரட், துருவிய முட்டைக்கோஸ், பொடியாக நறுக்கிய வெள்ளை வெங்காயம், மெலிதாக நறுக்கிய பச்சை மிளகாய் ஆகியவற்றைப் பச்சையாகவே ஒன்றாக சிறிது உப்பு சேர்த்து கலக்கவும்.",
+      "instruction_en": "Filling method: mix the chopped spring onion greens, grated carrot, grated cabbage, chopped white onion, and sliced green chili together raw, with a little salt -- no cooking needed.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "vegetable-pan-cake-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "சிறிய உருண்டைகள் செய்து மைதாமாவில் புரட்டி எடுத்து மெல்லிய சப்பாத்தியாக இடவும். சப்பாத்தியின் மேலே சிறிது எண்ணெயை பரவலாகத் தடவவும். அதன்மேலே காய்கறி பூரணத்தை மெல்லிய லேயராகப் பரப்பவும்.",
+      "instruction_en": "Shape small balls of dough, dust with maida, and roll out thin like a chapati. Spread a little oil evenly over the surface, then spread the raw vegetable filling in a thin layer on top.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "vegetable-pan-cake-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "ஒரு ஓரத்திலிருந்து பாய் போல சுருட்டவும். சுருட்டிய சிலிண்டர் வடிவமுள்ள சப்பாத்தியை ஓயர் சுற்றுவதுபோல சுருட்டவும் (கைமுறுக்கு வடிவத்தில்).",
+      "instruction_en": "Roll up from one edge like a mat. Then coil the resulting cylinder around itself like a rope, into a spiral (the way you'd coil a kai murukku).",
+      "image_url": null,
+      "display_order": 4
+    },
+    {
+      "id": "vegetable-pan-cake-instruction-5",
+      "step_number": 5,
+      "instruction_ta": "மறுபடியும் இதை மைதா மாவில் புரட்டி எடுத்து உள்ளே உள்ள மசாலா வெளியில் வராதபடிக்கு சிறிது கனமான சப்பாத்தி போல இடவும். தோசைக் கல்லில் சிறிது அதிகமாக எண்ணெய் விட்டு இருபுறமும் நன்கு சிவப்பாக மொறு மொறுவென்று வரும்வரை சுடவும்.",
+      "instruction_en": "Dust the spiral in maida again and roll it out into a slightly thick chapati, taking care that the filling doesn't tear through. Cook on a griddle with a generous amount of oil, on both sides, until well browned and crisp.",
+      "image_url": null,
+      "display_order": 5
+    },
+    {
+      "id": "vegetable-pan-cake-instruction-6",
+      "step_number": 6,
+      "instruction_ta": "தொக்கு அல்லது சாஸுடன் சூடாகப் பரிமாறவும்.",
+      "instruction_en": "Serve hot with thokku or sauce.",
+      "image_url": null,
+      "display_order": 6
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "slug": "spring-rolls",
+  "title_ta": "ஸ்பிரிங் ரோல்",
+  "title_en": "Spring Rolls",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 46,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["fusion"],
+  "ingredients": [
+    { "id": "spring-rolls-ingredient-1", "name_ta": "மைதா", "name_en": "Maida (all-purpose flour)", "quantity": "2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": "குவித்து", "notes_en": "heaped", "display_order": 1 },
+    { "id": "spring-rolls-ingredient-2", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": "4", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "spring-rolls-ingredient-3", "name_ta": "பேகிங் பவுடர்", "name_en": "Baking powder", "quantity": "2", "unit_ta": "சிட்டிகை", "unit_en": "pinches", "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "spring-rolls-ingredient-4", "name_ta": "சமையல் சோடா", "name_en": "Cooking soda", "quantity": "2", "unit_ta": "சிட்டிகை", "unit_en": "pinches", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "spring-rolls-ingredient-5", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "spring-rolls-ingredient-6", "name_ta": "தண்ணீர்", "name_en": "Water", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "தேவைக்கேற்ப", "notes_en": "as needed", "display_order": 6 },
+    { "id": "spring-rolls-ingredient-7", "name_ta": "மைதா", "name_en": "Maida (all-purpose flour)", "quantity": "2 1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoons", "notes_ta": "எண்ணெயுடன் குழைக்க (1)", "notes_en": "mixed with 4 Tbsp oil, paste 1", "display_order": 7 },
+    { "id": "spring-rolls-ingredient-8", "name_ta": "மைதா", "name_en": "Maida (all-purpose flour)", "quantity": "3", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoons", "notes_ta": "தண்ணீருடன் குழைக்க (2), ஒட்டுவதற்கான பசை", "notes_en": "mixed with 2 Tbsp water, sealing paste 2", "display_order": 8 },
+    { "id": "spring-rolls-ingredient-9", "name_ta": "பொடியாக நறுக்கிய முட்டைக்கோஸ்", "name_en": "Finely chopped cabbage", "quantity": "2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 9 },
+    { "id": "spring-rolls-ingredient-10", "name_ta": "துருவிய கேரட்", "name_en": "Grated carrot", "quantity": "1 1/2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 10 },
+    { "id": "spring-rolls-ingredient-11", "name_ta": "நறுக்கிய காலிப்ளவர்", "name_en": "Chopped cauliflower", "quantity": "1", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 11 },
+    { "id": "spring-rolls-ingredient-12", "name_ta": "பொடியாக நறுக்கிய குடமிளகாய்", "name_en": "Finely chopped capsicum", "quantity": "1", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 12 },
+    { "id": "spring-rolls-ingredient-13", "name_ta": "நறுக்கிய வெங்காயத் தாள்", "name_en": "Chopped spring onion greens", "quantity": "3/4", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 13 },
+    { "id": "spring-rolls-ingredient-14", "name_ta": "சீன உப்பு (அஜி-நோ-மோட்டோ)", "name_en": "Ajinomoto (MSG)", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 14 },
+    { "id": "spring-rolls-ingredient-15", "name_ta": "சோயா சாஸ்", "name_en": "Soy sauce", "quantity": "1 1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoons", "notes_ta": null, "notes_en": null, "display_order": 15 },
+    { "id": "spring-rolls-ingredient-16", "name_ta": "மிளகாய் சாஸ்", "name_en": "Chili sauce", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 16 },
+    { "id": "spring-rolls-ingredient-17", "name_ta": "தக்காளி சாஸ்", "name_en": "Tomato sauce", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 17 },
+    { "id": "spring-rolls-ingredient-18", "name_ta": "வோர்செஸ்டர் ஷயர் சாஸ்", "name_en": "Worcestershire sauce", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "தேவைக்கேற்ப", "notes_en": "as needed", "display_order": 18 },
+    { "id": "spring-rolls-ingredient-19", "name_ta": "உப்பு", "name_en": "Salt", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "தேவைக்கேற்ப", "notes_en": "as needed", "display_order": 19 },
+    { "id": "spring-rolls-ingredient-20", "name_ta": "சர்க்கரை", "name_en": "Sugar", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 20 },
+    { "id": "spring-rolls-ingredient-21", "name_ta": "மிளகுப் பொடி", "name_en": "Pepper powder", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": null, "notes_en": null, "display_order": 21 },
+    { "id": "spring-rolls-ingredient-22", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "சுடுவதற்கு", "notes_en": "for cooking", "display_order": 22 },
+    { "id": "spring-rolls-ingredient-23", "name_ta": "பூண்டு", "name_en": "Garlic", "quantity": "3", "unit_ta": "பல்லு", "unit_en": "cloves", "notes_ta": "அரைக்க", "notes_en": "to grind", "display_order": 23 },
+    { "id": "spring-rolls-ingredient-24", "name_ta": "மிளகாய் தூள்", "name_en": "Chili powder", "quantity": "3/4", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": "அரைக்க", "notes_en": "to grind", "display_order": 24 }
+  ],
+  "instructions": [
+    {
+      "id": "spring-rolls-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "மைதா மாவை சோடா, பேகிங் பவுடர், உப்பு சேர்த்து இருமுறை சலிக்கவும். ஒரு அகலக் கிண்ணத்தில் மாவை எடுத்துக்கொண்டு எண்ணெயைச் சேர்த்து விரல் நுனிகளால் எண்ணெய் மாவோடு நன்கு சேரும்வரை கலக்கவும். தண்ணீர் தெளித்து மிருதுவான மாவாகப் பிசையவும்.",
+      "instruction_en": "Sift the maida with soda, baking powder, and salt twice. Tip into a wide bowl, add the oil, and rub in with your fingertips until well combined. Sprinkle in water and knead into a soft dough.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "spring-rolls-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "எண்ணெய் தடவிய பலகை மேல் மாவைப் போட்டு அடித்து, மாவு நீளும் தன்மை பெறும்வரை நன்றாகப் பிசையவும். ஒரு கிண்ணத்தில் போட்டு ஈரத்துணி கொண்டு மூடி 1/2 மணி நேரம் வைக்கவும்.",
+      "instruction_en": "Beat and knead the dough on an oiled surface until it becomes elastic. Place in a bowl, cover with a damp cloth, and rest for 1/2 hour.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "spring-rolls-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "மசாலா செய்முறை: ஒரு அகல வாணலியில் 4 டேபிள் ஸ்பூன் எண்ணெய் விட்டுச் சூடாக்கவும். அரைத்த விழுதையும், வெங்காயத்தையும் சேர்த்து ஒரு நிமிடம் வதக்கி குடமிளகாய், கேரட், கோஸ் சேர்த்து அனலை அதிகரித்து கைவிடாமல் கிளறவும்.",
+      "instruction_en": "Masala method: Heat 4 tablespoons of oil in a wide pan. Add the ground paste and onion and saute for a minute, then add the capsicum, carrot, and cabbage, raise the heat, and stir constantly.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "spring-rolls-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "வெங்காயத் தாள், சீன உப்பு, உப்பு சேர்த்து காய்கறி வதங்கும் வரை கலந்து கடைசியில் சாஸ் வகைகளைச் சேர்த்து கிளறி இறக்கவும்.",
+      "instruction_en": "Add the spring onion greens, ajinomoto, and salt, stir until the vegetables wilt, then finally add the sauces, stir, and remove from heat.",
+      "image_url": null,
+      "display_order": 4
+    },
+    {
+      "id": "spring-rolls-instruction-5",
+      "step_number": 5,
+      "instruction_ta": "ஸ்பிரிங் ரோல் செய்யும் முறை: ஒரு ரோல் செய்ய, கலந்த மைதா மாவிலிருந்து இரண்டு சிறிய உருண்டைகள் செய்ய வேண்டும் (சிறிய எலுமிச்சையளவு). மைதா மாவில் புரட்டி நீளவாக்கில் மெல்லிய சப்பாத்தியாக இடவும்.",
+      "instruction_en": "Rolling method: for each roll, make two small balls of dough (small lemon-sized). Dust with maida and roll each into a thin, oblong sheet.",
+      "image_url": null,
+      "display_order": 5
+    },
+    {
+      "id": "spring-rolls-instruction-6",
+      "step_number": 6,
+      "instruction_ta": "குழைத்த மாவு(1)ல் இருந்து சிறிதளவு முதல் சப்பாத்தி மேல் பூசி மேலே இன்னொரு சப்பாத்தியை வைத்து லேசாக குழவியால் உருட்டவும்.",
+      "instruction_en": "Brush a little of paste (1) on the first sheet, place the second sheet on top, and roll gently with a rolling pin.",
+      "image_url": null,
+      "display_order": 6
+    },
+    {
+      "id": "spring-rolls-instruction-7",
+      "step_number": 7,
+      "instruction_ta": "ஒரு ஓரத்தில் நீளவாக்கில் மசாலாவை வைத்து சப்பாத்தியின் விளிம்பை சுற்றிலும் மைதா பேஸ்ட் 2-ஐ பூசவும். ஓரங்களை மத்தியில் வரும்படி மடித்து பாய்போல சுருட்டி ஒட்டவும்.",
+      "instruction_en": "Place the masala along one edge, brush the sheet's border all around with paste (2), fold the sides in toward the center, and roll up like a mat, sealing it shut.",
+      "image_url": null,
+      "display_order": 7
+    },
+    {
+      "id": "spring-rolls-instruction-8",
+      "step_number": 8,
+      "instruction_ta": "செய்த ரோல் நீள சிலிண்டர் போல இருக்க வேண்டும். எல்லா மாவையும் இதே போல செய்து எண்ணெய் தடவிய குக்கர் தட்டில் இடைவெளி விட்டு அடுக்கவும்.",
+      "instruction_en": "The finished roll should look like a long cylinder. Shape all the dough this way and arrange with space between them on an oiled pressure-cooker plate.",
+      "image_url": null,
+      "display_order": 8
+    },
+    {
+      "id": "spring-rolls-instruction-9",
+      "step_number": 9,
+      "instruction_ta": "இட்லிக்கு ஆவியில் அவிப்பதுபோல ஆனால் 2 நிமிடம் மட்டும் ஆவியில் வேக வைத்து எடுக்கவும். ஆறியதும், சூடான எண்ணெயில் சுமாரான அனலில் வைத்து 3 அல்லது 4 ரோல்களை ஒவ்வொரு தடவைக்குமாகப் போட்டு பொன்னிறமாகப் பொரித்தெடுக்கவும்.",
+      "instruction_en": "Steam them the way you would idli, but for only 2 minutes. Once cooled, deep-fry 3 or 4 rolls at a time in moderately hot oil until golden.",
+      "image_url": null,
+      "display_order": 9
+    },
+    {
+      "id": "spring-rolls-instruction-10",
+      "step_number": 10,
+      "instruction_ta": "பரிமாறுவதற்கு முன் ரோல்களை வட்டவடிவமாக கூர்மையான கத்தியால் 3 அல்லது 4 பாகங்களாக வெட்டவும். தக்காளி சாஸுடன் பரிமாறவும்.",
+      "instruction_en": "Before serving, slice the rolls into 3 or 4 rounds with a sharp knife. Serve with tomato sauce.",
+      "image_url": null,
+      "display_order": 10
+    },
+    {
+      "id": "spring-rolls-instruction-11",
+      "step_number": 11,
+      "instruction_ta": "குறிப்பு: டின்னர் அல்லது பார்ட்டிகளுக்கு இந்த ஸ்பிரிங் ரோல் செய்வதானால் முதல் நாளே செய்து, ஆவியில் வேகவைத்து எடுத்து ஒரு பாலிதீன் கவரில் வைத்து நன்றாக மூடி ப்ரிட்ஜின் ப்ரீசரில் வைக்கலாம். தேவைப்படும்போது 1/2 மணி நேரம் முன்பு எடுத்து எண்ணெயில் பொரித்து சூடாகப் பரிமாறலாம்.",
+      "instruction_en": "Note: for a dinner party, these spring rolls can be steamed the day before, sealed well in a plastic bag, and kept in the freezer. When needed, take them out 1/2 hour ahead, deep-fry, and serve hot.",
+      "image_url": null,
+      "display_order": 11
+    }
+  ]
+}

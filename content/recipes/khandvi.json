@@ -1,0 +1,94 @@
+{
+  "slug": "khandvi",
+  "title_ta": "கண்ட்வி",
+  "title_en": "Khandvi",
+  "description_ta": null,
+  "description_en": null,
+  "source_page_number": 45,
+  "prep_time_minutes": null,
+  "cook_time_minutes": null,
+  "total_time_minutes": null,
+  "servings": null,
+  "difficulty": null,
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "vegetarian",
+  "categories": ["fusion"],
+  "ingredients": [
+    { "id": "khandvi-ingredient-1", "name_ta": "கடலை மாவு", "name_en": "Gram flour (besan)", "quantity": "1", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 1 },
+    { "id": "khandvi-ingredient-2", "name_ta": "லேசாகப் புளித்த மோர்", "name_en": "Slightly sour buttermilk", "quantity": "2 1/2", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "khandvi-ingredient-3", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவைக்கேற்ப", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "khandvi-ingredient-4", "name_ta": "இஞ்சி", "name_en": "Ginger", "quantity": "1", "unit_ta": "அங்குலத்துண்டு", "unit_en": "inch piece", "notes_ta": "அரைக்க", "notes_en": "to grind", "display_order": 4 },
+    { "id": "khandvi-ingredient-5", "name_ta": "பச்சை மிளகாய்", "name_en": "Green chili", "quantity": "10", "unit_ta": null, "unit_en": null, "notes_ta": "அரைக்க", "notes_en": "to grind", "display_order": 5 },
+    { "id": "khandvi-ingredient-6", "name_ta": "பெருங்காயம்", "name_en": "Asafoetida", "quantity": "1", "unit_ta": "சிட்டிகை", "unit_en": "pinch", "notes_ta": "அரைக்க", "notes_en": "to grind", "display_order": 6 },
+    { "id": "khandvi-ingredient-7", "name_ta": "மஞ்சள் தூள்", "name_en": "Turmeric powder", "quantity": "1", "unit_ta": "சிட்டிகை", "unit_en": "pinch", "notes_ta": "அரைக்க", "notes_en": "to grind", "display_order": 7 },
+    { "id": "khandvi-ingredient-8", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": "3", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": "தாளிக்க", "notes_en": "for tempering", "display_order": 8 },
+    { "id": "khandvi-ingredient-9", "name_ta": "கடுகு", "name_en": "Mustard seeds", "quantity": "1/2", "unit_ta": "டீஸ்பூன்", "unit_en": "Teaspoon", "notes_ta": "தாளிக்க", "notes_en": "for tempering", "display_order": 9 },
+    { "id": "khandvi-ingredient-10", "name_ta": "தேங்காய்த் துருவல்", "name_en": "Grated coconut", "quantity": "2", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": "மேலே அலங்கரிக்க", "notes_en": "for garnish", "display_order": 10 },
+    { "id": "khandvi-ingredient-11", "name_ta": "பொடியாக நறுக்கிய கொத்தமல்லித் தழை", "name_en": "Finely chopped coriander leaves", "quantity": "2", "unit_ta": "டேபிள் ஸ்பூன்", "unit_en": "Tablespoons", "notes_ta": "மேலே அலங்கரிக்க", "notes_en": "for garnish", "display_order": 11 }
+  ],
+  "instructions": [
+    {
+      "id": "khandvi-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "கடலை மாவு, மோர், உப்பு, அரைத்த விழுது எல்லாவற்றையும் ஒரு கிண்ணத்தில் கட்டியில்லாமல் நன்றாக கலந்து கொள்ளவும்.",
+      "instruction_en": "Mix the gram flour, buttermilk, salt, and ground paste together thoroughly in a bowl, with no lumps.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "khandvi-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "இந்த கிண்ணத்தை பிரஷர் குக்கர் உள்ளே வைத்து, வெயிட் வைக்காமல் 20 நிமிடம் வேக வைக்கவும் (எண்ணெய் சேர்க்கக் கூடாது).",
+      "instruction_en": "Place this bowl inside a pressure cooker and steam for 20 minutes without the weight on (do not add oil).",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "khandvi-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "ஆறியதும் ஒரு அடிகனமான வெண்கலப் பாத்திரம் அல்லது வாணலியில் இந்த வேக வைத்த விழுதைப் போட்டு விடாமல் 7 அல்லது 10 நிமிடம் கிளறவும்.",
+      "instruction_en": "Once cooled, transfer the steamed batter to a heavy-bottomed bronze vessel or pan and stir continuously for 7 to 10 minutes.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "khandvi-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "மாவைப் பதம் பார்க்க ஒரு எண்ணெய் தடவிய தட்டின் பின்பாகத்தில் சிறிது மாவைத் தடவி சுருட்டிப் பார்க்கவும். பாயைப் போல சுருட்ட முடிந்தால் சரியான பதம் வந்துவிட்டது.",
+      "instruction_en": "To test the consistency, spread a little of the batter on the back of an oiled plate and try rolling it up. If it rolls up like a mat without tearing, it's at the right stage.",
+      "image_url": null,
+      "display_order": 4
+    },
+    {
+      "id": "khandvi-instruction-5",
+      "step_number": 5,
+      "instruction_ta": "மத்தியில் அறுந்துவிடாமல் அழகாகச் சுருட்ட வரவேண்டும். இம் மாதிரி பதம் வந்ததும் அடுப்பிலிருந்து இறக்கி எண்ணெய் தடவிய தட்டின் பின்பாகத்தில் மாவை கையில் எடுத்து மெலிதாகத் தட்டவும். கத்தியின் உதவியால் நீள ரிப்பன்கள் போல வெட்டி உடனே பாய் போல் உருட்டவும்.",
+      "instruction_en": "It should roll up neatly without tearing in the middle. Once it reaches this stage, remove from heat, take a portion of the batter, and spread it thinly on the back of an oiled plate. Cut it into long ribbons with a knife and immediately roll each up like a mat.",
+      "image_url": null,
+      "display_order": 5
+    },
+    {
+      "id": "khandvi-instruction-6",
+      "step_number": 6,
+      "instruction_ta": "எல்லா மாவையும் உருட்டி முடிந்ததும் ஒரு தட்டில் வைக்கவும். ஒரு வாணலியில் சிறிதளவு எண்ணெய் விட்டுச் சூடாக்கி கடுகைத் தாளித்து கண்ட்வியின் மேல் கொட்டவும்.",
+      "instruction_en": "Once all the batter is rolled up, arrange on a plate. Heat a little oil in a pan, temper the mustard seeds, and pour it over the khandvi.",
+      "image_url": null,
+      "display_order": 6
+    },
+    {
+      "id": "khandvi-instruction-7",
+      "step_number": 7,
+      "instruction_ta": "துருவிய தேங்காய், கொத்தமல்லித் தழை தூவி அலங்கரித்துப் பரிமாறவும். குறிப்பு: மாவு சூடாக இருக்கும்போதே உருட்டவும். மாவு சூடு ஆறிவிட்டால் உருட்ட வராது.",
+      "instruction_en": "Garnish with grated coconut and coriander leaves before serving. Note: roll the batter while it's still hot -- once it cools, it won't roll up properly.",
+      "image_url": null,
+      "display_order": 7
+    }
+  ]
+}
