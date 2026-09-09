@@ -54,7 +54,7 @@ export default async function RecipesPage({ params }: { params: Promise<{ locale
 
   return (
     <div>
-      <h1 className="mb-4 text-2xl font-bold text-brand">{LABELS[locale].title}</h1>
+      <h1 className="mb-4 font-display text-2xl font-bold text-brand">{LABELS[locale].title}</h1>
       <Suspense fallback={<RecipeList recipes={recipes} locale={locale} />}>
         <RecipeSearch recipes={recipes} locale={locale} />
       </Suspense>

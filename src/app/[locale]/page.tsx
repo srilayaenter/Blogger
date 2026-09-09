@@ -83,7 +83,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: L
         <span className="text-xs font-semibold tracking-wide text-brand uppercase">
           {t.categoriesKicker}
         </span>
-        <h2 className="mt-1 text-2xl font-bold text-stone-800">{t.categories}</h2>
+        <h2 className="mt-1 font-display text-2xl font-bold text-stone-800">{t.categories}</h2>
         <div className="mt-6">
           <CategoryGrid categories={featuredCategories} locale={locale} />
         </div>
@@ -95,7 +95,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: L
             <span className="text-xs font-semibold tracking-wide text-brand uppercase">
               {t.recipesKicker}
             </span>
-            <h2 className="mt-1 text-2xl font-bold text-stone-800">{t.recipesToTry}</h2>
+            <h2 className="mt-1 font-display text-2xl font-bold text-stone-800">{t.recipesToTry}</h2>
           </div>
           <Link
             href={`/${locale}/recipes`}
@@ -117,7 +117,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: L
           aria-hidden="true"
           className="absolute -top-10 -right-10 h-32 w-32 rounded-full bg-brand-accent/10 blur-2xl"
         />
-        <h2 id="about-heading" className="relative text-2xl font-bold text-stone-800">
+        <h2 id="about-heading" className="relative font-display text-2xl font-bold text-stone-800">
           {t.about}
         </h2>
         <p className="relative mx-auto mt-3 max-w-2xl text-sm text-neutral-600 sm:text-base">

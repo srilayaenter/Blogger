@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
+import { Playfair_Display } from "next/font/google";
 import "../globals.css";
 import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
@@ -12,6 +13,16 @@ import {
   type Locale,
   SUPPORTED_LOCALES,
 } from "@/lib/metadata";
+
+// Headline serif, paired with the existing system sans for body text. Latin-only (no Tamil
+// glyphs) -- Tamil headlines fall through to the `serif` generic fallback in --font-display
+// below, which is standard practice for multilingual display fonts, not a bug.
+const playfairDisplay = Playfair_Display({
+  subsets: ["latin"],
+  weight: ["600", "700", "800"],
+  variable: "--font-playfair",
+  display: "swap",
+});
 
 function isSupportedLocale(value: string): value is Locale {
   return (SUPPORTED_LOCALES as readonly string[]).includes(value);
@@ -71,7 +82,7 @@ export default async function LocaleLayout({
   }
 
   return (
-    <html lang={locale}>
+    <html lang={locale} className={playfairDisplay.variable}>
       <body>
         <div className="flex min-h-screen flex-col">
           <Header locale={locale} />

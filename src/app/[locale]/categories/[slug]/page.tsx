@@ -71,7 +71,7 @@ export default async function CategoryDetailPage({
 
   return (
     <div>
-      <h1 className="text-2xl font-bold text-brand">
+      <h1 className="font-display text-2xl font-bold text-brand">
         {locale === "ta" ? category.name_ta : category.name_en}
       </h1>
       {description ? <p className="mt-2 text-neutral-600">{description}</p> : null}

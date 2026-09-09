@@ -65,7 +65,7 @@ export function Hero({ locale }: { locale: Locale }) {
           <span className="inline-flex items-center rounded-full bg-white/15 px-3 py-1 text-xs font-semibold tracking-wide text-white uppercase backdrop-blur-sm">
             {t.eyebrow}
           </span>
-          <h1 className="mt-4 break-words text-3xl leading-tight font-bold text-white md:text-4xl">
+          <h1 className="mt-4 break-words font-display text-3xl leading-tight font-bold text-white md:text-4xl">
             {t.headline}
           </h1>
           <p className="mt-4 max-w-md text-sm text-white/85 md:text-base">{t.supporting}</p>

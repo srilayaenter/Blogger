@@ -12,6 +12,9 @@
   --color-brand-dark: #00522b;
   --color-brand-light: #f0fff7;
   --color-brand-accent: #fbb040;
+  /* Headline serif (see [locale]/layout.tsx for the next/font setup that defines
+     --font-playfair). Falls back to the generic serif for scripts it doesn't cover, e.g. Tamil. */
+  --font-display: var(--font-playfair), Georgia, serif;
 }
 
 body {

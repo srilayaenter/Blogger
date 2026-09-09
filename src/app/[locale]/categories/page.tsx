@@ -52,7 +52,7 @@ export default async function CategoriesPage({ params }: { params: Promise<{ loc
 
   return (
     <div>
-      <h1 className="mb-4 text-2xl font-bold">{LABELS[locale].title}</h1>
+      <h1 className="mb-4 font-display text-2xl font-bold">{LABELS[locale].title}</h1>
       <ul className="grid grid-cols-2 gap-3 sm:grid-cols-3">
         {categories.map((category) => {
           const name = locale === "ta" ? category.name_ta : category.name_en;

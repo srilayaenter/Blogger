@@ -122,7 +122,7 @@ export function RecipeDetail({
         )}
 
         <div className="flex flex-wrap items-center gap-2">
-          <h1 className="text-2xl font-bold">{title}</h1>
+          <h1 className="font-display text-2xl font-bold">{title}</h1>
           <DietaryTagBadge recipe={recipe} locale={locale} />
         </div>
         {description ? <p className="mt-2 text-neutral-600">{description}</p> : null}
@@ -181,7 +181,7 @@ export function RecipeDetail({
         ) : null}
 
         <section className="mt-6">
-          <h2 className="text-lg font-semibold text-brand-dark">{t.ingredients}</h2>
+          <h2 className="font-display text-lg font-semibold text-brand-dark">{t.ingredients}</h2>
           <ul className="mt-2 list-disc space-y-1 pl-5">
             {sortedIngredients.map((ingredient) => {
               const name = locale === "ta" ? ingredient.name_ta : ingredient.name_en;
@@ -200,7 +200,7 @@ export function RecipeDetail({
         </section>
 
         <section className="mt-6">
-          <h2 className="text-lg font-semibold text-brand-dark">{t.instructions}</h2>
+          <h2 className="font-display text-lg font-semibold text-brand-dark">{t.instructions}</h2>
           <ol className="mt-2 list-decimal space-y-2 pl-5">
             {sortedInstructions.map((instruction) => (
               <li key={instruction.id}>
