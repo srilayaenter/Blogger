@@ -17,7 +17,7 @@ import {
 const LABELS = {
   en: {
     intro:
-      "A bilingual collection of Tamil recipes, preserved from a printed cookbook and translated for home cooks everywhere.",
+      "A bilingual collection of Indian recipes, preserved from a printed cookbook and translated for home cooks everywhere.",
     categoriesKicker: "Browse by",
     categories: "Categories",
     recipesKicker: "Handpicked",
@@ -28,7 +28,7 @@ const LABELS = {
   },
   ta: {
     intro:
-      "அச்சிடப்பட்ட சமையல் புத்தகத்திலிருந்து பாதுகாக்கப்பட்ட, இருமொழி தமிழ் சமையல் குறிப்புகளின் தொகுப்பு.",
+      "அச்சிடப்பட்ட சமையல் புத்தகத்திலிருந்து பாதுகாக்கப்பட்ட, இருமொழி இந்திய சமையல் குறிப்புகளின் தொகுப்பு.",
     categoriesKicker: "வகை வாரியாக",
     categories: "வகைகள்",
     recipesKicker: "தேர்ந்தெடுக்கப்பட்டவை",

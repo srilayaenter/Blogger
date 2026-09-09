@@ -22,8 +22,8 @@ export function generateStaticParams() {
 }
 
 const SITE_DESCRIPTION: Record<Locale, string> = {
-  en: "A bilingual collection of Tamil recipes, preserved from a printed cookbook and translated for home cooks everywhere.",
-  ta: "அச்சிடப்பட்ட சமையல் புத்தகத்திலிருந்து பாதுகாக்கப்பட்ட, இருமொழி தமிழ் சமையல் குறிப்புகளின் தொகுப்பு.",
+  en: "A bilingual collection of Indian recipes, preserved from a printed cookbook and translated for home cooks everywhere.",
+  ta: "அச்சிடப்பட்ட சமையல் புத்தகத்திலிருந்து பாதுகாக்கப்பட்ட, இருமொழி இந்திய சமையல் குறிப்புகளின் தொகுப்பு.",
 };
 
 export async function generateMetadata({

@@ -58,7 +58,7 @@ export function baseOpenGraph(locale: Locale) {
 }
 
 const FALLBACK_OG_IMAGE_ALT: Record<Locale, string> = {
-  en: "SriLaYa Recipes — Traditional Tamil recipes, prepared simply",
+  en: "SriLaYa Recipes — Traditional Indian recipes, prepared simply",
   ta: "ஸ்ரீலயா சமையல் குறிப்புகள்",
 };
 
