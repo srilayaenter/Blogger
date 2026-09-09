@@ -1,0 +1,85 @@
+{
+  "slug": "chicken-manchurian",
+  "title_ta": "சிக்கன் மஞ்சூரியன்",
+  "title_en": "Chicken Manchurian",
+  "description_ta": "மைதா-கார்ன்ப்ளவர் மாவில் தோய்த்து பொரித்த கோழித் துண்டுகளை, வெங்காயம்-பூண்டு-குடைமிளகாய் வதக்கி சோயா சாஸ், வினிகர் சேர்த்த காரம் கலந்த கிரேவியில் கலந்து தயாரிக்கப்படும் இந்தோ-சீன பாணி சிக்கன் மஞ்சூரியன்.",
+  "description_en": "Chicken pieces battered in maida and corn flour, deep-fried, then tossed in a spicy onion-garlic-capsicum gravy seasoned with soy sauce and vinegar -- classic Indo-Chinese chicken Manchurian.",
+  "source_page_number": 46,
+  "prep_time_minutes": 20,
+  "cook_time_minutes": 30,
+  "total_time_minutes": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "featured_image_url": "/images/recipes/chicken-manchurian/featured.jpg",
+  "featured_image_alt_ta": "சிக்கன் மஞ்சூரியன்-இன் புகைப்படம், மூடி வெங்காயம்-குடைமிளகாயுடன் பரிமாறப்பட்டுள்ளது",
+  "featured_image_alt_en": "Photo of Chicken Manchurian served with capsicum and onion in the gravy",
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-09T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["curry"],
+  "ingredients": [
+    { "id": "chicken-manchurian-ingredient-1", "name_ta": "எலும்பு நீக்கிய கோழி துண்டுகள்", "name_en": "Boneless chicken", "quantity": "450", "unit_ta": "கிராம்", "unit_en": "grams", "notes_ta": "1 அங்குல அளவு துண்டுகளாக வெட்டியது", "notes_en": "cut into 1-inch pieces", "display_order": 1 },
+    { "id": "chicken-manchurian-ingredient-2", "name_ta": "மைதா மாவு", "name_en": "Maida (all-purpose flour)", "quantity": "115", "unit_ta": "கிராம்", "unit_en": "grams", "notes_ta": "மாவுக்கு", "notes_en": "for the batter", "display_order": 2 },
+    { "id": "chicken-manchurian-ingredient-3", "name_ta": "பேக்கிங் பவுடர்", "name_en": "Baking powder", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "teaspoon", "notes_ta": "மாவுக்கு", "notes_en": "for the batter", "display_order": 3 },
+    { "id": "chicken-manchurian-ingredient-4", "name_ta": "மிளகு தூள்", "name_en": "Pepper powder", "quantity": "½", "unit_ta": "டீஸ்பூன்", "unit_en": "teaspoon", "notes_ta": "மாவுக்கு", "notes_en": "for the batter", "display_order": 4 },
+    { "id": "chicken-manchurian-ingredient-5", "name_ta": "கார்ன் ப்ளவர்", "name_en": "Corn flour", "quantity": "50", "unit_ta": "கிராம்", "unit_en": "grams", "notes_ta": "மாவுக்கு", "notes_en": "for the batter", "display_order": 5 },
+    { "id": "chicken-manchurian-ingredient-6", "name_ta": "முட்டை", "name_en": "Egg", "quantity": "1", "unit_ta": null, "unit_en": null, "notes_ta": "மாவுக்கு", "notes_en": "for the batter", "display_order": 6 },
+    { "id": "chicken-manchurian-ingredient-7", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "தேவையான அளவு", "unit_ta": null, "unit_en": null, "notes_ta": "மாவுக்கு", "notes_en": "for the batter", "display_order": 7 },
+    { "id": "chicken-manchurian-ingredient-8", "name_ta": "தண்ணீர்", "name_en": "Water", "quantity": "தேவையான அளவு", "unit_ta": null, "unit_en": null, "notes_ta": "மாவு கரைக்க", "notes_en": "to mix the batter", "display_order": 8 },
+    { "id": "chicken-manchurian-ingredient-9", "name_ta": "எண்ணெய்", "name_en": "Oil", "quantity": "2", "unit_ta": "மேஜைக்கரண்டி", "unit_en": "tablespoons", "notes_ta": "கிரேவிக்கு, தவிர பொரிக்க தேவையான அளவு", "notes_en": "for the gravy, plus more as needed for deep-frying", "display_order": 9 },
+    { "id": "chicken-manchurian-ingredient-10", "name_ta": "வெங்காயம்", "name_en": "Onion", "quantity": "30", "unit_ta": "கிராம்", "unit_en": "grams", "notes_ta": "பொடியாக நறுக்கியது", "notes_en": "finely chopped", "display_order": 10 },
+    { "id": "chicken-manchurian-ingredient-11", "name_ta": "பச்சை மிளகாய்", "name_en": "Green chilli", "quantity": "75", "unit_ta": "கிராம்", "unit_en": "grams", "notes_ta": "பொடியாக நறுக்கியது", "notes_en": "finely chopped", "display_order": 11 },
+    { "id": "chicken-manchurian-ingredient-12", "name_ta": "பூண்டு", "name_en": "Garlic", "quantity": "50", "unit_ta": "கிராம்", "unit_en": "grams", "notes_ta": "பொடியாக நறுக்கியது", "notes_en": "finely chopped", "display_order": 12 },
+    { "id": "chicken-manchurian-ingredient-13", "name_ta": "குடைமிளகாய்", "name_en": "Capsicum", "quantity": "30", "unit_ta": "கிராம்", "unit_en": "grams", "notes_ta": "பொடியாக நறுக்கியது", "notes_en": "finely chopped", "display_order": 13 },
+    { "id": "chicken-manchurian-ingredient-14", "name_ta": "சோயா சாஸ்", "name_en": "Soy sauce", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "teaspoon", "notes_ta": null, "notes_en": null, "display_order": 14 },
+    { "id": "chicken-manchurian-ingredient-15", "name_ta": "வினிகர்", "name_en": "Vinegar", "quantity": "¼", "unit_ta": "டீஸ்பூன்", "unit_en": "teaspoon", "notes_ta": null, "notes_en": null, "display_order": 15 },
+    { "id": "chicken-manchurian-ingredient-16", "name_ta": "அஜினிமோட்டோ", "name_en": "Ajinomoto (MSG)", "quantity": "½", "unit_ta": "டீஸ்பூன்", "unit_en": "teaspoon", "notes_ta": null, "notes_en": null, "display_order": 16 },
+    { "id": "chicken-manchurian-ingredient-17", "name_ta": "ஸ்டாக்", "name_en": "Stock", "quantity": "சிறிதளவு", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 17 },
+    { "id": "chicken-manchurian-ingredient-18", "name_ta": "கார்ன் ப்ளவர்", "name_en": "Corn flour", "quantity": "1", "unit_ta": "டீஸ்பூன்", "unit_en": "teaspoon", "notes_ta": "கரைத்து ஊற்ற, கிரேவிக்கு", "notes_en": "dissolved in water, for thickening the gravy", "display_order": 18 }
+  ],
+  "instructions": [
+    {
+      "id": "chicken-manchurian-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "மேலே கொடுக்கப்பட்டுள்ள மாவுகளை சிறிது தண்ணீர் சேர்த்துக் கரைத்துக் கொண்டு அதில் கறி துண்டுகளை ஒவ்வொன்றாக தோய்த்து காய்ந்து கொண்டிருக்கும் எண்ணெயில் போட்டு சிவக்க பொரித்து எடுத்து வைக்கவும்.",
+      "instruction_en": "Dissolve the maida, baking powder, pepper powder, corn flour, egg, and salt with a little water into a batter. Dip the chicken pieces in it one by one and deep-fry in hot oil until golden-red; remove and set aside.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "chicken-manchurian-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "ஒரு வாணலியில் 2 மேஜைக்கரண்டி எண்ணெய் ஊற்றி காய்ந்ததும் பொடியாக வெட்டிய வெங்காயம், மிளகாய், பூண்டு, குடைமிளகாய் எல்லாவற்றையும் போட்டு நன்றாக வதக்கவும்.",
+      "instruction_en": "Heat 2 tablespoons of oil in a pan; once hot, add the finely chopped onion, chilli, garlic, and capsicum, and saute well.",
+      "image_url": null,
+      "display_order": 2
+    },
+    {
+      "id": "chicken-manchurian-instruction-3",
+      "step_number": 3,
+      "instruction_ta": "அதனுடன் சோயா சாஸ், வினிகர், அஜினிமோட்டோ சேர்த்து சிறிது ஸ்டாக் ஊற்றி தேவையான உப்பும், கார்ன் ப்ளவர் கரைத்து ஊற்றி சிறிது நேரம் கொதிக்க விடவும்.",
+      "instruction_en": "Add the soy sauce, vinegar, and Ajinomoto, pour in a little stock, mix in the required salt, dissolve the corn flour in water and pour it in, and let it simmer for a little while.",
+      "image_url": null,
+      "display_order": 3
+    },
+    {
+      "id": "chicken-manchurian-instruction-4",
+      "step_number": 4,
+      "instruction_ta": "எல்லாம் சேர்த்து கட்டியாக வந்த பின் தனியாக பொரித்து வைத்திருக்கும் கறி துண்டுகளை அதனுடன் கலந்து உபயோகிக்கவும்.",
+      "instruction_en": "Once the gravy comes together and thickens, mix in the separately fried chicken pieces and serve.",
+      "image_url": null,
+      "display_order": 4
+    },
+    {
+      "id": "chicken-manchurian-instruction-5",
+      "step_number": 5,
+      "instruction_ta": "குறிப்பு: ப்ராய்லர் கோழிதான் உபயோகிக்க வேண்டும். மற்ற கோழியாக இருந்தால் கறியை சிறிது வேக வைக்க வேண்டும்.",
+      "instruction_en": "Note: broiler chicken should be used. If using a different type of chicken, the pieces should be cooked a little longer first.",
+      "image_url": null,
+      "display_order": 5
+    }
+  ]
+}
