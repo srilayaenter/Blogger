@@ -23,7 +23,7 @@ export function CategoryGrid({
           <Link
             key={category.slug}
             href={`/${locale}/categories/${category.slug}/`}
-            className="group block overflow-hidden rounded-xl border border-neutral-200 bg-white text-center shadow-sm transition-all duration-200 hover:-translate-y-1 hover:border-brand hover:shadow-lg focus:outline-none focus-visible:ring-2 focus-visible:ring-brand"
+            className="group block overflow-hidden rounded-xl border border-neutral-200 bg-white text-center shadow-sm transition-all duration-200 hover:border-brand pointer-fine:hover:-translate-y-1 pointer-fine:hover:shadow-lg focus:outline-none focus-visible:ring-2 focus-visible:ring-brand motion-reduce:transition-none motion-reduce:pointer-fine:hover:translate-y-0"
           >
             <div className="relative aspect-square w-full overflow-hidden bg-gradient-to-br from-brand-light to-white">
               {category.image ? (

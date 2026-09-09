@@ -25,7 +25,7 @@ export function RecipeCard({ recipe, locale }: { recipe: RecipeWithDetails; loca
   return (
     <Link
       href={`/${locale}/recipes/${recipe.slug}`}
-      className="group block overflow-hidden rounded-2xl border border-neutral-200 bg-white shadow-sm transition-all duration-200 hover:-translate-y-1 hover:border-brand hover:shadow-lg"
+      className="group block overflow-hidden rounded-2xl border border-neutral-200 bg-white shadow-sm transition-all duration-200 hover:border-brand pointer-fine:hover:-translate-y-1 pointer-fine:hover:shadow-lg focus:outline-none focus-visible:ring-2 focus-visible:ring-brand motion-reduce:transition-none motion-reduce:pointer-fine:hover:translate-y-0"
     >
       <div className="relative aspect-[4/3] w-full overflow-hidden">
         <div className="absolute top-2 left-2 z-10">

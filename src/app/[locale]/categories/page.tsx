@@ -65,7 +65,7 @@ export default async function CategoriesPage({ params }: { params: Promise<{ loc
             <li key={category.slug}>
               <Link
                 href={`/${locale}/categories/${category.slug}`}
-                className="group block overflow-hidden rounded-lg border border-neutral-200 bg-white text-center font-medium shadow-sm transition hover:border-brand hover:text-brand hover:shadow-md"
+                className="group block overflow-hidden rounded-lg border border-neutral-200 bg-white text-center font-medium shadow-sm transition-all duration-200 hover:border-brand hover:text-brand pointer-fine:hover:-translate-y-1 pointer-fine:hover:shadow-lg focus:outline-none focus-visible:ring-2 focus-visible:ring-brand motion-reduce:transition-none motion-reduce:pointer-fine:hover:translate-y-0"
               >
                 <div className="relative aspect-square w-full overflow-hidden bg-gradient-to-br from-brand-light to-white">
                   {category.image ? (
