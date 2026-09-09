@@ -1,0 +1,52 @@
+{
+  "slug": "chinese-sooce",
+  "title_ta": "சைனீஸ் சூஸ்",
+  "title_en": "Chinese Sooce (Cashew-Date Bars)",
+  "description_ta": "முந்திரிப்பருப்பு, பேரீச்சம்பழம் கலந்த மைதா மாவை பேக் செய்து வில்லைகளாக வெட்டி ஐசிங் சுகர் தூவப்படும் இனிப்பு பார்.",
+  "description_en": "A maida batter studded with chopped cashews and dates, baked, sliced into bars, and dusted with icing sugar.",
+  "source_page_number": 79,
+  "prep_time_minutes": 15,
+  "cook_time_minutes": 30,
+  "total_time_minutes": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "featured_image_url": null,
+  "featured_image_alt_ta": null,
+  "featured_image_alt_en": null,
+  "seo_title_ta": null,
+  "seo_title_en": null,
+  "seo_description_ta": null,
+  "seo_description_en": null,
+  "published_at": "2026-09-08T00:00:00.000Z",
+  "dietary_type": "non-vegetarian",
+  "categories": ["sweet"],
+  "ingredients": [
+    { "id": "chinese-sooce-ingredient-1", "name_ta": "முந்திரிப்பருப்பு", "name_en": "Cashew nuts", "quantity": "1", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": "வெட்டியது", "notes_en": "chopped", "display_order": 1 },
+    { "id": "chinese-sooce-ingredient-2", "name_ta": "பேரீச்சம்பழம்", "name_en": "Dates", "quantity": "1", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 2 },
+    { "id": "chinese-sooce-ingredient-3", "name_ta": "முட்டை", "name_en": "Egg", "quantity": "2", "unit_ta": null, "unit_en": null, "notes_ta": null, "notes_en": null, "display_order": 3 },
+    { "id": "chinese-sooce-ingredient-4", "name_ta": "பேக்கிங் பவுடர்", "name_en": "Baking powder", "quantity": "1", "unit_ta": "தேக்கரண்டி", "unit_en": "teaspoon", "notes_ta": null, "notes_en": null, "display_order": 4 },
+    { "id": "chinese-sooce-ingredient-5", "name_ta": "சீனி", "name_en": "Sugar", "quantity": "1", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 5 },
+    { "id": "chinese-sooce-ingredient-6", "name_ta": "மைதா", "name_en": "Maida (all-purpose flour)", "quantity": "¾", "unit_ta": "கப்", "unit_en": "cup", "notes_ta": null, "notes_en": null, "display_order": 6 },
+    { "id": "chinese-sooce-ingredient-7", "name_ta": "வெனிலா", "name_en": "Vanilla essence", "quantity": "1", "unit_ta": "தேக்கரண்டி", "unit_en": "teaspoon", "notes_ta": null, "notes_en": null, "display_order": 7 },
+    { "id": "chinese-sooce-ingredient-8", "name_ta": "உப்பு", "name_en": "Salt", "quantity": "¼", "unit_ta": "தேக்கரண்டி", "unit_en": "teaspoon", "notes_ta": null, "notes_en": null, "display_order": 8 },
+    { "id": "chinese-sooce-ingredient-9", "name_ta": "ஐசிங் சுகர்", "name_en": "Icing sugar", "quantity": null, "unit_ta": null, "unit_en": null, "notes_ta": "மேலே தூவ", "notes_en": "for dusting on top", "display_order": 9 }
+  ],
+  "instructions": [
+    {
+      "id": "chinese-sooce-instruction-1",
+      "step_number": 1,
+      "instruction_ta": "மாவு, உப்பு, பேக்கிங் பவுடரை நன்றாகச் சலிக்கவும். கடைந்த முட்டை, முந்திரிப்பருப்பு, பேரீச்சம் பழம் சேர்க்கவும்.",
+      "instruction_en": "Sift the maida, salt, and baking powder together well. Mix in the beaten eggs, chopped cashews, and dates.",
+      "image_url": null,
+      "display_order": 1
+    },
+    {
+      "id": "chinese-sooce-instruction-2",
+      "step_number": 2,
+      "instruction_ta": "பின் ஓவனில் பேக் பண்ணவும். வெந்ததும் வில்லைகளாக வெட்டவும். பின் ஐசிங் சுகரை வில்லைகள் மேல் தூவவும்.",
+      "instruction_en": "Bake in the oven. Once cooked, cut into bars, then dust icing sugar over the bars.",
+      "image_url": null,
+      "display_order": 2
+    }
+  ]
+}
