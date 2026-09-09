@@ -24,7 +24,8 @@ const LABELS = {
     recipesToTry: "Recipes to try",
     viewAll: "View all recipes",
     about: "About SriLaYa",
-    aboutBody: "Browse the full SriLaYa Recipes collection, in English and Tamil.",
+    aboutBody:
+      "Browse the full SriLaYa Recipes collection, in English and Tamil. SriLaYa also makes traditional, natural food products — from millets to homemade sweets.",
   },
   ta: {
     intro:
@@ -36,7 +37,7 @@ const LABELS = {
     viewAll: "அனைத்தையும் காண்க",
     about: "ஸ்ரீலயா பற்றி",
     aboutBody:
-      "ஸ்ரீலயா சமையல் குறிப்புகளின் முழுத் தொகுப்பையும் தமிழிலும் ஆங்கிலத்திலும் பார்வையிடுங்கள்.",
+      "ஸ்ரீலயா சமையல் குறிப்புகளின் முழுத் தொகுப்பையும் தமிழிலும் ஆங்கிலத்திலும் பார்வையிடுங்கள். சிறுதானியங்கள் முதல் வீட்டு இனிப்புகள் வரை, பாரம்பரிய இயற்கை உணவுப் பொருட்களையும் ஸ்ரீலயா தயாரிக்கிறது.",
   },
 } satisfies Record<Locale, Record<string, string>>;
 
