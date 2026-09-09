@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import { useState, type FormEvent } from "react";
 import { useRouter } from "next/navigation";
 
@@ -43,13 +44,21 @@ export function Hero({ locale }: { locale: Locale }) {
   }
 
   return (
-    <section className="relative overflow-hidden rounded-3xl bg-gradient-to-br from-brand-dark via-brand to-brand px-6 py-10 shadow-lg sm:px-10 md:py-14">
-      {/* Decorative background texture -- CSS-only, no image assets. */}
-      <div aria-hidden="true" className="pointer-events-none absolute inset-0">
-        <div className="absolute -top-16 -right-16 h-56 w-56 rounded-full bg-brand-accent/20 blur-2xl md:h-72 md:w-72" />
-        <div className="absolute -bottom-20 -left-10 h-48 w-48 rounded-full bg-brand-light/10 blur-2xl md:h-64 md:w-64" />
-        <div className="absolute inset-0 bg-[radial-gradient(circle_at_1px_1px,rgba(255,255,255,0.15)_1px,transparent_0)] bg-[length:20px_20px] opacity-40" />
-      </div>
+    <section className="relative overflow-hidden rounded-3xl px-6 py-10 shadow-lg sm:px-10 md:py-14">
+      {/* Real spice/wood photography behind a brand-tinted gradient, replacing the old flat-color +
+          CSS-blob background so the hero reads as photographed rather than illustrated. */}
+      <Image
+        src="/images/hero-bg.jpg"
+        alt=""
+        fill
+        priority
+        sizes="(min-width: 896px) 900px, 100vw"
+        className="object-cover"
+      />
+      <div
+        aria-hidden="true"
+        className="absolute inset-0 bg-gradient-to-br from-brand-dark/95 via-brand-dark/85 to-brand/55"
+      />
 
       <div className="relative grid items-center gap-8 md:grid-cols-[2fr_1fr] md:gap-12">
         <div className="min-w-0">
@@ -99,21 +108,9 @@ export function Hero({ locale }: { locale: Locale }) {
           </form>
         </div>
 
-        <div aria-hidden="true" className="relative hidden h-64 md:block">
-          {/* Editorial "recipe card" collage motif -- CSS shapes only, matching the brand palette. */}
-          <div className="absolute top-4 right-4 h-48 w-40 rotate-3 rounded-2xl bg-white/95 p-4 shadow-xl transition-transform duration-300 hover:rotate-0">
-            <div className="h-20 w-full rounded-lg bg-gradient-to-br from-brand-light to-brand/20" />
-            <div className="mt-3 h-2.5 w-4/5 rounded-full bg-neutral-200" />
-            <div className="mt-2 h-2.5 w-3/5 rounded-full bg-neutral-200" />
-            <div className="mt-3 flex gap-1.5">
-              <span className="h-5 w-14 rounded-full bg-brand-light" />
-              <span className="h-5 w-10 rounded-full bg-brand-light" />
-            </div>
-          </div>
-          <div className="absolute top-16 left-0 h-40 w-32 -rotate-6 rounded-2xl bg-white/90 p-3 shadow-lg">
-            <div className="h-16 w-full rounded-lg bg-gradient-to-br from-brand-accent/30 to-brand-accent/10" />
-            <div className="mt-2.5 h-2 w-full rounded-full bg-neutral-200" />
-            <div className="mt-1.5 h-2 w-2/3 rounded-full bg-neutral-200" />
+        <div aria-hidden="true" className="relative hidden h-64 items-center justify-center md:flex">
+          <div className="relative h-56 w-full max-w-[220px] -rotate-3 overflow-hidden rounded-2xl shadow-xl ring-4 ring-white/25 transition-transform duration-300 hover:rotate-0">
+            <Image src="/images/hero-collage.jpg" alt="" fill sizes="220px" className="object-cover" />
           </div>
         </div>
       </div>
