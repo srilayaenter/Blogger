@@ -36,13 +36,13 @@ export function CategoryGrid({
               ) : (
                 <span
                   aria-hidden="true"
-                  className="flex h-full w-full items-center justify-center text-2xl font-bold text-brand-dark transition-colors duration-200 group-hover:bg-brand group-hover:text-white"
+                  className="flex h-full w-full items-center justify-center text-2xl font-bold text-stone-800 transition-colors duration-200 group-hover:bg-brand group-hover:text-white"
                 >
                   {name.charAt(0)}
                 </span>
               )}
             </div>
-            <span className="block px-3 py-3 text-sm leading-snug font-medium text-brand-dark">
+            <span className="block px-3 py-3 text-sm leading-snug font-medium text-stone-800">
               {name}
             </span>
           </Link>

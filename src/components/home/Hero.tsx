@@ -57,7 +57,7 @@ export function Hero({ locale }: { locale: Locale }) {
       />
       <div
         aria-hidden="true"
-        className="absolute inset-0 bg-gradient-to-br from-brand-dark/95 via-brand-dark/85 to-brand/55"
+        className="absolute inset-0 bg-gradient-to-br from-brand-dark/70 via-brand-dark/45 to-brand/20"
       />
 
       <div className="relative grid items-center gap-8 md:grid-cols-[2fr_1fr] md:gap-12">

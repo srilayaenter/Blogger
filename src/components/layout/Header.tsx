@@ -32,7 +32,7 @@ export function Header({ locale }: { locale: Locale }) {
           <Link
             href={homeHref}
             aria-current={isHome ? "page" : undefined}
-            className={isHome ? "font-semibold text-brand" : "font-medium hover:text-brand"}
+            className={isHome ? "font-semibold text-stone-900" : "font-medium hover:text-brand"}
           >
             {t.home}
           </Link>
